@@ -62,12 +62,12 @@ def create_xlsx(data, output_file="hierarchy_export.xlsx"):
     ws['B1'] = "nama_parent"
     
     # Style headers
-    header_font = Font(bold=True, size=12)
+    header_font = Font(bold=True, size=12, color="FFFFFF")
     header_fill = PatternFill(start_color="366092", end_color="366092", fill_type="solid")
     header_alignment = Alignment(horizontal="center", vertical="center")
     
     for cell in ['A1', 'B1']:
-        ws[cell].font = Font(bold=True, size=12, color="FFFFFF")
+        ws[cell].font = header_font
         ws[cell].fill = header_fill
         ws[cell].alignment = header_alignment
     

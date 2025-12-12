@@ -405,186 +405,6 @@
     "catatan": "Penyederhanaan struktur organisais"
   },
   {
-    "name": "DPU",
-    "children": [
-      {
-        "name": "Bidang Bangunan Gedung, Penataan Bangunan dan Lingkungannya, Permukiman dan Persampahan",
-        "children": []
-      },
-      {
-        "name": "Bidang Jalan dan Drainase",
-        "children": []
-      },
-      {
-        "name": "Bidang Penataan Ruang dan Jasa Konstruksi",
-        "children": []
-      },
-      {
-        "name": "Bidang Sumber Daya Air, Air Limbah dan Air Minum",
-        "children": []
-      },
-      {
-        "name": "Laboratorium Konstruksi dan Peralatan",
-        "children": []
-      },
-      {
-        "name": "Sekretariat Dinas",
-        "children": [
-          {
-            "name": "Sub Bagian Keuangan",
-            "children": []
-          },
-          {
-            "name": "Sub Bagian Perencanaan",
-            "children": []
-          },
-          {
-            "name": "Sub Bagian Umum dan Kepegawaian",
-            "children": []
-          },
-          {
-            "name": "Subbagian Keuangan",
-            "children": []
-          },
-          {
-            "name": "Subbagian Umum",
-            "children": []
-          },
-          {
-            "name": "Subbagian Umum dan Kepegawaian",
-            "children": []
-          }
-        ]
-      },
-      {
-        "name": "UPTD Pemeliharaan Jalan dan Irigasi Wilayah Ajibarang",
-        "children": [
-          {
-            "name": "Sub Bagian Tata Usaha",
-            "children": []
-          }
-        ]
-      },
-      {
-        "name": "UPTD Pemeliharaan Jalan dan Irigasi Wilayah Banyumas",
-        "children": [
-          {
-            "name": "Sub Bagian Tata Usaha",
-            "children": []
-          }
-        ]
-      },
-      {
-        "name": "UPTD Pemeliharaan Jalan dan Irigasi Wilayah Cilongok",
-        "children": [
-          {
-            "name": "Sub Bagian Tata Usaha",
-            "children": []
-          }
-        ]
-      },
-      {
-        "name": "UPTD Pemeliharaan Jalan dan Irigasi Wilayah Jatilawang",
-        "children": [
-          {
-            "name": "Sub Bagian Tata Usaha",
-            "children": []
-          }
-        ]
-      },
-      {
-        "name": "UPTD Pemeliharaan Jalan dan Irigasi Wilayah Purwokerto",
-        "children": [
-          {
-            "name": "Sub Bagian Tata Usaha",
-            "children": []
-          }
-        ]
-      },
-      {
-        "name": "UPTD Pemeliharaan Jalan dan Irigasi Wilayah Sokaraja",
-        "children": [
-          {
-            "name": "Sub Bagian Tata Usaha",
-            "children": []
-          }
-        ]
-      },
-      {
-        "name": "UPTD Pemeliharaan Jalan dan Irigasi Wilayah Sumpiuh",
-        "children": [
-          {
-            "name": "Sub Bagian Tata Usaha",
-            "children": []
-          }
-        ]
-      },
-      {
-        "name": "UPTD Pengelolaan Air Limbah Domestik",
-        "children": []
-      }
-    ]
-  },
-  {
-    "name": "Dinakerkop UKM",
-    "children": [
-      {
-        "name": "Bidang Hubungan Industrial",
-        "children": []
-      },
-      {
-        "name": "Bidang Koperasi",
-        "children": []
-      },
-      {
-        "name": "Bidang Pelatihan, Penempatan, Perluasan Kesempatan Kerja dan Transmigrasi",
-        "children": []
-      },
-      {
-        "name": "Bidang Usaha Mikro, Kecil dan Menengah",
-        "children": []
-      },
-      {
-        "name": "Sekretariat Dinas",
-        "children": [
-          {
-            "name": "Sub Bagian Keuangan",
-            "children": []
-          },
-          {
-            "name": "Sub Bagian Perencanaan",
-            "children": []
-          },
-          {
-            "name": "Sub Bagian Umum dan Kepegawaian",
-            "children": []
-          },
-          {
-            "name": "Subbagian Keuangan",
-            "children": []
-          },
-          {
-            "name": "Subbagian Umum",
-            "children": []
-          },
-          {
-            "name": "Subbagian Umum dan Kepegawaian",
-            "children": []
-          }
-        ]
-      },
-      {
-        "name": "UPT Balai Latihan Kerja",
-        "children": [
-          {
-            "name": "Sub Bagian Tata Usaha",
-            "children": []
-          }
-        ]
-      }
-    ]
-  },
-  {
     "name": "Dinarpusda",
     "children": [
       {
@@ -5711,11 +5531,7 @@
     "name": "Dinnakerin",
     "children": [
       {
-        "name": "Bidang Hubungan Industrial",
-        "children": []
-      },
-      {
-        "name": "Bidang Pelatihan, Penempatan, Perluasan Kesempatan Kerja dan Transmigrasi",
+        "name": "Bidang Pelatihan Kerja dan Produktivitas Tenaga Kerja",
         "children": []
       },
       {
@@ -5723,53 +5539,7 @@
         "children": []
       },
       {
-        "name": "Bidang Perindustrian",
-        "children": []
-      },
-      {
-        "name": "Sekretariat Dinas",
-        "children": [
-          {
-            "name": "Sub Bagian Keuangan",
-            "children": []
-          },
-          {
-            "name": "Sub Bagian Perencanaan",
-            "children": []
-          },
-          {
-            "name": "Sub Bagian Umum dan Kepegawaian",
-            "children": []
-          },
-          {
-            "name": "Subbagian Keuangan",
-            "children": []
-          },
-          {
-            "name": "Subbagian Umum",
-            "children": []
-          },
-          {
-            "name": "Subbagian Umum dan Kepegawaian",
-            "children": []
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "name": "Dinperindag",
-    "children": [
-      {
-        "name": "Bidang Metrologi",
-        "children": []
-      },
-      {
-        "name": "Bidang Pasar",
-        "children": []
-      },
-      {
-        "name": "Bidang Perdagangan",
+        "name": "Bidang Hubungan Industrial",
         "children": []
       },
       {
@@ -5801,42 +5571,6 @@
           },
           {
             "name": "Subbagian Umum dan Kepegawaian",
-            "children": []
-          }
-        ]
-      },
-      {
-        "name": "Unit Pasar Wilayah Banyumas Barat",
-        "children": [
-          {
-            "name": "Sub Bagian Tata Usaha",
-            "children": []
-          }
-        ]
-      },
-      {
-        "name": "Unit Pasar Wilayah Banyumas Timur",
-        "children": [
-          {
-            "name": "Sub Bagian Tata Usaha",
-            "children": []
-          }
-        ]
-      },
-      {
-        "name": "Unit Pasar Wilayah Purwokerto I",
-        "children": [
-          {
-            "name": "Sub Bagian Tata Usaha",
-            "children": []
-          }
-        ]
-      },
-      {
-        "name": "Unit Pasar Wilayah Purwokerto II",
-        "children": [
-          {
-            "name": "Sub Bagian Tata Usaha",
             "children": []
           }
         ]
@@ -6170,24 +5904,6 @@
       }
     ],
     "catatan": "Perubahan nomenklatur dan tusi"
-  },
-  {
-    "name": "Inspektorat daerah",
-    "children": [
-      {
-        "name": "Sekretariat",
-        "children": [
-          {
-            "name": "Subbag Administrasi Umum dan Keuangan",
-            "children": []
-          },
-          {
-            "name": "Subbag Analisis dan Evaluasi",
-            "children": []
-          }
-        ]
-      }
-    ]
   },
   {
     "name": "Kecamatan Ajibarang",

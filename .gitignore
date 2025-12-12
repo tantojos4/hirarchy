@@ -26,6 +26,7 @@ wheels/
 # Generated files
 hierarchy_export.xlsx
 *.xlsx
+*.bak_before_eselon
 
 # IDE
 .vscode/

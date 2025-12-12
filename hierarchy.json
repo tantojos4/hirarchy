@@ -449,639 +449,6 @@
     ]
   },
   {
-    "name": "Dinas Kesehatan",
-    "children": [
-      {
-        "name": "Bidang Kesehatan Masyarakat",
-        "children": []
-      },
-      {
-        "name": "Bidang Pelayanan Kesehatan",
-        "children": []
-      },
-      {
-        "name": "Bidang Pencegahan dan Pengendalian Penyakit",
-        "children": []
-      },
-      {
-        "name": "Bidang Sumber Daya Kesehatan",
-        "children": []
-      },
-      {
-        "name": "Klinik Pratama Ibu dan Anak Kartini",
-        "children": [
-          {
-            "name": "Sub Bagian Tata Usaha",
-            "children": []
-          }
-        ]
-      },
-      {
-        "name": "Klinik Utama Kesehatan Paru Masyarakat",
-        "children": [
-          {
-            "name": "Sub Bagian Tata Usaha",
-            "children": []
-          }
-        ]
-      },
-      {
-        "name": "Laboratorium Kesehatan",
-        "children": [
-          {
-            "name": "Sub Bagian Tata Usaha",
-            "children": []
-          }
-        ]
-      },
-      {
-        "name": "Puskesmas Ajibarang I",
-        "children": [
-          {
-            "name": "Sub Bagian Tata Usaha",
-            "children": []
-          }
-        ]
-      },
-      {
-        "name": "Puskesmas Ajibarang II",
-        "children": [
-          {
-            "name": "Sub Bagian Tata Usaha",
-            "children": []
-          }
-        ]
-      },
-      {
-        "name": "Puskesmas Banyumas",
-        "children": [
-          {
-            "name": "Sub Bagian Tata Usaha",
-            "children": []
-          }
-        ]
-      },
-      {
-        "name": "Puskesmas Baturraden I",
-        "children": [
-          {
-            "name": "Sub Bagian Tata Usaha",
-            "children": []
-          }
-        ]
-      },
-      {
-        "name": "Puskesmas Baturraden II",
-        "children": [
-          {
-            "name": "Sub Bagian Tata Usaha",
-            "children": []
-          }
-        ]
-      },
-      {
-        "name": "Puskesmas Cilongok I",
-        "children": [
-          {
-            "name": "Sub Bagian Tata Usaha",
-            "children": []
-          }
-        ]
-      },
-      {
-        "name": "Puskesmas Cilongok II",
-        "children": [
-          {
-            "name": "Sub Bagian Tata Usaha",
-            "children": []
-          }
-        ]
-      },
-      {
-        "name": "Puskesmas Gumelar",
-        "children": [
-          {
-            "name": "Sub Bagian Tata Usaha",
-            "children": []
-          }
-        ]
-      },
-      {
-        "name": "Puskesmas Jatilawang",
-        "children": [
-          {
-            "name": "Sub Bagian Tata Usaha",
-            "children": []
-          }
-        ]
-      },
-      {
-        "name": "Puskesmas Kalibagor",
-        "children": [
-          {
-            "name": "Sub Bagian Tata Usaha",
-            "children": []
-          }
-        ]
-      },
-      {
-        "name": "Puskesmas Karanglewas",
-        "children": [
-          {
-            "name": "Sub Bagian Tata Usaha",
-            "children": []
-          }
-        ]
-      },
-      {
-        "name": "Puskesmas Kebasen",
-        "children": [
-          {
-            "name": "Sub Bagian Tata Usaha",
-            "children": []
-          }
-        ]
-      },
-      {
-        "name": "Puskesmas Kedungbanteng",
-        "children": [
-          {
-            "name": "Sub Bagian Tata Usaha",
-            "children": []
-          }
-        ]
-      },
-      {
-        "name": "Puskesmas Kembaran I",
-        "children": [
-          {
-            "name": "Sub Bagian Tata Usaha",
-            "children": []
-          }
-        ]
-      },
-      {
-        "name": "Puskesmas Kembaran II",
-        "children": [
-          {
-            "name": "Sub Bagian Tata Usaha",
-            "children": []
-          }
-        ]
-      },
-      {
-        "name": "Puskesmas Kemranjen I",
-        "children": [
-          {
-            "name": "Sub Bagian Tata Usaha",
-            "children": []
-          }
-        ]
-      },
-      {
-        "name": "Puskesmas Kemranjen II",
-        "children": [
-          {
-            "name": "Sub Bagian Tata Usaha",
-            "children": []
-          }
-        ]
-      },
-      {
-        "name": "Puskesmas Lumbir",
-        "children": [
-          {
-            "name": "Sub Bagian Tata Usaha",
-            "children": []
-          }
-        ]
-      },
-      {
-        "name": "Puskesmas Patikraja",
-        "children": [
-          {
-            "name": "Sub Bagian Tata Usaha",
-            "children": []
-          }
-        ]
-      },
-      {
-        "name": "Puskesmas Pekuncen I",
-        "children": [
-          {
-            "name": "Sub Bagian Tata Usaha",
-            "children": []
-          }
-        ]
-      },
-      {
-        "name": "Puskesmas Pekuncen II",
-        "children": [
-          {
-            "name": "Sub Bagian Tata Usaha",
-            "children": []
-          }
-        ]
-      },
-      {
-        "name": "Puskesmas Purwojati",
-        "children": [
-          {
-            "name": "Sub Bagian Tata Usaha",
-            "children": []
-          }
-        ]
-      },
-      {
-        "name": "Puskesmas Purwokerto Barat",
-        "children": [
-          {
-            "name": "Sub Bagian Tata Usaha",
-            "children": []
-          }
-        ]
-      },
-      {
-        "name": "Puskesmas Purwokerto Selatan",
-        "children": [
-          {
-            "name": "Sub Bagian Tata Usaha",
-            "children": []
-          }
-        ]
-      },
-      {
-        "name": "Puskesmas Purwokerto Timur I",
-        "children": [
-          {
-            "name": "Sub Bagian Tata Usaha",
-            "children": []
-          }
-        ]
-      },
-      {
-        "name": "Puskesmas Purwokerto Timur II",
-        "children": [
-          {
-            "name": "Sub Bagian Tata Usaha",
-            "children": []
-          }
-        ]
-      },
-      {
-        "name": "Puskesmas Purwokerto Utara I",
-        "children": [
-          {
-            "name": "Sub Bagian Tata Usaha",
-            "children": []
-          }
-        ]
-      },
-      {
-        "name": "Puskesmas Purwokerto Utara II",
-        "children": [
-          {
-            "name": "Sub Bagian Tata Usaha",
-            "children": []
-          }
-        ]
-      },
-      {
-        "name": "Puskesmas Rawalo",
-        "children": [
-          {
-            "name": "Sub Bagian Tata Usaha",
-            "children": []
-          }
-        ]
-      },
-      {
-        "name": "Puskesmas Sokaraja I",
-        "children": [
-          {
-            "name": "Sub Bagian Tata Usaha",
-            "children": []
-          }
-        ]
-      },
-      {
-        "name": "Puskesmas Sokaraja II",
-        "children": [
-          {
-            "name": "Sub Bagian Tata Usaha",
-            "children": []
-          }
-        ]
-      },
-      {
-        "name": "Puskesmas Somagede",
-        "children": [
-          {
-            "name": "Sub Bagian Tata Usaha",
-            "children": []
-          }
-        ]
-      },
-      {
-        "name": "Puskesmas Sumbang I",
-        "children": [
-          {
-            "name": "Sub Bagian Tata Usaha",
-            "children": []
-          }
-        ]
-      },
-      {
-        "name": "Puskesmas Sumbang II",
-        "children": [
-          {
-            "name": "Sub Bagian Tata Usaha",
-            "children": []
-          }
-        ]
-      },
-      {
-        "name": "Puskesmas Sumpiuh I",
-        "children": [
-          {
-            "name": "Sub Bagian Tata Usaha",
-            "children": []
-          }
-        ]
-      },
-      {
-        "name": "Puskesmas Sumpiuh II",
-        "children": [
-          {
-            "name": "Sub Bagian Tata Usaha",
-            "children": []
-          }
-        ]
-      },
-      {
-        "name": "Puskesmas Tambak I",
-        "children": [
-          {
-            "name": "Sub Bagian Tata Usaha",
-            "children": []
-          }
-        ]
-      },
-      {
-        "name": "Puskesmas Tambak II",
-        "children": [
-          {
-            "name": "Sub Bagian Tata Usaha",
-            "children": []
-          }
-        ]
-      },
-      {
-        "name": "Puskesmas Wangon I",
-        "children": [
-          {
-            "name": "Sub Bagian Tata Usaha",
-            "children": []
-          }
-        ]
-      },
-      {
-        "name": "Puskesmas Wangon II",
-        "children": [
-          {
-            "name": "Sub Bagian Tata Usaha",
-            "children": []
-          }
-        ]
-      },
-      {
-        "name": "RSK Mata Purwokerto",
-        "children": [
-          {
-            "name": "Seksi Pelayanan Medis dan Keperawatan",
-            "children": []
-          },
-          {
-            "name": "Seksi Penunjang Medik",
-            "children": []
-          },
-          {
-            "name": "Subbagian Administrasi Umum dan Keuangan",
-            "children": []
-          }
-        ]
-      },
-      {
-        "name": "RSUD Ajibarang",
-        "children": [
-          {
-            "name": "Bagian Administrasi dan Keuangan",
-            "children": [
-              {
-                "name": "Sub Bagian Keuangan",
-                "children": []
-              },
-              {
-                "name": "Sub Bagian Perencanaan dan Evaluasi",
-                "children": []
-              },
-              {
-                "name": "Sub Bagian Umum dan Kepegawaian",
-                "children": []
-              },
-              {
-                "name": "Subbagian Keuangan",
-                "children": []
-              },
-              {
-                "name": "Subbagian Perencanaan dan Evaluasi",
-                "children": []
-              },
-              {
-                "name": "Subbagian Umum dan Kepegawaian",
-                "children": []
-              }
-            ]
-          },
-          {
-            "name": "Bidang Pelayanan Medis, Keperawatan dan Kebidanan",
-            "children": [
-              {
-                "name": "Seksi Keperawatan",
-                "children": []
-              },
-              {
-                "name": "Seksi Pelayanan Medis",
-                "children": []
-              },
-              {
-                "name": "Seksi Penunjang Medis",
-                "children": []
-              },
-              {
-                "name": "Seksi Penunjang Non Medis",
-                "children": []
-              }
-            ]
-          },
-          {
-            "name": "Bidang Pelayanan Medis, Keperawatan dan Kebidanan",
-            "children": [
-              {
-                "name": "Seksi Keperawatan dan Kebidanan",
-                "children": []
-              },
-              {
-                "name": "Seksi Pelayanan Medis",
-                "children": []
-              }
-            ]
-          },
-          {
-            "name": "Bidang Penunjang Medis dan Non Medis",
-            "children": [
-              {
-                "name": "Seksi Penunjang Medis",
-                "children": []
-              },
-              {
-                "name": "Seksi Penunjang Nonmedis",
-                "children": []
-              }
-            ]
-          },
-          {
-            "name": "Bidang Sarana Prasarana, Pengembangan Sumber Daya Manusia, Mutu dan Kerjasama",
-            "children": [
-              {
-                "name": "Seksi Pengembangan Sumber Daya Manusia, Mutu dan Kerjasama",
-                "children": []
-              },
-              {
-                "name": "Seksi Sarana Prasarana",
-                "children": []
-              }
-            ]
-          },
-          {
-            "name": "Bidang Sarana Prasarana, Peningkatan Mutu Kerja Sama dan Promosi Kesehatan Rumah Sakit",
-            "children": [
-              {
-                "name": "Seksi Peningkatan Mutu, Kerja Sama dan Promosi Kesehatan Rumah Sakit",
-                "children": []
-              },
-              {
-                "name": "Seksi Sarana dan Prasarana",
-                "children": []
-              }
-            ]
-          },
-          {
-            "name": "Bidang Sarana Prasarana, Peningkatan Mutu, Kerja Sama dan Promosi Kesehatan Rumah Sakit",
-            "children": []
-          }
-        ]
-      },
-      {
-        "name": "RSUD Banyumas",
-        "children": [
-          {
-            "name": "Wakil Direktur Umum",
-            "children": [
-              {
-                "name": "Bagian Administrasi",
-                "children": [
-                  {
-                    "name": "Subbagian Umum dan Kepegawaian",
-                    "children": []
-                  }
-                ]
-              },
-              {
-                "name": "Bagian Pendidikan, Pelatihan, Penelitian dan Pengembangan, Peningkatan Mutu dan Kerjasama",
-                "children": [
-                  {
-                    "name": "Subbagian Peningkatan Mutu dan Kerjasama",
-                    "children": []
-                  }
-                ]
-              },
-              {
-                "name": "Bagian Keuangan",
-                "children": []
-              }
-            ]
-          },
-          {
-            "name": "Wakil Direktur Pelayanan dan Penunjang Medis",
-            "children": [
-              {
-                "name": "Bidang Pelayanan Medis",
-                "children": []
-              },
-              {
-                "name": "Bidang Pelayanan Keperawatan dan Kebidanan",
-                "children": []
-              },
-              {
-                "name": "Bidang Penunjang Medis",
-                "children": []
-              }
-            ]
-          },
-          {
-            "name": "Wakil Direktur Layanan Operasional",
-            "children": [
-              {
-                "name": "Bidang Penunjang Nonmedis",
-                "children": []
-              },
-              {
-                "name": "Bidang Informasi dan Promosi Kesehatan Rumah Sakit",
-                "children": []
-              },
-              {
-                "name": "Bidang Sarana dan Prasarana Alat",
-                "children": []
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "name": "Sekretariat Dinas Kesehatan",
-        "children": [
-          {
-            "name": "Subbagian Keuangan",
-            "children": []
-          },
-          {
-            "name": "Subbagian Umum dan Kepegawaian",
-            "children": []
-          }
-        ]
-      },
-      {
-        "name": "Unit Perbekalan Alat Kesehatan Farmasi",
-        "children": [
-          {
-            "name": "Sub Bagian Tata Usaha",
-            "children": []
-          }
-        ]
-      },
-      {
-        "name": "Unit Perbekalan Alat Kesehatan dan Farmasi",
-        "children": [
-          {
-            "name": "Sub Bagian Tata Usaha",
-            "children": []
-          }
-        ]
-      }
-    ]
-  },
-  {
     "name": "Dinas Pekerjaan Umum",
     "children": [
       {
@@ -5183,6 +4550,200 @@
           {
             "name": "Sub Bagian Tata Usaha",
             "children": []
+          }
+        ]
+      },
+      {
+        "name": "RSK Mata Purwokerto",
+        "children": [
+          {
+            "name": "Seksi Pelayanan Medis dan Keperawatan",
+            "children": []
+          },
+          {
+            "name": "Seksi Penunjang Medik",
+            "children": []
+          },
+          {
+            "name": "Subbagian Administrasi Umum dan Keuangan",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "RSUD Ajibarang",
+        "children": [
+          {
+            "name": "Bagian Administrasi dan Keuangan",
+            "children": [
+              {
+                "name": "Sub Bagian Keuangan",
+                "children": []
+              },
+              {
+                "name": "Sub Bagian Perencanaan dan Evaluasi",
+                "children": []
+              },
+              {
+                "name": "Sub Bagian Umum dan Kepegawaian",
+                "children": []
+              },
+              {
+                "name": "Subbagian Keuangan",
+                "children": []
+              },
+              {
+                "name": "Subbagian Perencanaan dan Evaluasi",
+                "children": []
+              },
+              {
+                "name": "Subbagian Umum dan Kepegawaian",
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "Bidang Pelayanan Medis, Keperawatan dan Kebidanan",
+            "children": [
+              {
+                "name": "Seksi Keperawatan",
+                "children": []
+              },
+              {
+                "name": "Seksi Pelayanan Medis",
+                "children": []
+              },
+              {
+                "name": "Seksi Penunjang Medis",
+                "children": []
+              },
+              {
+                "name": "Seksi Penunjang Non Medis",
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "Bidang Pelayanan Medis, Keperawatan dan Kebidanan",
+            "children": [
+              {
+                "name": "Seksi Keperawatan dan Kebidanan",
+                "children": []
+              },
+              {
+                "name": "Seksi Pelayanan Medis",
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "Bidang Penunjang Medis dan Non Medis",
+            "children": [
+              {
+                "name": "Seksi Penunjang Medis",
+                "children": []
+              },
+              {
+                "name": "Seksi Penunjang Nonmedis",
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "Bidang Sarana Prasarana, Pengembangan Sumber Daya Manusia, Mutu dan Kerjasama",
+            "children": [
+              {
+                "name": "Seksi Pengembangan Sumber Daya Manusia, Mutu dan Kerjasama",
+                "children": []
+              },
+              {
+                "name": "Seksi Sarana Prasarana",
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "Bidang Sarana Prasarana, Peningkatan Mutu Kerja Sama dan Promosi Kesehatan Rumah Sakit",
+            "children": [
+              {
+                "name": "Seksi Peningkatan Mutu, Kerja Sama dan Promosi Kesehatan Rumah Sakit",
+                "children": []
+              },
+              {
+                "name": "Seksi Sarana dan Prasarana",
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "Bidang Sarana Prasarana, Peningkatan Mutu, Kerja Sama dan Promosi Kesehatan Rumah Sakit",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "RSUD Banyumas",
+        "children": [
+          {
+            "name": "Wakil Direktur Umum",
+            "children": [
+              {
+                "name": "Bagian Administrasi",
+                "children": [
+                  {
+                    "name": "Subbagian Umum dan Kepegawaian",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "name": "Bagian Pendidikan, Pelatihan, Penelitian dan Pengembangan, Peningkatan Mutu dan Kerjasama",
+                "children": [
+                  {
+                    "name": "Subbagian Peningkatan Mutu dan Kerjasama",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "name": "Bagian Keuangan",
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "Wakil Direktur Pelayanan dan Penunjang Medis",
+            "children": [
+              {
+                "name": "Bidang Pelayanan Medis",
+                "children": []
+              },
+              {
+                "name": "Bidang Pelayanan Keperawatan dan Kebidanan",
+                "children": []
+              },
+              {
+                "name": "Bidang Penunjang Medis",
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "Wakil Direktur Layanan Operasional",
+            "children": [
+              {
+                "name": "Bidang Penunjang Nonmedis",
+                "children": []
+              },
+              {
+                "name": "Bidang Informasi dan Promosi Kesehatan Rumah Sakit",
+                "children": []
+              },
+              {
+                "name": "Bidang Sarana dan Prasarana Alat",
+                "children": []
+              }
+            ]
           }
         ]
       },

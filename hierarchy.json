@@ -1598,19 +1598,6 @@
         "children": []
       },
       {
-        "name": "Sekretaris Dinas",
-        "children": [
-          {
-            "name": "Sub Bagian Keuangan",
-            "children": []
-          },
-          {
-            "name": "Sub Bagian Umum dan Kepegawaian",
-            "children": []
-          }
-        ]
-      },
-      {
         "name": "Taman Kanak-Kanak Negeri Purwojati",
         "children": []
       },

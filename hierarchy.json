@@ -3,7 +3,7 @@
     "name": "Badan Kepegawaian dan Pengembangan Sumber Daya Manusia",
     "children": [
       {
-        "name": "Bidang Mutasi dan Promosi",
+        "name": "Bidang Pengembangan Karier dan Mutasi",
         "children": []
       },
       {
@@ -11,15 +11,7 @@
         "children": []
       },
       {
-        "name": "Bidang Pengembangan Karier dan Mutasi",
-        "children": []
-      },
-      {
         "name": "Bidang Pengembangan Kompetensi Aparatur",
-        "children": []
-      },
-      {
-        "name": "Bidang Pengembangan Kompetensi, Pendidikan dan Pelatihan.",
         "children": []
       },
       {
@@ -133,11 +125,11 @@
         "name": "Sekretariat Badan Keuangan dan Aset Daerah",
         "children": [
           {
-            "name": "Sub Bagian Perencanaan dan Keuangan",
+            "name": "Subbagian Keuangan",
             "children": []
           },
           {
-            "name": "Sub Bagian Umum dan Kepegawaian",
+            "name": "Subbagian Umum dan Kepegawaian",
             "children": []
           }
         ]
@@ -163,11 +155,11 @@
         "name": "Sekretariat Badan Kesatuan Bangsa dan Politik",
         "children": [
           {
-            "name": "Sub Bagian Perencanaan dan Keuangan",
+            "name": "Subbagian Keuangan",
             "children": []
           },
           {
-            "name": "Sub Bagian Umum dan Kepegawaian",
+            "name": "Subbagian Umum dan Kepegawaian",
             "children": []
           }
         ]
@@ -220,11 +212,11 @@
         "name": "Sekretariat Badan Pendapatan Daerah",
         "children": [
           {
-            "name": "Sub Bagian Perencanaan dan Keuangan",
+            "name": "Subbagian Keuangan",
             "children": []
           },
           {
-            "name": "Sub Bagian Umum dan Kepegawaian",
+            "name": "Subbagian Umum dan Kepegawaian",
             "children": []
           }
         ]
@@ -376,27 +368,11 @@
         "name": "Sekretariat Dinas Penanaman Modal dan Pelayanan Terpadu Satu Pintu",
         "children": [
           {
-            "name": "Sub Bagian Keuangan",
-            "children": []
-          },
-          {
-            "name": "Sub Bagian Perencanaan",
-            "children": []
-          },
-          {
-            "name": "Sub Bagian Umum dan Kepegawaian (Perubahan nomenklatur)",
-            "children": []
-          },
-          {
             "name": "Subbagian Keuangan",
             "children": []
           },
           {
-            "name": "Subbagian Umum (Perubahan nomenklatur)",
-            "children": []
-          },
-          {
-            "name": "Subbagian Umum dan Kepegawaian (Perubahan nomenklatur)",
+            "name": "Subbagian Umum dan Kepegawaian",
             "children": []
           }
         ]
@@ -405,246 +381,7 @@
     "catatan": "Penyederhanaan struktur organisais"
   },
   {
-    "name": "DPPKBP3A",
-    "children": [
-      {
-        "name": "Bidang Keluarga Berencana",
-        "children": []
-      },
-      {
-        "name": "Bidang Pemberdayaan Perempuan",
-        "children": []
-      },
-      {
-        "name": "Bidang Pengendalian Penduduk",
-        "children": []
-      },
-      {
-        "name": "Bidang Perlindungan dan Pemenuhan Anak",
-        "children": []
-      },
-      {
-        "name": "Sekretariat Dinas",
-        "children": [
-          {
-            "name": "Sub Bagian Keuangan",
-            "children": []
-          },
-          {
-            "name": "Sub Bagian Perencanaan",
-            "children": []
-          },
-          {
-            "name": "Sub Bagian Umum dan Kepegawaian",
-            "children": []
-          },
-          {
-            "name": "Subbagian Keuangan",
-            "children": []
-          },
-          {
-            "name": "Subbagian Umum",
-            "children": []
-          },
-          {
-            "name": "Subbagian Umum dan Kepegawaian",
-            "children": []
-          }
-        ]
-      },
-      {
-        "name": "UPTD Pemberdayaan Perempuan dan Perlindungan Anak",
-        "children": [
-          {
-            "name": "Sub Bagian Tata Usaha",
-            "children": []
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "name": "DPU",
-    "children": [
-      {
-        "name": "Bidang Bangunan Gedung, Penataan Bangunan dan Lingkungannya, Permukiman dan Persampahan",
-        "children": []
-      },
-      {
-        "name": "Bidang Jalan dan Drainase",
-        "children": []
-      },
-      {
-        "name": "Bidang Penataan Ruang dan Jasa Konstruksi",
-        "children": []
-      },
-      {
-        "name": "Bidang Sumber Daya Air, Air Limbah dan Air Minum",
-        "children": []
-      },
-      {
-        "name": "Laboratorium Konstruksi dan Peralatan",
-        "children": []
-      },
-      {
-        "name": "Sekretariat Dinas",
-        "children": [
-          {
-            "name": "Sub Bagian Keuangan",
-            "children": []
-          },
-          {
-            "name": "Sub Bagian Perencanaan",
-            "children": []
-          },
-          {
-            "name": "Sub Bagian Umum dan Kepegawaian",
-            "children": []
-          },
-          {
-            "name": "Subbagian Keuangan",
-            "children": []
-          },
-          {
-            "name": "Subbagian Umum",
-            "children": []
-          },
-          {
-            "name": "Subbagian Umum dan Kepegawaian",
-            "children": []
-          }
-        ]
-      },
-      {
-        "name": "UPTD Pemeliharaan Jalan dan Irigasi Wilayah Ajibarang",
-        "children": [
-          {
-            "name": "Sub Bagian Tata Usaha",
-            "children": []
-          }
-        ]
-      },
-      {
-        "name": "UPTD Pemeliharaan Jalan dan Irigasi Wilayah Banyumas",
-        "children": [
-          {
-            "name": "Sub Bagian Tata Usaha",
-            "children": []
-          }
-        ]
-      },
-      {
-        "name": "UPTD Pemeliharaan Jalan dan Irigasi Wilayah Cilongok",
-        "children": [
-          {
-            "name": "Sub Bagian Tata Usaha",
-            "children": []
-          }
-        ]
-      },
-      {
-        "name": "UPTD Pemeliharaan Jalan dan Irigasi Wilayah Jatilawang",
-        "children": [
-          {
-            "name": "Sub Bagian Tata Usaha",
-            "children": []
-          }
-        ]
-      },
-      {
-        "name": "UPTD Pemeliharaan Jalan dan Irigasi Wilayah Purwokerto",
-        "children": [
-          {
-            "name": "Sub Bagian Tata Usaha",
-            "children": []
-          }
-        ]
-      },
-      {
-        "name": "UPTD Pemeliharaan Jalan dan Irigasi Wilayah Sokaraja",
-        "children": [
-          {
-            "name": "Sub Bagian Tata Usaha",
-            "children": []
-          }
-        ]
-      },
-      {
-        "name": "UPTD Pemeliharaan Jalan dan Irigasi Wilayah Sumpiuh",
-        "children": [
-          {
-            "name": "Sub Bagian Tata Usaha",
-            "children": []
-          }
-        ]
-      },
-      {
-        "name": "UPTD Pengelolaan Air Limbah Domestik",
-        "children": []
-      }
-    ]
-  },
-  {
-    "name": "Dinakerkop UKM",
-    "children": [
-      {
-        "name": "Bidang Hubungan Industrial",
-        "children": []
-      },
-      {
-        "name": "Bidang Koperasi",
-        "children": []
-      },
-      {
-        "name": "Bidang Pelatihan, Penempatan, Perluasan Kesempatan Kerja dan Transmigrasi",
-        "children": []
-      },
-      {
-        "name": "Bidang Usaha Mikro, Kecil dan Menengah",
-        "children": []
-      },
-      {
-        "name": "Sekretariat Dinas",
-        "children": [
-          {
-            "name": "Sub Bagian Keuangan",
-            "children": []
-          },
-          {
-            "name": "Sub Bagian Perencanaan",
-            "children": []
-          },
-          {
-            "name": "Sub Bagian Umum dan Kepegawaian",
-            "children": []
-          },
-          {
-            "name": "Subbagian Keuangan",
-            "children": []
-          },
-          {
-            "name": "Subbagian Umum",
-            "children": []
-          },
-          {
-            "name": "Subbagian Umum dan Kepegawaian",
-            "children": []
-          }
-        ]
-      },
-      {
-        "name": "UPT Balai Latihan Kerja",
-        "children": [
-          {
-            "name": "Sub Bagian Tata Usaha",
-            "children": []
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "name": "Dinarpusda",
+    "name": "Dinas Arsip dan Perpustakaan Daerah",
     "children": [
       {
         "name": "Bidang Pembinaan, Pengembangan dan Pengawasan Kearsipan",
@@ -659,26 +396,10 @@
         "children": []
       },
       {
-        "name": "Sekretariat Dinas",
+        "name": "Sekretariat Dinas Arsip dan Perpustakaan Daerah",
         "children": [
           {
-            "name": "Sub Bagian Keuangan",
-            "children": []
-          },
-          {
-            "name": "Sub Bagian Perencanaan",
-            "children": []
-          },
-          {
-            "name": "Sub Bagian Umum dan Kepegawaian",
-            "children": []
-          },
-          {
             "name": "Subbagian Keuangan",
-            "children": []
-          },
-          {
-            "name": "Subbagian Umum",
             "children": []
           },
           {
@@ -709,26 +430,10 @@
         "children": []
       },
       {
-        "name": "Sekretariat Dinas",
+        "name": "Sekretariat Dinas KP dan Perikanan",
         "children": [
           {
-            "name": "Sub Bagian Keuangan",
-            "children": []
-          },
-          {
-            "name": "Sub Bagian Perencanaan",
-            "children": []
-          },
-          {
-            "name": "Sub Bagian Umum dan Kepegawaian",
-            "children": []
-          },
-          {
             "name": "Subbagian Keuangan",
-            "children": []
-          },
-          {
-            "name": "Subbagian Umum",
             "children": []
           },
           {
@@ -1153,7 +858,7 @@
         "name": "RSK Mata Purwokerto",
         "children": [
           {
-            "name": "Seksi Pelayanan Medik",
+            "name": "Seksi Pelayanan Medis dan Keperawatan",
             "children": []
           },
           {
@@ -1161,7 +866,7 @@
             "children": []
           },
           {
-            "name": "Sub Bagian Umum dan Tata Usaha",
+            "name": "Subbagian Administrasi Umum dan Keuangan",
             "children": []
           }
         ]
@@ -1199,7 +904,7 @@
             ]
           },
           {
-            "name": "Bidang Pelayanan Medis dan Keperawatan",
+            "name": "Bidang Pelayanan Medis, Keperawatan dan Kebidanan",
             "children": [
               {
                 "name": "Seksi Keperawatan",
@@ -1280,7 +985,6 @@
       {
         "name": "RSUD Banyumas",
         "children": [
-        
           {
             "name": "Wakil Direktur Umum",
             "children": [
@@ -1345,26 +1049,10 @@
         ]
       },
       {
-        "name": "Sekretariat Dinas",
+        "name": "Sekretariat Dinas Kesehatan",
         "children": [
           {
-            "name": "Sub Bagian Keuangan",
-            "children": []
-          },
-          {
-            "name": "Sub Bagian Perencanaan",
-            "children": []
-          },
-          {
-            "name": "Sub Bagian Umum dan Kepegawaian",
-            "children": []
-          },
-          {
             "name": "Subbagian Keuangan",
-            "children": []
-          },
-          {
-            "name": "Subbagian Umum",
             "children": []
           },
           {
@@ -1397,54 +1085,30 @@
     "name": "Dinas Pekerjaan Umum",
     "children": [
       {
-        "name": "Bidang Drainase dan Bina Jasa Konstruksi",
-        "children": [],
-        "catatan": "Perubahan nomenklatur dan tusi"
-      },
-      {
-        "name": "Bidang Pemeliharaan dan Monitoring Evaluasi Jalan",
+        "name": "Bidang Sumber Daya Air, Air Limbah dan Air Minum",
         "children": []
       },
       {
-        "name": "Bidang Penataan Bangunan",
-        "children": [],
-        "catatan": "Perubahan nomenklatur dan tusi"
+        "name": "Bidang Bangunan Gedung, Penataan Bangunan dan Lingkungannya, Permukiman dan Persampahan",
+        "children": []
       },
       {
-        "name": "Bidang Perencanaan dan Pembangunan Jalan",
-        "children": [],
-        "catatan": "Perubahan nomenklatur dan tusi"
+        "name": "Bidang Jalan dan Drainase",
+        "children": []
       },
       {
-        "name": "Bidang Sumber Daya Air",
-        "children": [],
-        "catatan": "Perubahan nomenklatur dan tusi"
+        "name": "Bidang Penataan Ruang dan Jasa Konstruksi",
+        "children": []
       },
       {
         "name": "Laboratorium Konstruksi dan Peralatan",
         "children": []
       },
       {
-        "name": "Sekretariat Dinas",
+        "name": "Sekretariat Dinas Pekerjaan Umum",
         "children": [
           {
-            "name": "Sub Bagian Keuangan",
-            "children": []
-          },
-          {
-            "name": "Sub Bagian Perencanaan",
-            "children": []
-          },
-          {
-            "name": "Sub Bagian Umum dan Kepegawaian",
-            "children": []
-          },
-          {
             "name": "Subbagian Keuangan",
-            "children": []
-          },
-          {
-            "name": "Subbagian Umum",
             "children": []
           },
           {
@@ -1543,26 +1207,10 @@
         "children": []
       },
       {
-        "name": "Sekretariat Dinas",
+        "name": "Sekretariat Dinas Pemberdayaan Masyarakat dan Desa",
         "children": [
           {
-            "name": "Sub Bagian Keuangan",
-            "children": []
-          },
-          {
-            "name": "Sub Bagian Perencanaan",
-            "children": []
-          },
-          {
-            "name": "Sub Bagian Umum dan Kepegawaian",
-            "children": []
-          },
-          {
             "name": "Subbagian Keuangan",
-            "children": []
-          },
-          {
-            "name": "Subbagian Umum",
             "children": []
           },
           {
@@ -4797,26 +4445,10 @@
         "children": []
       },
       {
-        "name": "Sekretariat Dinas",
+        "name": "Sekretariat Dinas Pendidikan",
         "children": [
           {
-            "name": "Sub Bagian Keuangan",
-            "children": []
-          },
-          {
-            "name": "Sub Bagian Perencanaan",
-            "children": []
-          },
-          {
-            "name": "Sub Bagian Umum dan Kepegawaian",
-            "children": []
-          },
-          {
             "name": "Subbagian Keuangan",
-            "children": []
-          },
-          {
-            "name": "Subbagian Umum",
             "children": []
           },
           {
@@ -4949,26 +4581,10 @@
         "children": []
       },
       {
-        "name": "Sekretariat Dinas",
+        "name": "Sekretariat Dinas Pertanian",
         "children": [
           {
-            "name": "Sub Bagian Keuangan",
-            "children": []
-          },
-          {
-            "name": "Sub Bagian Perencanaan",
-            "children": []
-          },
-          {
-            "name": "Sub Bagian Umum dan Kepegawaian",
-            "children": []
-          },
-          {
             "name": "Subbagian Keuangan",
-            "children": []
-          },
-          {
-            "name": "Subbagian Umum",
             "children": []
           },
           {
@@ -4993,10 +4609,27 @@
     "catatan": "Perubahan nomenklatur dan tusi"
   },
   {
-    "name": "Dinas Sosial PPA",
+    "name": "Dinas Sosial, Pemberdayaan Perempuan dan Perlindungan Anak",
     "children": [
       {
-        "name": "Bidang Pemberdayaan Perempuan",
+        "name": "Kepala Dinas",
+        "children": []
+      },
+      {
+        "name": "Sekretariat Dinas Sosial, Pemberdayaan Perempuan dan Perlindungan Anak",
+        "children": [
+          {
+            "name": "Subbagian Keuangan",
+            "children": []
+          },
+          {
+            "name": "Subbagian Umum dan Kepegawaian",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "UPTD Perlindungan Perempuan dan Anak",
         "children": []
       },
       {
@@ -5012,42 +4645,13 @@
         "children": []
       },
       {
-        "name": "Sekretariat Dinas",
-        "children": [
-          {
-            "name": "Sub Bagian Keuangan",
-            "children": []
-          },
-          {
-            "name": "Sub Bagian Perencanaan",
-            "children": []
-          },
-          {
-            "name": "Sub Bagian Umum dan Kepegawaian",
-            "children": []
-          },
-          {
-            "name": "Subbagian Keuangan",
-            "children": []
-          },
-          {
-            "name": "Subbagian Umum",
-            "children": []
-          },
-          {
-            "name": "Subbagian Umum dan Kepegawaian",
-            "children": []
-          }
-        ]
-      },
-      {
-        "name": "UPTD Perlindungan Perempuan dan Anak",
+        "name": "Bidang Pemberdayaan Perempuan",
         "children": []
       }
     ]
   },
   {
-    "name": "Dindukcapil",
+    "name": "Dinas Kependudukan dan Pencatatan Sipil",
     "children": [
       {
         "name": "Bidang Pelayanan Pencatatan Sipil",
@@ -5066,26 +4670,10 @@
         "children": []
       },
       {
-        "name": "Sekretariat Dinas",
+        "name": "Sekretariat Dinas Kependudukan dan Pencatatan Sipil",
         "children": [
           {
-            "name": "Sub Bagian Keuangan",
-            "children": []
-          },
-          {
-            "name": "Sub Bagian Perencanaan",
-            "children": []
-          },
-          {
-            "name": "Sub Bagian Umum dan Kepegawaian",
-            "children": []
-          },
-          {
             "name": "Subbagian Keuangan",
-            "children": []
-          },
-          {
-            "name": "Subbagian Umum",
             "children": []
           },
           {
@@ -5097,7 +4685,7 @@
     ]
   },
   {
-    "name": "Dinhub",
+    "name": "Dinas Perhubungan",
     "children": [
       {
         "name": "Bidang Angkutan dan Keselamatan",
@@ -5156,26 +4744,10 @@
         ]
       },
       {
-        "name": "Sekretariat Dinas",
+        "name": "Sekretariat Dinas Perhubungan",
         "children": [
           {
-            "name": "Sub Bagian Keuangan",
-            "children": []
-          },
-          {
-            "name": "Sub Bagian Perencanaan",
-            "children": []
-          },
-          {
-            "name": "Sub Bagian Umum dan Kepegawaian",
-            "children": []
-          },
-          {
             "name": "Subbagian Keuangan",
-            "children": []
-          },
-          {
-            "name": "Subbagian Umum",
             "children": []
           },
           {
@@ -5205,7 +4777,7 @@
     ]
   },
   {
-    "name": "Dinkes KB",
+    "name": "Dinas Kesehatan dan Keluarga Berencana",
     "children": [
       {
         "name": "Bidang Kesehatan Masyarakat",
@@ -5615,26 +5187,10 @@
         ]
       },
       {
-        "name": "Sekretariat Dinas",
+        "name": "Sekretariat Dinas Kesehatan dan Keluarga Berencana",
         "children": [
           {
-            "name": "Sub Bagian Keuangan",
-            "children": []
-          },
-          {
-            "name": "Sub Bagian Perencanaan",
-            "children": []
-          },
-          {
-            "name": "Sub Bagian Umum dan Kepegawaian",
-            "children": []
-          },
-          {
             "name": "Subbagian Keuangan",
-            "children": []
-          },
-          {
-            "name": "Subbagian Umum",
             "children": []
           },
           {
@@ -5664,7 +5220,7 @@
     ]
   },
   {
-    "name": "Dinkominfo",
+    "name": "Dinas Komunikasi dan Informatika",
     "children": [
       {
         "name": "Bidang Aplikasi Informatika",
@@ -5679,26 +5235,10 @@
         "children": []
       },
       {
-        "name": "Sekretariat Dinas",
+        "name": "Sekretariat Dinas Komunikasi dan Informatika",
         "children": [
           {
-            "name": "Sub Bagian Keuangan",
-            "children": []
-          },
-          {
-            "name": "Sub Bagian Perencanaan",
-            "children": []
-          },
-          {
-            "name": "Sub Bagian Umum dan Kepegawaian",
-            "children": []
-          },
-          {
             "name": "Subbagian Keuangan",
-            "children": []
-          },
-          {
-            "name": "Subbagian Umum",
             "children": []
           },
           {
@@ -5710,7 +5250,7 @@
     ]
   },
   {
-    "name": "Dinkopdag",
+    "name": "Dinas Koperasi, Usaha Kecil dan Menengah dan Perdagangan",
     "children": [
       {
         "name": "Bidang Koperasi",
@@ -5729,26 +5269,10 @@
         "children": []
       },
       {
-        "name": "Sekretariat Dinas",
+        "name": "Sekretariat Dinas Koperasi, Usaha Kecil dan Menengah dan Perdagangan",
         "children": [
           {
-            "name": "Sub Bagian Keuangan",
-            "children": []
-          },
-          {
-            "name": "Sub Bagian Perencanaan",
-            "children": []
-          },
-          {
-            "name": "Sub Bagian Umum dan Kepegawaian",
-            "children": []
-          },
-          {
             "name": "Subbagian Keuangan",
-            "children": []
-          },
-          {
-            "name": "Subbagian Umum",
             "children": []
           },
           {
@@ -5776,14 +5300,10 @@
     ]
   },
   {
-    "name": "Dinnakerin",
+    "name": "Dinas Tenaga Kerja dan Perindustrian",
     "children": [
       {
-        "name": "Bidang Hubungan Industrial",
-        "children": []
-      },
-      {
-        "name": "Bidang Pelatihan, Penempatan, Perluasan Kesempatan Kerja dan Transmigrasi",
+        "name": "Bidang Pelatihan Kerja dan Produktivitas Tenaga Kerja",
         "children": []
       },
       {
@@ -5791,30 +5311,18 @@
         "children": []
       },
       {
+        "name": "Bidang Hubungan Industrial",
+        "children": []
+      },
+      {
         "name": "Bidang Perindustrian",
         "children": []
       },
       {
-        "name": "Sekretariat Dinas",
+        "name": "Sekretariat Dinas Tenaga Kerja dan Perindustrian",
         "children": [
           {
-            "name": "Sub Bagian Keuangan",
-            "children": []
-          },
-          {
-            "name": "Sub Bagian Perencanaan",
-            "children": []
-          },
-          {
-            "name": "Sub Bagian Umum dan Kepegawaian",
-            "children": []
-          },
-          {
             "name": "Subbagian Keuangan",
-            "children": []
-          },
-          {
-            "name": "Subbagian Umum",
             "children": []
           },
           {
@@ -5826,93 +5334,7 @@
     ]
   },
   {
-    "name": "Dinperindag",
-    "children": [
-      {
-        "name": "Bidang Metrologi",
-        "children": []
-      },
-      {
-        "name": "Bidang Pasar",
-        "children": []
-      },
-      {
-        "name": "Bidang Perdagangan",
-        "children": []
-      },
-      {
-        "name": "Bidang Perindustrian",
-        "children": []
-      },
-      {
-        "name": "Sekretariat Dinas",
-        "children": [
-          {
-            "name": "Sub Bagian Keuangan",
-            "children": []
-          },
-          {
-            "name": "Sub Bagian Perencanaan",
-            "children": []
-          },
-          {
-            "name": "Sub Bagian Umum dan Kepegawaian",
-            "children": []
-          },
-          {
-            "name": "Subbagian Keuangan",
-            "children": []
-          },
-          {
-            "name": "Subbagian Umum",
-            "children": []
-          },
-          {
-            "name": "Subbagian Umum dan Kepegawaian",
-            "children": []
-          }
-        ]
-      },
-      {
-        "name": "Unit Pasar Wilayah Banyumas Barat",
-        "children": [
-          {
-            "name": "Sub Bagian Tata Usaha",
-            "children": []
-          }
-        ]
-      },
-      {
-        "name": "Unit Pasar Wilayah Banyumas Timur",
-        "children": [
-          {
-            "name": "Sub Bagian Tata Usaha",
-            "children": []
-          }
-        ]
-      },
-      {
-        "name": "Unit Pasar Wilayah Purwokerto I",
-        "children": [
-          {
-            "name": "Sub Bagian Tata Usaha",
-            "children": []
-          }
-        ]
-      },
-      {
-        "name": "Unit Pasar Wilayah Purwokerto II",
-        "children": [
-          {
-            "name": "Sub Bagian Tata Usaha",
-            "children": []
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "name": "Dinperkim",
+    "name": "Dinas Perumahan dan Kawasan Permukiman",
     "children": [
       {
         "name": "Bidang Kawasan Permukiman",
@@ -5939,26 +5361,10 @@
         "children": []
       },
       {
-        "name": "Sekretariat Dinas",
+        "name": "Sekretariat Dinas Perumahan dan Kawasan Permukiman",
         "children": [
           {
-            "name": "Sub Bagian Keuangan",
-            "children": []
-          },
-          {
-            "name": "Sub Bagian Perencanaan",
-            "children": []
-          },
-          {
-            "name": "Sub Bagian Umum dan Kepegawaian",
-            "children": []
-          },
-          {
             "name": "Subbagian Keuangan",
-            "children": []
-          },
-          {
-            "name": "Subbagian Umum",
             "children": []
           },
           {
@@ -5974,7 +5380,7 @@
     ]
   },
   {
-    "name": "Dinpertan KP",
+    "name": "Dinas Pertanian dan Ketahanan Pangan",
     "children": [
       {
         "name": "Balai Benih Pertanian",
@@ -6001,26 +5407,10 @@
         "children": []
       },
       {
-        "name": "Sekretariat Dinas",
+        "name": "Sekretariat Dinas Pertanian dan Ketahanan Pangan",
         "children": [
           {
-            "name": "Sub Bagian Keuangan",
-            "children": []
-          },
-          {
-            "name": "Sub Bagian Perencanaan",
-            "children": []
-          },
-          {
-            "name": "Sub Bagian Umum dan Kepegawaian",
-            "children": []
-          },
-          {
             "name": "Subbagian Keuangan",
-            "children": []
-          },
-          {
-            "name": "Subbagian Umum",
             "children": []
           },
           {
@@ -6041,7 +5431,7 @@
     ]
   },
   {
-    "name": "Dinporabudpar",
+    "name": "Dinas Kepemudaan, Olahraga, dan Pariwisata",
     "children": [
       {
         "name": "Bidang Kebudayaan",
@@ -6064,26 +5454,10 @@
         "children": []
       },
       {
-        "name": "Sekretariat Dinas",
+        "name": "Sekretariat Dinas Kepemudaan, Olahraga, dan Pariwisata",
         "children": [
           {
-            "name": "Sub Bagian Keuangan",
-            "children": []
-          },
-          {
-            "name": "Sub Bagian Perencanaan",
-            "children": []
-          },
-          {
-            "name": "Sub Bagian Umum dan Kepegawaian",
-            "children": []
-          },
-          {
             "name": "Subbagian Keuangan",
-            "children": []
-          },
-          {
-            "name": "Subbagian Umum",
             "children": []
           },
           {
@@ -6138,60 +5512,6 @@
     ]
   },
   {
-    "name": "Dinsospermasdes",
-    "children": [
-      {
-        "name": "Bidang Bina Pemerintahan Desa",
-        "children": []
-      },
-      {
-        "name": "Bidang Pemberdayaan Ekonomi Desa, Sumber Daya Alam dan Teknologi Tepat Guna",
-        "children": []
-      },
-      {
-        "name": "Bidang Pemberdayaan Masyarakat Desa",
-        "children": []
-      },
-      {
-        "name": "Bidang Pemberdayaan Sosial dan Penanganan Fakir Miskin",
-        "children": []
-      },
-      {
-        "name": "Bidang Perlindungan, Jaminan dan Rehabilitasi Sosial",
-        "children": []
-      },
-      {
-        "name": "Sekretariat Dinas",
-        "children": [
-          {
-            "name": "Sub Bagian Keuangan",
-            "children": []
-          },
-          {
-            "name": "Sub Bagian Perencanaan",
-            "children": []
-          },
-          {
-            "name": "Sub Bagian Umum dan Kepegawaian",
-            "children": []
-          },
-          {
-            "name": "Subbagian Keuangan",
-            "children": []
-          },
-          {
-            "name": "Subbagian Umum",
-            "children": []
-          },
-          {
-            "name": "Subbagian Umum dan Kepegawaian",
-            "children": []
-          }
-        ]
-      }
-    ]
-  },
-  {
     "name": "Inspektorat Daerah",
     "children": [
       {
@@ -6238,24 +5558,6 @@
       }
     ],
     "catatan": "Perubahan nomenklatur dan tusi"
-  },
-  {
-    "name": "Inspektorat daerah",
-    "children": [
-      {
-        "name": "Sekretariat",
-        "children": [
-          {
-            "name": "Subbag Administrasi Umum dan Keuangan",
-            "children": []
-          },
-          {
-            "name": "Subbag Analisis dan Evaluasi",
-            "children": []
-          }
-        ]
-      }
-    ]
   },
   {
     "name": "Kecamatan Ajibarang",

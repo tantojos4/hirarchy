@@ -1,0 +1,210 @@
+[
+  {
+    "No": "1",
+    "NPSN": "20302210",
+    "Nama Sekolah": "Sekolah Dasar Negeri 1 Baseh Kecamatan Kedungbanteng",
+    "Alamat": "Jalan Raya Baseh",
+    "Kelurahan": "Baseh",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "2",
+    "NPSN": "20302212",
+    "Nama Sekolah": "Sekolah Dasar Negeri 1 Beji Kecamatan Kedungbanteng",
+    "Alamat": "Jalan R Supeno",
+    "Kelurahan": "Beji",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "3",
+    "NPSN": "20355418",
+    "Nama Sekolah": "Sekolah Dasar Negeri 1 Dawuhan Kulon Kecamatan Kedungbanteng",
+    "Alamat": "Jalan Balai Desa 03 Dawuhan Kulon",
+    "Kelurahan": "Dawuhan Kulon",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "4",
+    "NPSN": "20302293",
+    "Nama Sekolah": "Sekolah Dasar Negeri 1 Kalikesur Kecamatan Kedungbanteng",
+    "Alamat": "Kalikesur",
+    "Kelurahan": "Kalikesur",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "5",
+    "NPSN": "20338300",
+    "Nama Sekolah": "Sekolah Dasar Negeri 1 Kalisalak Kecamatan Kedungbanteng",
+    "Alamat": "Kalisalak RT 04/ RW 02",
+    "Kelurahan": "Kalisalak",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "6",
+    "NPSN": "20302762",
+    "Nama Sekolah": "Sekolah Dasar Negeri 1 Kebocoran Kecamatan Kedungbanteng",
+    "Alamat": "Kebocoran RT 03 RW 04 NO. 31",
+    "Kelurahan": "Kebocoran",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "7",
+    "NPSN": "20302748",
+    "Nama Sekolah": "Sekolah Dasar Negeri 1 Kedungbanteng Kecamatan Kedungbanteng",
+    "Alamat": "Kedungbanteng",
+    "Kelurahan": "Kedungbanteng",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "8",
+    "NPSN": "20302783",
+    "Nama Sekolah": "Sekolah Dasar Negeri 1 Keniten Kecamatan Kedungbanteng",
+    "Alamat": "Jalan Raya Keniten",
+    "Kelurahan": "Keniten",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "9",
+    "NPSN": "20302775",
+    "Nama Sekolah": "Sekolah Dasar Negeri 1 Kutaliman Kecamatan Kedungbanteng",
+    "Alamat": "Kutaliman",
+    "Kelurahan": "Kutaliman",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "10",
+    "NPSN": "20302826",
+    "Nama Sekolah": "Sekolah Dasar Negeri 1 Windujaya Kecamatan Kedungbanteng",
+    "Alamat": "Jalan Raya Windujaya",
+    "Kelurahan": "Windujaya",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "11",
+    "NPSN": "20302597",
+    "Nama Sekolah": "Sekolah Dasar Negeri 2 Baseh Kecamatan Kedungbanteng",
+    "Alamat": "Jalan Raya Rabuk",
+    "Kelurahan": "Baseh",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "12",
+    "NPSN": "20302590",
+    "Nama Sekolah": "Sekolah Dasar Negeri 2 Beji Kecamatan Kedungbanteng",
+    "Alamat": "Jalan R. Supeno 5 Beji Kedungbanteng",
+    "Kelurahan": "Beji",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "13",
+    "NPSN": "20302608",
+    "Nama Sekolah": "Sekolah Dasar Negeri 2 Dawuhan Kulon Kecamatan Kedungbanteng",
+    "Alamat": "Jl. Glempang",
+    "Kelurahan": "Dawuhan Kulon",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "14",
+    "NPSN": "20302545",
+    "Nama Sekolah": "Sekolah Dasar Negeri 2 Kalikesur Kecamatan Kedungbanteng",
+    "Alamat": "Jalan Raya Kalikesur RT 01 RW 03",
+    "Kelurahan": "Kalikesur",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "15",
+    "NPSN": "20341655",
+    "Nama Sekolah": "Sekolah Dasar Negeri 2 Kalisalak Kecamatan Kedungbanteng",
+    "Alamat": "Dusun Windusari Rt 01 Rw 03",
+    "Kelurahan": "Kalisalak",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "16",
+    "NPSN": "20302683",
+    "Nama Sekolah": "Sekolah Dasar Negeri 2 Kebocoran  Kecamatan Kedungbanteng",
+    "Alamat": "Jalan Bayur",
+    "Kelurahan": "Kebocoran",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "17",
+    "NPSN": "20302691",
+    "Nama Sekolah": "Sekolah Dasar Negeri 2 Keniten Kecamatan Kedungbanteng",
+    "Alamat": "Jalan Raya Keniten Nomor 02",
+    "Kelurahan": "Keniten",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "18",
+    "NPSN": "20302639",
+    "Nama Sekolah": "Sekolah Dasar Negeri 2 Kutaliman Kecamatan Kedungbanteng",
+    "Alamat": "Jalan Raya Desa Kutaliman RT. 01 RW. 03",
+    "Kelurahan": "Kutaliman",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "19",
+    "NPSN": "20301708",
+    "Nama Sekolah": "Sekolah Dasar Negeri 2 Windujaya Kecamatan Kedungbanteng",
+    "Alamat": "Peninis",
+    "Kelurahan": "Windujaya",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "20",
+    "NPSN": "20301785",
+    "Nama Sekolah": "Sekolah Dasar Negeri 3 Kebocoran Kecamatan Kedungbanteng",
+    "Alamat": "Jalan Sumur Watu",
+    "Kelurahan": "Kebocoran",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "21",
+    "NPSN": "20301799",
+    "Nama Sekolah": "Sekolah Dasar Negeri 3 Kedungbanteng Kecamatan Kedungbanteng",
+    "Alamat": "Jalan Raya Kedungbanteng",
+    "Kelurahan": "Kedungbanteng",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "22",
+    "NPSN": "20301793",
+    "Nama Sekolah": "Sekolah Dasar Negeri 3 Kutaliman Kecamatan Kedungbanteng",
+    "Alamat": "Kutaliman Rt 1 Rw 7",
+    "Kelurahan": "Kutaliman",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "23",
+    "NPSN": "20302059",
+    "Nama Sekolah": "Sekolah Dasar Negeri Dawuhan Wetan Kecamatan Kedungbanteng",
+    "Alamat": "Dawuhan Wetan",
+    "Kelurahan": "Dawuhan Wetan",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "24",
+    "NPSN": "20302302",
+    "Nama Sekolah": "Sekolah Dasar Negeri Karangnangka Kecamatan Kedungbanteng",
+    "Alamat": "Jalan Raya Karangnangka No. 1",
+    "Kelurahan": "Karangnangka",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "25",
+    "NPSN": "20302305",
+    "Nama Sekolah": "Sekolah Dasar Negeri Karangsalam Kecamatan Kedungbanteng",
+    "Alamat": "Jl Rajawali",
+    "Kelurahan": "Karangsalam",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "26",
+    "NPSN": "20302039",
+    "Nama Sekolah": "Sekolah Dasar Negeri Melung Kecamatan Kedungbanteng",
+    "Alamat": "Jalan Raya Kaliputra No. 37 Rt 5 Rw 2",
+    "Kelurahan": "Melung",
+    "Status": "NEGERI"
+  }
+]

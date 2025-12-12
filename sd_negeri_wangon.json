@@ -1,0 +1,362 @@
+[
+  {
+    "No": "1",
+    "NPSN": "20355414",
+    "Nama Sekolah": "Sekolah Dasar Negeri 1 Banteran Kecamatan Wangon",
+    "Alamat": "Jalan Raya Utara Wangon - Ajibarang No 45",
+    "Kelurahan": "Banteran",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "2",
+    "NPSN": "20302331",
+    "Nama Sekolah": "Sekolah Dasar Negeri 1 Bojong Kecamatan Wangon",
+    "Alamat": "Bojong",
+    "Kelurahan": "Klapagading Kulon",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "3",
+    "NPSN": "20302337",
+    "Nama Sekolah": "Sekolah Dasar Negeri 1 Ciarus Kecamatan Wangon",
+    "Alamat": "Ciarus Rt 6 Rw 5",
+    "Kelurahan": "Randegan",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "4",
+    "NPSN": "20302322",
+    "Nama Sekolah": "Sekolah Dasar Negeri 1 Cikakak Kecamatan Wangon",
+    "Alamat": "Jalan KB Rt 2 Rw 1",
+    "Kelurahan": "Cikakak",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "5",
+    "NPSN": "20302369",
+    "Nama Sekolah": "Sekolah Dasar Negeri 1 Jambu Kecamatan Wangon",
+    "Alamat": "Jl. Raya Utara Wangon",
+    "Kelurahan": "Jambu",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "6",
+    "NPSN": "20302291",
+    "Nama Sekolah": "Sekolah Dasar Negeri 1 Jurangbahas Kecamatan Wangon",
+    "Alamat": "Rt 04 Rw 02",
+    "Kelurahan": "Jurangbahas",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "7",
+    "NPSN": "20355419",
+    "Nama Sekolah": "Sekolah Dasar Negeri 1 Karangtengah Kecamatan Wangon",
+    "Alamat": "Jalan Karangtengah Jambu",
+    "Kelurahan": "Jambu",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "8",
+    "NPSN": "20302787",
+    "Nama Sekolah": "Sekolah Dasar Negeri 1 Klapagading Kecamatan Wangon",
+    "Alamat": "Klapagading",
+    "Kelurahan": "Klapagading",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "9",
+    "NPSN": "20302733",
+    "Nama Sekolah": "Sekolah Dasar Negeri 1 Pengadegan Kecamatan Wangon",
+    "Alamat": "Pengadegan Rt 01 Rw 05",
+    "Kelurahan": "Pangadegan",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "10",
+    "NPSN": "20302834",
+    "Nama Sekolah": "Sekolah Dasar Negeri 1 Rancabanteng Kecamatan Wangon",
+    "Alamat": "Jl. Raya Timur Wangon",
+    "Kelurahan": "Klapagading Kulon",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "11",
+    "NPSN": "20302836",
+    "Nama Sekolah": "Sekolah Dasar Negeri 1 Randegan Kecamatan Wangon",
+    "Alamat": "Jl. Raya Desa Randegan",
+    "Kelurahan": "Randegan",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "12",
+    "NPSN": "20302839",
+    "Nama Sekolah": "Sekolah Dasar Negeri 1 Rawaheng Kecamatan Wangon",
+    "Alamat": "Rawaheng",
+    "Kelurahan": "Rawaheng",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "13",
+    "NPSN": "20301514",
+    "Nama Sekolah": "Sekolah Dasar Negeri 1 Wangon Kecamatan Wangon",
+    "Alamat": "Jalan Raya Timur Wangon",
+    "Kelurahan": "Wangon",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "14",
+    "NPSN": "20302827",
+    "Nama Sekolah": "Sekolah Dasar Negeri 1 Windunegara Kecamatan Wangon",
+    "Alamat": "Windunegara Rt 04/01",
+    "Kelurahan": "Windunegara",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "15",
+    "NPSN": "20302828",
+    "Nama Sekolah": "Sekolah Dasar Negeri 1 Wlahar Kecamatan Wangon",
+    "Alamat": "Wlahar Rt 03/04",
+    "Kelurahan": "Wlahar",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "16",
+    "NPSN": "20302595",
+    "Nama Sekolah": "Sekolah Dasar Negeri 2 Banteran Kecamatan Wangon",
+    "Alamat": "Jalan Balai Desa Banteran Rt 1 Rw 1",
+    "Kelurahan": "Banteran",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "17",
+    "NPSN": "20302585",
+    "Nama Sekolah": "Sekolah Dasar Negeri 2 Bojong Kecamatan Wangon",
+    "Alamat": "Jalan Bojong Rt 01 Rw 011",
+    "Kelurahan": "Klapagading Kulon",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "18",
+    "NPSN": "20302600",
+    "Nama Sekolah": "Sekolah Dasar Negeri 2 Ciarus Kecamatan Wangon",
+    "Alamat": "Ciarus",
+    "Kelurahan": "Randegan",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "19",
+    "NPSN": "20302616",
+    "Nama Sekolah": "Sekolah Dasar Negeri 2 Cikakak Kecamatan Wangon",
+    "Alamat": "Jalan Masjid Saka Tunggal",
+    "Kelurahan": "Cikakak",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "20",
+    "NPSN": "20302538",
+    "Nama Sekolah": "Sekolah Dasar Negeri 2 Jambu Kecamatan Wangon",
+    "Alamat": "Jl. Raya Ajibarang-Wangon",
+    "Kelurahan": "Jambu",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "21",
+    "NPSN": "20302543",
+    "Nama Sekolah": "Sekolah Dasar Negeri 2 Jurangbahas Kecamatan Wangon",
+    "Alamat": "Jurangbahas Rt 3 Rw 2",
+    "Kelurahan": "Jurangbahas",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "22",
+    "NPSN": "20302663",
+    "Nama Sekolah": "Sekolah Dasar Negeri 2 Karangtengah Kecamatan Wangon",
+    "Alamat": "Karangtengah RT 04 RW 08",
+    "Kelurahan": "Jambu",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "23",
+    "NPSN": "20302621",
+    "Nama Sekolah": "Sekolah Dasar Negeri 2 Klapagading Kecamatan Wangon",
+    "Alamat": "Klapagding Rt. 04 Rw. 8",
+    "Kelurahan": "Klapagading",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "24",
+    "NPSN": "20301739",
+    "Nama Sekolah": "Sekolah Dasar Negeri 2 Pengadegan Kecamatan Wangon",
+    "Alamat": "Pengadegan",
+    "Kelurahan": "Pangadegan",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "25",
+    "NPSN": "20301756",
+    "Nama Sekolah": "Sekolah Dasar Negeri 2 Rancabanteng Kecamatan Wangon",
+    "Alamat": "Jalan Raya Timur Klapagading Kulon Wangon",
+    "Kelurahan": "Klapagading Kulon",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "26",
+    "NPSN": "20301758",
+    "Nama Sekolah": "Sekolah Dasar Negeri 2 Randegan Kecamatan Wangon",
+    "Alamat": "Rt 4 Rw 2",
+    "Kelurahan": "Randegan",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "27",
+    "NPSN": "20301761",
+    "Nama Sekolah": "Sekolah Dasar Negeri 2 Rawaheng Kecamatan Wangon",
+    "Alamat": "Jalan Raya Wangon Cilacap",
+    "Kelurahan": "Rawaheng",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "28",
+    "NPSN": "20301630",
+    "Nama Sekolah": "Sekolah Dasar Negeri 2 Wangon Kecamatan Wangon",
+    "Alamat": "Jalan Raya Barat Wangon",
+    "Kelurahan": "Wangon",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "29",
+    "NPSN": "20301709",
+    "Nama Sekolah": "Sekolah Dasar Negeri 2 Windunegara Kecamatan Wangon",
+    "Alamat": "Windunegara",
+    "Kelurahan": "Windunegara",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "30",
+    "NPSN": "20338193",
+    "Nama Sekolah": "Sekolah Dasar Negeri 2 Wlahar Kecamatan Wangon",
+    "Alamat": "Jl. Desa Wlahar RT 01 RW02",
+    "Kelurahan": "Wlahar",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "31",
+    "NPSN": "20301825",
+    "Nama Sekolah": "Sekolah Dasar Negeri 3 Banteran Kecamatan Wangon",
+    "Alamat": "Banteran",
+    "Kelurahan": "Banteran",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "32",
+    "NPSN": "20301828",
+    "Nama Sekolah": "Sekolah Dasar Negeri 3 Cikakak Kecamatan Wangon",
+    "Alamat": "Planjan Rt 02 Rw 09",
+    "Kelurahan": "Cikakak",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "33",
+    "NPSN": "20338194",
+    "Nama Sekolah": "Sekolah Dasar Negeri 3 Jambu Kecamatan Wangon",
+    "Alamat": "Jl. Blumbang RT 02/RW 04 Desa Jambu",
+    "Kelurahan": "Jambu",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "34",
+    "NPSN": "20301796",
+    "Nama Sekolah": "Sekolah Dasar Negeri 3 Klapagading Kecamatan Wangon",
+    "Alamat": "Klapagading",
+    "Kelurahan": "Klapagading",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "35",
+    "NPSN": "20301573",
+    "Nama Sekolah": "Sekolah Dasar Negeri 3 Pengadegan Kecamatan Wangon",
+    "Alamat": "Pengadegan",
+    "Kelurahan": "Pangadegan",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "36",
+    "NPSN": "20301590",
+    "Nama Sekolah": "Sekolah Dasar Negeri 3 Rancabanteng Kecamatan Wangon",
+    "Alamat": "Jalan Citomo Klapagading",
+    "Kelurahan": "Klapagading",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "37",
+    "NPSN": "20301591",
+    "Nama Sekolah": "Sekolah Dasar Negeri 3 Rawaheng Kecamatan Wangon",
+    "Alamat": "Rawaheng Rt 3 Rw 5",
+    "Kelurahan": "Rawaheng",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "38",
+    "NPSN": "20301616",
+    "Nama Sekolah": "Sekolah Dasar Negeri 3 Wangon Kecamatan Wangon",
+    "Alamat": "Wangon Rt. 02 Rw. 04",
+    "Kelurahan": "Wangon",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "39",
+    "NPSN": "20301608",
+    "Nama Sekolah": "Sekolah Dasar Negeri 4 Pengadegan Kecamatan Wangon",
+    "Alamat": "Pengadegan Rt 2 Rw 8",
+    "Kelurahan": "Pangadegan",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "40",
+    "NPSN": "20301675",
+    "Nama Sekolah": "Sekolah Dasar Negeri 4 Wangon Kecamatan Wangon",
+    "Alamat": "Jl. Raya Barat Wangon",
+    "Kelurahan": "Wangon",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "41",
+    "NPSN": "20301606",
+    "Nama Sekolah": "Sekolah Dasar Negeri 5 Wangon Kecamatan Wangon",
+    "Alamat": "Jalan Slatri Rt. 03 Rw. 016",
+    "Kelurahan": "Wangon",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "42",
+    "NPSN": "20302065",
+    "Nama Sekolah": "Sekolah Dasar Negeri Kalipetung Kecamatan Wangon",
+    "Alamat": "Jl. Ke Ranjingan No. 01, Kalipetung",
+    "Kelurahan": "Klapagading",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "43",
+    "NPSN": "20338197",
+    "Nama Sekolah": "Sekolah Dasar Negeri Karangtawang Kecamatan Wangon",
+    "Alamat": "Karangtawang, Banteran Rt 01 Rw 03",
+    "Kelurahan": "Banteran",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "44",
+    "NPSN": "20302040",
+    "Nama Sekolah": "Sekolah Dasar Negeri Pekodokan Kecamatan Wangon",
+    "Alamat": "Pekodokan Rt 02/06",
+    "Kelurahan": "Wlahar",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "45",
+    "NPSN": "20302838",
+    "Nama Sekolah": "Sekolah Dasar Negeri Ranjingan Kecamatan Wangon",
+    "Alamat": "Rt 03 Rw 09 Ranjingan",
+    "Kelurahan": "Klapagading Kulon",
+    "Status": "NEGERI"
+  }
+]

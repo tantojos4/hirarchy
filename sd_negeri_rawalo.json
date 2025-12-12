@@ -1,0 +1,178 @@
+[
+  {
+    "No": "1",
+    "NPSN": "20302231",
+    "Nama Sekolah": "Sekolah Dasar Negeri 1 Banjarparakan Kecamatan Rawalo",
+    "Alamat": "Jl. Brigjen Hm. Bachroen no 09",
+    "Kelurahan": "Banjarparakan",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "2",
+    "NPSN": "20302719",
+    "Nama Sekolah": "Sekolah Dasar Negeri 1 Locondong Kecamatan Rawalo",
+    "Alamat": "Locondong Rt. 02 / 04",
+    "Kelurahan": "Losari",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "3",
+    "NPSN": "20302720",
+    "Nama Sekolah": "Sekolah Dasar Negeri 1 Losari Kecamatan Rawalo",
+    "Alamat": "Jl. Jendreral Soedirman Losari No. 28",
+    "Kelurahan": "Losari",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "4",
+    "NPSN": "20302850",
+    "Nama Sekolah": "Sekolah Dasar Negeri 1 Rawalo Kecamatan Rawalo",
+    "Alamat": "Jl. Brigjen Hm. Bachrun",
+    "Kelurahan": "Rawalo",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "5",
+    "NPSN": "20302868",
+    "Nama Sekolah": "Sekolah Dasar Negeri 1 Sanggreman Kecamatan Rawalo",
+    "Alamat": "Sanggreman",
+    "Kelurahan": "Sanggreman",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "6",
+    "NPSN": "20302854",
+    "Nama Sekolah": "Sekolah Dasar Negeri 1 Sidamulih Kecamatan Rawalo",
+    "Alamat": "Sidamulih Rt. 04 / 03",
+    "Kelurahan": "Sidamulih",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "7",
+    "NPSN": "20302793",
+    "Nama Sekolah": "Sekolah Dasar Negeri 1 Tambaknegara Kecamatan Rawalo",
+    "Alamat": "Tambaknegara RT  05 RW 01",
+    "Kelurahan": "Tambaknegara",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "8",
+    "NPSN": "20302810",
+    "Nama Sekolah": "Sekolah Dasar Negeri 1 Tipar Kecamatan Rawalo",
+    "Alamat": "Rt. 03 / 06",
+    "Kelurahan": "Tipar",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "9",
+    "NPSN": "20302705",
+    "Nama Sekolah": "Sekolah Dasar Negeri 2 Banjarparakan Kecamatan Rawalo",
+    "Alamat": "Jl. Brigjen Hm Bachrun",
+    "Kelurahan": "Banjarparakan",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "10",
+    "NPSN": "20302626",
+    "Nama Sekolah": "Sekolah Dasar Negeri 2 Losari Kecamatan Rawalo",
+    "Alamat": "Jl. Akbp Dikin Kartowiyoto No. 25",
+    "Kelurahan": "Losari",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "11",
+    "NPSN": "20301762",
+    "Nama Sekolah": "Sekolah Dasar Negeri 2 Rawalo Kecamatan Rawalo",
+    "Alamat": "Jl. Brigjen Hm. Bachrun No. 18",
+    "Kelurahan": "Rawalo",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "12",
+    "NPSN": "20301749",
+    "Nama Sekolah": "Sekolah Dasar Negeri 2 Sanggreman Kecamatan Rawalo",
+    "Alamat": "Jl. Irigasi No. 03",
+    "Kelurahan": "Sanggreman",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "13",
+    "NPSN": "20301695",
+    "Nama Sekolah": "Sekolah Dasar Negeri 2 Sidamulih Kecamatan Rawalo",
+    "Alamat": "Sidamulih Rt. 01 / 05",
+    "Kelurahan": "Sidamulih",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "14",
+    "NPSN": "20301714",
+    "Nama Sekolah": "Sekolah Dasar Negeri 2 Tambaknegara Kecamatan Rawalo",
+    "Alamat": "Jl. Brigjen Hm. Bachrun",
+    "Kelurahan": "Tambaknegara",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "15",
+    "NPSN": "20301713",
+    "Nama Sekolah": "Sekolah Dasar Negeri 2 Tipar Kecamatan Rawalo",
+    "Alamat": "Dusun IV RT 03 RW 11",
+    "Kelurahan": "Tipar",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "16",
+    "NPSN": "20301592",
+    "Nama Sekolah": "Sekolah Dasar Negeri 3 Rawalo Kecamatan Rawalo",
+    "Alamat": "Jl. Brigjen Hm. Bachroen No. 06",
+    "Kelurahan": "Rawalo",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "17",
+    "NPSN": "20301586",
+    "Nama Sekolah": "Sekolah Dasar Negeri 3 Sanggreman Kecamatan Rawalo",
+    "Alamat": "Sanggreman RT 02 RW 12",
+    "Kelurahan": "Sanggreman",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "18",
+    "NPSN": "20301526",
+    "Nama Sekolah": "Sekolah Dasar Negeri 3 Tambaknegara Kecamatan Rawalo",
+    "Alamat": "Gerumbul Kaliwangi RT 01 RW VII Tambaknegara",
+    "Kelurahan": "Tambaknegara",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "19",
+    "NPSN": "20301523",
+    "Nama Sekolah": "Sekolah Dasar Negeri 3 Tipar Kecamatan Rawalo",
+    "Alamat": "Ds Tipar",
+    "Kelurahan": "Tipar",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "20",
+    "NPSN": "20301640",
+    "Nama Sekolah": "Sekolah Dasar Negeri 4 Rawalo Kecamatan Rawalo",
+    "Alamat": "Rawalo",
+    "Kelurahan": "Rawalo",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "21",
+    "NPSN": "20302723",
+    "Nama Sekolah": "Sekolah Dasar Negeri Menganti Kecamatan Rawalo",
+    "Alamat": "Menganti Rt. 03/02",
+    "Kelurahan": "Menganti",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "22",
+    "NPSN": "20302042",
+    "Nama Sekolah": "Sekolah Dasar Negeri Pesawahan Kecamatan Rawalo",
+    "Alamat": "JALAN LINGKAR BARAT DESA PESAWAHAN",
+    "Kelurahan": "Pesawahan",
+    "Status": "NEGERI"
+  }
+]

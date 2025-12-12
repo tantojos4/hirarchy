@@ -1,0 +1,226 @@
+[
+  {
+    "No": "1",
+    "NPSN": "20302207",
+    "Nama Sekolah": "Sekolah Dasar Negeri 1 Bantarwuni Kecamatan Kembaran",
+    "Alamat": "Jl Perintis Kemerdekaan No 33",
+    "Kelurahan": "Bantarwuni",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "2",
+    "NPSN": "20302332",
+    "Nama Sekolah": "Sekolah Dasar Negeri 1 Bojongsari Kecamatan Kembaran",
+    "Alamat": "Jln. Raya Desa Bojongsari",
+    "Kelurahan": "Bojongsari",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "3",
+    "NPSN": "20302367",
+    "Nama Sekolah": "Sekolah Dasar Negeri 1 Dukuhwaluh Kecamatan Kembaran",
+    "Alamat": "Jl. Raden Patah N0 1",
+    "Kelurahan": "Dukuhwaluh",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "4",
+    "NPSN": "20302718",
+    "Nama Sekolah": "Sekolah Dasar Negeri 1 Linggasari Kecamatan Kembaran",
+    "Alamat": "Jln. Mayor Broto Siswoyo No. 2",
+    "Kelurahan": "Linggasari",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "5",
+    "NPSN": "20302845",
+    "Nama Sekolah": "Sekolah Dasar Negeri 1 Pliken Kecamatan Kembaran",
+    "Alamat": "Pliken, Rt 5 Rw 2",
+    "Kelurahan": "Pliken",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "6",
+    "NPSN": "20302846",
+    "Nama Sekolah": "Sekolah Dasar Negeri 1 Purbadana Kecamatan Kembaran",
+    "Alamat": "Purbadana, Rt 05 Rw. 02",
+    "Kelurahan": "Purbadana",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "7",
+    "NPSN": "20302864",
+    "Nama Sekolah": "Sekolah Dasar Negeri 1 Sambeng Kulon Kecamatan Kembaran",
+    "Alamat": "Jl Raya Sambeng Kulon No 5 RT 02 RW 01",
+    "Kelurahan": "Sambeng Kulon",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "8",
+    "NPSN": "20302594",
+    "Nama Sekolah": "Sekolah Dasar Negeri 2 Bantarwuni Kecamatan Kembaran",
+    "Alamat": "Jl. Raya Bantarwuni RT 04 RW 03",
+    "Kelurahan": "Bantarwuni",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "9",
+    "NPSN": "20301811",
+    "Nama Sekolah": "Sekolah Dasar Negeri 2 Bojongsari Kecamatan Kembaran",
+    "Alamat": "Bojongsari, RT 05/01",
+    "Kelurahan": "Bojongsari",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "10",
+    "NPSN": "20302620",
+    "Nama Sekolah": "Sekolah Dasar Negeri 2 Dukuhwaluh Kecamatan Kembaran",
+    "Alamat": "Dukuhwaluh",
+    "Kelurahan": "Dukuhwaluh",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "11",
+    "NPSN": "20302624",
+    "Nama Sekolah": "Sekolah Dasar Negeri 2 Linggasari Kecamatan Kembaran",
+    "Alamat": "Linggasari",
+    "Kelurahan": "Linggasari",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "12",
+    "NPSN": "20301656",
+    "Nama Sekolah": "Sekolah Dasar Negeri 2 Pliken Kecamatan Kembaran",
+    "Alamat": "Jl.Imam Bonjol No. 4",
+    "Kelurahan": "Pliken",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "13",
+    "NPSN": "20301727",
+    "Nama Sekolah": "Sekolah Dasar Negeri 2 Purbadana Kecamatan Kembaran",
+    "Alamat": "Purbadana, Rt 03. Rw 02",
+    "Kelurahan": "Purbadana",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "14",
+    "NPSN": "20301745",
+    "Nama Sekolah": "Sekolah Dasar Negeri 2 Sambeng Kulon Kecamatan Kembaran",
+    "Alamat": "Sambeng Kulon",
+    "Kelurahan": "Sambeng Kulon",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "15",
+    "NPSN": "20301838",
+    "Nama Sekolah": "Sekolah Dasar Negeri 3 Dukuhwaluh Kecamatan Kembaran",
+    "Alamat": "Jl.sunan Bonang 10",
+    "Kelurahan": "Dukuhwaluh",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "16",
+    "NPSN": "20301806",
+    "Nama Sekolah": "Sekolah Dasar Negeri 3 Linggasari Kecamatan Kembaran",
+    "Alamat": "Jalan Raya Karangmiri Linggasari",
+    "Kelurahan": "Linggasari",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "17",
+    "NPSN": "20301561",
+    "Nama Sekolah": "Sekolah Dasar Negeri 3 Pliken Kecamatan Kembaran",
+    "Alamat": "Jl. Imam Bonjol No.819  Rt 03 Rw 06",
+    "Kelurahan": "Pliken",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "18",
+    "NPSN": "20301546",
+    "Nama Sekolah": "Sekolah Dasar Negeri 4 Dukuhwaluh Kecamatan Kembaran",
+    "Alamat": "Jl. Sunan Bonang",
+    "Kelurahan": "Dukuhwaluh",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "19",
+    "NPSN": "20302086",
+    "Nama Sekolah": "Sekolah Dasar Negeri Karangsari Kecamatan Kembaran",
+    "Alamat": "Jln. K.H. Ahmad Dahlan",
+    "Kelurahan": "Karangsari",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "20",
+    "NPSN": "20302099",
+    "Nama Sekolah": "Sekolah Dasar Negeri Karangsoka Kecamatan Kembaran",
+    "Alamat": "Jl. Raya Karangsoka",
+    "Kelurahan": "Karangsoka",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "21",
+    "NPSN": "20302284",
+    "Nama Sekolah": "Sekolah Dasar Negeri Karangtengah Kecamatan Kembaran",
+    "Alamat": "Karangtengah",
+    "Kelurahan": "Karangtengah",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "22",
+    "NPSN": "20302768",
+    "Nama Sekolah": "Sekolah Dasar Negeri Kembaran Kecamatan Kembaran",
+    "Alamat": "Jalan Raya No. 08 Kembaran",
+    "Kelurahan": "Kembaran",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "23",
+    "NPSN": "20302027",
+    "Nama Sekolah": "Sekolah Dasar Negeri Kramat Kecamatan Kembaran",
+    "Alamat": "Jln. Balai Desa No. 1 Kramat",
+    "Kelurahan": "Kramat",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "24",
+    "NPSN": "20302020",
+    "Nama Sekolah": "Sekolah Dasar Negeri Larangan Kecamatan Kembaran",
+    "Alamat": "Jln. Kecamatan No. 3 Kembaran",
+    "Kelurahan": "Kembaran",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "25",
+    "NPSN": "20302022",
+    "Nama Sekolah": "Sekolah Dasar Negeri Ledug Kecamatan Kembaran",
+    "Alamat": "Jl. Purnawira 1",
+    "Kelurahan": "Ledug",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "26",
+    "NPSN": "20302044",
+    "Nama Sekolah": "Sekolah Dasar Negeri Purwodadi Kecamatan Kembaran",
+    "Alamat": "Purwodadi",
+    "Kelurahan": "Purwodadi",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "27",
+    "NPSN": "20302045",
+    "Nama Sekolah": "Sekolah Dasar Negeri Sambeng Wetan Kecamatan Kembaran",
+    "Alamat": "Sambeng Wetan",
+    "Kelurahan": "Sambeng Wetan",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "28",
+    "NPSN": "20302794",
+    "Nama Sekolah": "Sekolah Dasar Negeri Tambaksari Kecamatan Kembaran",
+    "Alamat": "Jl. Sunan Bonang",
+    "Kelurahan": "Tambaksari",
+    "Status": "NEGERI"
+  }
+]

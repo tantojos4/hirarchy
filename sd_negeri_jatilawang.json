@@ -1,0 +1,290 @@
+[
+  {
+    "No": "1",
+    "NPSN": "20302203",
+    "Nama Sekolah": "Sekolah Dasar Negeri 1 Adisara Kecamatan Jatilawang",
+    "Alamat": "Jl. Raya Adisara",
+    "Kelurahan": "Adisara",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "2",
+    "NPSN": "20302214",
+    "Nama Sekolah": "Sekolah Dasar Negeri 1 Bantar Kecamatan Jatilawang",
+    "Alamat": "Jalan Wijahan-Bantar, RT 05 RW 01, Kec. Jatilawang",
+    "Kelurahan": "Bantar",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "3",
+    "NPSN": "20302357",
+    "Nama Sekolah": "Sekolah Dasar Negeri 1 Gunungwetan Kecamatan Jatilawang",
+    "Alamat": "Jln.Balaidesa No.2 RT 02 RW 02 Kec.Jatilawang",
+    "Kelurahan": "Gunung Wetan",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "4",
+    "NPSN": "20302277",
+    "Nama Sekolah": "Sekolah Dasar Negeri 1 Jatilawang Kecamatan Jatilawang",
+    "Alamat": "Jl. Pramuka No. 1",
+    "Kelurahan": "Tunjung",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "5",
+    "NPSN": "20302280",
+    "Nama Sekolah": "Sekolah Dasar Negeri 1 Karanganyar Kecamatan Jatilawang",
+    "Alamat": "Rt. 05 Rw. 2",
+    "Kelurahan": "Karanganyar",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "6",
+    "NPSN": "20302307",
+    "Nama Sekolah": "Sekolah Dasar Negeri 1 Karanglewas Kecamatan Jatilawang",
+    "Alamat": "Rt. 05 Rw. I",
+    "Kelurahan": "Karanglewas",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "7",
+    "NPSN": "20302754",
+    "Nama Sekolah": "Sekolah Dasar Negeri 1 Kedungwringin Kecamatan Jatilawang",
+    "Alamat": "Jetak, Rt 06/Rw 05",
+    "Kelurahan": "Kedungwringin",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "8",
+    "NPSN": "20302709",
+    "Nama Sekolah": "Sekolah Dasar Negeri 1 Pagentan Kecamatan Jatilawang",
+    "Alamat": "Jl. Pramuka No 02 Gentawangi Kec Jatilawang",
+    "Kelurahan": "Gentawangi",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "9",
+    "NPSN": "20355421",
+    "Nama Sekolah": "Sekolah Dasar Negeri 1 Pekuncen Kecamatan Jatilawang",
+    "Alamat": "Jl. Raya Pekuncen",
+    "Kelurahan": "Pekuncen",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "10",
+    "NPSN": "20302809",
+    "Nama Sekolah": "Sekolah Dasar Negeri 1 Tinggarjaya Kecamatan Jatilawang",
+    "Alamat": "Jl. Raya Tinggarjaya",
+    "Kelurahan": "Tinggarjaya",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "11",
+    "NPSN": "20302152",
+    "Nama Sekolah": "Sekolah Dasar Negeri 1 Tinggarwangi Kecamatan Jatilawang",
+    "Alamat": "Jl. Raya Gentawangi No. 15",
+    "Kelurahan": "Gentawangi",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "12",
+    "NPSN": "20302820",
+    "Nama Sekolah": "Sekolah Dasar Negeri 2 Adisara Kecamatan Jatilawang",
+    "Alamat": "Jl. Lapangan",
+    "Kelurahan": "Adisara",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "13",
+    "NPSN": "20302592",
+    "Nama Sekolah": "Sekolah Dasar Negeri 2 Bantar Kecamatan Jatilawang",
+    "Alamat": "Rt.10 Rw.v",
+    "Kelurahan": "Bantar",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "14",
+    "NPSN": "20302547",
+    "Nama Sekolah": "Sekolah Dasar Negeri 2 Gunungwetan Kecamatan Jatilawang",
+    "Alamat": "Jl. Watu Gupit No. 5",
+    "Kelurahan": "Gunung Wetan",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "15",
+    "NPSN": "20302539",
+    "Nama Sekolah": "Sekolah Dasar Negeri 2 Jatilawang Kecamatan Jatilawang",
+    "Alamat": "Jl. Muktisari No. 1",
+    "Kelurahan": "Tunjung",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "16",
+    "NPSN": "20341609",
+    "Nama Sekolah": "Sekolah Dasar Negeri 2 Karanganyar Kecamatan Jatilawang",
+    "Alamat": "Jalan Wiryo Suwito RT.03 Rw.02",
+    "Kelurahan": "Karanganyar",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "17",
+    "NPSN": "20302676",
+    "Nama Sekolah": "Sekolah Dasar Negeri 2 Karanglewas Kecamatan Jatilawang",
+    "Alamat": "Dusun Rau",
+    "Kelurahan": "Karanglewas",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "18",
+    "NPSN": "20355451",
+    "Nama Sekolah": "Sekolah Dasar Negeri 2 Kedungwringin Kecamatan Jatilawang",
+    "Alamat": "JL PEMUDA II",
+    "Kelurahan": "Kedungwringin",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "19",
+    "NPSN": "20354395",
+    "Nama Sekolah": "Sekolah Dasar Negeri 2 Pekuncen Kecamatan Jatilawang",
+    "Alamat": "Jalan Raya Pekuncen",
+    "Kelurahan": "Pekuncen",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "20",
+    "NPSN": "20301721",
+    "Nama Sekolah": "Sekolah Dasar Negeri 2 Tinggarjaya Kecamatan Jatilawang",
+    "Alamat": "Jl. Raya Tinggarjaya",
+    "Kelurahan": "Tinggarjaya",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "21",
+    "NPSN": "20301720",
+    "Nama Sekolah": "Sekolah Dasar Negeri 2 Tinggarwangi Kecamatan Jatilawang",
+    "Alamat": "Jl. Soewarno No. 25 Gentawangi, Rt 07 Rw 05",
+    "Kelurahan": "Gentawangi",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "22",
+    "NPSN": "20301722",
+    "Nama Sekolah": "Sekolah Dasar Negeri 3 Adisara Kecamatan Jatilawang",
+    "Alamat": "Jalan Sekolahan",
+    "Kelurahan": "Adisara",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "23",
+    "NPSN": "20301832",
+    "Nama Sekolah": "Sekolah Dasar Negeri 3 Gunungwetan Kecamatan Jatilawang",
+    "Alamat": "Jl. Kaliduren",
+    "Kelurahan": "Gunung Wetan",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "24",
+    "NPSN": "20301834",
+    "Nama Sekolah": "Sekolah Dasar Negeri 3 Jatilawang Kecamatan Jatilawang",
+    "Alamat": "Jl. Pramuka Jatilawang",
+    "Kelurahan": "Tunjung",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "25",
+    "NPSN": "20301803",
+    "Nama Sekolah": "Sekolah Dasar Negeri 3 Kedungwringin Kecamatan Jatilawang",
+    "Alamat": "Jl. Sanya-Pekeseran",
+    "Kelurahan": "Kedungwringin",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "26",
+    "NPSN": "20341606",
+    "Nama Sekolah": "Sekolah Dasar Negeri 3 Pekuncen Kecamatan Jatilawang",
+    "Alamat": "Jl.Balai Desa no.2 Pekuncen Kecamatan Jatilawang",
+    "Kelurahan": "Pekuncen",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "27",
+    "NPSN": "20301531",
+    "Nama Sekolah": "Sekolah Dasar Negeri 3 Tinggarjaya Kecamatan Jatilawang",
+    "Alamat": "Rt. 04  Rw. 01",
+    "Kelurahan": "Tinggarjaya",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "28",
+    "NPSN": "20301550",
+    "Nama Sekolah": "Sekolah Dasar Negeri 4 Gunungwetan Kecamatan Jatilawang",
+    "Alamat": "Jl. Desa Gunungwetan",
+    "Kelurahan": "Gunung Wetan",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "29",
+    "NPSN": "20301551",
+    "Nama Sekolah": "Sekolah Dasar Negeri 4 Jatilawang Kecamatan Jatilawang",
+    "Alamat": "Jl. Raya Tunjung Jatilawang",
+    "Kelurahan": "Tunjung",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "30",
+    "NPSN": "20301541",
+    "Nama Sekolah": "Sekolah Dasar Negeri 4 Kedungwringin Kecamatan Jatilawang",
+    "Alamat": "Jl. Raya Kaligusur",
+    "Kelurahan": "Kedungwringin",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "31",
+    "NPSN": "20301664",
+    "Nama Sekolah": "Sekolah Dasar Negeri 5 Kedungwringin Kecamatan Jatilawang",
+    "Alamat": "Jl. Kamal Jetak",
+    "Kelurahan": "Kedungwringin",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "32",
+    "NPSN": "20302073",
+    "Nama Sekolah": "Sekolah Dasar Negeri Gendurek Kecamatan Jatilawang",
+    "Alamat": "Rt. 01 Rw.06",
+    "Kelurahan": "Tunjung",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "33",
+    "NPSN": "20302030",
+    "Nama Sekolah": "Sekolah Dasar Negeri Karangwangkal Kecamatan Jatilawang",
+    "Alamat": "Karangwangkal",
+    "Kelurahan": "Bantar",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "34",
+    "NPSN": "20302038",
+    "Nama Sekolah": "Sekolah Dasar Negeri Margasana Kecamatan Jatilawang",
+    "Alamat": "Jl. Raya Margasana Rt. 05 Rw.1",
+    "Kelurahan": "Margasana",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "35",
+    "NPSN": "20302145",
+    "Nama Sekolah": "Sekolah Dasar Negeri Tunjung Kulon Kecamatan Jatilawang",
+    "Alamat": "Jl. Mugi Rahayu RT 02 RW 01 Desa Tunjung",
+    "Kelurahan": "Tunjung",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "36",
+    "NPSN": "20355426",
+    "Nama Sekolah": "Sekolah Dasar Negeri Tunjung Lor Kecamatan Jatilawang",
+    "Alamat": "Jalan Desa Tunjung No. 30 Dusun Tunjung Lor RT. 03 RW. 05",
+    "Kelurahan": "Tunjung",
+    "Status": "NEGERI"
+  }
+]

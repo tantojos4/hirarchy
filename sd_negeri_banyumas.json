@@ -1,0 +1,250 @@
+[
+  {
+    "No": "1",
+    "NPSN": "20302318",
+    "Nama Sekolah": "Sekolah Dasar Negeri 1 Binangun Kecamatan Banyumas",
+    "Alamat": "Jl Binangun",
+    "Kelurahan": "Binangun",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "2",
+    "NPSN": "20302303",
+    "Nama Sekolah": "Sekolah Dasar Negeri 1 Karangrau Kecamatan Banyumas",
+    "Alamat": "Jl PTPN IX Kebun Krumput Banyumas",
+    "Kelurahan": "Karangrau",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "3",
+    "NPSN": "20302351",
+    "Nama Sekolah": "Sekolah Dasar Negeri 1 Kedunggede Kecamatan Banyumas",
+    "Alamat": "Jl. Rumah Sakit No.101 Rt 04 RW 01",
+    "Kelurahan": "Kedunggede",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "4",
+    "NPSN": "20302766",
+    "Nama Sekolah": "Sekolah Dasar Negeri 1 Kejawar Kecamatan Banyumas",
+    "Alamat": "Jl Raya Banyumas Buntu",
+    "Kelurahan": "Kejawar",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "5",
+    "NPSN": "20302740",
+    "Nama Sekolah": "Sekolah Dasar Negeri 1 Papringan Kecamatan Banyumas",
+    "Alamat": "Jl Raya Serayu No 465",
+    "Kelurahan": "Papringan",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "6",
+    "NPSN": "20302742",
+    "Nama Sekolah": "Sekolah Dasar Negeri 1 Pasinggangan Kecamatan Banyumas",
+    "Alamat": "Jalan Raya Pasinggangan",
+    "Kelurahan": "Pasinggangan",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "7",
+    "NPSN": "20302805",
+    "Nama Sekolah": "Sekolah Dasar Negeri 1 Sudagaran Kecamatan Banyumas",
+    "Alamat": "Jl Jenderal Gatot Subroto No 95 Banyumas",
+    "Kelurahan": "Sudagaran",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "8",
+    "NPSN": "20302582",
+    "Nama Sekolah": "Sekolah Dasar Negeri 2 Binangun Kecamatan Banyumas",
+    "Alamat": "Jalan Raya Binangun",
+    "Kelurahan": "Binangun",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "9",
+    "NPSN": "20302682",
+    "Nama Sekolah": "Sekolah Dasar Negeri 2 Karangrau Kecamatan Banyumas",
+    "Alamat": "Jl Raya Banyumas Buntu Km 5",
+    "Kelurahan": "Karangrau",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "10",
+    "NPSN": "20302699",
+    "Nama Sekolah": "Sekolah Dasar Negeri 2 Kedunggede Kecamatan Banyumas",
+    "Alamat": "Balai Desa No. 11",
+    "Kelurahan": "Kedunggede",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "11",
+    "NPSN": "20302686",
+    "Nama Sekolah": "Sekolah Dasar Negeri 2 Kejawar Kecamatan Banyumas",
+    "Alamat": "Jln. Masjid No. 36 Kejawar",
+    "Kelurahan": "Kejawar",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "12",
+    "NPSN": "20302645",
+    "Nama Sekolah": "Sekolah Dasar Negeri 2 Papringan Kecamatan Banyumas",
+    "Alamat": "Jalan Jaya Sirayu",
+    "Kelurahan": "Papringan",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "13",
+    "NPSN": "20302647",
+    "Nama Sekolah": "Sekolah Dasar Negeri 2 Pasinggangan Kecamatan Banyumas",
+    "Alamat": "Jl Kaligolong Banjat",
+    "Kelurahan": "Pasinggangan",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "14",
+    "NPSN": "20301686",
+    "Nama Sekolah": "Sekolah Dasar Negeri 2 Sudagaran Kecamatan Banyumas",
+    "Alamat": "Jl Sekolahan No. 521 Alun-alun Banyumas",
+    "Kelurahan": "Sudagaran",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "15",
+    "NPSN": "20301808",
+    "Nama Sekolah": "Sekolah Dasar Negeri 3 Binangun Kecamatan Banyumas",
+    "Alamat": "Binangun",
+    "Kelurahan": "Binangun",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "16",
+    "NPSN": "20301768",
+    "Nama Sekolah": "Sekolah Dasar Negeri 3 Karangrau Kecamatan Banyumas",
+    "Alamat": "Jl Raya Banyumas-Buntu KM 4",
+    "Kelurahan": "Karangrau",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "17",
+    "NPSN": "20301804",
+    "Nama Sekolah": "Sekolah Dasar Negeri 3 Kejawar Kecamatan Banyumas",
+    "Alamat": "Grumbul Karangbajing Rt 01 Rw 04",
+    "Kelurahan": "Kejawar",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "18",
+    "NPSN": "20301565",
+    "Nama Sekolah": "Sekolah Dasar Negeri 3 Pasinggangan Kecamatan Banyumas",
+    "Alamat": "Jl Lapangan No. 1 Pasinggangan",
+    "Kelurahan": "Pasinggangan",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "19",
+    "NPSN": "20301584",
+    "Nama Sekolah": "Sekolah Dasar Negeri 3 Sudagaran Kecamatan Banyumas",
+    "Alamat": "Jl Pramuka No 42",
+    "Kelurahan": "Sudagaran",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "20",
+    "NPSN": "20301537",
+    "Nama Sekolah": "Sekolah Dasar Negeri 4 Karangrau Kecamatan Banyumas",
+    "Alamat": "Jl Surabakti KM.2",
+    "Kelurahan": "Karangrau",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "21",
+    "NPSN": "20301655",
+    "Nama Sekolah": "Sekolah Dasar Negeri 4 Pasinggangan Kecamatan Banyumas",
+    "Alamat": "Karangjati Pasinggangan",
+    "Kelurahan": "Pasinggangan",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "22",
+    "NPSN": "20301661",
+    "Nama Sekolah": "Sekolah Dasar Negeri 5 Karangrau Kecamatan Banyumas",
+    "Alamat": "Jl Surabakti No 11",
+    "Kelurahan": "Karangrau",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "23",
+    "NPSN": "20301597",
+    "Nama Sekolah": "Sekolah Dasar Negeri 5 Pasinggangan Kecamatan Banyumas",
+    "Alamat": "Pasinggangan Rt 2 Rw 07",
+    "Kelurahan": "Pasinggangan",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "24",
+    "NPSN": "20301623",
+    "Nama Sekolah": "Sekolah Dasar Negeri Curug Kecamatan Banyumas",
+    "Alamat": "Curug Binangun",
+    "Kelurahan": "Binangun",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "25",
+    "NPSN": "20301625",
+    "Nama Sekolah": "Sekolah Dasar Negeri Danaraja Kecamatan Banyumas",
+    "Alamat": "Jl Raya Banyumas Banjarnegara",
+    "Kelurahan": "Danaraja",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "26",
+    "NPSN": "20302364",
+    "Nama Sekolah": "Sekolah Dasar Negeri Dawuhan Kecamatan Banyumas",
+    "Alamat": "Jl Pesarehan Adipati Mrapat No.55",
+    "Kelurahan": "Dawuhan",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "27",
+    "NPSN": "20302068",
+    "Nama Sekolah": "Sekolah Dasar Negeri Kalibatur Kecamatan Banyumas",
+    "Alamat": "Kalibatur",
+    "Kelurahan": "Pasinggangan",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "28",
+    "NPSN": "20302079",
+    "Nama Sekolah": "Sekolah Dasar Negeri Kalisube Kecamatan Banyumas",
+    "Alamat": "Jl. Jaya Sirayu No.66 Kalisube",
+    "Kelurahan": "Kalisube",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "29",
+    "NPSN": "20302036",
+    "Nama Sekolah": "Sekolah Dasar Negeri Kedunguter Kecamatan Banyumas",
+    "Alamat": "Jl Karang Sawah No 524",
+    "Kelurahan": "Kedunguter",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "30",
+    "NPSN": "20302025",
+    "Nama Sekolah": "Sekolah Dasar Negeri Majingklak Kecamatan Banyumas",
+    "Alamat": "Jl Jaya Sirayu Papringan",
+    "Kelurahan": "Papringan",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "31",
+    "NPSN": "20302052",
+    "Nama Sekolah": "Sekolah Dasar Negeri Pakunden Kecamatan Banyumas",
+    "Alamat": "Jl Jaya Sirayu No 59",
+    "Kelurahan": "Pekunden",
+    "Status": "NEGERI"
+  }
+]

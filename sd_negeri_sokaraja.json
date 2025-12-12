@@ -1,0 +1,226 @@
+[
+  {
+    "No": "2",
+    "NPSN": "20302219",
+    "Nama Sekolah": "Sekolah Dasar Negeri 1 Banjaranyar Kecamatan Sokaraja",
+    "Alamat": "Jl. Brawijaya",
+    "Kelurahan": "Banjaranyar",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "3",
+    "NPSN": "20302297",
+    "Nama Sekolah": "Sekolah Dasar Negeri 1 Karangduren Kecamatan Sokaraja",
+    "Alamat": "Jl. Perum Karen Indah No. 1",
+    "Kelurahan": "Karangduren",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "4",
+    "NPSN": "20302314",
+    "Nama Sekolah": "Sekolah Dasar Negeri 1 Karangkedawung Kecamatan Sokaraja",
+    "Alamat": "Jl. Pramuka No. 2",
+    "Kelurahan": "Karangkedawung",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "5",
+    "NPSN": "20302301",
+    "Nama Sekolah": "Sekolah Dasar Negeri 1 Karangnanas Kecamatan Sokaraja",
+    "Alamat": "Jln. Protokol No 15",
+    "Kelurahan": "Karangnanas",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "6",
+    "NPSN": "20302712",
+    "Nama Sekolah": "Sekolah Dasar Negeri 1 Pamijen Kecamatan Sokaraja",
+    "Alamat": "Jl.Diponegoro no.63 Pamijen Sokaraja",
+    "Kelurahan": "Pamijen",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "7",
+    "NPSN": "20302858",
+    "Nama Sekolah": "Sekolah Dasar Negeri 1 Sokaraja Kulon Kecamatan Sokaraja",
+    "Alamat": "Jl. Kertadirjan",
+    "Kelurahan": "Sokaraja Kulon",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "8",
+    "NPSN": "20302859",
+    "Nama Sekolah": "Sekolah Dasar Negeri 1 Sokaraja Tengah Kecamatan Sokaraja",
+    "Alamat": "Jl. Munthuk No. 5",
+    "Kelurahan": "Sokaraja Tengah",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "9",
+    "NPSN": "20302860",
+    "Nama Sekolah": "Sekolah Dasar Negeri 1 Sokaraja Wetan Kecamatan Sokaraja",
+    "Alamat": "Jl. Jend. Suprapto No. 29  Sokaraja",
+    "Kelurahan": "Sokaraja Wetan",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "10",
+    "NPSN": "20302818",
+    "Nama Sekolah": "Sekolah Dasar Negeri 2 Banjaranyar Kecamatan Sokaraja",
+    "Alamat": "Jl. Brawijaya No. 001  RT 02  RW 05",
+    "Kelurahan": "Banjaranyar",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "11",
+    "NPSN": "20302562",
+    "Nama Sekolah": "Sekolah Dasar Negeri 2 Karangduren Kecamatan Sokaraja",
+    "Alamat": "Karangduren",
+    "Kelurahan": "Karangduren",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "12",
+    "NPSN": "20302579",
+    "Nama Sekolah": "Sekolah Dasar Negeri 2 Karangkedawung Kecamatan Sokaraja",
+    "Alamat": "Rt. 04 / Rw. 01 Jl. Menteri Soepeno No. 135",
+    "Kelurahan": "Karangkedawung",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "13",
+    "NPSN": "20302680",
+    "Nama Sekolah": "Sekolah Dasar Negeri 2 Karangnanas Kecamatan Sokaraja",
+    "Alamat": "Jl. Sultan Agung No.123",
+    "Kelurahan": "Karangnanas",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "14",
+    "NPSN": "20302704",
+    "Nama Sekolah": "Sekolah Dasar Negeri 2 Klahang Kecamatan Sokaraja",
+    "Alamat": "Klahang",
+    "Kelurahan": "Klahang",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "15",
+    "NPSN": "20302657",
+    "Nama Sekolah": "Sekolah Dasar Negeri 2 Pamijen Kecamatan Sokaraja",
+    "Alamat": "Jl. Tonjong",
+    "Kelurahan": "Pamijen",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "16",
+    "NPSN": "20301699",
+    "Nama Sekolah": "Sekolah Dasar Negeri 2 Sokaraja Kulon Kecamatan Sokaraja",
+    "Alamat": "Jl. Pramuka No. 667",
+    "Kelurahan": "Sokaraja Kulon",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "17",
+    "NPSN": "20302161",
+    "Nama Sekolah": "Sekolah Dasar Negeri 2 Sokaraja Tengah Kecamatan Sokaraja",
+    "Alamat": "Jl. Krida Mandala No. 17",
+    "Kelurahan": "Sokaraja Tengah",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "18",
+    "NPSN": "20301700",
+    "Nama Sekolah": "Sekolah Dasar Negeri 2 Sokaraja Wetan Kecamatan Sokaraja",
+    "Alamat": "Jl. Achmad Khujeri",
+    "Kelurahan": "Sokaraja Wetan",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "19",
+    "NPSN": "20301767",
+    "Nama Sekolah": "Sekolah Dasar Negeri 3 Karangnanas Kecamatan Sokaraja",
+    "Alamat": "Jl. Watugilang",
+    "Kelurahan": "Karangnanas",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "20",
+    "NPSN": "20301581",
+    "Nama Sekolah": "Sekolah Dasar Negeri 3 Sokaraja Kulon Kecamatan Sokaraja",
+    "Alamat": "Jl. Pramuka No. 667",
+    "Kelurahan": "Sokaraja Kulon",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "21",
+    "NPSN": "20301628",
+    "Nama Sekolah": "Sekolah Dasar Negeri Banjarsari Kidul Kecamatan Sokaraja",
+    "Alamat": "Banjarsari Kidul",
+    "Kelurahan": "Banjarsari Kidul",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "22",
+    "NPSN": "20302069",
+    "Nama Sekolah": "Sekolah Dasar Negeri Jompo Kulon Kecamatan Sokaraja",
+    "Alamat": "Jl. Raya Jompo Kulon",
+    "Kelurahan": "Jompo Kulon",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "23",
+    "NPSN": "20302064",
+    "Nama Sekolah": "Sekolah Dasar Negeri Kalikidang Kecamatan Sokaraja",
+    "Alamat": "Rt. 01 / Rw. 04 Jl. Desa Kalikidang",
+    "Kelurahan": "Kalikidang",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "24",
+    "NPSN": "20302084",
+    "Nama Sekolah": "Sekolah Dasar Negeri Karangrau Kecamatan Sokaraja",
+    "Alamat": "Jl. Balai Desa No. 1",
+    "Kelurahan": "Karangrau",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "25",
+    "NPSN": "20302035",
+    "Nama Sekolah": "Sekolah Dasar Negeri Kedondong Kecamatan Sokaraja",
+    "Alamat": "Rt. 04 / Rw. 02",
+    "Kelurahan": "Kedondong",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "26",
+    "NPSN": "20302024",
+    "Nama Sekolah": "Sekolah Dasar Negeri Lemberang Kecamatan Sokaraja",
+    "Alamat": "Desa Lemberang Rt 03 Rw 04",
+    "Kelurahan": "Lemberang",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "27",
+    "NPSN": "20302159",
+    "Nama Sekolah": "Sekolah Dasar Negeri Sokaraja Kidul Kecamatan Sokaraja",
+    "Alamat": "Jl. Nakula No. 55",
+    "Kelurahan": "Sokaraja Kidul",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "28",
+    "NPSN": "20302160",
+    "Nama Sekolah": "Sekolah Dasar Negeri Sokaraja Lor Kecamatan Sokaraja",
+    "Alamat": "Jl. Kauman Baru",
+    "Kelurahan": "Sokaraja Lor",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "29",
+    "NPSN": "20302149",
+    "Nama Sekolah": "Sekolah Dasar Negeri Wiradadi Kecamatan Sokaraja",
+    "Alamat": "Jl. Desa Wiradadi",
+    "Kelurahan": "Wiradadi",
+    "Status": "NEGERI"
+  }
+]

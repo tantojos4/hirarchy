@@ -1,0 +1,170 @@
+[
+  {
+    "No": "1",
+    "NPSN": "20302292",
+    "Nama Sekolah": "Sekolah Dasar Negeri 1 Kalibagor Kecamatan Kalibagor",
+    "Alamat": "Jl. Siliwangi 1142",
+    "Kelurahan": "Kalibagor",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "2",
+    "NPSN": "20302294",
+    "Nama Sekolah": "Sekolah Dasar Negeri 1 Kaliori Kecamatan Kalibagor",
+    "Alamat": "Jl Wogen Kaliori Rt 07 Rw 06",
+    "Kelurahan": "Kaliori",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "3",
+    "NPSN": "20302711",
+    "Nama Sekolah": "Sekolah Dasar Negeri 1 Pajerukan Kecamatan Kalibagor",
+    "Alamat": "Pajerukan",
+    "Kelurahan": "Pajerukan",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "4",
+    "NPSN": "20302730",
+    "Nama Sekolah": "Sekolah Dasar Negeri 1 Pekaja Kecamatan Kalibagor",
+    "Alamat": "Jl. Depok Rt 06 Rw 01",
+    "Kelurahan": "Pekaja",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "5",
+    "NPSN": "20302831",
+    "Nama Sekolah": "Sekolah Dasar Negeri 1 Petir Kecamatan Kalibagor",
+    "Alamat": "Jl. Kalianja No. 1 Petir",
+    "Kelurahan": "Petir",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "6",
+    "NPSN": "20302804",
+    "Nama Sekolah": "Sekolah Dasar Negeri 1 Srowot Kecamatan Kalibagor",
+    "Alamat": "Jalan Bangin No 1",
+    "Kelurahan": "Srowot",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "7",
+    "NPSN": "20302544",
+    "Nama Sekolah": "Sekolah Dasar Negeri 2 Kalibagor Kecamatan Kalibagor",
+    "Alamat": "Jalan Suwarjono No 52",
+    "Kelurahan": "Kalibagor",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "8",
+    "NPSN": "20302557",
+    "Nama Sekolah": "Sekolah Dasar Negeri 2 Kaliori Kecamatan Kalibagor",
+    "Alamat": "Jalan Jendral Gatot Subroto Km 3",
+    "Kelurahan": "Kaliori",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "9",
+    "NPSN": "20302656",
+    "Nama Sekolah": "Sekolah Dasar Negeri 2 Pajerukan Kecamatan Kalibagor",
+    "Alamat": "Jl. Siliwangi",
+    "Kelurahan": "Pajerukan",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "10",
+    "NPSN": "20301736",
+    "Nama Sekolah": "Sekolah Dasar Negeri 2 Pekaja Kecamatan Kalibagor",
+    "Alamat": "Jl. Kyai Maulana",
+    "Kelurahan": "Pekaja",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "11",
+    "NPSN": "20301733",
+    "Nama Sekolah": "Sekolah Dasar Negeri 2 Petir Kecamatan Kalibagor",
+    "Alamat": "Jalan Kalianja",
+    "Kelurahan": "Petir",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "12",
+    "NPSN": "20301685",
+    "Nama Sekolah": "Sekolah Dasar Negeri 2 Srowot Kecamatan Kalibagor",
+    "Alamat": "Jl. Srowot Utara",
+    "Kelurahan": "Srowot",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "13",
+    "NPSN": "20301764",
+    "Nama Sekolah": "Sekolah Dasar Negeri 3 Kaliori Kecamatan Kalibagor",
+    "Alamat": "Jl. Raya Kaliori Patikraja No. 273",
+    "Kelurahan": "Kaliori",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "14",
+    "NPSN": "20301556",
+    "Nama Sekolah": "Sekolah Dasar Negeri 3 Pekaja Kecamatan Kalibagor",
+    "Alamat": "Jl. Gunung Waru",
+    "Kelurahan": "Pekaja",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "15",
+    "NPSN": "20301552",
+    "Nama Sekolah": "Sekolah Dasar Negeri 4 Kalibagor Kecamatan Kalibagor",
+    "Alamat": "Kalibagor",
+    "Kelurahan": "Kalibagor",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "16",
+    "NPSN": "20302061",
+    "Nama Sekolah": "Sekolah Dasar Negeri Kalicupak Kidul Kecamatan Kalibagor",
+    "Alamat": "Jl. Oter No. 220",
+    "Kelurahan": "Kalicupak Kidul",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "17",
+    "NPSN": "20302062",
+    "Nama Sekolah": "Sekolah Dasar Negeri Kalicupak Lor Kecamatan Kalibagor",
+    "Alamat": "Jl. Sekolahan 01",
+    "Kelurahan": "Kalicupak Lor",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "18",
+    "NPSN": "20302078",
+    "Nama Sekolah": "Sekolah Dasar Negeri Kalisogra Wetan Kecamatan Kalibagor",
+    "Alamat": "Jl. Suradiwirya No. 4",
+    "Kelurahan": "Kalisogra Wetan",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "19",
+    "NPSN": "20302096",
+    "Nama Sekolah": "Sekolah Dasar Negeri Karangdadap Kecamatan Kalibagor",
+    "Alamat": "Jl. Suwarjono Karangdadap",
+    "Kelurahan": "Karangdadap",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "20",
+    "NPSN": "20302799",
+    "Nama Sekolah": "Sekolah Dasar Negeri Suro Kecamatan Kalibagor",
+    "Alamat": "Jln. Siliwangi",
+    "Kelurahan": "Suro",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "21",
+    "NPSN": "20302150",
+    "Nama Sekolah": "Sekolah Dasar Negeri Wlahar Wetan Kecamatan Kalibagor",
+    "Alamat": "Jalan Patikraja - Banyumas",
+    "Kelurahan": "Wlahar Wetan",
+    "Status": "NEGERI"
+  }
+]

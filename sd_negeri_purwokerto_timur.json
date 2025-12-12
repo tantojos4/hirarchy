@@ -1,0 +1,154 @@
+[
+  {
+    "No": "1",
+    "NPSN": "20302216",
+    "Nama Sekolah": "Sekolah Dasar Negeri 1 Arcawinangun Kecamatan Purwokerto Timur",
+    "Alamat": "Jl. Balai Kelurahan",
+    "Kelurahan": "Arcawinangun",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "2",
+    "NPSN": "20302773",
+    "Nama Sekolah": "Sekolah Dasar Negeri 1 Kranji Kecamatan Purwokerto Timur",
+    "Alamat": "Jl. Adhyaksa No. 80",
+    "Kelurahan": "Kranji",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "3",
+    "NPSN": "20302724",
+    "Nama Sekolah": "Sekolah Dasar Negeri 1 Mersi Kecamatan Purwokerto Timur",
+    "Alamat": "Jl. Adipati No. 45",
+    "Kelurahan": "Mersi",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "4",
+    "NPSN": "20302840",
+    "Nama Sekolah": "Sekolah Dasar Negeri 1 Purwokerto Lor Kecamatan Purwokerto Timur",
+    "Alamat": "Jl. Prof. Dr. Suharso 1140",
+    "Kelurahan": "Purwokerto Lor",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "5",
+    "NPSN": "20302832",
+    "Nama Sekolah": "Sekolah Dasar Negeri 1 Purwokerto Wetan Kecamatan Purwokerto Timur",
+    "Alamat": "Jl. Jend. Soedirman 152 A",
+    "Kelurahan": "Purwokerto Wetan",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "6",
+    "NPSN": "20302857",
+    "Nama Sekolah": "Sekolah Dasar Negeri 1 Sokanegara Kecamatan Purwokerto Timur",
+    "Alamat": "Jl. Gereja No. 13",
+    "Kelurahan": "Sokanegara",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "7",
+    "NPSN": "20302640",
+    "Nama Sekolah": "Sekolah Dasar Negeri 2 Mersi Kecamatan Purwokerto Timur",
+    "Alamat": "Jl. Terrwoeh",
+    "Kelurahan": "Mersi",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "8",
+    "NPSN": "20301743",
+    "Nama Sekolah": "Sekolah Dasar Negeri 2 Purwokerto Lor Kecamatan Purwokerto Timur",
+    "Alamat": "Jl. Overste Isdiman Gg. II No. 11",
+    "Kelurahan": "Purwokerto Lor",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "9",
+    "NPSN": "20301744",
+    "Nama Sekolah": "Sekolah Dasar Negeri 2 Purwokerto Wetan Kecamatan Purwokerto Timur",
+    "Alamat": "Jl. Kaliputih No. 442",
+    "Kelurahan": "Purwokerto Wetan",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "10",
+    "NPSN": "20301807",
+    "Nama Sekolah": "Sekolah Dasar Negeri 3 Arcawinangun Kecamatan Purwokerto Timur",
+    "Alamat": "Jl. Inpres No. 10",
+    "Kelurahan": "Arcawinangun",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "11",
+    "NPSN": "20301566",
+    "Nama Sekolah": "Sekolah Dasar Negeri 3 Mersi Kecamatan Purwokerto Timur",
+    "Alamat": "Jl. Pertiwi",
+    "Kelurahan": "Mersi",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "12",
+    "NPSN": "20301580",
+    "Nama Sekolah": "Sekolah Dasar Negeri 3 Sokanegara Kecamatan Purwokerto Timur",
+    "Alamat": "Jl. Gereja No. 5",
+    "Kelurahan": "Sokanegara",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "13",
+    "NPSN": "20301515",
+    "Nama Sekolah": "Sekolah Dasar Negeri 4 Arcawinangun Kecamatan Purwokerto Timur",
+    "Alamat": "Jl. Nyi Meleng",
+    "Kelurahan": "Arcawinangun",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "14",
+    "NPSN": "20301649",
+    "Nama Sekolah": "Sekolah Dasar Negeri 4 Kranji Kecamatan Purwokerto Timur",
+    "Alamat": "Jl. Kolonel Sugiono No. 47",
+    "Kelurahan": "Kranji",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "15",
+    "NPSN": "20301650",
+    "Nama Sekolah": "Sekolah Dasar Negeri 4 Mersi Kecamatan Purwokerto Timur",
+    "Alamat": "Jl. Kenanga Rt 01 Rw 02 No 19",
+    "Kelurahan": "Mersi",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "16",
+    "NPSN": "20301644",
+    "Nama Sekolah": "Sekolah Dasar Negeri 4 Sokanegara Kecamatan Purwokerto Timur",
+    "Alamat": "Jl. Dr. Angka Gg. I No. 44",
+    "Kelurahan": "Sokanegara",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "17",
+    "NPSN": "20301676",
+    "Nama Sekolah": "Sekolah Dasar Negeri 5 Arcawinangun Kecamatan Purwokerto Timur",
+    "Alamat": "Jl. Masjid Baru Rt 03 Rw 07",
+    "Kelurahan": "Arcawinangun",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "18",
+    "NPSN": "20301629",
+    "Nama Sekolah": "Sekolah Dasar Negeri 7 Sokanegara Kecamatan Purwokerto Timur",
+    "Alamat": "JL. JENDRAL SUTOYO GANG VI",
+    "Kelurahan": "Sokanegara",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "19",
+    "NPSN": "20301632",
+    "Nama Sekolah": "Sekolah Dasar Negeri 8 Kranji Kecamatan Purwokerto Timur",
+    "Alamat": "Jl. Kalibener Gg. 2 No. 14",
+    "Kelurahan": "Kranji",
+    "Status": "NEGERI"
+  }
+]

@@ -1,0 +1,298 @@
+[
+  {
+    "No": "1",
+    "NPSN": "20302233",
+    "Nama Sekolah": "Sekolah Dasar Negeri 1 Banjarsari Kulon Kecamatan Sumbang",
+    "Alamat": "RT 01 RW 01",
+    "Kelurahan": "Banjarsari Kulon",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "2",
+    "NPSN": "20302215",
+    "Nama Sekolah": "Sekolah Dasar Negeri 1 Banjarsari Wetan Kecamatan Sumbang",
+    "Alamat": "JL. RAYA BANJARSARI WETAN",
+    "Kelurahan": "Banjarsari Wetan",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "3",
+    "NPSN": "20355415",
+    "Nama Sekolah": "Sekolah Dasar Negeri 1 Banteran Kecamatan Sumbang",
+    "Alamat": "Desa Banteran, RT 004 RW 004, Kec. Sumbang, Kab. Banyumas",
+    "Kelurahan": "Banteran",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "4",
+    "NPSN": "20302360",
+    "Nama Sekolah": "Sekolah Dasar Negeri 1 Gandatapa Kecamatan Sumbang",
+    "Alamat": "RT 1 RW I",
+    "Kelurahan": "Gandatapa",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "5",
+    "NPSN": "20302311",
+    "Nama Sekolah": "Sekolah Dasar Negeri 1 Karanggintung Kecamatan Sumbang",
+    "Alamat": "Rt 04 Rw III",
+    "Kelurahan": "Karanggintung",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "6",
+    "NPSN": "20302759",
+    "Nama Sekolah": "Sekolah Dasar Negeri 1 Kebanggan Kecamatan Sumbang",
+    "Alamat": "RT 02 RW 01",
+    "Kelurahan": "Kebanggan",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "7",
+    "NPSN": "20302769",
+    "Nama Sekolah": "Sekolah Dasar Negeri 1 Kotayasa Kecamatan Sumbang",
+    "Alamat": "Jl. Dipasari No. 1",
+    "Kelurahan": "Kotayasa",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "8",
+    "NPSN": "20302717",
+    "Nama Sekolah": "Sekolah Dasar Negeri 1 Limpakuwus Kecamatan Sumbang",
+    "Alamat": "Jalan Raya Limpakuwus barat, RT 5 RW 2",
+    "Kelurahan": "Limpakuwus",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "9",
+    "NPSN": "20302856",
+    "Nama Sekolah": "Sekolah Dasar Negeri 1 Sikapat Kecamatan Sumbang",
+    "Alamat": "SIKAPAT",
+    "Kelurahan": "Sikapat",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "10",
+    "NPSN": "20302808",
+    "Nama Sekolah": "Sekolah Dasar Negeri 1 Sumbang Kecamatan Sumbang",
+    "Alamat": "Jl. Kyai Syarib",
+    "Kelurahan": "Sumbang",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "11",
+    "NPSN": "20302791",
+    "Nama Sekolah": "Sekolah Dasar Negeri 1 Susukan Kecamatan Sumbang",
+    "Alamat": "Jalan Raya Susukan",
+    "Kelurahan": "Susukan",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "12",
+    "NPSN": "20302795",
+    "Nama Sekolah": "Sekolah Dasar Negeri 1 Tambaksogra Kecamatan Sumbang",
+    "Alamat": "Jalan Raya Tambaksogra Rt 04 Rw V",
+    "Kelurahan": "Tambaksogra",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "13",
+    "NPSN": "20302591",
+    "Nama Sekolah": "Sekolah Dasar Negeri 2 Banjarsari Kulon Kecamatan Sumbang",
+    "Alamat": "Jalan Raya Banjarsari Kulon RT 2 RW 2",
+    "Kelurahan": "Banjarsari Kulon",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "14",
+    "NPSN": "20302819",
+    "Nama Sekolah": "Sekolah Dasar Negeri 2 Banjarsari Wetan Kecamatan Sumbang",
+    "Alamat": "Gr. Karangduwur",
+    "Kelurahan": "Banjarsari Wetan",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "15",
+    "NPSN": "20355470",
+    "Nama Sekolah": "Sekolah Dasar Negeri 2 Banteran Kecamatan Sumbang",
+    "Alamat": "Banteran",
+    "Kelurahan": "Banteran",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "16",
+    "NPSN": "20301837",
+    "Nama Sekolah": "Sekolah Dasar Negeri 2 Gandatapa Kecamatan Sumbang",
+    "Alamat": "Jl. Raya Gandatapa",
+    "Kelurahan": "Gandatapa",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "17",
+    "NPSN": "20301782",
+    "Nama Sekolah": "Sekolah Dasar Negeri 2 Karanggintung Kecamatan Sumbang",
+    "Alamat": "Karanggintung RT 4 / II",
+    "Kelurahan": "Karanggintung",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "18",
+    "NPSN": "20302669",
+    "Nama Sekolah": "Sekolah Dasar Negeri 2 Kebanggan Kecamatan Sumbang",
+    "Alamat": "Jln. Sanreja",
+    "Kelurahan": "Kebanggan",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "19",
+    "NPSN": "20302633",
+    "Nama Sekolah": "Sekolah Dasar Negeri 2 Kotayasa Kecamatan Sumbang",
+    "Alamat": "RT 5 RW IV",
+    "Kelurahan": "Kotayasa",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "20",
+    "NPSN": "20302623",
+    "Nama Sekolah": "Sekolah Dasar Negeri 2 Limpakuwus Kecamatan Sumbang",
+    "Alamat": "Jl. Raya Limpakuwus Timur",
+    "Kelurahan": "Limpakuwus",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "21",
+    "NPSN": "20301697",
+    "Nama Sekolah": "Sekolah Dasar Negeri 2 Sikapat Kecamatan Sumbang",
+    "Alamat": "JL. LINTAS TIMUR BATURADEN KM. 5, DESA SIKAPAT",
+    "Kelurahan": "Sikapat",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "22",
+    "NPSN": "20301596",
+    "Nama Sekolah": "Sekolah Dasar Negeri 2 Sumbang Kecamatan Sumbang",
+    "Alamat": "Jl. Kyai Sarib",
+    "Kelurahan": "Sumbang",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "23",
+    "NPSN": "20301702",
+    "Nama Sekolah": "Sekolah Dasar Negeri 2 Susukan Kecamatan Sumbang",
+    "Alamat": "Lumbayu",
+    "Kelurahan": "Susukan",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "24",
+    "NPSN": "20301716",
+    "Nama Sekolah": "Sekolah Dasar Negeri 2 Tambaksogra Kecamatan Sumbang",
+    "Alamat": "Jl. Perjuangan Dusun II Rt 05 Rw IV",
+    "Kelurahan": "Tambaksogra",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "25",
+    "NPSN": "20301516",
+    "Nama Sekolah": "Sekolah Dasar Negeri 3 Banteran Kecamatan Sumbang",
+    "Alamat": "Kradenan Wetan",
+    "Kelurahan": "Banteran",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "26",
+    "NPSN": "20301547",
+    "Nama Sekolah": "Sekolah Dasar Negeri 3 Gandatapa Kecamatan Sumbang",
+    "Alamat": "Desa Gandatapa",
+    "Kelurahan": "Gandatapa",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "27",
+    "NPSN": "20353540",
+    "Nama Sekolah": "Sekolah Dasar Negeri 3 Kotayasa Kecamatan Sumbang",
+    "Alamat": "Jalan Arsamedja, dusun Glempang Desa Kotayasa",
+    "Kelurahan": "Kotayasa",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "28",
+    "NPSN": "20301527",
+    "Nama Sekolah": "Sekolah Dasar Negeri 3 Tambaksogra Kecamatan Sumbang",
+    "Alamat": "Jln. Sunan Ampel No.38",
+    "Kelurahan": "Tambaksogra",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "29",
+    "NPSN": "20301553",
+    "Nama Sekolah": "Sekolah Dasar Negeri 4 Kotayasa Kecamatan Sumbang",
+    "Alamat": "RT 04 RW III",
+    "Kelurahan": "Kotayasa",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "30",
+    "NPSN": "20302327",
+    "Nama Sekolah": "Sekolah Dasar Negeri Ciberem Kecamatan Sumbang",
+    "Alamat": "Jln. Raya Ciberem",
+    "Kelurahan": "Ciberem",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "31",
+    "NPSN": "20301637",
+    "Nama Sekolah": "Sekolah Dasar Negeri Datar Kecamatan Sumbang",
+    "Alamat": "JALAN WANGSA DJAYA NO.1",
+    "Kelurahan": "Datar",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "32",
+    "NPSN": "20302095",
+    "Nama Sekolah": "Sekolah Dasar Negeri Karangcegak Kecamatan Sumbang",
+    "Alamat": "Jalan Raya Karangcegak, Rt 08 Rw I",
+    "Kelurahan": "Karangcegak",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "33",
+    "NPSN": "20302029",
+    "Nama Sekolah": "Sekolah Dasar Negeri Karangturi Kecamatan Sumbang",
+    "Alamat": "Jl. Raya Karangturi Kec. Sumbang Kab. Banyumas",
+    "Kelurahan": "Karangturi",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "34",
+    "NPSN": "20302031",
+    "Nama Sekolah": "Sekolah Dasar Negeri Kawungcarang Kecamatan Sumbang",
+    "Alamat": "Jl. Brontangsen No 08",
+    "Kelurahan": "Kawungcarang",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "35",
+    "NPSN": "20302565",
+    "Nama Sekolah": "Sekolah Dasar Negeri Kedungmalang Kecamatan Sumbang",
+    "Alamat": "Kedung Malang RT 01/ RW 01",
+    "Kelurahan": "Kedung Malang",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "36",
+    "NPSN": "20302154",
+    "Nama Sekolah": "Sekolah Dasar Negeri Silado Kecamatan Sumbang",
+    "Alamat": "Jalan Raya Silado",
+    "Kelurahan": "Silado",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "37",
+    "NPSN": "20302148",
+    "Nama Sekolah": "Sekolah Dasar Negeri Watujaran Kecamatan Sumbang",
+    "Alamat": "Watujaran Rt 04 / Rw 05 Desa Sikapat Kec.Sumbang",
+    "Kelurahan": "Sikapat",
+    "Status": "NEGERI"
+  }
+]

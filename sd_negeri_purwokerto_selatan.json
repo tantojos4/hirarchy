@@ -1,0 +1,170 @@
+[
+  {
+    "No": "1",
+    "NPSN": "20302213",
+    "Nama Sekolah": "Sekolah Dasar Negeri 1 Berkoh Kecamatan Purwokerto Selatan",
+    "Alamat": "Jl. Sekolahan No 1",
+    "Kelurahan": "Berkoh",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "2",
+    "NPSN": "20302308",
+    "Nama Sekolah": "Sekolah Dasar Negeri 1 Karangklesem Kecamatan Purwokerto Selatan",
+    "Alamat": "Jl. Kh. Wahid Hasyim - Purwokerto Selatan",
+    "Kelurahan": "Karangklesem",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "3",
+    "NPSN": "20302282",
+    "Nama Sekolah": "Sekolah Dasar Negeri 1 Karangpucung Kecamatan Purwokerto Selatan",
+    "Alamat": "Jl. Gerilya No 14 - Purwokerto Selatan",
+    "Kelurahan": "Karangpucung",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "4",
+    "NPSN": "20302841",
+    "Nama Sekolah": "Sekolah Dasar Negeri 1 Purwokerto Kidul Kecamatan Purwokerto Selatan",
+    "Alamat": "Jl. Sarwodadi Gang I",
+    "Kelurahan": "Purwokerto Kidul",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "5",
+    "NPSN": "20338301",
+    "Nama Sekolah": "Sekolah Dasar Negeri 1 Purwokerto Kulon Kecamatan Purwokerto Selatan",
+    "Alamat": "Jl. DI Panjaitan Gang Karang Baru",
+    "Kelurahan": "Purwokerto Kulon",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "6",
+    "NPSN": "20302797",
+    "Nama Sekolah": "Sekolah Dasar Negeri 1 Tanjung Kecamatan Purwokerto Selatan",
+    "Alamat": "Jl. Gerilya No. 263",
+    "Kelurahan": "Tanjung",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "7",
+    "NPSN": "20302798",
+    "Nama Sekolah": "Sekolah Dasar Negeri 1 Teluk Kecamatan Purwokerto Selatan",
+    "Alamat": "Jl. Hos Notosuwiryo No. 52",
+    "Kelurahan": "Teluk",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "8",
+    "NPSN": "20302589",
+    "Nama Sekolah": "Sekolah Dasar Negeri 2 Berkoh Kecamatan Purwokerto Selatan",
+    "Alamat": "Jl. Sunan Kalijaga No 21",
+    "Kelurahan": "Berkoh",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "9",
+    "NPSN": "20301742",
+    "Nama Sekolah": "Sekolah Dasar Negeri 2 Purwokerto Kulon Kecamatan Purwokerto Selatan",
+    "Alamat": "Jl. Perintis Kemerdekaan No. Ia",
+    "Kelurahan": "Purwokerto Kulon",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "10",
+    "NPSN": "20301529",
+    "Nama Sekolah": "Sekolah Dasar Negeri 2 Tanjung Kecamatan Purwokerto Selatan",
+    "Alamat": "Jl. Margantara No. 555",
+    "Kelurahan": "Tanjung",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "11",
+    "NPSN": "20301816",
+    "Nama Sekolah": "Sekolah Dasar Negeri 3 Berkoh Kecamatan Purwokerto Selatan",
+    "Alamat": "Jl. Gerilya Timur No. 18",
+    "Kelurahan": "Berkoh",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "12",
+    "NPSN": "20301765",
+    "Nama Sekolah": "Sekolah Dasar Negeri 3 Karangklesem Kecamatan Purwokerto Selatan",
+    "Alamat": "Jl. Gunung Tugel No. 58",
+    "Kelurahan": "Karangklesem",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "13",
+    "NPSN": "20301648",
+    "Nama Sekolah": "Sekolah Dasar Negeri 3 Purwokerto Kidul Kecamatan Purwokerto Selatan",
+    "Alamat": "Jl. Sarwodadi No. 860 A",
+    "Kelurahan": "Purwokerto Kidul",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "14",
+    "NPSN": "20301576",
+    "Nama Sekolah": "Sekolah Dasar Negeri 3 Purwokerto Kulon Kecamatan Purwokerto Selatan",
+    "Alamat": "Jl DI Panjaitan No. 377",
+    "Kelurahan": "Purwokerto Kulon",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "15",
+    "NPSN": "20301672",
+    "Nama Sekolah": "Sekolah Dasar Negeri 3 Tanjung Kecamatan Purwokerto Selatan",
+    "Alamat": "Jl. GERILYA Gg 2",
+    "Kelurahan": "Tanjung",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "16",
+    "NPSN": "20301530",
+    "Nama Sekolah": "Sekolah Dasar Negeri 3 Teluk Kecamatan Purwokerto Selatan",
+    "Alamat": "Jl. Angsana 1",
+    "Kelurahan": "Teluk",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "17",
+    "NPSN": "20301536",
+    "Nama Sekolah": "Sekolah Dasar Negeri 4 Karangklesem Kecamatan Purwokerto Selatan",
+    "Alamat": "Jl. Sridadi Gang I Perum Karangklesem",
+    "Kelurahan": "Karangklesem",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "18",
+    "NPSN": "20301543",
+    "Nama Sekolah": "Sekolah Dasar Negeri 4 Karangpucung Kecamatan Purwokerto Selatan",
+    "Alamat": "Jl. Hs Sukarya No 1",
+    "Kelurahan": "Karangpucung",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "19",
+    "NPSN": "20301673",
+    "Nama Sekolah": "Sekolah Dasar Negeri 4 Teluk Kecamatan Purwokerto Selatan",
+    "Alamat": "Jl. Arsadimeja",
+    "Kelurahan": "Teluk",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "20",
+    "NPSN": "20301660",
+    "Nama Sekolah": "Sekolah Dasar Negeri 5 Karangpucung Kecamatan Purwokerto Selatan",
+    "Alamat": "Jl. Patriot No. 26 - Purwokerto",
+    "Kelurahan": "Karangpucung",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "21",
+    "NPSN": "20301615",
+    "Nama Sekolah": "Sekolah Dasar Negeri 5 Teluk Kecamatan Purwokerto Selatan",
+    "Alamat": "Jl. Cemara Raya Perumnas Teluk",
+    "Kelurahan": "Teluk",
+    "Status": "NEGERI"
+  }
+]

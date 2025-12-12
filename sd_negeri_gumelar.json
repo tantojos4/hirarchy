@@ -1,0 +1,258 @@
+[
+  {
+    "No": "1",
+    "NPSN": "20302321",
+    "Nama Sekolah": "Sekolah Dasar Negeri 1 Cihonje Kecamatan Gumelar",
+    "Alamat": "Jalan Taman Sari",
+    "Kelurahan": "Cihonje",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "2",
+    "NPSN": "20302326",
+    "Nama Sekolah": "Sekolah Dasar Negeri 1 Cilangkap Kecamatan Gumelar",
+    "Alamat": "RT 04 RW 01",
+    "Kelurahan": "Cilangkap",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "3",
+    "NPSN": "20302368",
+    "Nama Sekolah": "Sekolah Dasar Negeri 1 Gancang Kecamatan Gumelar",
+    "Alamat": "Jalan Cibangkong-Cihonje RT 02 RW 01",
+    "Kelurahan": "Gancang",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "4",
+    "NPSN": "20302356",
+    "Nama Sekolah": "Sekolah Dasar Negeri 1 Gumelar Kecamatan Gumelar",
+    "Alamat": "Jalan Pramuka 14-15",
+    "Kelurahan": "Gumelar",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "5",
+    "NPSN": "20302316",
+    "Nama Sekolah": "Sekolah Dasar Negeri 1 Karangkemojing Kecamatan Gumelar",
+    "Alamat": "Karangkemojing RT 03 RW 01",
+    "Kelurahan": "Karangkemojing",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "6",
+    "NPSN": "20302752",
+    "Nama Sekolah": "Sekolah Dasar Negeri 1 Kedungurang Kecamatan Gumelar",
+    "Alamat": "Rt 01 Rw 05",
+    "Kelurahan": "Kedungurang",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "7",
+    "NPSN": "20302738",
+    "Nama Sekolah": "Sekolah Dasar Negeri 1 Paningkaban Kecamatan Gumelar",
+    "Alamat": "Jl.Raya Paningkaban Gumelar",
+    "Kelurahan": "Paningkaban",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "8",
+    "NPSN": "20302866",
+    "Nama Sekolah": "Sekolah Dasar Negeri 1 Samudra Kecamatan Gumelar",
+    "Alamat": "Rt 02 Rw 07",
+    "Kelurahan": "Samudra",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "9",
+    "NPSN": "20302867",
+    "Nama Sekolah": "Sekolah Dasar Negeri 1 Samudra Kulon Kecamatan Gumelar",
+    "Alamat": "Samudra Kulon Rt 04 Rw 01",
+    "Kelurahan": "Samudra Kulon",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "10",
+    "NPSN": "20353961",
+    "Nama Sekolah": "Sekolah Dasar Negeri 1 Tlaga Kecamatan Gumelar",
+    "Alamat": "Jl.Dukuh Wuni RT 02 RW 06 Desa Tlaga",
+    "Kelurahan": "Tlaga",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "11",
+    "NPSN": "20302615",
+    "Nama Sekolah": "Sekolah Dasar Negeri 2 Cihonje Kecamatan Gumelar",
+    "Alamat": "Cogreg Rt 04 Rw XI",
+    "Kelurahan": "Cihonje",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "12",
+    "NPSN": "20302611",
+    "Nama Sekolah": "Sekolah Dasar Negeri 2 Cilangkap Kecamatan Gumelar",
+    "Alamat": "Tameng",
+    "Kelurahan": "Cilangkap",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "13",
+    "NPSN": "20302548",
+    "Nama Sekolah": "Sekolah Dasar Negeri 2 Gancang Kecamatan Gumelar",
+    "Alamat": "Jalan Larangan - Gancang",
+    "Kelurahan": "Gancang",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "14",
+    "NPSN": "20302556",
+    "Nama Sekolah": "Sekolah Dasar Negeri 2 Gumelar Kecamatan Gumelar",
+    "Alamat": "Karanganyar",
+    "Kelurahan": "Gumelar",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "15",
+    "NPSN": "20302674",
+    "Nama Sekolah": "Sekolah Dasar Negeri 2 Karangkemojing Kecamatan Gumelar",
+    "Alamat": "Situ Rt 01 Rw 04",
+    "Kelurahan": "Karangkemojing",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "16",
+    "NPSN": "20302702",
+    "Nama Sekolah": "Sekolah Dasar Negeri 2 Kedungurang Kecamatan Gumelar",
+    "Alamat": "Kedungurang",
+    "Kelurahan": "Kedungurang",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "17",
+    "NPSN": "20302643",
+    "Nama Sekolah": "Sekolah Dasar Negeri 2 Paningkaban Kecamatan Gumelar",
+    "Alamat": "Jln.Raya Paningkaban-Lumbir Km 2",
+    "Kelurahan": "Paningkaban",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "18",
+    "NPSN": "20301747",
+    "Nama Sekolah": "Sekolah Dasar Negeri 2 Samudra Kecamatan Gumelar",
+    "Alamat": "Jl. Raya Renggong  RT 01 / 06 Desa Samudra",
+    "Kelurahan": "Samudra",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "19",
+    "NPSN": "20301748",
+    "Nama Sekolah": "Sekolah Dasar Negeri 2 Samudra Kulon Kecamatan Gumelar",
+    "Alamat": "Sawangan",
+    "Kelurahan": "Samudra Kulon",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "20",
+    "NPSN": "20355461",
+    "Nama Sekolah": "Sekolah Dasar Negeri 2 Tlaga Kecamatan Gumelar",
+    "Alamat": "Jl Jambenom 01",
+    "Kelurahan": "Tlaga",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "21",
+    "NPSN": "20301827",
+    "Nama Sekolah": "Sekolah Dasar Negeri 3 Cihonje Kecamatan Gumelar",
+    "Alamat": "Rt 05 Rw 09",
+    "Kelurahan": "Cihonje",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "22",
+    "NPSN": "20301840",
+    "Nama Sekolah": "Sekolah Dasar Negeri 3 Cilangkap Kecamatan Gumelar",
+    "Alamat": "Rt 02 Rw 03 Ciwaru",
+    "Kelurahan": "Cilangkap",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "23",
+    "NPSN": "20301831",
+    "Nama Sekolah": "Sekolah Dasar Negeri 3 Gumelar Kecamatan Gumelar",
+    "Alamat": "Rt 03 Rw 06",
+    "Kelurahan": "Gumelar",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "24",
+    "NPSN": "20301773",
+    "Nama Sekolah": "Sekolah Dasar Negeri 3 Karangkemojing Kecamatan Gumelar",
+    "Alamat": "RT 04 RW 03",
+    "Kelurahan": "Karangkemojing",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "25",
+    "NPSN": "20301802",
+    "Nama Sekolah": "Sekolah Dasar Negeri 3 Kedungurang Kecamatan Gumelar",
+    "Alamat": "Ciwera Rt 02 Rw 03",
+    "Kelurahan": "Kedungurang",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "26",
+    "NPSN": "20301587",
+    "Nama Sekolah": "Sekolah Dasar Negeri 3 Samudra Kecamatan Gumelar",
+    "Alamat": "Jl. Cigugur-Samudra Kec Gumelar 53165 Rt 03 Rw 03",
+    "Kelurahan": "Samudra",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "27",
+    "NPSN": "20301519",
+    "Nama Sekolah": "Sekolah Dasar Negeri 4 Cihonje Kecamatan Gumelar",
+    "Alamat": "Rt 02 Rw XVII",
+    "Kelurahan": "Cihonje",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "28",
+    "NPSN": "20301549",
+    "Nama Sekolah": "Sekolah Dasar Negeri 4 Gumelar Kecamatan Gumelar",
+    "Alamat": "Jln.Raya Tlaga-Gumelar",
+    "Kelurahan": "Gumelar",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "29",
+    "NPSN": "20301535",
+    "Nama Sekolah": "Sekolah Dasar Negeri 4 Karangkemojing Kecamatan Gumelar",
+    "Alamat": "Rt 06 Rw 01 Pekuncen",
+    "Kelurahan": "Karangkemojing",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "30",
+    "NPSN": "20301642",
+    "Nama Sekolah": "Sekolah Dasar Negeri 4 Samudra Kecamatan Gumelar",
+    "Alamat": "Samudra",
+    "Kelurahan": "Samudra",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "31",
+    "NPSN": "20301677",
+    "Nama Sekolah": "Sekolah Dasar Negeri 5 Cihonje Kecamatan Gumelar",
+    "Alamat": "Jl. Raya Ajibarang - Gumelar KM. 15 KP.53165",
+    "Kelurahan": "Cihonje",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "32",
+    "NPSN": "20301670",
+    "Nama Sekolah": "Sekolah Dasar Negeri 5 Gumelar Kecamatan Gumelar",
+    "Alamat": "Palumbungan RT 05 RW 02",
+    "Kelurahan": "Gumelar",
+    "Status": "NEGERI"
+  }
+]

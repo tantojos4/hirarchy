@@ -1,0 +1,266 @@
+[
+  {
+    "No": "1",
+    "NPSN": "20302232",
+    "Nama Sekolah": "Sekolah Dasar Negeri 1 Banjarsari Kecamatan Ajibarang",
+    "Alamat": "Banjarsari , Rt. 06 / Rw. 1",
+    "Kelurahan": "Banjarsari",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "2",
+    "NPSN": "20302319",
+    "Nama Sekolah": "Sekolah Dasar Negeri 1 Ciberung Kecamatan Ajibarang",
+    "Alamat": "Jl. Raya Ajibarang - Bumiayu Km. 3",
+    "Kelurahan": "Ciberung",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "3",
+    "NPSN": "20302363",
+    "Nama Sekolah": "Sekolah Dasar Negeri 1 Darmakradenan Kecamatan Ajibarang",
+    "Alamat": "Darmakradenan , Rt. 04 / Rw. 2",
+    "Kelurahan": "Darmakradenan",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "4",
+    "NPSN": "20302289",
+    "Nama Sekolah": "Sekolah Dasar Negeri 1 Jingkang Kecamatan Ajibarang",
+    "Alamat": "Jl. Gunung Putri No. 2 Jingkang",
+    "Kelurahan": "Jingkang",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "5",
+    "NPSN": "20302296",
+    "Nama Sekolah": "Sekolah Dasar Negeri 1 Karang Bawang Kecamatan Ajibarang",
+    "Alamat": "Jl. Raya Ajibarang - Wangon Km. 3",
+    "Kelurahan": "Karangbawang",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "6",
+    "NPSN": "20302770",
+    "Nama Sekolah": "Sekolah Dasar Negeri 1 Kracak Kecamatan Ajibarang",
+    "Alamat": "Kracak , RT. 03 / RW. 01",
+    "Kelurahan": "Kracak",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "7",
+    "NPSN": "20302706",
+    "Nama Sekolah": "Sekolah Dasar Negeri 1 Lesmana Kecamatan Ajibarang",
+    "Alamat": "Jl. Balai Desa Lesmana",
+    "Kelurahan": "Lesmana",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "8",
+    "NPSN": "20302725",
+    "Nama Sekolah": "Sekolah Dasar Negeri 1 Pancasan Kecamatan Ajibarang",
+    "Alamat": "Jl. Raya Pancasan No. 205",
+    "Kelurahan": "Pancasan",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "9",
+    "NPSN": "20302726",
+    "Nama Sekolah": "Sekolah Dasar Negeri 1 Pancurendang Kecamatan Ajibarang",
+    "Alamat": "Jln. Raya Pancurendang No. 412",
+    "Kelurahan": "Pancurendang",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "10",
+    "NPSN": "20302869",
+    "Nama Sekolah": "Sekolah Dasar Negeri 1 Sawangan Kecamatan Ajibarang",
+    "Alamat": "Jl. Raya Ajibarang Purwojati Km 5",
+    "Kelurahan": "Sawangan",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "11",
+    "NPSN": "20302811",
+    "Nama Sekolah": "Sekolah Dasar Negeri 1 Tipar Kidul Kecamatan Ajibarang",
+    "Alamat": "Jalan Raya Ajibarang-Wangon Km 4",
+    "Kelurahan": "Tipar Kidul",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "12",
+    "NPSN": "20302613",
+    "Nama Sekolah": "Sekolah Dasar Negeri 2 Ciberung Kecamatan Ajibarang",
+    "Alamat": "Derendampit",
+    "Kelurahan": "Ciberung",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "13",
+    "NPSN": "20302606",
+    "Nama Sekolah": "Sekolah Dasar Negeri 2 Darmakradenan Kecamatan Ajibarang",
+    "Alamat": "Jl. Raya Ajibarang - Gumelar Km.8",
+    "Kelurahan": "Darmakradenan",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "14",
+    "NPSN": "20302541",
+    "Nama Sekolah": "Sekolah Dasar Negeri 2 Jingkang Kecamatan Ajibarang",
+    "Alamat": "Jl. Manuksiung, RT 005 / 007",
+    "Kelurahan": "Jingkang",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "15",
+    "NPSN": "20302561",
+    "Nama Sekolah": "Sekolah Dasar Negeri 2 Karang Bawang Kecamatan Ajibarang",
+    "Alamat": "Jl. Ajibarang-Gumelar KM. 4",
+    "Kelurahan": "Karangbawang",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "16",
+    "NPSN": "20302634",
+    "Nama Sekolah": "Sekolah Dasar Negeri 2 Kracak Kecamatan Ajibarang",
+    "Alamat": "Jalan Parakan Kracak  RT 02 RW 08",
+    "Kelurahan": "Kracak",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "17",
+    "NPSN": "20302622",
+    "Nama Sekolah": "Sekolah Dasar Negeri 2 Lesmana Kecamatan Ajibarang",
+    "Alamat": "Munggangsari",
+    "Kelurahan": "Lesmana",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "18",
+    "NPSN": "20302660",
+    "Nama Sekolah": "Sekolah Dasar Negeri 2 Pancasan Kecamatan Ajibarang",
+    "Alamat": "Jln. Blabursari No.3 Pancasan",
+    "Kelurahan": "Pancasan",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "19",
+    "NPSN": "20302652",
+    "Nama Sekolah": "Sekolah Dasar Negeri 2 Pancurendang Kecamatan Ajibarang",
+    "Alamat": "Tajur, Rt. 01 / Rw. 7",
+    "Kelurahan": "Pancurendang",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "20",
+    "NPSN": "20355459",
+    "Nama Sekolah": "Sekolah Dasar Negeri 2 Sawangan Kecamatan Ajibarang",
+    "Alamat": "Jl. Raya Ajibarang- Purwojati Km. 06",
+    "Kelurahan": "Sawangan",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "21",
+    "NPSN": "20301712",
+    "Nama Sekolah": "Sekolah Dasar Negeri 2 Tipar Kidul Kecamatan Ajibarang",
+    "Alamat": "Jl. Tanjungsari",
+    "Kelurahan": "Tipar Kidul",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "22",
+    "NPSN": "20301845",
+    "Nama Sekolah": "Sekolah Dasar Negeri 3 Darmakradenan Kecamatan Ajibarang",
+    "Alamat": "JL.RAYA AJIBARANG-GUMELAR KM 9 RT 07 / RW 08",
+    "Kelurahan": "Darmakradenan",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "23",
+    "NPSN": "20301835",
+    "Nama Sekolah": "Sekolah Dasar Negeri 3 Jingkang Kecamatan Ajibarang",
+    "Alamat": "Jalan Raya Ajibarang Purwojati",
+    "Kelurahan": "Jingkang",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "24",
+    "NPSN": "20301601",
+    "Nama Sekolah": "Sekolah Dasar Negeri 3 Kracak Kecamatan Ajibarang",
+    "Alamat": "Kracak , Rt. 03 / Rw. 6",
+    "Kelurahan": "Kracak",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "25",
+    "NPSN": "20301795",
+    "Nama Sekolah": "Sekolah Dasar Negeri 3 Lesmana Kecamatan Ajibarang",
+    "Alamat": "Jl. Puteran No. 229  Lesmana",
+    "Kelurahan": "Lesmana",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "26",
+    "NPSN": "20301571",
+    "Nama Sekolah": "Sekolah Dasar Negeri 3 Pancasan Kecamatan Ajibarang",
+    "Alamat": "Jl. Dukuh Gati Pancasan",
+    "Kelurahan": "Pancasan",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "27",
+    "NPSN": "20301522",
+    "Nama Sekolah": "Sekolah Dasar Negeri 3 Tipar Kidul Kecamatan Ajibarang",
+    "Alamat": "Jl. Raya Tiparkidul",
+    "Kelurahan": "Tipar Kidul",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "28",
+    "NPSN": "20301534",
+    "Nama Sekolah": "Sekolah Dasar Negeri 4 Darmakradenan Kecamatan Ajibarang",
+    "Alamat": "Karangpucung",
+    "Kelurahan": "Darmakradenan",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "29",
+    "NPSN": "20301605",
+    "Nama Sekolah": "Sekolah Dasar Negeri 4 Tipar Kidul Kecamatan Ajibarang",
+    "Alamat": "Grumbul Tanjungsari",
+    "Kelurahan": "Tipar Kidul",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "30",
+    "NPSN": "20301635",
+    "Nama Sekolah": "Sekolah Dasar Negeri Ajibarang Kulon Kecamatan Ajibarang",
+    "Alamat": "Jl. Pramuka  No. 2, Ajibarang Kulon",
+    "Kelurahan": "Ajibarang Kulon",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "31",
+    "NPSN": "20302204",
+    "Nama Sekolah": "Sekolah Dasar Negeri Ajibarang Wetan Kecamatan Ajibarang",
+    "Alamat": "Jl. Pancasan No. 9",
+    "Kelurahan": "Ajibarang Wetan",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "32",
+    "NPSN": "20302060",
+    "Nama Sekolah": "Sekolah Dasar Negeri Kalibenda Kecamatan Ajibarang",
+    "Alamat": "Jl. Puskesmas 2 Ajibarang,  Kalibenda",
+    "Kelurahan": "Kalibenda",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "33",
+    "NPSN": "20302055",
+    "Nama Sekolah": "Sekolah Dasar Negeri Pandansari Kecamatan Ajibarang",
+    "Alamat": "Jl. Curugawu , No. 2 Pandansari",
+    "Kelurahan": "Pandansari",
+    "Status": "NEGERI"
+  }
+]

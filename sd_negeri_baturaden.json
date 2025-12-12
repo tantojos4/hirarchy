@@ -1,0 +1,178 @@
+[
+  {
+    "No": "1",
+    "NPSN": "20302018",
+    "Nama Sekolah": "Sekolah Dasar Negeri 1 Karangtengah Kecamatan Baturraden",
+    "Alamat": "Jl.Raya Baturraden Barat No 73",
+    "Kelurahan": "Karangtengah",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "2",
+    "NPSN": "20302781",
+    "Nama Sekolah": "Sekolah Dasar Negeri 1 Kemutug Kidul Kecamatan Baturraden",
+    "Alamat": "Jl.raya Desa Kemutug Kidul",
+    "Kelurahan": "Kemutug Kidul",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "3",
+    "NPSN": "20302782",
+    "Nama Sekolah": "Sekolah Dasar Negeri 1 Kemutug Lor Kecamatan Baturraden",
+    "Alamat": "Jl.desa Kemutug Lor",
+    "Kelurahan": "Kemutug Lor",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "4",
+    "NPSN": "20302785",
+    "Nama Sekolah": "Sekolah Dasar Negeri 1 Ketenger Kecamatan Baturraden",
+    "Alamat": "Jl.raya Baturraden Barat No 34",
+    "Kelurahan": "Ketenger",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "5",
+    "NPSN": "20302776",
+    "Nama Sekolah": "Sekolah Dasar Negeri 1 Kutasari Kecamatan Baturraden",
+    "Alamat": "Jl.moch Besar No .1",
+    "Kelurahan": "Kutasari",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "6",
+    "NPSN": "20302833",
+    "Nama Sekolah": "Sekolah Dasar Negeri 1 Purwosari Kecamatan Baturraden",
+    "Alamat": "Jl. Suparto  No. 20",
+    "Kelurahan": "Purwosari",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "7",
+    "NPSN": "20302852",
+    "Nama Sekolah": "Sekolah Dasar Negeri 1 Rempoah Kecamatan Baturraden",
+    "Alamat": "Jl. Raya Baturraden Timur  No. 45",
+    "Kelurahan": "Rempoah",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "8",
+    "NPSN": "20302665",
+    "Nama Sekolah": "Sekolah Dasar Negeri 2 Karangtengah Kecamatan Baturraden",
+    "Alamat": "Jl.gerlangu No. 1",
+    "Kelurahan": "Karangtengah",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "9",
+    "NPSN": "20302689",
+    "Nama Sekolah": "Sekolah Dasar Negeri 2 Kemutug Kidul Kecamatan Baturraden",
+    "Alamat": "Jl.Raya Desa Kemutug Kidul No. 24",
+    "Kelurahan": "Kemutug Kidul",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "10",
+    "NPSN": "20302690",
+    "Nama Sekolah": "Sekolah Dasar Negeri 2 Kemutug Lor  Kecamatan Baturraden",
+    "Alamat": "Jl.Raya Desa Kemutug Lor KM 10",
+    "Kelurahan": "Kemutug Lor",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "11",
+    "NPSN": "20302693",
+    "Nama Sekolah": "Sekolah Dasar Negeri 2 Ketenger Kecamatan Baturraden",
+    "Alamat": "Jl. Curug Gede No. 230",
+    "Kelurahan": "Ketenger",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "12",
+    "NPSN": "20355454",
+    "Nama Sekolah": "Sekolah Dasar Negeri 2 Pamijen Kecamatan Baturraden",
+    "Alamat": "Jl. Pamijen",
+    "Kelurahan": "Pamijen",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "13",
+    "NPSN": "20302651",
+    "Nama Sekolah": "Sekolah Dasar Negeri 2 Pandak Kecamatan Baturraden",
+    "Alamat": "Jl. Raya Baturraden Km 7",
+    "Kelurahan": "Pandak",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "14",
+    "NPSN": "20355465",
+    "Nama Sekolah": "Sekolah Dasar Negeri 3 Karangtengah Kecamatan Baturraden",
+    "Alamat": "Jl. Baturraden Barat No 34,Karangtengah",
+    "Kelurahan": "Karangtengah",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "15",
+    "NPSN": "20301794",
+    "Nama Sekolah": "Sekolah Dasar Negeri 3 Kutasari Kecamatan Baturraden",
+    "Alamat": "Jl. Moch Besar 73",
+    "Kelurahan": "Kutasari",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "16",
+    "NPSN": "20341630",
+    "Nama Sekolah": "Sekolah Dasar Negeri 4 Karangtengah Kecamatan Baturraden",
+    "Alamat": "Jl. Buntu Muntuk Karangtengah",
+    "Kelurahan": "Karangtengah",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "17",
+    "NPSN": "20301641",
+    "Nama Sekolah": "Sekolah Dasar Negeri 4 Rempoah Kecamatan Baturraden",
+    "Alamat": "Jl. Masjid Sokawera",
+    "Kelurahan": "Rempoah",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "18",
+    "NPSN": "20302033",
+    "Nama Sekolah": "Sekolah Dasar Negeri Kalipagu Kecamatan Baturraden",
+    "Alamat": "Jl.cendana No 04 Kalipagu",
+    "Kelurahan": "Ketenger",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "19",
+    "NPSN": "20302082",
+    "Nama Sekolah": "Sekolah Dasar Negeri Karangmangu Kecamatan Baturraden",
+    "Alamat": "Jl. Raya Baturraden Timur Km 12  No. 30",
+    "Kelurahan": "Karangmangu",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "20",
+    "NPSN": "20302085",
+    "Nama Sekolah": "Sekolah Dasar Negeri Karangsalam Kecamatan Baturraden",
+    "Alamat": "Jl. Raya Desa Karangsalam No 1 Kecamatan Baturraden",
+    "Kelurahan": "Karangsalam",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "21",
+    "NPSN": "20302032",
+    "Nama Sekolah": "Sekolah Dasar Negeri Kebumen Kecamatan Baturraden",
+    "Alamat": "Kebumen",
+    "Kelurahan": "Kebumen",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "22",
+    "NPSN": "20302034",
+    "Nama Sekolah": "Sekolah Dasar Negeri Kecil Munggangsari Kecamatan Baturraden",
+    "Alamat": "Munggangsari Rt 02 Rw 03",
+    "Kelurahan": "Karangsalam",
+    "Status": "NEGERI"
+  }
+]

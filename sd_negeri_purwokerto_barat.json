@@ -1,0 +1,146 @@
+[
+  {
+    "No": "1",
+    "NPSN": "20302206",
+    "Nama Sekolah": "Sekolah Dasar Negeri 1 Bantarsoka Kecamatan Purwokerto Barat",
+    "Alamat": "Jln. Jend. Sudirman Barat No. 752",
+    "Kelurahan": "Bantarsoka",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "2",
+    "NPSN": "20302299",
+    "Nama Sekolah": "Sekolah Dasar Negeri 1 Karanglewas Lor Kecamatan Purwokerto Barat",
+    "Alamat": "Jln. Laksda Yos Sudarso No. 363",
+    "Kelurahan": "Karanglewas Lor",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "3",
+    "NPSN": "20302757",
+    "Nama Sekolah": "Sekolah Dasar Negeri 1 Kedungwuluh Kecamatan Purwokerto Barat",
+    "Alamat": "Jalan Tentara Pelajar No. 48",
+    "Kelurahan": "Kedungwuluh",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "4",
+    "NPSN": "20302778",
+    "Nama Sekolah": "Sekolah Dasar Negeri 1 Kober Kecamatan Purwokerto Barat",
+    "Alamat": "Jalan Kober 1007",
+    "Kelurahan": "Kober",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "5",
+    "NPSN": "20302743",
+    "Nama Sekolah": "Sekolah Dasar Negeri 1 Pasir Kidul Kecamatan Purwokerto Barat",
+    "Alamat": "Jalan Ahmad Zein",
+    "Kelurahan": "Pasir Kidul",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "6",
+    "NPSN": "20302737",
+    "Nama Sekolah": "Sekolah Dasar Negeri 1 Pasirmuncang Kecamatan Purwokerto Barat",
+    "Alamat": "Jln. Pasirmuncang Rt 03 Rw 07",
+    "Kelurahan": "Pasirmuncang",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "7",
+    "NPSN": "20302851",
+    "Nama Sekolah": "Sekolah Dasar Negeri 1 Rejasari Kecamatan Purwokerto Barat",
+    "Alamat": "Jln. Jendral Soedirman Barat RT 1 RW 9 Kel. Rejasari Kec. Purwokerto Barat",
+    "Kelurahan": "Rejasari",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "8",
+    "NPSN": "20301823",
+    "Nama Sekolah": "Sekolah Dasar Negeri 2 Bantarsoka Kecamatan Purwokerto Barat",
+    "Alamat": "Jln. Sokajati No. 30",
+    "Kelurahan": "Bantarsoka",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "9",
+    "NPSN": "20302677",
+    "Nama Sekolah": "Sekolah Dasar Negeri 2 Karanglewas Lor Kecamatan Purwokerto Barat",
+    "Alamat": "Jln. Laksda Yos Sudarso No. 18",
+    "Kelurahan": "Karanglewas Lor",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "10",
+    "NPSN": "20301618",
+    "Nama Sekolah": "Sekolah Dasar Negeri 2 Kedungwuluh Kecamatan Purwokerto Barat",
+    "Alamat": "Jalan Pasar Manis No.1",
+    "Kelurahan": "Kedungwuluh",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "11",
+    "NPSN": "20301665",
+    "Nama Sekolah": "Sekolah Dasar Negeri 2 Kober Kecamatan Purwokerto Barat",
+    "Alamat": "Jalan Kober Gang Riswan",
+    "Kelurahan": "Kober",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "12",
+    "NPSN": "20302648",
+    "Nama Sekolah": "Sekolah Dasar Negeri 2 Pasir Kidul Kecamatan Purwokerto Barat",
+    "Alamat": "Jln. Kertawibawa No. 651",
+    "Kelurahan": "Pasir Kidul",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "13",
+    "NPSN": "20302661",
+    "Nama Sekolah": "Sekolah Dasar Negeri 2 Pasirmuncang Kecamatan Purwokerto Barat",
+    "Alamat": "Jln. Pasirmuncang No. 594",
+    "Kelurahan": "Pasirmuncang",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "14",
+    "NPSN": "20301754",
+    "Nama Sekolah": "Sekolah Dasar Negeri 2 Rejasari Kecamatan Purwokerto Barat",
+    "Alamat": "Jln. Ks Tubun Gang Alpokat",
+    "Kelurahan": "Rejasari",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "15",
+    "NPSN": "20301798",
+    "Nama Sekolah": "Sekolah Dasar Negeri 3 Kedungwuluh Kecamatan Purwokerto Barat",
+    "Alamat": "Jl. Jend. Soetoyo No. 512",
+    "Kelurahan": "Kedungwuluh",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "16",
+    "NPSN": "20301600",
+    "Nama Sekolah": "Sekolah Dasar Negeri 3 Kober Kecamatan Purwokerto Barat",
+    "Alamat": "Jalan Rajawali No 36",
+    "Kelurahan": "Kober",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "17",
+    "NPSN": "20301564",
+    "Nama Sekolah": "Sekolah Dasar Negeri 3 Pasirmuncang Kecamatan Purwokerto Barat",
+    "Alamat": "Jln. Pahlawan Gang II",
+    "Kelurahan": "Pasirmuncang",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "18",
+    "NPSN": "20301593",
+    "Nama Sekolah": "Sekolah Dasar Negeri 3 Rejasari Kecamatan Purwokerto Barat",
+    "Alamat": "Jalan H. Mashuri No. 38",
+    "Kelurahan": "Rejasari",
+    "Status": "NEGERI"
+  }
+]

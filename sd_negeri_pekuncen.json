@@ -1,0 +1,274 @@
+[
+  {
+    "No": "1",
+    "NPSN": "20302731",
+    "Nama Sekolah": "Sekolah Dasar Negeri 01 Pekuncen Kecamatan Pekuncen",
+    "Alamat": "Jl. Pramuka No.23",
+    "Kelurahan": "Pekuncen",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "2",
+    "NPSN": "20302863",
+    "Nama Sekolah": "Sekolah Dasar Negeri 01 Semedo Kecamatan Pekuncen",
+    "Alamat": "Semedo",
+    "Kelurahan": "Semedo",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "3",
+    "NPSN": "20302617",
+    "Nama Sekolah": "Sekolah Dasar Negeri 02 Cikawung Kecamatan Pekuncen",
+    "Alamat": "Jl. Karanganyar",
+    "Kelurahan": "Cikawung",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "4",
+    "NPSN": "20301738",
+    "Nama Sekolah": "Sekolah Dasar Negeri 02 Pekuncen Kecamatan Pekuncen",
+    "Alamat": "Rt 01 Rw 08 Kalimanggis",
+    "Kelurahan": "Pekuncen",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "5",
+    "NPSN": "20301839",
+    "Nama Sekolah": "Sekolah Dasar Negeri 03 Cikembulan Kecamatan Pekuncen",
+    "Alamat": "Cikembulan",
+    "Kelurahan": "Cikembulan",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "6",
+    "NPSN": "20301557",
+    "Nama Sekolah": "Sekolah Dasar Negeri 03 Pekuncen Kecamatan Pekuncen",
+    "Alamat": "Grumbul Paguyangan Rt 05 Rw 06",
+    "Kelurahan": "Pekuncen",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "7",
+    "NPSN": "20302335",
+    "Nama Sekolah": "Sekolah Dasar Negeri 1 Candinegara Kecamatan Pekuncen",
+    "Alamat": "Jl Kalisegung no 89 RT 2 RW 3",
+    "Kelurahan": "Candinegara",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "8",
+    "NPSN": "20302328",
+    "Nama Sekolah": "Sekolah Dasar Negeri 1 Cibangkong Kecamatan Pekuncen",
+    "Alamat": "Cibangkong Rt 08 Rw 01",
+    "Kelurahan": "Cibangkong",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "9",
+    "NPSN": "20302323",
+    "Nama Sekolah": "Sekolah Dasar Negeri 1 Cikawung Kecamatan Pekuncen",
+    "Alamat": "Jl. Raya Ajibarang - Bumiayu Km 3 No.2",
+    "Kelurahan": "Cikawung",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "10",
+    "NPSN": "20302324",
+    "Nama Sekolah": "Sekolah Dasar Negeri 1 Cikembulan Kecamatan Pekuncen",
+    "Alamat": "Jalan Karangklesem - Kalisari",
+    "Kelurahan": "Cikembulan",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "11",
+    "NPSN": "20302353",
+    "Nama Sekolah": "Sekolah Dasar Negeri 1 Glempang Kecamatan Pekuncen",
+    "Alamat": "Jln. Tinumpuk No 1 Glempang",
+    "Kelurahan": "Glempang",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "12",
+    "NPSN": "20302281",
+    "Nama Sekolah": "Sekolah Dasar Negeri 1 Karangkemiri Kecamatan Pekuncen",
+    "Alamat": "Rt 06  Rw 01",
+    "Kelurahan": "Karangkemiri",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "13",
+    "NPSN": "20302772",
+    "Nama Sekolah": "Sekolah Dasar Negeri 1 Krajan Kecamatan Pekuncen",
+    "Alamat": "RT 03 RW 03",
+    "Kelurahan": "Krajan",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "14",
+    "NPSN": "20302735",
+    "Nama Sekolah": "Sekolah Dasar Negeri 1 Petahunan Kecamatan Pekuncen",
+    "Alamat": "Petahunan  Rt.02  Rw.02",
+    "Kelurahan": "Petahunan",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "15",
+    "NPSN": "20302824",
+    "Nama Sekolah": "Sekolah Dasar Negeri 1 Tumiyang Kecamatan Pekuncen",
+    "Alamat": "Jalan Pesipon Nomor 3 Desa Tumiyang",
+    "Kelurahan": "Tumiyang",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "16",
+    "NPSN": "20302601",
+    "Nama Sekolah": "Sekolah Dasar Negeri 2 Cibangkong Kecamatan Pekuncen",
+    "Alamat": "Cibangkong",
+    "Kelurahan": "Cibangkong",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "17",
+    "NPSN": "20302618",
+    "Nama Sekolah": "Sekolah Dasar Negeri 2 Cikembulan Kecamatan Pekuncen",
+    "Alamat": "Jln. Pasarehan Ciroyom",
+    "Kelurahan": "Cikembulan",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "18",
+    "NPSN": "20302553",
+    "Nama Sekolah": "Sekolah Dasar Negeri 2 Glempang Kecamatan Pekuncen",
+    "Alamat": "Jln. Karang Cengis",
+    "Kelurahan": "Glempang",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "19",
+    "NPSN": "20355449",
+    "Nama Sekolah": "Sekolah Dasar Negeri 2 Karangkemiri Kecamatan Pekuncen",
+    "Alamat": "Jl. Sindang - Karangkemiri RT 03 RW 04",
+    "Kelurahan": "Karangkemiri",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "20",
+    "NPSN": "20302636",
+    "Nama Sekolah": "Sekolah Dasar Negeri 2 Krajan Kecamatan Pekuncen",
+    "Alamat": "Jalan Gununganyar",
+    "Kelurahan": "Krajan",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "21",
+    "NPSN": "20301741",
+    "Nama Sekolah": "Sekolah Dasar Negeri 2 Petahunan Kecamatan Pekuncen",
+    "Alamat": "Jln. Karangdelima  Rt.02  Rw.04",
+    "Kelurahan": "Petahunan",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "22",
+    "NPSN": "20301763",
+    "Nama Sekolah": "Sekolah Dasar Negeri 2 Semedo Kecamatan Pekuncen",
+    "Alamat": "Jln. Sawangan Semedo RT 02 RW 06",
+    "Kelurahan": "Semedo",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "23",
+    "NPSN": "20341523",
+    "Nama Sekolah": "Sekolah Dasar Negeri 2 Tumiyang Kecamatan Pekuncen",
+    "Alamat": "Jl. Curug Cipendok / Tumiyang",
+    "Kelurahan": "Tumiyang",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "24",
+    "NPSN": "20301813",
+    "Nama Sekolah": "Sekolah Dasar Negeri 3 Candinegara Kecamatan Pekuncen",
+    "Alamat": "Candinegara",
+    "Kelurahan": "Candinegara",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "25",
+    "NPSN": "20301815",
+    "Nama Sekolah": "Sekolah Dasar Negeri 3 Cibangkong Kecamatan Pekuncen",
+    "Alamat": "Cibangkong",
+    "Kelurahan": "Cibangkong",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "26",
+    "NPSN": "20301774",
+    "Nama Sekolah": "Sekolah Dasar Negeri 3 Karangkemiri Kecamatan Pekuncen",
+    "Alamat": "Jln. Kalibungur RT 001 RW 005",
+    "Kelurahan": "Karangkemiri",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "27",
+    "NPSN": "20301579",
+    "Nama Sekolah": "Sekolah Dasar Negeri 3 Semedo Kecamatan Pekuncen",
+    "Alamat": "Semedo",
+    "Kelurahan": "Semedo",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "28",
+    "NPSN": "20301513",
+    "Nama Sekolah": "Sekolah Dasar Negeri 3 Tumiyang Kecamatan Pekuncen",
+    "Alamat": "Jln. Gancret  Rt03  Rw05",
+    "Kelurahan": "Tumiyang",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "29",
+    "NPSN": "20301518",
+    "Nama Sekolah": "Sekolah Dasar Negeri 4 Cibangkong Kecamatan Pekuncen",
+    "Alamat": "Cibangkong",
+    "Kelurahan": "Cibangkong",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "30",
+    "NPSN": "20301636",
+    "Nama Sekolah": "Sekolah Dasar Negeri Banjaranyar Kecamatan Pekuncen",
+    "Alamat": "Banjaranyar Rt.02 / Rw.05",
+    "Kelurahan": "Banjaranyar",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "31",
+    "NPSN": "20302098",
+    "Nama Sekolah": "Sekolah Dasar Negeri Karangklesem Kecamatan Pekuncen",
+    "Alamat": "Jln Pramuka No. 645",
+    "Kelurahan": "Karangklesem",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "32",
+    "NPSN": "20302019",
+    "Nama Sekolah": "Sekolah Dasar Negeri Kranggan Kecamatan Pekuncen",
+    "Alamat": "Jln. Raya Kranggan No. 9",
+    "Kelurahan": "Kranggan",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "33",
+    "NPSN": "20302049",
+    "Nama Sekolah": "Sekolah Dasar Negeri Pasiraman Kidul Kecamatan Pekuncen",
+    "Alamat": "Pasiraman Kidul Rt02  Rw01",
+    "Kelurahan": "Pasiraman Kidul",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "34",
+    "NPSN": "20302048",
+    "Nama Sekolah": "Sekolah Dasar Negeri Pasiraman Lor Kecamatan Pekuncen",
+    "Alamat": "Jln. Ajibarang Legok",
+    "Kelurahan": "Pasiraman Lor",
+    "Status": "NEGERI"
+  }
+]

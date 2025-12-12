@@ -1,0 +1,162 @@
+[
+  {
+    "No": "1",
+    "NPSN": "20302352",
+    "Nama Sekolah": "Sekolah Dasar Negeri 1 Gerduren Kecamatan Purwojati",
+    "Alamat": "JL. BALAI DESA GERDUREN RT 02 RW 07",
+    "Kelurahan": "Gerduren",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "2",
+    "NPSN": "20302287",
+    "Nama Sekolah": "Sekolah Dasar Negeri 1 Kalitapen Kecamatan Purwojati",
+    "Alamat": "Kalitapen Rt 01 Rw 01",
+    "Kelurahan": "Kalitapen",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "3",
+    "NPSN": "20302286",
+    "Nama Sekolah": "Sekolah Dasar Negeri 1 Kaliwangi Kecamatan Purwojati",
+    "Alamat": "Jl. Raya Kaliwangi No. 2",
+    "Kelurahan": "Kaliwangi",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "4",
+    "NPSN": "20302300",
+    "Nama Sekolah": "Sekolah Dasar Negeri 1 Karangmangu Kecamatan Purwojati",
+    "Alamat": "Desa Karangmangu",
+    "Kelurahan": "Karangmangu",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "5",
+    "NPSN": "20302283",
+    "Nama Sekolah": "Sekolah Dasar Negeri 1 Karangtalun Kidul Kecamatan Purwojati",
+    "Alamat": "Jalan Prapatan",
+    "Kelurahan": "Karangtalun Kidul",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "6",
+    "NPSN": "20302849",
+    "Nama Sekolah": "Sekolah Dasar Negeri 1 Purwojati Kecamatan Purwojati",
+    "Alamat": "Jalan Raya Inpres No.2 Purwojati",
+    "Kelurahan": "Purwojati",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "7",
+    "NPSN": "20302552",
+    "Nama Sekolah": "Sekolah Dasar Negeri 2 Gerduren Kecamatan Purwojati",
+    "Alamat": "Gerduren",
+    "Kelurahan": "Gerduren",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "8",
+    "NPSN": "20302571",
+    "Nama Sekolah": "Sekolah Dasar Negeri 2 Kalitapen Kecamatan Purwojati",
+    "Alamat": "Jl. Gunung Putri Wanarata",
+    "Kelurahan": "Kalitapen",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "9",
+    "NPSN": "20302572",
+    "Nama Sekolah": "Sekolah Dasar Negeri 2 Kaliwangi Kecamatan Purwojati",
+    "Alamat": "Rt 01 Rw 04 Kaliwangi",
+    "Kelurahan": "Kaliwangi",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "10",
+    "NPSN": "20302679",
+    "Nama Sekolah": "Sekolah Dasar Negeri 2 Karangmangu Kecamatan Purwojati",
+    "Alamat": "Karangmangu",
+    "Kelurahan": "Karangmangu",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "11",
+    "NPSN": "20302569",
+    "Nama Sekolah": "Sekolah Dasar Negeri 2 Karangtalun Kidul Kecamatan Purwojati",
+    "Alamat": "Jl. RAYA BOJONG NO.04",
+    "Kelurahan": "Karangtalun Kidul",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "12",
+    "NPSN": "20301730",
+    "Nama Sekolah": "Sekolah Dasar Negeri 2 Purwojati Kecamatan Purwojati",
+    "Alamat": "JL. INPRES PURWOJATI",
+    "Kelurahan": "Purwojati",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "13",
+    "NPSN": "20301829",
+    "Nama Sekolah": "Sekolah Dasar Negeri 3 Gerduren Kecamatan Purwojati",
+    "Alamat": "Rt 02 Rw 02",
+    "Kelurahan": "Gerduren",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "14",
+    "NPSN": "20301766",
+    "Nama Sekolah": "Sekolah Dasar Negeri 3 Karangmangu Kecamatan Purwojati",
+    "Alamat": "Jl. Pesanggrahan",
+    "Kelurahan": "Karangmangu",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "15",
+    "NPSN": "20301779",
+    "Nama Sekolah": "Sekolah Dasar Negeri 3 Karangtalun Kidul Kecamatan Purwojati",
+    "Alamat": "Desa Karangtalun Kidul",
+    "Kelurahan": "Karangtalun Kidul",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "16",
+    "NPSN": "20301563",
+    "Nama Sekolah": "Sekolah Dasar Negeri 3 Purwojati Kecamatan Purwojati",
+    "Alamat": "Jl. Muncu No. 4 Purwojati",
+    "Kelurahan": "Purwojati",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "17",
+    "NPSN": "20302066",
+    "Nama Sekolah": "Sekolah Dasar Negeri Kaliputih Kecamatan Purwojati",
+    "Alamat": "Jl.dudukan No.42 Kaliputih",
+    "Kelurahan": "Kaliputih",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "18",
+    "NPSN": "20302080",
+    "Nama Sekolah": "Sekolah Dasar Negeri Kaliurip Kecamatan Purwojati",
+    "Alamat": "Jl.desa Kaliurip No.10",
+    "Kelurahan": "Kaliurip",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "19",
+    "NPSN": "20355601",
+    "Nama Sekolah": "Sekolah Dasar Negeri Karangtalun Lor Kecamatan Purwojati",
+    "Alamat": "Jalan Karangmangli RT 03 RW 02 Desa Karangtalun Lor",
+    "Kelurahan": "Karangtalun Lor",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "20",
+    "NPSN": "20302028",
+    "Nama Sekolah": "Sekolah Dasar Negeri Klapasawit Kecamatan Purwojati",
+    "Alamat": "Klapasawit",
+    "Kelurahan": "Klapasawit",
+    "Status": "NEGERI"
+  }
+]

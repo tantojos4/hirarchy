@@ -1,0 +1,274 @@
+[
+  {
+    "No": "1",
+    "NPSN": "20302235",
+    "Nama Sekolah": "Sekolah Dasar Negeri 1 Besuki Kecamatan Lumbir",
+    "Alamat": "Besuki Rt 01/ Rw 02",
+    "Kelurahan": "Besuki",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "2",
+    "NPSN": "20302336",
+    "Nama Sekolah": "Sekolah Dasar Negeri 1 Canduk Kecamatan Lumbir",
+    "Alamat": "Jalan Desa Canduk Rt 02/02 Canduk",
+    "Kelurahan": "Canduk",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "3",
+    "NPSN": "20302320",
+    "Nama Sekolah": "Sekolah Dasar Negeri 1 Cidora Kecamatan Lumbir",
+    "Alamat": "Jalan Raya Cidora",
+    "Kelurahan": "Cidora",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "4",
+    "NPSN": "20302350",
+    "Nama Sekolah": "Sekolah Dasar Negeri 1 Cingebul Kecamatan Lumbir",
+    "Alamat": "Cingebul RT 03 RW 03",
+    "Kelurahan": "Cingebul",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "5",
+    "NPSN": "20302362",
+    "Nama Sekolah": "Sekolah Dasar Negeri 1 Cirahab Kecamatan Lumbir",
+    "Alamat": "Cirahab Rt 05/01",
+    "Kelurahan": "Cirahab",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "6",
+    "NPSN": "20302366",
+    "Nama Sekolah": "Sekolah Dasar Negeri 1 Dermaji Kecamatan Lumbir",
+    "Alamat": "RT 01 RW 03",
+    "Kelurahan": "Dermaji",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "7",
+    "NPSN": "20302309",
+    "Nama Sekolah": "Sekolah Dasar Negeri 1 Karanggayam Kecamatan Lumbir",
+    "Alamat": "KARANGGAYAM",
+    "Kelurahan": "Karanggayam",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "8",
+    "NPSN": "20302749",
+    "Nama Sekolah": "Sekolah Dasar Negeri 1 Kedunggede Kecamatan Lumbir",
+    "Alamat": "Kedunggede RT 003 RW 003 Kecamatan Lumbir Kabupaten Banyumas Kode Pos 53177",
+    "Kelurahan": "Kedunggede",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "9",
+    "NPSN": "20302721",
+    "Nama Sekolah": "Sekolah Dasar Negeri 1 Lumbir Kecamatan Lumbir",
+    "Alamat": "Jalan Raya Lumbir",
+    "Kelurahan": "Lumbir",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "10",
+    "NPSN": "20302741",
+    "Nama Sekolah": "Sekolah Dasar Negeri 1 Parungkamal Kecamatan Lumbir",
+    "Alamat": "Jln. Raya Parungkamal No.18",
+    "Kelurahan": "Parungkamal",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "11",
+    "NPSN": "20302581",
+    "Nama Sekolah": "Sekolah Dasar Negeri 2 Besuki Kecamatan Lumbir",
+    "Alamat": "Grumbul Besuki  Rt 05 Rw 01",
+    "Kelurahan": "Besuki",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "12",
+    "NPSN": "20302599",
+    "Nama Sekolah": "Sekolah Dasar Negeri 2 Canduk Kecamatan Lumbir",
+    "Alamat": "Jalan Canduk Rt 01/04 Canduk",
+    "Kelurahan": "Canduk",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "13",
+    "NPSN": "20302614",
+    "Nama Sekolah": "Sekolah Dasar Negeri 2 Cidora Kecamatan Lumbir",
+    "Alamat": "Rt 05 Rw 04",
+    "Kelurahan": "Cidora",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "14",
+    "NPSN": "20302603",
+    "Nama Sekolah": "Sekolah Dasar Negeri 2 Cingebul Kecamatan Lumbir",
+    "Alamat": "RT 04 RW 08",
+    "Kelurahan": "Cingebul",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "15",
+    "NPSN": "20302605",
+    "Nama Sekolah": "Sekolah Dasar Negeri 2 Cirahab Kecamatan Lumbir",
+    "Alamat": "Cidondong Rt 04/03",
+    "Kelurahan": "Cirahab",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "16",
+    "NPSN": "20301545",
+    "Nama Sekolah": "Sekolah Dasar Negeri 2 Dermaji Kecamatan Lumbir",
+    "Alamat": "Rt 04/05",
+    "Kelurahan": "Dermaji",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "17",
+    "NPSN": "20355445",
+    "Nama Sekolah": "Sekolah Dasar Negeri 2 Karanggayam Kecamatan Lumbir",
+    "Alamat": "Karanggayam",
+    "Kelurahan": "Karanggayam",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "18",
+    "NPSN": "20355450",
+    "Nama Sekolah": "Sekolah Dasar Negeri 2 Kedunggede Kecamatan Lumbir",
+    "Alamat": "Jl. Cingebul Dusun cikopeng Desa Kedunggede RT 05 RW 02 Kecamatan Lumbir",
+    "Kelurahan": "Kedunggede",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "19",
+    "NPSN": "20302627",
+    "Nama Sekolah": "Sekolah Dasar Negeri 2 Lumbir Kecamatan Lumbir",
+    "Alamat": "Jl.Raya Lumbir",
+    "Kelurahan": "Lumbir",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "20",
+    "NPSN": "20302646",
+    "Nama Sekolah": "Sekolah Dasar Negeri 2 Parungkamal Kecamatan Lumbir",
+    "Alamat": "Rt 02/05",
+    "Kelurahan": "Parungkamal",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "21",
+    "NPSN": "20301814",
+    "Nama Sekolah": "Sekolah Dasar Negeri 3 Canduk Kecamatan Lumbir",
+    "Alamat": "Rt 1 Rw 7",
+    "Kelurahan": "Canduk",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "22",
+    "NPSN": "20301843",
+    "Nama Sekolah": "Sekolah Dasar Negeri 3 Cingebul Kecamatan Lumbir",
+    "Alamat": "Rt 05 Rw 05",
+    "Kelurahan": "Cingebul",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "23",
+    "NPSN": "20301844",
+    "Nama Sekolah": "Sekolah Dasar Negeri 3 Cirahab Kecamatan Lumbir",
+    "Alamat": "Rt 6 Rw 2",
+    "Kelurahan": "Cirahab",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "24",
+    "NPSN": "20301846",
+    "Nama Sekolah": "Sekolah Dasar Negeri 3 Dermaji Kecamatan Lumbir",
+    "Alamat": "Rt 01/01",
+    "Kelurahan": "Dermaji",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "25",
+    "NPSN": "20301781",
+    "Nama Sekolah": "Sekolah Dasar Negeri 3 Karanggayam Kecamatan Lumbir",
+    "Alamat": "Kali Pelus Rt 02/02",
+    "Kelurahan": "Karanggayam",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "26",
+    "NPSN": "20301800",
+    "Nama Sekolah": "Sekolah Dasar Negeri 3 Kedunggede Kecamatan Lumbir",
+    "Alamat": "RT.02/RW.06",
+    "Kelurahan": "Kedunggede",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "27",
+    "NPSN": "20301681",
+    "Nama Sekolah": "Sekolah Dasar Negeri 3 Lumbir Kecamatan Lumbir",
+    "Alamat": "RT 02 RW 07",
+    "Kelurahan": "Lumbir",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "28",
+    "NPSN": "20301654",
+    "Nama Sekolah": "Sekolah Dasar Negeri 3 Parungkamal Kecamatan Lumbir",
+    "Alamat": "Parungkamal",
+    "Kelurahan": "Parungkamal",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "29",
+    "NPSN": "20301532",
+    "Nama Sekolah": "Sekolah Dasar Negeri 4 Cingebul Kecamatan Lumbir",
+    "Alamat": "Rt 4 Rw 2",
+    "Kelurahan": "Cingebul",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "30",
+    "NPSN": "20301533",
+    "Nama Sekolah": "Sekolah Dasar Negeri 4 Cirahab Kecamatan Lumbir",
+    "Alamat": "Karanggedang Rt 02/04",
+    "Kelurahan": "Cirahab",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "31",
+    "NPSN": "20301633",
+    "Nama Sekolah": "Sekolah Dasar Negeri 4 Lumbir Kecamatan Lumbir",
+    "Alamat": "Cilombang",
+    "Kelurahan": "Lumbir",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "32",
+    "NPSN": "20337876",
+    "Nama Sekolah": "Sekolah Dasar Negeri 5 Cingebul Kecamatan Lumbir",
+    "Alamat": "RT 04 RW 06",
+    "Kelurahan": "Cingebul",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "33",
+    "NPSN": "20301680",
+    "Nama Sekolah": "Sekolah Dasar Negeri 5 Lumbir Kecamatan Lumbir",
+    "Alamat": "Lumbir RT 07 RW 06",
+    "Kelurahan": "Lumbir",
+    "Status": "NEGERI"
+  },
+  {
+    "No": "34",
+    "NPSN": "20301603",
+    "Nama Sekolah": "Sekolah Dasar Negeri 6 Lumbir Kecamatan Lumbir",
+    "Alamat": "Butulan",
+    "Kelurahan": "Lumbir",
+    "Status": "NEGERI"
+  }
+]

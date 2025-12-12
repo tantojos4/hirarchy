@@ -3,7 +3,7 @@
     "name": "Badan Kepegawaian dan Pengembangan Sumber Daya Manusia",
     "children": [
       {
-        "name": "Bidang Mutasi dan Promosi",
+        "name": "Bidang Pengembangan Karier dan Mutasi",
         "children": []
       },
       {
@@ -19,7 +19,7 @@
         "children": []
       },
       {
-        "name": "Bidang Pengembangan Kompetensi, Pendidikan dan Pelatihan.",
+        "name": "Bidang Pengembangan Kompetensi Aparatur",
         "children": []
       },
       {
@@ -403,65 +403,6 @@
       }
     ],
     "catatan": "Penyederhanaan struktur organisais"
-  },
-  {
-    "name": "DPPKBP3A",
-    "children": [
-      {
-        "name": "Bidang Keluarga Berencana",
-        "children": []
-      },
-      {
-        "name": "Bidang Pemberdayaan Perempuan",
-        "children": []
-      },
-      {
-        "name": "Bidang Pengendalian Penduduk",
-        "children": []
-      },
-      {
-        "name": "Bidang Perlindungan dan Pemenuhan Anak",
-        "children": []
-      },
-      {
-        "name": "Sekretariat Dinas",
-        "children": [
-          {
-            "name": "Sub Bagian Keuangan",
-            "children": []
-          },
-          {
-            "name": "Sub Bagian Perencanaan",
-            "children": []
-          },
-          {
-            "name": "Sub Bagian Umum dan Kepegawaian",
-            "children": []
-          },
-          {
-            "name": "Subbagian Keuangan",
-            "children": []
-          },
-          {
-            "name": "Subbagian Umum",
-            "children": []
-          },
-          {
-            "name": "Subbagian Umum dan Kepegawaian",
-            "children": []
-          }
-        ]
-      },
-      {
-        "name": "UPTD Pemberdayaan Perempuan dan Perlindungan Anak",
-        "children": [
-          {
-            "name": "Sub Bagian Tata Usaha",
-            "children": []
-          }
-        ]
-      }
-    ]
   },
   {
     "name": "DPU",
@@ -1153,7 +1094,7 @@
         "name": "RSK Mata Purwokerto",
         "children": [
           {
-            "name": "Seksi Pelayanan Medik",
+            "name": "Seksi Pelayanan Medis dan Keperawatan",
             "children": []
           },
           {
@@ -1161,7 +1102,7 @@
             "children": []
           },
           {
-            "name": "Sub Bagian Umum dan Tata Usaha",
+            "name": "Subbagian Administrasi Umum dan Keuangan",
             "children": []
           }
         ]
@@ -1199,7 +1140,7 @@
             ]
           },
           {
-            "name": "Bidang Pelayanan Medis dan Keperawatan",
+            "name": "Bidang Pelayanan Medis, Keperawatan dan Kebidanan",
             "children": [
               {
                 "name": "Seksi Keperawatan",
@@ -1280,7 +1221,6 @@
       {
         "name": "RSUD Banyumas",
         "children": [
-        
           {
             "name": "Wakil Direktur Umum",
             "children": [
@@ -1397,28 +1337,20 @@
     "name": "Dinas Pekerjaan Umum",
     "children": [
       {
-        "name": "Bidang Drainase dan Bina Jasa Konstruksi",
-        "children": [],
-        "catatan": "Perubahan nomenklatur dan tusi"
-      },
-      {
-        "name": "Bidang Pemeliharaan dan Monitoring Evaluasi Jalan",
+        "name": "Bidang Sumber Daya Air, Air Limbah dan Air Minum",
         "children": []
       },
       {
-        "name": "Bidang Penataan Bangunan",
-        "children": [],
-        "catatan": "Perubahan nomenklatur dan tusi"
+        "name": "Bidang Bangunan Gedung, Penataan Bangunan dan Lingkungannya, Permukiman dan Persampahan",
+        "children": []
       },
       {
-        "name": "Bidang Perencanaan dan Pembangunan Jalan",
-        "children": [],
-        "catatan": "Perubahan nomenklatur dan tusi"
+        "name": "Bidang Jalan dan Drainase",
+        "children": []
       },
       {
-        "name": "Bidang Sumber Daya Air",
-        "children": [],
-        "catatan": "Perubahan nomenklatur dan tusi"
+        "name": "Bidang Penataan Ruang dan Jasa Konstruksi",
+        "children": []
       },
       {
         "name": "Laboratorium Konstruksi dan Peralatan",

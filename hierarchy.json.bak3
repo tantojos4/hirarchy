@@ -1,0 +1,8210 @@
+[
+  {
+    "name": "Badan Kepegawaian dan Pengembangan Sumber Daya Manusia",
+    "children": [
+      {
+        "name": "Bidang Mutasi dan Promosi",
+        "children": []
+      },
+      {
+        "name": "Bidang Pengadaan, Pemberhentian dan Informasi",
+        "children": []
+      },
+      {
+        "name": "Bidang Pengembangan Karier dan Mutasi",
+        "children": []
+      },
+      {
+        "name": "Bidang Pengembangan Kompetensi Aparatur",
+        "children": []
+      },
+      {
+        "name": "Bidang Pengembangan Kompetensi, Pendidikan dan Pelatihan.",
+        "children": []
+      },
+      {
+        "name": "Bidang Penilaian Kinerja Aparatur dan Penghargaan",
+        "children": []
+      },
+      {
+        "name": "Sekretariat Badan Kepegawaian dan Pengembangan Sumber Daya Manusia",
+        "children": [
+          {
+            "name": "Subbagian Keuangan",
+            "children": []
+          },
+          {
+            "name": "Subbagian Umum dan Kepegawaian",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Badan Penanggulangan Bencana Daerah",
+    "children": [
+      {
+        "name": "Bidang Kedaruratan dan Logistik",
+        "children": []
+      },
+      {
+        "name": "Bidang Pencegahan dan Kesiapsiagaan",
+        "children": []
+      },
+      {
+        "name": "Bidang Rehabilitasi dan Rekonstruksi",
+        "children": []
+      },
+      {
+        "name": "Sekretariat Badan",
+        "children": [
+          {
+            "name": "Subbagian Keuangan",
+            "children": []
+          },
+          {
+            "name": "Subbagian Umum dan Kepegawaian",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Badan Keuangan dan Aset Daerah",
+    "children": [
+      {
+        "name": "Bidang Akuntansi dan Perbendaharaan",
+        "children": [
+          {
+            "name": "Sub Bidang Pelayanan Penerimaan Daerah",
+            "children": []
+          },
+          {
+            "name": "Sub Bidang Pelayanan Pengeluaran Daerah",
+            "children": []
+          },
+          {
+            "name": "Subbidang Akuntansi dan Pelaporan",
+            "children": []
+          },
+          {
+            "name": "Subbidang Perbendaharaan",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Bidang Anggaran",
+        "children": [
+          {
+            "name": "Sub Bidang Dana Transfer",
+            "children": []
+          },
+          {
+            "name": "Sub Bidang Penyusunan dan Pelaksanaan Anggaran",
+            "children": []
+          },
+          {
+            "name": "Subbidang Pengendaliaan Penganggaran Dana Transfer",
+            "children": []
+          },
+          {
+            "name": "Subbidang Penyusunan dan Pelaksanaan Anggaran",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Bidang Aset Daerah",
+        "children": [
+           {
+            "name": "Subbidang Perencanaan, Perolehan dan Penatausahaan Aset",
+            "children": []
+          },
+          {
+            "name": "Subbidang Perubahan Status Hukum, Pengamanan dan Pemanfaatan Aset",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Sekretariat Badan Keuangan dan Aset Daerah",
+        "children": [
+          {
+            "name": "Sub Bagian Perencanaan dan Keuangan",
+            "children": []
+          },
+          {
+            "name": "Sub Bagian Umum dan Kepegawaian",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Badan Kesatuan Bangsa dan Politik",
+    "children": [
+      {
+        "name": "Bidang Ideologi, Wawasan Kebangsaan, dan Ketahanan Ekonomi, Sosial, Budaya, Agama",
+        "children": []
+      },
+      {
+        "name": "Bidang Kewaspadaan Nasional dan Penanganan Konflik",
+        "children": []
+      },
+      {
+        "name": "Bidang Politik Dalam Negeri dan Organisasi",
+        "children": []
+      },
+      {
+        "name": "Sekretariat Badan Kesatuan Bangsa dan Politik",
+        "children": [
+          {
+            "name": "Sub Bagian Perencanaan dan Keuangan",
+            "children": []
+          },
+          {
+            "name": "Sub Bagian Umum dan Kepegawaian",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Badan Pendapatan Daerah",
+    "children": [
+      {
+        "name": "Bidang Pajak Daerah I",
+        "children": [
+          {
+            "name": "Sub Bidang penagihan I",
+            "children": []
+          },
+          {
+            "name": "Sub Bidang penetapan dan keberatan I",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Bidang Pajak Daerah II",
+        "children": [
+          {
+            "name": "Sub Bidang penagihan II",
+            "children": []
+          },
+          {
+            "name": "Sub Bidang penetapan dan keberatan II",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Bidang Perencanaan Evaluasi dan Administrasi Pendapatan",
+        "children": [
+          {
+            "name": "Sub Bidang Pengembangan teknologi dan sistem Pelayanan",
+            "children": []
+          },
+          {
+            "name": "Sub Bidang pemeriksaan pajak dan administrasi pendapatan",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Sekretariat Badan Pendapatan Daerah",
+        "children": [
+          {
+            "name": "Sub Bagian Perencanaan dan Keuangan",
+            "children": []
+          },
+          {
+            "name": "Sub Bagian Umum dan Kepegawaian",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bapperida",
+    "children": [
+      {
+        "name": "Bidang Infrastruktur dan Kewilayahan",
+        "children": []
+      },
+      {
+        "name": "Bidang Pemerintahan dan Pembangunan Manusia",
+        "children": []
+      },
+      {
+        "name": "Bidang Penyusunan Program, Monitoring dan Evaluasi Pembangunan Daerah",
+        "children": []
+      },
+      {
+        "name": "Bidang Perekonomian dan Sumber Daya Alam",
+        "children": []
+      },
+      {
+        "name": "Bidang Riset dan Inovasi Daerah",
+        "children": []
+      },
+      {
+        "name": "Sekretariat Badan",
+        "children": [
+          {
+            "name": "Sub Bagian Perencanaan dan Keuangan",
+            "children": []
+          },
+          {
+            "name": "Sub Bagian Umum dan Kepegawaian",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "DINAS LINGKUNGAN HIDUP",
+    "children": [
+      {
+        "name": "Bidang Pembinaan, Pengendalian dan Pengawasan Lingkungan Hidup",
+        "children": []
+      },
+      {
+        "name": "Bidang Penataan Lingkungan dan Pengelolaan Keanekaragaman Hayati",
+        "children": []
+      },
+      {
+        "name": "Bidang Pengelolaan Persampahan",
+        "children": []
+      },
+      {
+        "name": "Bidang Pengelolaan Persampahan dan Limbah Bahan Berbahaya dan Beracun",
+        "children": []
+      },
+      {
+        "name": "Bidang Pengendalian Lingkungan Hidup",
+        "children": []
+      },
+      {
+        "name": "Bidang Ruang Terbuka Hijau",
+        "children": []
+      },
+      {
+        "name": "Bidang Tata Lingkungan",
+        "children": []
+      },
+      {
+        "name": "Laboratorium Lingkungan Hidup",
+        "children": []
+      },
+      {
+        "name": "Sekretariat Dinas Dinas Lingkungan Hidup",
+        "children": [
+          {
+            "name": "Sub Bagian Keuangan",
+            "children": []
+          },
+          {
+            "name": "Sub Bagian Umum dan Kepegawaian",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "UPKP Wilayah Ajibarang",
+        "children": []
+      },
+      {
+        "name": "UPKP Wilayah Banyumas",
+        "children": []
+      },
+      {
+        "name": "UPKP Wilayah Kembaran",
+        "children": []
+      },
+      {
+        "name": "UPKP Wilayah Purwokerto",
+        "children": []
+      },
+      {
+        "name": "UPKP Wilayah Sumpiuh",
+        "children": []
+      },
+      {
+        "name": "UPKP Wilayah Wangon",
+        "children": []
+      },
+      {
+        "name": "UPT Laboratorium Lingkungan Hidup",
+        "children": []
+      },
+      {
+        "name": "UPT Tempat Pengolahan Sampah Terpadu (TPST) Serayu",
+        "children": []
+      }
+    ]
+  },
+  {
+    "name": "Dinas Penanaman Modal dan Pelayanan Terpadu Satu Pintu",
+    "children": [
+      {
+        "name": "Bidang Pelayanan Penanaman Modal Sektor Pembangunan",
+        "children": []
+      },
+      {
+        "name": "Bidang Pelayanan Penanaman Modal Sektor Perekonomian dan Kesejahteraan Rakyat",
+        "children": []
+      },
+      {
+        "name": "Bidang Pengembangan Iklim dan Promosi Penanaman Modal",
+        "children": []
+      },
+      {
+        "name": "Bidang Pengendalian, Pengelolaan Data, dan Sistem Informasi Penanaman Modal",
+        "children": []
+      },
+      {
+        "name": "Sekretariat Dinas Penanaman Modal dan Pelayanan Terpadu Satu Pintu",
+        "children": [
+          {
+            "name": "Sub Bagian Keuangan",
+            "children": []
+          },
+          {
+            "name": "Sub Bagian Perencanaan",
+            "children": []
+          },
+          {
+            "name": "Sub Bagian Umum dan Kepegawaian",
+            "children": []
+          },
+          {
+            "name": "Subbagian Keuangan",
+            "children": []
+          },
+          {
+            "name": "Subbagian Umum",
+            "children": []
+          },
+          {
+            "name": "Subbagian Umum dan Kepegawaian",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "DPPKBP3A",
+    "children": [
+      {
+        "name": "Bidang Keluarga Berencana",
+        "children": []
+      },
+      {
+        "name": "Bidang Pemberdayaan Perempuan",
+        "children": []
+      },
+      {
+        "name": "Bidang Pengendalian Penduduk",
+        "children": []
+      },
+      {
+        "name": "Bidang Perlindungan dan Pemenuhan Anak",
+        "children": []
+      },
+      {
+        "name": "Sekretariat Dinas",
+        "children": [
+          {
+            "name": "Sub Bagian Keuangan",
+            "children": []
+          },
+          {
+            "name": "Sub Bagian Perencanaan",
+            "children": []
+          },
+          {
+            "name": "Sub Bagian Umum dan Kepegawaian",
+            "children": []
+          },
+          {
+            "name": "Subbagian Keuangan",
+            "children": []
+          },
+          {
+            "name": "Subbagian Umum",
+            "children": []
+          },
+          {
+            "name": "Subbagian Umum dan Kepegawaian",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "UPTD Pemberdayaan Perempuan dan Perlindungan Anak",
+        "children": [
+          {
+            "name": "Sub Bagian Tata Usaha",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "DPU",
+    "children": [
+      {
+        "name": "Bidang Bangunan Gedung, Penataan Bangunan dan Lingkungannya, Permukiman dan Persampahan",
+        "children": []
+      },
+      {
+        "name": "Bidang Jalan dan Drainase",
+        "children": []
+      },
+      {
+        "name": "Bidang Penataan Ruang dan Jasa Konstruksi",
+        "children": []
+      },
+      {
+        "name": "Bidang Sumber Daya Air, Air Limbah dan Air Minum",
+        "children": []
+      },
+      {
+        "name": "Laboratorium Konstruksi dan Peralatan",
+        "children": []
+      },
+      {
+        "name": "Sekretariat Dinas",
+        "children": [
+          {
+            "name": "Sub Bagian Keuangan",
+            "children": []
+          },
+          {
+            "name": "Sub Bagian Perencanaan",
+            "children": []
+          },
+          {
+            "name": "Sub Bagian Umum dan Kepegawaian",
+            "children": []
+          },
+          {
+            "name": "Subbagian Keuangan",
+            "children": []
+          },
+          {
+            "name": "Subbagian Umum",
+            "children": []
+          },
+          {
+            "name": "Subbagian Umum dan Kepegawaian",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "UPTD Pemeliharaan Jalan dan Irigasi Wilayah Ajibarang",
+        "children": [
+          {
+            "name": "Sub Bagian Tata Usaha",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "UPTD Pemeliharaan Jalan dan Irigasi Wilayah Banyumas",
+        "children": [
+          {
+            "name": "Sub Bagian Tata Usaha",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "UPTD Pemeliharaan Jalan dan Irigasi Wilayah Cilongok",
+        "children": [
+          {
+            "name": "Sub Bagian Tata Usaha",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "UPTD Pemeliharaan Jalan dan Irigasi Wilayah Jatilawang",
+        "children": [
+          {
+            "name": "Sub Bagian Tata Usaha",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "UPTD Pemeliharaan Jalan dan Irigasi Wilayah Purwokerto",
+        "children": [
+          {
+            "name": "Sub Bagian Tata Usaha",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "UPTD Pemeliharaan Jalan dan Irigasi Wilayah Sokaraja",
+        "children": [
+          {
+            "name": "Sub Bagian Tata Usaha",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "UPTD Pemeliharaan Jalan dan Irigasi Wilayah Sumpiuh",
+        "children": [
+          {
+            "name": "Sub Bagian Tata Usaha",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "UPTD Pengelolaan Air Limbah Domestik",
+        "children": []
+      }
+    ]
+  },
+  {
+    "name": "Dinakerkop UKM",
+    "children": [
+      {
+        "name": "Bidang Hubungan Industrial",
+        "children": []
+      },
+      {
+        "name": "Bidang Koperasi",
+        "children": []
+      },
+      {
+        "name": "Bidang Pelatihan, Penempatan, Perluasan Kesempatan Kerja dan Transmigrasi",
+        "children": []
+      },
+      {
+        "name": "Bidang Usaha Mikro, Kecil dan Menengah",
+        "children": []
+      },
+      {
+        "name": "Sekretariat Dinas",
+        "children": [
+          {
+            "name": "Sub Bagian Keuangan",
+            "children": []
+          },
+          {
+            "name": "Sub Bagian Perencanaan",
+            "children": []
+          },
+          {
+            "name": "Sub Bagian Umum dan Kepegawaian",
+            "children": []
+          },
+          {
+            "name": "Subbagian Keuangan",
+            "children": []
+          },
+          {
+            "name": "Subbagian Umum",
+            "children": []
+          },
+          {
+            "name": "Subbagian Umum dan Kepegawaian",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "UPT Balai Latihan Kerja",
+        "children": [
+          {
+            "name": "Sub Bagian Tata Usaha",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Dinarpusda",
+    "children": [
+      {
+        "name": "Bidang Pembinaan, Pengembangan dan Pengawasan Kearsipan",
+        "children": []
+      },
+      {
+        "name": "Bidang Pengelolaan dan Pelestarian Kearsipan",
+        "children": []
+      },
+      {
+        "name": "Bidang Perpustakaan",
+        "children": []
+      },
+      {
+        "name": "Sekretariat Dinas",
+        "children": [
+          {
+            "name": "Sub Bagian Keuangan",
+            "children": []
+          },
+          {
+            "name": "Sub Bagian Perencanaan",
+            "children": []
+          },
+          {
+            "name": "Sub Bagian Umum dan Kepegawaian",
+            "children": []
+          },
+          {
+            "name": "Subbagian Keuangan",
+            "children": []
+          },
+          {
+            "name": "Subbagian Umum",
+            "children": []
+          },
+          {
+            "name": "Subbagian Umum dan Kepegawaian",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Dinas KP dan Perikanan",
+    "children": [
+      {
+        "name": "Bidang Ketersediaan dan Stabilisasi Pangan",
+        "children": []
+      },
+      {
+        "name": "Bidang Penanganan Kerawanan Pangan",
+        "children": []
+      },
+      {
+        "name": "Bidang Penganekaragaman dan Keamanan Pangan",
+        "children": []
+      },
+      {
+        "name": "Bidang Perikanan",
+        "children": []
+      },
+      {
+        "name": "Sekretariat Dinas",
+        "children": [
+          {
+            "name": "Sub Bagian Keuangan",
+            "children": []
+          },
+          {
+            "name": "Sub Bagian Perencanaan",
+            "children": []
+          },
+          {
+            "name": "Sub Bagian Umum dan Kepegawaian",
+            "children": []
+          },
+          {
+            "name": "Subbagian Keuangan",
+            "children": []
+          },
+          {
+            "name": "Subbagian Umum",
+            "children": []
+          },
+          {
+            "name": "Subbagian Umum dan Kepegawaian",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "UPTD Pengembangan Budidaya Air Tawar",
+        "children": []
+      }
+    ]
+  },
+  {
+    "name": "Dinas Kesehatan",
+    "children": [
+      {
+        "name": "Bidang Kesehatan Masyarakat",
+        "children": []
+      },
+      {
+        "name": "Bidang Pelayanan Kesehatan",
+        "children": []
+      },
+      {
+        "name": "Bidang Pencegahan dan Pengendalian Penyakit",
+        "children": []
+      },
+      {
+        "name": "Bidang Sumber Daya Kesehatan",
+        "children": []
+      },
+      {
+        "name": "Klinik Pratama Ibu dan Anak Kartini",
+        "children": [
+          {
+            "name": "Sub Bagian Tata Usaha",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Klinik Utama Kesehatan Paru Masyarakat",
+        "children": [
+          {
+            "name": "Sub Bagian Tata Usaha",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Laboratorium Kesehatan",
+        "children": [
+          {
+            "name": "Sub Bagian Tata Usaha",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Puskesmas Ajibarang I",
+        "children": [
+          {
+            "name": "Sub Bagian Tata Usaha",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Puskesmas Ajibarang II",
+        "children": [
+          {
+            "name": "Sub Bagian Tata Usaha",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Puskesmas Banyumas",
+        "children": [
+          {
+            "name": "Sub Bagian Tata Usaha",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Puskesmas Baturraden I",
+        "children": [
+          {
+            "name": "Sub Bagian Tata Usaha",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Puskesmas Baturraden II",
+        "children": [
+          {
+            "name": "Sub Bagian Tata Usaha",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Puskesmas Cilongok I",
+        "children": [
+          {
+            "name": "Sub Bagian Tata Usaha",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Puskesmas Cilongok II",
+        "children": [
+          {
+            "name": "Sub Bagian Tata Usaha",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Puskesmas Gumelar",
+        "children": [
+          {
+            "name": "Sub Bagian Tata Usaha",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Puskesmas Jatilawang",
+        "children": [
+          {
+            "name": "Sub Bagian Tata Usaha",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Puskesmas Kalibagor",
+        "children": [
+          {
+            "name": "Sub Bagian Tata Usaha",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Puskesmas Karanglewas",
+        "children": [
+          {
+            "name": "Sub Bagian Tata Usaha",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Puskesmas Kebasen",
+        "children": [
+          {
+            "name": "Sub Bagian Tata Usaha",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Puskesmas Kedungbanteng",
+        "children": [
+          {
+            "name": "Sub Bagian Tata Usaha",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Puskesmas Kembaran I",
+        "children": [
+          {
+            "name": "Sub Bagian Tata Usaha",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Puskesmas Kembaran II",
+        "children": [
+          {
+            "name": "Sub Bagian Tata Usaha",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Puskesmas Kemranjen I",
+        "children": [
+          {
+            "name": "Sub Bagian Tata Usaha",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Puskesmas Kemranjen II",
+        "children": [
+          {
+            "name": "Sub Bagian Tata Usaha",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Puskesmas Lumbir",
+        "children": [
+          {
+            "name": "Sub Bagian Tata Usaha",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Puskesmas Patikraja",
+        "children": [
+          {
+            "name": "Sub Bagian Tata Usaha",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Puskesmas Pekuncen I",
+        "children": [
+          {
+            "name": "Sub Bagian Tata Usaha",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Puskesmas Pekuncen II",
+        "children": [
+          {
+            "name": "Sub Bagian Tata Usaha",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Puskesmas Purwojati",
+        "children": [
+          {
+            "name": "Sub Bagian Tata Usaha",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Puskesmas Purwokerto Barat",
+        "children": [
+          {
+            "name": "Sub Bagian Tata Usaha",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Puskesmas Purwokerto Selatan",
+        "children": [
+          {
+            "name": "Sub Bagian Tata Usaha",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Puskesmas Purwokerto Timur I",
+        "children": [
+          {
+            "name": "Sub Bagian Tata Usaha",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Puskesmas Purwokerto Timur II",
+        "children": [
+          {
+            "name": "Sub Bagian Tata Usaha",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Puskesmas Purwokerto Utara I",
+        "children": [
+          {
+            "name": "Sub Bagian Tata Usaha",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Puskesmas Purwokerto Utara II",
+        "children": [
+          {
+            "name": "Sub Bagian Tata Usaha",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Puskesmas Rawalo",
+        "children": [
+          {
+            "name": "Sub Bagian Tata Usaha",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Puskesmas Sokaraja I",
+        "children": [
+          {
+            "name": "Sub Bagian Tata Usaha",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Puskesmas Sokaraja II",
+        "children": [
+          {
+            "name": "Sub Bagian Tata Usaha",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Puskesmas Somagede",
+        "children": [
+          {
+            "name": "Sub Bagian Tata Usaha",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Puskesmas Sumbang I",
+        "children": [
+          {
+            "name": "Sub Bagian Tata Usaha",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Puskesmas Sumbang II",
+        "children": [
+          {
+            "name": "Sub Bagian Tata Usaha",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Puskesmas Sumpiuh I",
+        "children": [
+          {
+            "name": "Sub Bagian Tata Usaha",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Puskesmas Sumpiuh II",
+        "children": [
+          {
+            "name": "Sub Bagian Tata Usaha",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Puskesmas Tambak I",
+        "children": [
+          {
+            "name": "Sub Bagian Tata Usaha",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Puskesmas Tambak II",
+        "children": [
+          {
+            "name": "Sub Bagian Tata Usaha",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Puskesmas Wangon I",
+        "children": [
+          {
+            "name": "Sub Bagian Tata Usaha",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Puskesmas Wangon II",
+        "children": [
+          {
+            "name": "Sub Bagian Tata Usaha",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "RSK Mata Purwokerto",
+        "children": [
+          {
+            "name": "Seksi Pelayanan Medik",
+            "children": []
+          },
+          {
+            "name": "Seksi Penunjang Medik",
+            "children": []
+          },
+          {
+            "name": "Sub Bagian Umum dan Tata Usaha",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "RSUD Ajibarang",
+        "children": [
+          {
+            "name": "Bagian Administrasi dan Keuangan",
+            "children": [
+              {
+                "name": "Sub Bagian Keuangan",
+                "children": []
+              },
+              {
+                "name": "Sub Bagian Perencanaan dan Evaluasi",
+                "children": []
+              },
+              {
+                "name": "Sub Bagian Umum dan Kepegawaian",
+                "children": []
+              },
+              {
+                "name": "Subbagian Keuangan",
+                "children": []
+              },
+              {
+                "name": "Subbagian Perencanaan dan Evaluasi",
+                "children": []
+              },
+              {
+                "name": "Subbagian Umum dan Kepegawaian",
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "Bidang Pelayanan Medis dan Keperawatan",
+            "children": [
+              {
+                "name": "Seksi Keperawatan",
+                "children": []
+              },
+              {
+                "name": "Seksi Pelayanan Medis",
+                "children": []
+              },
+              {
+                "name": "Seksi Penunjang Medis",
+                "children": []
+              },
+              {
+                "name": "Seksi Penunjang Non Medis",
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "Bidang Pelayanan Medis, Keperawatan dan Kebidanan",
+            "children": [
+              {
+                "name": "Seksi Keperawatan dan Kebidanan",
+                "children": []
+              },
+              {
+                "name": "Seksi Pelayanan Medis",
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "Bidang Penunjang Medis dan Non Medis",
+            "children": [
+              {
+                "name": "Seksi Penunjang Medis",
+                "children": []
+              },
+              {
+                "name": "Seksi Penunjang Nonmedis",
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "Bidang Sarana Prasarana, Pengembangan Sumber Daya Manusia, Mutu dan Kerjasama",
+            "children": [
+              {
+                "name": "Seksi Pengembangan Sumber Daya Manusia, Mutu dan Kerjasama",
+                "children": []
+              },
+              {
+                "name": "Seksi Sarana Prasarana",
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "Bidang Sarana Prasarana, Peningkatan Mutu Kerja Sama dan Promosi Kesehatan Rumah Sakit",
+            "children": [
+              {
+                "name": "Seksi Peningkatan Mutu, Kerja Sama dan Promosi Kesehatan Rumah Sakit",
+                "children": []
+              },
+              {
+                "name": "Seksi Sarana dan Prasarana",
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "Bidang Sarana Prasarana, Peningkatan Mutu, Kerja Sama dan Promosi Kesehatan Rumah Sakit",
+            "children": []
+          },
+          {
+            "name": "Direktur RSUD Ajibarang",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "RSUD Banyumas",
+        "children": [
+          {
+            "name": "Bagian Administrasi",
+            "children": [
+              {
+                "name": "Sub Bagian Peningkatan Mutu dan Kerjasama",
+                "children": []
+              },
+              {
+                "name": "Sub Bagian Umum dan Kepegawaian",
+                "children": []
+              },
+              {
+                "name": "Subbagian Umum dan Kepegawaian",
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "Bagian Diklat, Litbang dan Peningkatan Mutu",
+            "children": [
+              {
+                "name": "Sub Bagian Peningkatan Mutu dan Kerjasama",
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "Bagian Keuangan",
+            "children": [
+              {
+                "name": "Sub Bagian Peningkatan Mutu dan Kerjasama",
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "Bagian Pendidikan, Pelatihan, Penelitian dan Pengembangan, Peningkatan Mutu dan Kerjasama",
+            "children": [
+              {
+                "name": "Subbagian Peningkatan Mutu dan Kerja Sama",
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "Bidang Informasi dan Promosi Kesehatan Rumah Sakit",
+            "children": []
+          },
+          {
+            "name": "Bidang Keperawatan",
+            "children": []
+          },
+          {
+            "name": "Bidang Pelayanan Keperawatan dan Kebidanan",
+            "children": []
+          },
+          {
+            "name": "Bidang Pelayanan Medis",
+            "children": []
+          },
+          {
+            "name": "Bidang Pelayanan Penunjang",
+            "children": []
+          },
+          {
+            "name": "Bidang Penunjang Medis",
+            "children": []
+          },
+          {
+            "name": "Bidang Penunjang Nonmedis",
+            "children": []
+          },
+          {
+            "name": "Bidang Sarana dan Prasarana Alat",
+            "children": []
+          },
+          {
+            "name": "Direktur RSUD Banyumas",
+            "children": []
+          },
+          {
+            "name": "Wakil Direktur Pelayanan",
+            "children": []
+          },
+          {
+            "name": "Wakil Direktur Umum",
+            "children": [
+              {
+                "name": "Bagian Pendidikan, Pelatihan, Penelitian dan Pengembangan, Peningkatan Mutu dan Kerja Sama",
+                "children": []
+              },
+              {
+                "name": "Bagian Pendidikan, Pelatihan, Penelitian dan Pengembangan, Peningkatan Mutu dan Kerjasama",
+                "children": [
+                  {
+                    "name": "Subbagian Peningkatan Mutu dan Kerja Sama",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Sekretariat Dinas",
+        "children": [
+          {
+            "name": "Sub Bagian Keuangan",
+            "children": []
+          },
+          {
+            "name": "Sub Bagian Perencanaan",
+            "children": []
+          },
+          {
+            "name": "Sub Bagian Umum dan Kepegawaian",
+            "children": []
+          },
+          {
+            "name": "Subbagian Keuangan",
+            "children": []
+          },
+          {
+            "name": "Subbagian Umum",
+            "children": []
+          },
+          {
+            "name": "Subbagian Umum dan Kepegawaian",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Unit Perbekalan Alat Kesehatan Farmasi",
+        "children": [
+          {
+            "name": "Sub Bagian Tata Usaha",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Unit Perbekalan Alat Kesehatan dan Farmasi",
+        "children": [
+          {
+            "name": "Sub Bagian Tata Usaha",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Dinas Pekerjaan Umum",
+    "children": [
+      {
+        "name": "Bidang Drainase dan Bina Jasa Konstruksi",
+        "children": []
+      },
+      {
+        "name": "Bidang Pemeliharaan dan Monitoring Evaluasi Jalan",
+        "children": []
+      },
+      {
+        "name": "Bidang Penataan Bangunan",
+        "children": []
+      },
+      {
+        "name": "Bidang Perencanaan dan Pembangunan Jalan",
+        "children": []
+      },
+      {
+        "name": "Bidang Sumber Daya Air",
+        "children": []
+      },
+      {
+        "name": "Laboratorium Konstruksi dan Peralatan",
+        "children": []
+      },
+      {
+        "name": "Sekretariat Dinas",
+        "children": [
+          {
+            "name": "Sub Bagian Keuangan",
+            "children": []
+          },
+          {
+            "name": "Sub Bagian Perencanaan",
+            "children": []
+          },
+          {
+            "name": "Sub Bagian Umum dan Kepegawaian",
+            "children": []
+          },
+          {
+            "name": "Subbagian Keuangan",
+            "children": []
+          },
+          {
+            "name": "Subbagian Umum",
+            "children": []
+          },
+          {
+            "name": "Subbagian Umum dan Kepegawaian",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "UPTD Pemeliharaan Jalan dan Irigasi Wilayah Ajibarang",
+        "children": [
+          {
+            "name": "Sub Bagian Tata Usaha",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "UPTD Pemeliharaan Jalan dan Irigasi Wilayah Banyumas",
+        "children": [
+          {
+            "name": "Sub Bagian Tata Usaha",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "UPTD Pemeliharaan Jalan dan Irigasi Wilayah Cilongok",
+        "children": [
+          {
+            "name": "Sub Bagian Tata Usaha",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "UPTD Pemeliharaan Jalan dan Irigasi Wilayah Jatilawang",
+        "children": [
+          {
+            "name": "Sub Bagian Tata Usaha",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "UPTD Pemeliharaan Jalan dan Irigasi Wilayah Purwokerto",
+        "children": [
+          {
+            "name": "Sub Bagian Tata Usaha",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "UPTD Pemeliharaan Jalan dan Irigasi Wilayah Sokaraja",
+        "children": [
+          {
+            "name": "Sub Bagian Tata Usaha",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "UPTD Pemeliharaan Jalan dan Irigasi Wilayah Sumpiuh",
+        "children": [
+          {
+            "name": "Sub Bagian Tata Usaha",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Dinas Pemberdayaan Masyarakat dan Desa",
+    "children": [
+      {
+        "name": "Bidang Kelembagaan dan Pemberdayaan Masyarakat",
+        "children": []
+      },
+      {
+        "name": "Bidang Kerja Sama Desa dan Ekonomi Desa",
+        "children": []
+      },
+      {
+        "name": "Bidang Penataan Desa dan Pemerintahan Desa",
+        "children": []
+      },
+      {
+        "name": "Bidang Tata Kelola Keuangan dan Aset Desa",
+        "children": []
+      },
+      {
+        "name": "Kepala Dinas Pemberdayaan Masyarakat dan Desa",
+        "children": []
+      },
+      {
+        "name": "Sekretariat Dinas",
+        "children": [
+          {
+            "name": "Sub Bagian Keuangan",
+            "children": []
+          },
+          {
+            "name": "Sub Bagian Perencanaan",
+            "children": []
+          },
+          {
+            "name": "Sub Bagian Umum dan Kepegawaian",
+            "children": []
+          },
+          {
+            "name": "Subbagian Keuangan",
+            "children": []
+          },
+          {
+            "name": "Subbagian Umum",
+            "children": []
+          },
+          {
+            "name": "Subbagian Umum dan Kepegawaian",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Dinas Pendidikan",
+    "children": [
+      {
+        "name": "Bidang PAUD dan DIKMAS",
+        "children": [
+          {
+            "name": "Seksi Dikmas dan Kursus",
+            "children": []
+          },
+          {
+            "name": "Seksi Pendidikan Anak Usia Dini",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Bidang Pembinaan Guru dan Tenaga Kependidikan",
+        "children": [
+          {
+            "name": "Seksi Pembinaan Guru dan Tenaga Kependidikan SMP",
+            "children": []
+          },
+          {
+            "name": "Seksi Pendidikan Guru dan Tenaga Kependidikan SD",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Bidang Pembinaan SD",
+        "children": [
+          {
+            "name": "Seksi Kurikulum SD",
+            "children": []
+          },
+          {
+            "name": "Seksi Sarpras SD",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Bidang Pembinaan SMP",
+        "children": [
+          {
+            "name": "Seksi Kurikulum SMP",
+            "children": []
+          },
+          {
+            "name": "Seksi Sarpras SMP",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Sanggar Kegiatan Belajar Ajibarang",
+        "children": []
+      },
+      {
+        "name": "Sanggar Kegiatan Belajar Kalibagor",
+        "children": []
+      },
+      {
+        "name": "Sanggar Kegiatan Belajar Purwokerto",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Adisana",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Adisara",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Alasmalang",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Arcawinangun",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Babakan",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Bancarkembar",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Banjaranyar",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Banjarpanepen",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Banjarparakan",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Banjarsari Kulon",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Banjarsari Wetan",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Bantar",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Bantarsoka",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Bantarwuni",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Banteran",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Baseh",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Batuanten",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Beji",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Berkoh",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Besuki",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Binangun",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Bobosan",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Bogangin",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Bojong",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Bojongsari",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Buniayu",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Candinegara",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Canduk",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Ciarus",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Cibangkong",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Ciberung",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Cidora",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Cihonje",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Cikakak",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Cikawung",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Cikembulan",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Cikidang",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Cilangkap",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Cilongok",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Cindaga",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Cingebul",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Cipete",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Cirahab",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Darmakradenan",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Dawuhan Kulon",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Dermaji",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Dukuhwaluh",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Gambarsari",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Gancang",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Gandatapa",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Gebangsari",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Gerduren",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Glempang",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Grendeng",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Grujugan",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Gumelar",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Gununglurah",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Gunungwetan",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Jambu",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Jatilawang",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Jatisaba",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Jingkang",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Jurangbahas",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Kalibagor",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Kalikesur",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Kaliori",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Kalisalak",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Kalitapen",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Kaliwangi",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Karanganyar",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Karangbawang",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Karangduren",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Karanggayam",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Karanggintung",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Karanggintung Kemranjen",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Karanggude",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Karangjati",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Karangkedawung",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Karangkemiri",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Karangkemojing",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Karangklesem",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Karanglewas",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Karanglewas Lor",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Karangmangu",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Karangnanas",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Karangpucung",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Karangrau",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Karangsalam Kemranjen",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Karangtalun Kidul",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Karangtengah",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Karangwangkal",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Kasegeran",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Kebanggan",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Kebasen",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Kebocoran",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Kebokura",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Kecila",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Kediri",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Kedungbanteng",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Kedunggede",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Kedungrandu",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Kedungurang",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Kedungwringin",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Kedungwuluh",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Kedungwuluh Kidul",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Kedungwuluh Lor",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Kejawar",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Kemawi",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Kemiri",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Kemutug Kidul",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Kemutug Lor",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Keniten",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Ketanda",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Ketenger",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Klahang",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Klapagading",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Klinting",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Kober",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Kotayasa",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Kracak",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Kradenan",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Krajan",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Kranji",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Kuntili",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Kutaliman",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Kutasari",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Langgongsari",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Lesmana",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Limpakuwus",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Linggasari",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Losari",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Lumbir",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Mengangkang",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Mersi",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Notog",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Nusamangir",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Pabuwaran",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Pageraji",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Pageralang",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Pajerukan",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Pamijen",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Pancasan",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Pancurendang",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Paningkaban",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Panusupan",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Papringan",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Parungkamal",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Pasinggangan",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Pasir Kidul",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Pasir Kulon",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Pasirmuncang",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Patikraja",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Pejogol",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Pekaja",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Pekuncen",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Pengadegan",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Pernasidi",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Petahunan",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Petir",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Piasa",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Plangkapan",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Pliken",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Purbadana",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Purwanegara",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Purwodadi",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Purwojati",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Purwokerto Kidul",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Purwokerto Kulon",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Purwokerto Lor",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Purwokerto Wetan",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Rancabanteng",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Rancamaya",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Randegan",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Rawaheng",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Rawalo",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Rejasari",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Rempoah",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Sambeng Kulon",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Sambirata",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Samudra",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Samudra Kulon",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Sanggreman",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Sawangan",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Selanegara",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Semedo",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Sibalung",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Sibrama",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Sidabowa",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Sidamulih",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Sikapat",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Sokanegara",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Sokaraja Kulon",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Sokaraja Tengah",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Sokaraja Wetan",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Sokawera",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Somagede",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Srowot",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Sudagaran",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Sumampir",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Sumbang",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Sumpiuh",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Susukan",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Tamansari",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Tambaknegara",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Tambaksogra",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Tanggeran",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Tanjung",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Teluk",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Tinggarjaya",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Tinggarwangi",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Tipar",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Tiparkidul",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Tlaga",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Tumiyang",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Wangon",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Windujaya",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Windunegara",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Wlahar",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Adisana",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Adisara",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Alasmalang",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Babakan",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Bangsa",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Banjaranyar",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Banjarpanepen",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Banjarparakan",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Banjarsari Kulon",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Banjarsari Wetan",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Bantar",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Bantarsoka",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Bantarwuni",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Banteran",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Baseh",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Batuanten",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Beji",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Berkoh",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Besuki",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Binangun",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Bobosan",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Bojong",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Bojongsari",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Buniayu",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Canduk",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Ciarus",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Cibangkong",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Ciberung",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Cidora",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Cihonje",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Cikakak",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Cikawung",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Cikembulan",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Cikidang",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Cilangkap",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Cilongok",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Cindaga",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Cingebul",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Cipete",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Cirahab",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Darmakradenan",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Dawuhan Kulon",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Dermaji",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Dukuhwaluh",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Gambarsari",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Gancang",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Gandatapa",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Gebangsari",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Gerduren",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Glempang",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Grujugan",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Gumelar",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Gununglurah",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Gunungwetan",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Jambu",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Jatilawang",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Jatisaba",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Jingkang",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Jurangbahas",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Kalibagor",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Kalikesur",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Kaliori",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Kalisalak",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Kalitapen",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Kaliwangi",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Karanganyar",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Karangbawang",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Karangduren",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Karanggayam",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Karanggintung",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Karanggintung Kemranjen",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Karangkedawung",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Karangkemiri",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Karangkemojing",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Karanglewas",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Karanglewas Lor",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Karangmangu",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Karangnanas",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Karangpucung",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Karangrau",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Karangsalam Kemranjen",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Karangtalun Kidul",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Karangtengah",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Kasegeran",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Kebanggan",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Kebasen",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Kebocoran",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Kebokura",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Kecila",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Kediri",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Kedunggede",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Kedungrandu",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Kedungurang",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Kedungwringin",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Kedungwuluh",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Kedungwuluh Kidul",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Kedungwuluh Lor",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Kejawar",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Kemawi",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Kemiri",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Kemutug Kidul",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Kemutug Lor",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Ketanda",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Ketenger",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Klahang",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Klapagading",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Klinting",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Kober",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Kotayasa",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Kracak",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Kradenan",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Krajan",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Kuntili",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Kutaliman",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Langgongsari",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Lesmana",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Limpakuwus",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Linggasari",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Losari",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Lumbir",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Mengangkang",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Mersi",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Nusamangir",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Pabuwaran",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Pageraji",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Pageralang",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Pajerukan",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Pamijen",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Pancasan",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Pancurendang",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Paningkaban",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Panusupan",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Papringan",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Parungkamal",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Pasinggangan",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Pasir Kidul",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Pasir Kulon",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Pasirmuncang",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Patikraja",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Pejogol",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Pekaja",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Pekuncen",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Pengadegan",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Pernasidi",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Petahunan",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Petir",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Piasa",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Plangkapan",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Pliken",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Purbadana",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Purwodadi",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Purwojati",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Purwokerto Kulon",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Purwokerto Lor",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Purwokerto Wetan",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Rancabanteng",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Rancamaya",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Randegan",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Rawaheng",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Rawalo",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Rejasari",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Sambeng Kulon",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Sambirata",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Samudra",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Samudra Kulon",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Sanggreman",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Sawangan",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Selanegara",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Semedo",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Sibalung",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Sibrama",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Sidabowa",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Sidamulih",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Sikapat",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Sokaraja Kulon",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Sokaraja Tengah",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Sokaraja Wetan",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Sokawera",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Somagede",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Srowot",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Sudagaran",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Sumampir",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Sumbang",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Sumpiuh",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Susukan",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Tamansari",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Tambaknegara",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Tambaksogra",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Tanggeran",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Tanjung",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Tinggarjaya",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Tinggarwangi",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Tipar",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Tiparkidul",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Tlaga",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Tumiyang",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Wangon",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Windujaya",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Windunegara",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Wlahar",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Wlahar Kulon",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 keniten",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 3 Adisana",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 3 Adisara",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 3 Arcawinangun",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 3 Bancarkember",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 3 Bangsa",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 3 Banjarpanepen",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 3 Banteran",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 3 Berkoh",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 3 Binangun",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 3 Bogangin",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 3 Buniayu",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 3 Candinegara",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 3 Canduk",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 3 Cibangkong",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 3 Cihonje",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 3 Cikakak",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 3 Cikembulan",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 3 Cilangkap",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 3 Cilongok",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 3 Cindaga",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 3 Cingebul",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 3 Cirahab",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 3 Darmakradenan",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 3 Dermaji",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 3 Dukuhwaluh",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 3 Gandatapa",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 3 Gerduren",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 3 Grendeng",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 3 Gumelar",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 3 Gunungwetan",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 3 Jambu",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 3 Jatilawang",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 3 Jingkang",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 3 Kaliori",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 3 Kalisalak",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 3 Karanggayam",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 3 Karanggude",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 3 Karangkemiri",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 3 Karangkemojing",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 3 Karangklesem",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 3 Karangmangu",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 3 Karangnanas",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 3 Karangpucung",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 3 Karangrau",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 3 Karangsalam Kemranjen",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 3 Karangtalun Kidul",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 3 Karangtengah",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 3 Kebocoran",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 3 Kedungbanteng",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 3 Kedunggede",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 3 Kedungrandu",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 3 Kedungurang",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 3 Kedungwringin",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 3 Kedungwuluh",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 3 Kejawar",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 3 Kemawi",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 3 Kemiri",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 3 Klapagading",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 3 Kober",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 3 Kotayasa",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 3 Kracak",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 3 Kutaliman",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 3 Kutasari",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 3 Lesmana",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 3 Linggasari",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 3 Lumbir",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 3 Mersi",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 3 Notog",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 3 Pageraji",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 3 Pageralang",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 3 Pancasan",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 3 Panusupan",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 3 Parungkamal",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 3 Pasinggangan",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 3 Pasirmuncang",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 3 Pekaja",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 3 Pekuncen",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 3 Pengadegan",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 3 Pernasidi",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 3 Pliken",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 3 Purwanegara",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 3 Purwodadi",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 3 Purwojati",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 3 Purwokerto Kidul",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 3 Purwokerto Kulon",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 3 Rancabanteng",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 3 Rawaheng",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 3 Rawalo",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 3 Rejasari",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 3 Samudra",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 3 Sanggreman",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 3 Selanegara",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 3 Semedo",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 3 Sokanegara",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 3 Sokaraja Kulon",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 3 Sokawera",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 3 Sudagaran",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 3 Sumpiuh",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 3 Tambaknegara",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 3 Tambaksogra",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 3 Tanggeran",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 3 Tanjung",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 3 Teluk",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 3 Tinggarjaya",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 3 Tipar",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 3 Tiparkidul",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 3 Tumiyang",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 3 Wangon",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 4 Arcawinangun",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 4 Bancarkember",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 4 Cibangkong",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 4 Cihonje",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 4 Cindaga",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 4 Cingebul",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 4 Cirahab",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 4 Darmakradenan",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 4 Dukuhwaluh",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 4 Gumelar",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 4 Gunungwetan",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 4 Jatilawang",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 4 Kalibagor",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 4 Kalisalak",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 4 Karangkemojing",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 4 Karangklesem",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 4 Karangpucung",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 4 Karangrau",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 4 Karangtengah",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 4 Kedungwringin",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 4 Kotayasa",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 4 Kranji",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 4 Lumbir",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 4 Mersi",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 4 Panusupan",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 4 Pasinggangan",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 4 Pengadegan",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 4 Purwanegara",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 4 Rawalo",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 4 Rempoah",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 4 Samudra",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 4 Sokanegara",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 4 Sumpiuh",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 4 Teluk",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 4 Tiparkidul",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 4 Wangon",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 5 Arcawinangun",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 5 Cihonje",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 5 Cingebul",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 5 Gumelar",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 5 Karangpucung",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 5 Karangrau",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 5 Kedungwringin",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 5 Lumbir",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 5 Pasinggangan",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 5 Teluk",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 5 Wangon",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 6 Lumbir",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 7 Sokanegara",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 8 Kranji",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri Ajibarang Kulon",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri Ajibarang Wetan",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri Banjaranyar",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri Banjarsari",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri Banjarsari Kidul",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri Bengkelung",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri Bentul",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri Ciandong",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri Ciberem",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri Cibun",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri Cilaku",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri Curug",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri Curugbunglon",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri Danaraja",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri Danasri",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri Datar",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri Dawuhan",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri Dawuhan Wetan",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri Gandeng",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri Gedang Kulon",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri Gendurek",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri Gumelar Kidul",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri Gumelar Lor",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri Gunungmujil",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri Jipang",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri Jompo Kulon",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri Kalibatur",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri Kalibenda",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri Kalicupak Kidul",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri Kalicupak Lor",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri Kalikembang",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri Kalikidang",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri Kalipetung",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri Kaliputih",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri Kalisari",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri Kalisogra Wetan",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri Kalisube",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri Kaliurip",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri Kaliwedi",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri Kamulyan",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri Kanding",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri KarangPetir",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri Karangaren",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri Karangbanar",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri Karangcegak",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri Karangdadap",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri Karangendep",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri Karanggedang",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri Karangkemiri",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri Karangklesem",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri Karanglewas Kidul",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri Karanglo",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri Karanglo Kemranjen",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri Karangmangu",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri Karangnangka",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri Karangrau",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri Karangsalam",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri Karangsari",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri Karangsoka",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri Karangtalun Lor",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri Karangtawang",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri Karangtengah",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri Karangturi",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri Karangwangkal",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri Kawungcarang",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri Kebarongan",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri Kebumen",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri Kecil Kalipagu",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri Kecil Munggangsari",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri Kedondong",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri Kedungmalang",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri Kedungpring",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri Kedunguter",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri Kembaran",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri Klapasawit",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri Kramat",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri Kranggan",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri Larangan",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri Lebeng",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri Ledug",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri Legok",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri Lemberang",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri Locondong",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri Majingklak",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri Mandirancan",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri Manggungan",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri Margasana",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri Melung",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri Menganti",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri Nusadadi",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri Pagedongan",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri Pagentan",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri Pakunden",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri Pamijen",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri Pamriyan",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri Panambangan",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri Pandak",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri Pandansari",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri Pangebatan",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri Pasir Lor",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri Pasir Wetan",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri Pasiraman Kidul",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri Pasiraman Lor",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri Pegalongan",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri Pekodokan",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri Pesantren",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri Pesawahan",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri Petarangan",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri Plana",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri Prembun",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri Purwodadi",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri Purwosari",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri Randegan",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri Ranjingan",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri Sambeng Wetan",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri Sawangan",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri Selandaka",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri Semaya",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri Semingkir",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri Sidamulya",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri Silado",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri Singasari",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri Sirau",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri Siwarak Kulon",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri Siwarak Wetan",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri Sokaraja Kidul",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri Sokaraja Lor",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri Sudimara",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri Sunyalangu",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri Suro",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri Tambaksari",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri Tumiyang",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri Tunjung Kulon",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri Tunjung Lor",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri Watuagung",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri Watujaran",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri Wiradadi",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri Wlahar Wetan",
+        "children": []
+      },
+      {
+        "name": "Sekolah Menengah Pertama Negeri 1 Ajibarang",
+        "children": []
+      },
+      {
+        "name": "Sekolah Menengah Pertama Negeri 1 Banyumas",
+        "children": []
+      },
+      {
+        "name": "Sekolah Menengah Pertama Negeri 1 Baturraden",
+        "children": []
+      },
+      {
+        "name": "Sekolah Menengah Pertama Negeri 1 Cilongok",
+        "children": []
+      },
+      {
+        "name": "Sekolah Menengah Pertama Negeri 1 Gumelar",
+        "children": []
+      },
+      {
+        "name": "Sekolah Menengah Pertama Negeri 1 Jatilawang",
+        "children": []
+      },
+      {
+        "name": "Sekolah Menengah Pertama Negeri 1 Kalibagor",
+        "children": []
+      },
+      {
+        "name": "Sekolah Menengah Pertama Negeri 1 Karanglewas",
+        "children": []
+      },
+      {
+        "name": "Sekolah Menengah Pertama Negeri 1 Kebasen",
+        "children": []
+      },
+      {
+        "name": "Sekolah Menengah Pertama Negeri 1 Kedungbanteng",
+        "children": []
+      },
+      {
+        "name": "Sekolah Menengah Pertama Negeri 1 Kembaran",
+        "children": []
+      },
+      {
+        "name": "Sekolah Menengah Pertama Negeri 1 Kemranjen",
+        "children": []
+      },
+      {
+        "name": "Sekolah Menengah Pertama Negeri 1 Lumbir",
+        "children": []
+      },
+      {
+        "name": "Sekolah Menengah Pertama Negeri 1 Patikraja",
+        "children": []
+      },
+      {
+        "name": "Sekolah Menengah Pertama Negeri 1 Pekuncen",
+        "children": []
+      },
+      {
+        "name": "Sekolah Menengah Pertama Negeri 1 Purwojati",
+        "children": []
+      },
+      {
+        "name": "Sekolah Menengah Pertama Negeri 1 Purwokerto",
+        "children": []
+      },
+      {
+        "name": "Sekolah Menengah Pertama Negeri 1 Rawalo",
+        "children": []
+      },
+      {
+        "name": "Sekolah Menengah Pertama Negeri 1 Sokaraja",
+        "children": []
+      },
+      {
+        "name": "Sekolah Menengah Pertama Negeri 1 Somagede",
+        "children": []
+      },
+      {
+        "name": "Sekolah Menengah Pertama Negeri 1 Sumbang",
+        "children": []
+      },
+      {
+        "name": "Sekolah Menengah Pertama Negeri 1 Sumpiuh",
+        "children": []
+      },
+      {
+        "name": "Sekolah Menengah Pertama Negeri 1 Tambak",
+        "children": []
+      },
+      {
+        "name": "Sekolah Menengah Pertama Negeri 1 Wangon",
+        "children": []
+      },
+      {
+        "name": "Sekolah Menengah Pertama Negeri 10 Purwokerto",
+        "children": []
+      },
+      {
+        "name": "Sekolah Menengah Pertama Negeri 2 Ajibarang",
+        "children": []
+      },
+      {
+        "name": "Sekolah Menengah Pertama Negeri 2 Banyumas",
+        "children": []
+      },
+      {
+        "name": "Sekolah Menengah Pertama Negeri 2 Baturraden",
+        "children": []
+      },
+      {
+        "name": "Sekolah Menengah Pertama Negeri 2 Cilongok",
+        "children": []
+      },
+      {
+        "name": "Sekolah Menengah Pertama Negeri 2 Gumelar",
+        "children": []
+      },
+      {
+        "name": "Sekolah Menengah Pertama Negeri 2 Jatilawang",
+        "children": []
+      },
+      {
+        "name": "Sekolah Menengah Pertama Negeri 2 Kalibagor",
+        "children": []
+      },
+      {
+        "name": "Sekolah Menengah Pertama Negeri 2 Karanglewas",
+        "children": []
+      },
+      {
+        "name": "Sekolah Menengah Pertama Negeri 2 Kebasen",
+        "children": []
+      },
+      {
+        "name": "Sekolah Menengah Pertama Negeri 2 Kedungbanteng",
+        "children": []
+      },
+      {
+        "name": "Sekolah Menengah Pertama Negeri 2 Kembaran",
+        "children": []
+      },
+      {
+        "name": "Sekolah Menengah Pertama Negeri 2 Kemranjen",
+        "children": []
+      },
+      {
+        "name": "Sekolah Menengah Pertama Negeri 2 Lumbir",
+        "children": []
+      },
+      {
+        "name": "Sekolah Menengah Pertama Negeri 2 Patikraja",
+        "children": []
+      },
+      {
+        "name": "Sekolah Menengah Pertama Negeri 2 Pekuncen",
+        "children": []
+      },
+      {
+        "name": "Sekolah Menengah Pertama Negeri 2 Purwojati",
+        "children": []
+      },
+      {
+        "name": "Sekolah Menengah Pertama Negeri 2 Purwokerto",
+        "children": []
+      },
+      {
+        "name": "Sekolah Menengah Pertama Negeri 2 Rawalo",
+        "children": []
+      },
+      {
+        "name": "Sekolah Menengah Pertama Negeri 2 Sokaraja",
+        "children": []
+      },
+      {
+        "name": "Sekolah Menengah Pertama Negeri 2 Somagede",
+        "children": []
+      },
+      {
+        "name": "Sekolah Menengah Pertama Negeri 2 Sumbang",
+        "children": []
+      },
+      {
+        "name": "Sekolah Menengah Pertama Negeri 2 Sumpiuh",
+        "children": []
+      },
+      {
+        "name": "Sekolah Menengah Pertama Negeri 2 Tambak",
+        "children": []
+      },
+      {
+        "name": "Sekolah Menengah Pertama Negeri 2 Wangon",
+        "children": []
+      },
+      {
+        "name": "Sekolah Menengah Pertama Negeri 3 Ajibarang",
+        "children": []
+      },
+      {
+        "name": "Sekolah Menengah Pertama Negeri 3 Banyumas",
+        "children": []
+      },
+      {
+        "name": "Sekolah Menengah Pertama Negeri 3 Cilongok",
+        "children": []
+      },
+      {
+        "name": "Sekolah Menengah Pertama Negeri 3 Gumelar",
+        "children": []
+      },
+      {
+        "name": "Sekolah Menengah Pertama Negeri 3 Kalibagor",
+        "children": []
+      },
+      {
+        "name": "Sekolah Menengah Pertama Negeri 3 Karanglewas",
+        "children": []
+      },
+      {
+        "name": "Sekolah Menengah Pertama Negeri 3 Kebasen",
+        "children": []
+      },
+      {
+        "name": "Sekolah Menengah Pertama Negeri 3 Kedungbanteng",
+        "children": []
+      },
+      {
+        "name": "Sekolah Menengah Pertama Negeri 3 Lumbir",
+        "children": []
+      },
+      {
+        "name": "Sekolah Menengah Pertama Negeri 3 Pekuncen",
+        "children": []
+      },
+      {
+        "name": "Sekolah Menengah Pertama Negeri 3 Purwokerto",
+        "children": []
+      },
+      {
+        "name": "Sekolah Menengah Pertama Negeri 3 Sokaraja",
+        "children": []
+      },
+      {
+        "name": "Sekolah Menengah Pertama Negeri 3 Sumbang",
+        "children": []
+      },
+      {
+        "name": "Sekolah Menengah Pertama Negeri 3 Wangon",
+        "children": []
+      },
+      {
+        "name": "Sekolah Menengah Pertama Negeri 4 Banyumas",
+        "children": []
+      },
+      {
+        "name": "Sekolah Menengah Pertama Negeri 4 Kalibagor",
+        "children": []
+      },
+      {
+        "name": "Sekolah Menengah Pertama Negeri 4 Kedungbanteng",
+        "children": []
+      },
+      {
+        "name": "Sekolah Menengah Pertama Negeri 4 Purwokerto",
+        "children": []
+      },
+      {
+        "name": "Sekolah Menengah Pertama Negeri 4 Sumbang",
+        "children": []
+      },
+      {
+        "name": "Sekolah Menengah Pertama Negeri 5 Purwokerto",
+        "children": []
+      },
+      {
+        "name": "Sekolah Menengah Pertama Negeri 6 Purwokerto",
+        "children": []
+      },
+      {
+        "name": "Sekolah Menengah Pertama Negeri 7 Purwokerto",
+        "children": []
+      },
+      {
+        "name": "Sekolah Menengah Pertama Negeri 8 Purwokerto",
+        "children": []
+      },
+      {
+        "name": "Sekolah Menengah Pertama Negeri 9 Purwokerto",
+        "children": []
+      },
+      {
+        "name": "Sekretariat Dinas",
+        "children": [
+          {
+            "name": "Sub Bagian Keuangan",
+            "children": []
+          },
+          {
+            "name": "Sub Bagian Perencanaan",
+            "children": []
+          },
+          {
+            "name": "Sub Bagian Umum dan Kepegawaian",
+            "children": []
+          },
+          {
+            "name": "Subbagian Keuangan",
+            "children": []
+          },
+          {
+            "name": "Subbagian Umum",
+            "children": []
+          },
+          {
+            "name": "Subbagian Umum dan Kepegawaian",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Sekretaris Dinas",
+        "children": [
+          {
+            "name": "Sub Bagian Keuangan",
+            "children": []
+          },
+          {
+            "name": "Sub Bagian Umum dan Kepegawaian",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "kanak Negeri Purwojati",
+        "children": [
+          {
+            "name": "Taman Kanak",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "kanak Negeri Purwokerto Barat",
+        "children": [
+          {
+            "name": "Taman Kanak",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "kanak Negeri Purwokerto Selatan",
+        "children": [
+          {
+            "name": "Taman Kanak",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "kanak Negeri Purwokerto Timur",
+        "children": [
+          {
+            "name": "Taman Kanak",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "kanak Negeri Purwokerto Utara",
+        "children": [
+          {
+            "name": "Taman Kanak",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "kanak Negeri Rawalo",
+        "children": [
+          {
+            "name": "Taman Kanak",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "kanak Negeri Sumpiuh",
+        "children": [
+          {
+            "name": "Taman Kanak",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "kanak Negeri Tambak",
+        "children": [
+          {
+            "name": "Taman Kanak",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "kanak Negeri Wangon",
+        "children": [
+          {
+            "name": "Taman Kanak",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Dinas Pertanian",
+    "children": [
+      {
+        "name": "Bidang Hortikultura",
+        "children": []
+      },
+      {
+        "name": "Bidang Perkebunan",
+        "children": []
+      },
+      {
+        "name": "Bidang Peternakan dan Kesehatan Hewan dan Kesehatan Masyarakat Veteriner",
+        "children": []
+      },
+      {
+        "name": "Bidang Sarana dan Prasarana Pertanian",
+        "children": []
+      },
+      {
+        "name": "Bidang Tanaman Pangan",
+        "children": []
+      },
+      {
+        "name": "Rumah Potong Hewan",
+        "children": []
+      },
+      {
+        "name": "Sekretariat Dinas",
+        "children": [
+          {
+            "name": "Sub Bagian Keuangan",
+            "children": []
+          },
+          {
+            "name": "Sub Bagian Perencanaan",
+            "children": []
+          },
+          {
+            "name": "Sub Bagian Umum dan Kepegawaian",
+            "children": []
+          },
+          {
+            "name": "Subbagian Keuangan",
+            "children": []
+          },
+          {
+            "name": "Subbagian Umum",
+            "children": []
+          },
+          {
+            "name": "Subbagian Umum dan Kepegawaian",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Sub Bagian TU UPT Balai Benih Pertanian",
+        "children": []
+      },
+      {
+        "name": "UPTD Perbibitan Ternak dan Hijauan Pakan Ternak",
+        "children": []
+      },
+      {
+        "name": "UPTD Puskeswan",
+        "children": []
+      }
+    ]
+  },
+  {
+    "name": "Dinas Sosial PPA",
+    "children": [
+      {
+        "name": "Bidang Pemberdayaan Perempuan",
+        "children": []
+      },
+      {
+        "name": "Bidang Pemberdayaan Sosial",
+        "children": []
+      },
+      {
+        "name": "Bidang Perlindungan dan Jaminan Sosial",
+        "children": []
+      },
+      {
+        "name": "Bidang Rehabilitasi Sosial dan Perlindungan Anak",
+        "children": []
+      },
+      {
+        "name": "Sekretariat Dinas",
+        "children": [
+          {
+            "name": "Sub Bagian Keuangan",
+            "children": []
+          },
+          {
+            "name": "Sub Bagian Perencanaan",
+            "children": []
+          },
+          {
+            "name": "Sub Bagian Umum dan Kepegawaian",
+            "children": []
+          },
+          {
+            "name": "Subbagian Keuangan",
+            "children": []
+          },
+          {
+            "name": "Subbagian Umum",
+            "children": []
+          },
+          {
+            "name": "Subbagian Umum dan Kepegawaian",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "UPTD Perlindungan Perempuan dan Anak",
+        "children": []
+      }
+    ]
+  },
+  {
+    "name": "Dindukcapil",
+    "children": [
+      {
+        "name": "Bidang Pelayanan Pencatatan Sipil",
+        "children": []
+      },
+      {
+        "name": "Bidang Pelayanan Pendaftaran Penduduk",
+        "children": []
+      },
+      {
+        "name": "Bidang Pemanfaatan Data dan Inovasi Pelayanan",
+        "children": []
+      },
+      {
+        "name": "Bidang Pengelola Informasi Administrasi Kependudukan",
+        "children": []
+      },
+      {
+        "name": "Sekretariat Dinas",
+        "children": [
+          {
+            "name": "Sub Bagian Keuangan",
+            "children": []
+          },
+          {
+            "name": "Sub Bagian Perencanaan",
+            "children": []
+          },
+          {
+            "name": "Sub Bagian Umum dan Kepegawaian",
+            "children": []
+          },
+          {
+            "name": "Subbagian Keuangan",
+            "children": []
+          },
+          {
+            "name": "Subbagian Umum",
+            "children": []
+          },
+          {
+            "name": "Subbagian Umum dan Kepegawaian",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Dinhub",
+    "children": [
+      {
+        "name": "Bidang Angkutan dan Keselamatan",
+        "children": [
+          {
+            "name": "Seksi Angkutan",
+            "children": []
+          },
+          {
+            "name": "Seksi Keselamatan",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Bidang Lalu Lintas",
+        "children": [
+          {
+            "name": "Seksi Manajemen Lalu Lintas",
+            "children": []
+          },
+          {
+            "name": "Seksi Rekayasa Lalu Lintas",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Bidang Pengendalian Operasional dan Perparkiran",
+        "children": [
+          {
+            "name": "Seksi Pengendalian Operasional",
+            "children": []
+          },
+          {
+            "name": "Seksi Perparkiran",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Bidang Prasarana",
+        "children": [
+          {
+            "name": "Seksi Pengembangan dan Pemeliharaan Prasarana",
+            "children": []
+          },
+          {
+            "name": "Seksi Rekayasa Lalu Lintas",
+            "children": []
+          },
+          {
+            "name": "Seksi Terminal",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Sekretariat Dinas",
+        "children": [
+          {
+            "name": "Sub Bagian Keuangan",
+            "children": []
+          },
+          {
+            "name": "Sub Bagian Perencanaan",
+            "children": []
+          },
+          {
+            "name": "Sub Bagian Umum dan Kepegawaian",
+            "children": []
+          },
+          {
+            "name": "Subbagian Keuangan",
+            "children": []
+          },
+          {
+            "name": "Subbagian Umum",
+            "children": []
+          },
+          {
+            "name": "Subbagian Umum dan Kepegawaian",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "UPTD Pengelola Sarana dan Prasarana Perhubungan",
+        "children": [
+          {
+            "name": "Sub Bagian TU UPTD",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "UPTD Pengujian Kendaraan Bermotor",
+        "children": [
+          {
+            "name": "Sub Bagian Tata Usaha",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Dinkes KB",
+    "children": [
+      {
+        "name": "Bidang Kesehatan Masyarakat",
+        "children": []
+      },
+      {
+        "name": "Bidang Pelayanan Kesehatan",
+        "children": []
+      },
+      {
+        "name": "Bidang Pencegahan dan Pengendalian Penyakit",
+        "children": []
+      },
+      {
+        "name": "Bidang Pengendalian Penduduk dan Keluarga Berencana",
+        "children": []
+      },
+      {
+        "name": "Bidang Sumber Daya Kesehatan",
+        "children": []
+      },
+      {
+        "name": "Klinik Pratama Ibu dan Anak Kartini",
+        "children": [
+          {
+            "name": "Sub Bagian Tata Usaha",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Klinik Utama Kesehatan Paru Masyarakat",
+        "children": [
+          {
+            "name": "Sub Bagian Tata Usaha",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Laboratorium Kesehatan",
+        "children": [
+          {
+            "name": "Sub Bagian Tata Usaha",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Puskesmas Ajibarang I",
+        "children": [
+          {
+            "name": "Sub Bagian Tata Usaha",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Puskesmas Ajibarang II",
+        "children": [
+          {
+            "name": "Sub Bagian Tata Usaha",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Puskesmas Banyumas",
+        "children": [
+          {
+            "name": "Sub Bagian Tata Usaha",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Puskesmas Baturraden I",
+        "children": [
+          {
+            "name": "Sub Bagian Tata Usaha",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Puskesmas Baturraden II",
+        "children": [
+          {
+            "name": "Sub Bagian Tata Usaha",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Puskesmas Cilongok I",
+        "children": [
+          {
+            "name": "Sub Bagian Tata Usaha",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Puskesmas Cilongok II",
+        "children": [
+          {
+            "name": "Sub Bagian Tata Usaha",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Puskesmas Gumelar",
+        "children": [
+          {
+            "name": "Sub Bagian Tata Usaha",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Puskesmas Jatilawang",
+        "children": [
+          {
+            "name": "Sub Bagian Tata Usaha",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Puskesmas Kalibagor",
+        "children": [
+          {
+            "name": "Sub Bagian Tata Usaha",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Puskesmas Karanglewas",
+        "children": [
+          {
+            "name": "Sub Bagian Tata Usaha",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Puskesmas Kebasen",
+        "children": [
+          {
+            "name": "Sub Bagian Tata Usaha",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Puskesmas Kedungbanteng",
+        "children": [
+          {
+            "name": "Sub Bagian Tata Usaha",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Puskesmas Kembaran I",
+        "children": [
+          {
+            "name": "Sub Bagian Tata Usaha",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Puskesmas Kembaran II",
+        "children": [
+          {
+            "name": "Sub Bagian Tata Usaha",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Puskesmas Kemranjen I",
+        "children": [
+          {
+            "name": "Sub Bagian Tata Usaha",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Puskesmas Kemranjen II",
+        "children": [
+          {
+            "name": "Sub Bagian Tata Usaha",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Puskesmas Lumbir",
+        "children": [
+          {
+            "name": "Sub Bagian Tata Usaha",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Puskesmas Patikraja",
+        "children": [
+          {
+            "name": "Sub Bagian Tata Usaha",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Puskesmas Pekuncen I",
+        "children": [
+          {
+            "name": "Sub Bagian Tata Usaha",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Puskesmas Pekuncen II",
+        "children": [
+          {
+            "name": "Sub Bagian Tata Usaha",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Puskesmas Purwojati",
+        "children": [
+          {
+            "name": "Sub Bagian Tata Usaha",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Puskesmas Purwokerto Barat",
+        "children": [
+          {
+            "name": "Sub Bagian Tata Usaha",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Puskesmas Purwokerto Selatan",
+        "children": [
+          {
+            "name": "Sub Bagian Tata Usaha",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Puskesmas Purwokerto Timur I",
+        "children": [
+          {
+            "name": "Sub Bagian Tata Usaha",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Puskesmas Purwokerto Timur II",
+        "children": [
+          {
+            "name": "Sub Bagian Tata Usaha",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Puskesmas Purwokerto Utara I",
+        "children": [
+          {
+            "name": "Sub Bagian Tata Usaha",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Puskesmas Purwokerto Utara II",
+        "children": [
+          {
+            "name": "Sub Bagian Tata Usaha",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Puskesmas Rawalo",
+        "children": [
+          {
+            "name": "Sub Bagian Tata Usaha",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Puskesmas Sokaraja I",
+        "children": [
+          {
+            "name": "Sub Bagian Tata Usaha",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Puskesmas Sokaraja II",
+        "children": [
+          {
+            "name": "Sub Bagian Tata Usaha",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Puskesmas Somagede",
+        "children": [
+          {
+            "name": "Sub Bagian Tata Usaha",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Puskesmas Sumbang I",
+        "children": [
+          {
+            "name": "Sub Bagian Tata Usaha",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Puskesmas Sumbang II",
+        "children": [
+          {
+            "name": "Sub Bagian Tata Usaha",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Puskesmas Sumpiuh I",
+        "children": [
+          {
+            "name": "Sub Bagian Tata Usaha",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Puskesmas Sumpiuh II",
+        "children": [
+          {
+            "name": "Sub Bagian Tata Usaha",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Puskesmas Tambak I",
+        "children": [
+          {
+            "name": "Sub Bagian Tata Usaha",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Puskesmas Tambak II",
+        "children": [
+          {
+            "name": "Sub Bagian Tata Usaha",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Puskesmas Wangon I",
+        "children": [
+          {
+            "name": "Sub Bagian Tata Usaha",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Puskesmas Wangon II",
+        "children": [
+          {
+            "name": "Sub Bagian Tata Usaha",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Sekretariat Dinas",
+        "children": [
+          {
+            "name": "Sub Bagian Keuangan",
+            "children": []
+          },
+          {
+            "name": "Sub Bagian Perencanaan",
+            "children": []
+          },
+          {
+            "name": "Sub Bagian Umum dan Kepegawaian",
+            "children": []
+          },
+          {
+            "name": "Subbagian Keuangan",
+            "children": []
+          },
+          {
+            "name": "Subbagian Umum",
+            "children": []
+          },
+          {
+            "name": "Subbagian Umum dan Kepegawaian",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Unit Perbekalan Alat Kesehatan Farmasi",
+        "children": [
+          {
+            "name": "Sub Bagian Tata Usaha",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Unit Perbekalan Alat Kesehatan dan Farmasi",
+        "children": [
+          {
+            "name": "Sub Bagian Tata Usaha",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Dinkominfo",
+    "children": [
+      {
+        "name": "Bidang Aplikasi Informatika",
+        "children": []
+      },
+      {
+        "name": "Bidang Informasi dan Komunikasi Publik",
+        "children": []
+      },
+      {
+        "name": "Bidang Statistik, Persandian dan Infrastruktur",
+        "children": []
+      },
+      {
+        "name": "Sekretariat Dinas",
+        "children": [
+          {
+            "name": "Sub Bagian Keuangan",
+            "children": []
+          },
+          {
+            "name": "Sub Bagian Perencanaan",
+            "children": []
+          },
+          {
+            "name": "Sub Bagian Umum dan Kepegawaian",
+            "children": []
+          },
+          {
+            "name": "Subbagian Keuangan",
+            "children": []
+          },
+          {
+            "name": "Subbagian Umum",
+            "children": []
+          },
+          {
+            "name": "Subbagian Umum dan Kepegawaian",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Dinkopdag",
+    "children": [
+      {
+        "name": "Bidang Koperasi",
+        "children": []
+      },
+      {
+        "name": "Bidang Pengembangan Perdagangan dan Pengendalian Bahan Pokok dan Penting",
+        "children": []
+      },
+      {
+        "name": "Bidang Sarana Distribusi Perdagangan dan Metrologi Legal",
+        "children": []
+      },
+      {
+        "name": "Bidang Usaha Mikro, Kecil dan Menengah",
+        "children": []
+      },
+      {
+        "name": "Sekretariat Dinas",
+        "children": [
+          {
+            "name": "Sub Bagian Keuangan",
+            "children": []
+          },
+          {
+            "name": "Sub Bagian Perencanaan",
+            "children": []
+          },
+          {
+            "name": "Sub Bagian Umum dan Kepegawaian",
+            "children": []
+          },
+          {
+            "name": "Subbagian Keuangan",
+            "children": []
+          },
+          {
+            "name": "Subbagian Umum",
+            "children": []
+          },
+          {
+            "name": "Subbagian Umum dan Kepegawaian",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "UPTD Pasar Wilayah Banyumas Barat",
+        "children": []
+      },
+      {
+        "name": "UPTD Pasar Wilayah Banyumas Timur",
+        "children": []
+      },
+      {
+        "name": "UPTD Pasar Wilayah Purwokerto I",
+        "children": []
+      },
+      {
+        "name": "UPTD Pasar Wilayah Purwokerto II",
+        "children": []
+      }
+    ]
+  },
+  {
+    "name": "Dinnakerin",
+    "children": [
+      {
+        "name": "Bidang Hubungan Industrial",
+        "children": []
+      },
+      {
+        "name": "Bidang Pelatihan, Penempatan, Perluasan Kesempatan Kerja dan Transmigrasi",
+        "children": []
+      },
+      {
+        "name": "Bidang Penempatan Tenaga Kerja dan Transmigrasi",
+        "children": []
+      },
+      {
+        "name": "Bidang Perindustrian",
+        "children": []
+      },
+      {
+        "name": "Sekretariat Dinas",
+        "children": [
+          {
+            "name": "Sub Bagian Keuangan",
+            "children": []
+          },
+          {
+            "name": "Sub Bagian Perencanaan",
+            "children": []
+          },
+          {
+            "name": "Sub Bagian Umum dan Kepegawaian",
+            "children": []
+          },
+          {
+            "name": "Subbagian Keuangan",
+            "children": []
+          },
+          {
+            "name": "Subbagian Umum",
+            "children": []
+          },
+          {
+            "name": "Subbagian Umum dan Kepegawaian",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Dinperindag",
+    "children": [
+      {
+        "name": "Bidang Metrologi",
+        "children": []
+      },
+      {
+        "name": "Bidang Pasar",
+        "children": []
+      },
+      {
+        "name": "Bidang Perdagangan",
+        "children": []
+      },
+      {
+        "name": "Bidang Perindustrian",
+        "children": []
+      },
+      {
+        "name": "Sekretariat Dinas",
+        "children": [
+          {
+            "name": "Sub Bagian Keuangan",
+            "children": []
+          },
+          {
+            "name": "Sub Bagian Perencanaan",
+            "children": []
+          },
+          {
+            "name": "Sub Bagian Umum dan Kepegawaian",
+            "children": []
+          },
+          {
+            "name": "Subbagian Keuangan",
+            "children": []
+          },
+          {
+            "name": "Subbagian Umum",
+            "children": []
+          },
+          {
+            "name": "Subbagian Umum dan Kepegawaian",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Unit Pasar Wilayah Banyumas Barat",
+        "children": [
+          {
+            "name": "Sub Bagian Tata Usaha",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Unit Pasar Wilayah Banyumas Timur",
+        "children": [
+          {
+            "name": "Sub Bagian Tata Usaha",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Unit Pasar Wilayah Purwokerto I",
+        "children": [
+          {
+            "name": "Sub Bagian Tata Usaha",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Unit Pasar Wilayah Purwokerto II",
+        "children": [
+          {
+            "name": "Sub Bagian Tata Usaha",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Dinperkim",
+    "children": [
+      {
+        "name": "Bidang Kawasan Permukiman",
+        "children": []
+      },
+      {
+        "name": "Bidang Penataan Ruang",
+        "children": []
+      },
+      {
+        "name": "Bidang Pengembangan Permukiman",
+        "children": []
+      },
+      {
+        "name": "Bidang Pengembangan Perumahan",
+        "children": []
+      },
+      {
+        "name": "Bidang Penyehatan Lingkungan",
+        "children": []
+      },
+      {
+        "name": "Bidang Perumahan dan Pertanahan",
+        "children": []
+      },
+      {
+        "name": "Sekretariat Dinas",
+        "children": [
+          {
+            "name": "Sub Bagian Keuangan",
+            "children": []
+          },
+          {
+            "name": "Sub Bagian Perencanaan",
+            "children": []
+          },
+          {
+            "name": "Sub Bagian Umum dan Kepegawaian",
+            "children": []
+          },
+          {
+            "name": "Subbagian Keuangan",
+            "children": []
+          },
+          {
+            "name": "Subbagian Umum",
+            "children": []
+          },
+          {
+            "name": "Subbagian Umum dan Kepegawaian",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "UPTD Pengelolaan Air Limbah Domestik",
+        "children": []
+      }
+    ]
+  },
+  {
+    "name": "Dinpertan KP",
+    "children": [
+      {
+        "name": "Balai Benih Pertanian",
+        "children": []
+      },
+      {
+        "name": "Bidang Ketahanan Pangan",
+        "children": []
+      },
+      {
+        "name": "Bidang Penyuluhan Pertanian dan Bina Usaha",
+        "children": []
+      },
+      {
+        "name": "Bidang Perkebunan dan Perlindungan Tanaman",
+        "children": []
+      },
+      {
+        "name": "Bidang Sarana dan Prasarana Pertanian",
+        "children": []
+      },
+      {
+        "name": "Bidang Tanaman Pangan dan Hortikultura",
+        "children": []
+      },
+      {
+        "name": "Sekretariat Dinas",
+        "children": [
+          {
+            "name": "Sub Bagian Keuangan",
+            "children": []
+          },
+          {
+            "name": "Sub Bagian Perencanaan",
+            "children": []
+          },
+          {
+            "name": "Sub Bagian Umum dan Kepegawaian",
+            "children": []
+          },
+          {
+            "name": "Subbagian Keuangan",
+            "children": []
+          },
+          {
+            "name": "Subbagian Umum",
+            "children": []
+          },
+          {
+            "name": "Subbagian Umum dan Kepegawaian",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "UPT Balai Benih Pertanian",
+        "children": [
+          {
+            "name": "Sub Bagian Tata Usaha",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Dinporabudpar",
+    "children": [
+      {
+        "name": "Bidang Kebudayaan",
+        "children": []
+      },
+      {
+        "name": "Bidang Keolahragaan",
+        "children": []
+      },
+      {
+        "name": "Bidang Kepariwisataan",
+        "children": []
+      },
+      {
+        "name": "Bidang Kepemudaan",
+        "children": []
+      },
+      {
+        "name": "Bidang Kepemudaan dan Keolahragaan",
+        "children": []
+      },
+      {
+        "name": "Sekretariat Dinas",
+        "children": [
+          {
+            "name": "Sub Bagian Keuangan",
+            "children": []
+          },
+          {
+            "name": "Sub Bagian Perencanaan",
+            "children": []
+          },
+          {
+            "name": "Sub Bagian Umum dan Kepegawaian",
+            "children": []
+          },
+          {
+            "name": "Subbagian Keuangan",
+            "children": []
+          },
+          {
+            "name": "Subbagian Umum",
+            "children": []
+          },
+          {
+            "name": "Subbagian Umum dan Kepegawaian",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "UPTD Layanan Pariwisata Teratai Mas",
+        "children": []
+      },
+      {
+        "name": "UPTD Lokawisata Baturraden",
+        "children": [
+          {
+            "name": "Sub Bagian Tata Usaha",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "UPTD Lokawisata Purwomas",
+        "children": []
+      },
+      {
+        "name": "UPTD Pelayanan Pariwisata Teratai Mas",
+        "children": [
+          {
+            "name": "Sub Bagian Tata Usaha",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "UPTD Pelayanan Pariwisata dan Kebudayaan Purwomas",
+        "children": [
+          {
+            "name": "Sub Bagian Tata Usaha",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "UPTD Pengelola Sarana dan Prasarana Olahraga",
+        "children": []
+      },
+      {
+        "name": "UPTD Pengelola Sarana dan Prasarana Olahraga (GOR Satria Purwokerto)",
+        "children": []
+      }
+    ]
+  },
+  {
+    "name": "Dinsospermasdes",
+    "children": [
+      {
+        "name": "Bidang Bina Pemerintahan Desa",
+        "children": []
+      },
+      {
+        "name": "Bidang Pemberdayaan Ekonomi Desa, Sumber Daya Alam dan Teknologi Tepat Guna",
+        "children": []
+      },
+      {
+        "name": "Bidang Pemberdayaan Masyarakat Desa",
+        "children": []
+      },
+      {
+        "name": "Bidang Pemberdayaan Sosial dan Penanganan Fakir Miskin",
+        "children": []
+      },
+      {
+        "name": "Bidang Perlindungan, Jaminan dan Rehabilitasi Sosial",
+        "children": []
+      },
+      {
+        "name": "Sekretariat Dinas",
+        "children": [
+          {
+            "name": "Sub Bagian Keuangan",
+            "children": []
+          },
+          {
+            "name": "Sub Bagian Perencanaan",
+            "children": []
+          },
+          {
+            "name": "Sub Bagian Umum dan Kepegawaian",
+            "children": []
+          },
+          {
+            "name": "Subbagian Keuangan",
+            "children": []
+          },
+          {
+            "name": "Subbagian Umum",
+            "children": []
+          },
+          {
+            "name": "Subbagian Umum dan Kepegawaian",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Inspektorat Daerah",
+    "children": [
+      {
+        "name": "Inspektur Pembantu I",
+        "children": []
+      },
+      {
+        "name": "Inspektur Pembantu II",
+        "children": []
+      },
+      {
+        "name": "Inspektur Pembantu III",
+        "children": []
+      },
+      {
+        "name": "Inspektur Pembantu IV",
+        "children": []
+      },
+      {
+        "name": "Inspektur Pembantu V",
+        "children": []
+      },
+      {
+        "name": "Sekretariat",
+        "children": [
+          {
+            "name": "Subbag Administrasi Umum dan Keuangan",
+            "children": []
+          },
+          {
+            "name": "Subbag Analisis dan Evaluasi",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Sekretariat Inspektorat",
+        "children": [
+          {
+            "name": "Sub Bagian Administrasi Umum dan Keuangan",
+            "children": []
+          },
+          {
+            "name": "Sub Bagian Analisis dan Evaluasi",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Inspektorat daerah",
+    "children": [
+      {
+        "name": "Sekretariat",
+        "children": [
+          {
+            "name": "Subbag Administrasi Umum dan Keuangan",
+            "children": []
+          },
+          {
+            "name": "Subbag Analisis dan Evaluasi",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Kecamatan Ajibarang",
+    "children": [
+      {
+        "name": "Sekretariat Kecamatan",
+        "children": [
+          {
+            "name": "Subbagian Perencanaan dan Keuangan",
+            "children": []
+          },
+          {
+            "name": "Subbagian Umum dan Kepegawaian",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Seksi Ekonomi Pembangunan",
+        "children": []
+      },
+      {
+        "name": "Seksi Ketentraman dan Ketertiban Umum",
+        "children": []
+      },
+      {
+        "name": "Seksi Pelayanan",
+        "children": []
+      },
+      {
+        "name": "Seksi Pemberdayaan Masyarakat",
+        "children": []
+      },
+      {
+        "name": "Seksi Pemerintahan Desa",
+        "children": []
+      }
+    ]
+  },
+  {
+    "name": "Kecamatan Banyumas",
+    "children": [
+      {
+        "name": "Sekretariat Kecamatan",
+        "children": [
+          {
+            "name": "Subbagian Perencanaan dan Keuangan",
+            "children": []
+          },
+          {
+            "name": "Subbagian Umum dan Kepegawaian",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Seksi Ekonomi Pembangunan",
+        "children": []
+      },
+      {
+        "name": "Seksi Ketentraman dan Ketertiban Umum",
+        "children": []
+      },
+      {
+        "name": "Seksi Pelayanan",
+        "children": []
+      },
+      {
+        "name": "Seksi Pemberdayaan Masyarakat",
+        "children": []
+      },
+      {
+        "name": "Seksi Pemerintahan Desa",
+        "children": []
+      }
+    ]
+  },
+  {
+    "name": "Kecamatan Baturraden",
+    "children": [
+      {
+        "name": "Sekretariat Kecamatan",
+        "children": [
+          {
+            "name": "Subbagian Perencanaan dan Keuangan",
+            "children": []
+          },
+          {
+            "name": "Subbagian Umum dan Kepegawaian",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Seksi Ekonomi Pembangunan",
+        "children": []
+      },
+      {
+        "name": "Seksi Ketentraman dan Ketertiban Umum",
+        "children": []
+      },
+      {
+        "name": "Seksi Pelayanan",
+        "children": []
+      },
+      {
+        "name": "Seksi Pemberdayaan Masyarakat",
+        "children": []
+      },
+      {
+        "name": "Seksi Pemerintahan Desa",
+        "children": []
+      }
+    ]
+  },
+  {
+    "name": "Kecamatan Cilongok",
+    "children": [
+      {
+        "name": "Sekretariat Kecamatan",
+        "children": [
+          {
+            "name": "Subbagian Perencanaan dan Keuangan",
+            "children": []
+          },
+          {
+            "name": "Subbagian Umum dan Kepegawaian",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Seksi Ekonomi Pembangunan",
+        "children": []
+      },
+      {
+        "name": "Seksi Ketentraman dan Ketertiban Umum",
+        "children": []
+      },
+      {
+        "name": "Seksi Pelayanan",
+        "children": []
+      },
+      {
+        "name": "Seksi Pemberdayaan Masyarakat",
+        "children": []
+      },
+      {
+        "name": "Seksi Pemerintahan Desa",
+        "children": []
+      }
+    ]
+  },
+  {
+    "name": "Kecamatan Gumelar",
+    "children": [
+      {
+        "name": "Sekretariat Kecamatan",
+        "children": [
+          {
+            "name": "Subbagian Perencanaan dan Keuangan",
+            "children": []
+          },
+          {
+            "name": "Subbagian Umum dan Kepegawaian",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Seksi Ekonomi Pembangunan",
+        "children": []
+      },
+      {
+        "name": "Seksi Ketentraman dan Ketertiban Umum",
+        "children": []
+      },
+      {
+        "name": "Seksi Pelayanan",
+        "children": []
+      },
+      {
+        "name": "Seksi Pemberdayaan Masyarakat",
+        "children": []
+      },
+      {
+        "name": "Seksi Pemerintahan Desa",
+        "children": []
+      }
+    ]
+  },
+  {
+    "name": "Kecamatan Jatilawang",
+    "children": [
+      {
+        "name": "Sekretariat Kecamatan",
+        "children": [
+          {
+            "name": "Subbagian Perencanaan dan Keuangan",
+            "children": []
+          },
+          {
+            "name": "Subbagian Umum dan Kepegawaian",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Seksi Ekonomi Pembangunan",
+        "children": []
+      },
+      {
+        "name": "Seksi Ketentraman dan Ketertiban Umum",
+        "children": []
+      },
+      {
+        "name": "Seksi Pelayanan",
+        "children": []
+      },
+      {
+        "name": "Seksi Pemberdayaan Masyarakat",
+        "children": []
+      },
+      {
+        "name": "Seksi Pemerintahan Desa",
+        "children": []
+      }
+    ]
+  },
+  {
+    "name": "Kecamatan Kalibagor",
+    "children": [
+      {
+        "name": "Sekretariat Kecamatan",
+        "children": [
+          {
+            "name": "Subbagian Perencanaan dan Keuangan",
+            "children": []
+          },
+          {
+            "name": "Subbagian Umum dan Kepegawaian",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Seksi Ekonomi Pembangunan",
+        "children": []
+      },
+      {
+        "name": "Seksi Pelayanan",
+        "children": []
+      },
+      {
+        "name": "Seksi Pemberdayaan Masyarakat",
+        "children": []
+      },
+      {
+        "name": "Seksi Pemerintahan Desa",
+        "children": []
+      }
+    ]
+  },
+  {
+    "name": "Kecamatan Karanglewas",
+    "children": [
+      {
+        "name": "Sekretariat Kecamatan",
+        "children": [
+          {
+            "name": "Subbagian Perencanaan dan Keuangan",
+            "children": []
+          },
+          {
+            "name": "Subbagian Umum dan Kepegawaian",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Seksi Ekonomi Pembangunan",
+        "children": []
+      },
+      {
+        "name": "Seksi Ketentraman dan Ketertiban Umum",
+        "children": []
+      },
+      {
+        "name": "Seksi Pelayanan",
+        "children": []
+      },
+      {
+        "name": "Seksi Pemberdayaan Masyarakat",
+        "children": []
+      },
+      {
+        "name": "Seksi Pemerintahan Desa",
+        "children": []
+      }
+    ]
+  },
+  {
+    "name": "Kecamatan Kebasen",
+    "children": [
+      {
+        "name": "Sekretariat Kecamatan",
+        "children": [
+          {
+            "name": "Subbagian Perencanaan dan Keuangan",
+            "children": []
+          },
+          {
+            "name": "Subbagian Umum dan Kepegawaian",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Seksi Ekonomi Pembangunan",
+        "children": []
+      },
+      {
+        "name": "Seksi Ketentraman dan Ketertiban Umum",
+        "children": []
+      },
+      {
+        "name": "Seksi Pelayanan",
+        "children": []
+      },
+      {
+        "name": "Seksi Pemberdayaan Masyarakat",
+        "children": []
+      },
+      {
+        "name": "Seksi Pemerintahan Desa",
+        "children": []
+      }
+    ]
+  },
+  {
+    "name": "Kecamatan Kedungbanteng",
+    "children": [
+      {
+        "name": "Sekretariat Kecamatan",
+        "children": [
+          {
+            "name": "Subbagian Perencanaan dan Keuangan",
+            "children": []
+          },
+          {
+            "name": "Subbagian Umum dan Kepegawaian",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Seksi Ekonomi Pembangunan",
+        "children": []
+      },
+      {
+        "name": "Seksi Ketentraman dan Ketertiban Umum",
+        "children": []
+      },
+      {
+        "name": "Seksi Pelayanan",
+        "children": []
+      },
+      {
+        "name": "Seksi Pemberdayaan Masyarakat",
+        "children": []
+      },
+      {
+        "name": "Seksi Pemerintahan Desa",
+        "children": []
+      }
+    ]
+  },
+  {
+    "name": "Kecamatan Kembaran",
+    "children": [
+      {
+        "name": "Sekretariat Kecamatan",
+        "children": [
+          {
+            "name": "Subbagian Perencanaan dan Keuangan",
+            "children": []
+          },
+          {
+            "name": "Subbagian Umum dan Kepegawaian",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Seksi Ekonomi Pembangunan",
+        "children": []
+      },
+      {
+        "name": "Seksi Ketentraman dan Ketertiban Umum",
+        "children": []
+      },
+      {
+        "name": "Seksi Pelayanan",
+        "children": []
+      },
+      {
+        "name": "Seksi Pemberdayaan Masyarakat",
+        "children": []
+      },
+      {
+        "name": "Seksi Pemerintahan Desa",
+        "children": []
+      }
+    ]
+  },
+  {
+    "name": "Kecamatan Kemranjen",
+    "children": [
+      {
+        "name": "Sekretariat Kecamatan",
+        "children": [
+          {
+            "name": "Subbagian Perencanaan dan Keuangan",
+            "children": []
+          },
+          {
+            "name": "Subbagian Umum dan Kepegawaian",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Seksi Ekonomi Pembangunan",
+        "children": []
+      },
+      {
+        "name": "Seksi Ketentraman dan Ketertiban Umum",
+        "children": []
+      },
+      {
+        "name": "Seksi Pelayanan",
+        "children": []
+      },
+      {
+        "name": "Seksi Pemberdayaan Masyarakat",
+        "children": []
+      },
+      {
+        "name": "Seksi Pemerintahan Desa",
+        "children": []
+      }
+    ]
+  },
+  {
+    "name": "Kecamatan Lumbir",
+    "children": [
+      {
+        "name": "Sekretariat Kecamatan",
+        "children": [
+          {
+            "name": "Subbagian Perencanaan dan Keuangan",
+            "children": []
+          },
+          {
+            "name": "Subbagian Umum dan Kepegawaian",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Seksi Ekonomi Pembangunan",
+        "children": []
+      },
+      {
+        "name": "Seksi Ketentraman dan Ketertiban Umum",
+        "children": []
+      },
+      {
+        "name": "Seksi Pelayanan",
+        "children": []
+      },
+      {
+        "name": "Seksi Pemberdayaan Masyarakat",
+        "children": []
+      },
+      {
+        "name": "Seksi Pemerintahan Desa",
+        "children": []
+      }
+    ]
+  },
+  {
+    "name": "Kecamatan Patikraja",
+    "children": [
+      {
+        "name": "Sekretariat Kecamatan",
+        "children": [
+          {
+            "name": "Subbagian Perencanaan dan Keuangan",
+            "children": []
+          },
+          {
+            "name": "Subbagian Umum dan Kepegawaian",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Seksi Ekonomi Pembangunan",
+        "children": []
+      },
+      {
+        "name": "Seksi Ketentraman dan Ketertiban Umum",
+        "children": []
+      },
+      {
+        "name": "Seksi Pelayanan",
+        "children": []
+      },
+      {
+        "name": "Seksi Pemberdayaan Masyarakat",
+        "children": []
+      },
+      {
+        "name": "Seksi Pemerintahan Desa",
+        "children": []
+      }
+    ]
+  },
+  {
+    "name": "Kecamatan Pekuncen",
+    "children": [
+      {
+        "name": "Sekretariat Kecamatan",
+        "children": [
+          {
+            "name": "Subbagian Perencanaan dan Keuangan",
+            "children": []
+          },
+          {
+            "name": "Subbagian Umum dan Kepegawaian",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Seksi Ekonomi Pembangunan",
+        "children": []
+      },
+      {
+        "name": "Seksi Ketentraman dan Ketertiban Umum",
+        "children": []
+      },
+      {
+        "name": "Seksi Pelayanan",
+        "children": []
+      },
+      {
+        "name": "Seksi Pemberdayaan Masyarakat",
+        "children": []
+      },
+      {
+        "name": "Seksi Pemerintahan Desa",
+        "children": []
+      }
+    ]
+  },
+  {
+    "name": "Kecamatan Purwojati",
+    "children": [
+      {
+        "name": "Sekretariat Kecamatan",
+        "children": [
+          {
+            "name": "Subbagian Perencanaan dan Keuangan",
+            "children": []
+          },
+          {
+            "name": "Subbagian Umum dan Kepegawaian",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Seksi Ekonomi Pembangunan",
+        "children": []
+      },
+      {
+        "name": "Seksi Ketentraman dan Ketertiban Umum",
+        "children": []
+      },
+      {
+        "name": "Seksi Pelayanan",
+        "children": []
+      },
+      {
+        "name": "Seksi Pemberdayaan Masyarakat",
+        "children": []
+      },
+      {
+        "name": "Seksi Pemerintahan Desa",
+        "children": []
+      }
+    ]
+  },
+  {
+    "name": "Kecamatan Purwokerto Barat",
+    "children": [
+      {
+        "name": "Kelurahan Bantarsoka",
+        "children": [
+          {
+            "name": "Sekretariat Kelurahan",
+            "children": []
+          },
+          {
+            "name": "Seksi Ketentraman dan Ketertiban Umum",
+            "children": []
+          },
+          {
+            "name": "Seksi Pemberdayaan Masyarakat",
+            "children": []
+          },
+          {
+            "name": "Seksi Pemerintahan dan Pelayanan",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Kelurahan Karanglewas Lor",
+        "children": [
+          {
+            "name": "Sekretariat Kelurahan",
+            "children": []
+          },
+          {
+            "name": "Seksi Ketentraman dan Ketertiban Umum",
+            "children": []
+          },
+          {
+            "name": "Seksi Pemberdayaan Masyarakat",
+            "children": []
+          },
+          {
+            "name": "Seksi Pemerintahan dan Pelayanan",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Kelurahan Kedungwuluh",
+        "children": [
+          {
+            "name": "Sekretariat Kelurahan",
+            "children": []
+          },
+          {
+            "name": "Seksi Ketentraman dan Ketertiban Umum",
+            "children": []
+          },
+          {
+            "name": "Seksi Pemberdayaan Masyarakat",
+            "children": []
+          },
+          {
+            "name": "Seksi Pemerintahan dan Pelayanan",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Kelurahan Kober",
+        "children": [
+          {
+            "name": "Sekretariat Kelurahan",
+            "children": []
+          },
+          {
+            "name": "Seksi Ketentraman dan Ketertiban Umum",
+            "children": []
+          },
+          {
+            "name": "Seksi Pemberdayaan Masyarakat",
+            "children": []
+          },
+          {
+            "name": "Seksi Pemerintahan dan Pelayanan",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Kelurahan Pasir Kidul",
+        "children": [
+          {
+            "name": "Sekretariat Kelurahan",
+            "children": []
+          },
+          {
+            "name": "Seksi Ketentraman dan Ketertiban Umum",
+            "children": []
+          },
+          {
+            "name": "Seksi Pemberdayaan Masyarakat",
+            "children": []
+          },
+          {
+            "name": "Seksi Pemerintahan dan Pelayanan",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Kelurahan Pasirmuncang",
+        "children": [
+          {
+            "name": "Sekretariat Kelurahan",
+            "children": []
+          },
+          {
+            "name": "Seksi Ketentraman dan Ketertiban Umum",
+            "children": []
+          },
+          {
+            "name": "Seksi Pemberdayaan Masyarakat",
+            "children": []
+          },
+          {
+            "name": "Seksi Pemerintahan dan Pelayanan",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Kelurahan Rejasari",
+        "children": [
+          {
+            "name": "Sekretariat Kelurahan",
+            "children": []
+          },
+          {
+            "name": "Seksi Ketentraman dan Ketertiban Umum",
+            "children": []
+          },
+          {
+            "name": "Seksi Pemberdayaan Masyarakat",
+            "children": []
+          },
+          {
+            "name": "Seksi Pemerintahan dan Pelayanan",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Sekretariat Kecamatan",
+        "children": [
+          {
+            "name": "Subbagian Perencanaan dan Keuangan",
+            "children": []
+          },
+          {
+            "name": "Subbagian Umum dan Kepegawaian",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Seksi Ketentraman dan Ketertiban Umum",
+        "children": []
+      },
+      {
+        "name": "Seksi Pelayanan",
+        "children": []
+      },
+      {
+        "name": "Seksi Pemberdayaan Masyarakat",
+        "children": []
+      },
+      {
+        "name": "Seksi Pemerintahan Kelurahan",
+        "children": []
+      }
+    ]
+  },
+  {
+    "name": "Kecamatan Purwokerto Selatan",
+    "children": [
+      {
+        "name": "Kelurahan Berkoh",
+        "children": [
+          {
+            "name": "Sekretariat Kelurahan",
+            "children": []
+          },
+          {
+            "name": "Seksi Ketentraman dan Ketertiban Umum",
+            "children": []
+          },
+          {
+            "name": "Seksi Pemberdayaan Masyarakat",
+            "children": []
+          },
+          {
+            "name": "Seksi Pemerintahan dan Pelayanan",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Kelurahan Karangklesem",
+        "children": [
+          {
+            "name": "Sekretariat Kelurahan",
+            "children": []
+          },
+          {
+            "name": "Seksi Ketentraman dan Ketertiban Umum",
+            "children": []
+          },
+          {
+            "name": "Seksi Pemberdayaan Masyarakat",
+            "children": []
+          },
+          {
+            "name": "Seksi Pemerintahan dan Pelayanan",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Kelurahan Karangpucung",
+        "children": [
+          {
+            "name": "Sekretariat Kelurahan",
+            "children": []
+          },
+          {
+            "name": "Seksi Ketentraman dan Ketertiban Umum",
+            "children": []
+          },
+          {
+            "name": "Seksi Pemberdayaan Masyarakat",
+            "children": []
+          },
+          {
+            "name": "Seksi Pemerintahan dan Pelayanan",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Kelurahan Purwokerto Kidul",
+        "children": [
+          {
+            "name": "Sekretariat Kelurahan",
+            "children": []
+          },
+          {
+            "name": "Seksi Ketentraman dan Ketertiban Umum",
+            "children": []
+          },
+          {
+            "name": "Seksi Pemberdayaan Masyarakat",
+            "children": []
+          },
+          {
+            "name": "Seksi Pemerintahan dan Pelayanan",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Kelurahan Purwokerto Kulon",
+        "children": [
+          {
+            "name": "Sekretariat Kelurahan",
+            "children": []
+          },
+          {
+            "name": "Seksi Ketentraman dan Ketertiban Umum",
+            "children": []
+          },
+          {
+            "name": "Seksi Pemberdayaan Masyarakat",
+            "children": []
+          },
+          {
+            "name": "Seksi Pemerintahan dan Pelayanan",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Kelurahan Tanjung",
+        "children": [
+          {
+            "name": "Sekretariat Kelurahan",
+            "children": []
+          },
+          {
+            "name": "Seksi Ketentraman dan Ketertiban Umum",
+            "children": []
+          },
+          {
+            "name": "Seksi Pemberdayaan Masyarakat",
+            "children": []
+          },
+          {
+            "name": "Seksi Pemerintahan dan Pelayanan",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Kelurahan Teluk",
+        "children": [
+          {
+            "name": "Sekretariat Kelurahan",
+            "children": []
+          },
+          {
+            "name": "Seksi Ketentraman dan Ketertiban Umum",
+            "children": []
+          },
+          {
+            "name": "Seksi Pemberdayaan Masyarakat",
+            "children": []
+          },
+          {
+            "name": "Seksi Pemerintahan dan Pelayanan",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Sekretariat Kecamatan",
+        "children": [
+          {
+            "name": "Subbagian Perencanaan dan Keuangan",
+            "children": []
+          },
+          {
+            "name": "Subbagian Umum dan Kepegawaian",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Seksi Ketentraman dan Ketertiban Umum",
+        "children": []
+      },
+      {
+        "name": "Seksi Pelayanan",
+        "children": []
+      },
+      {
+        "name": "Seksi Pemberdayaan Masyarakat",
+        "children": []
+      },
+      {
+        "name": "Seksi Pemerintahan Kelurahan",
+        "children": []
+      }
+    ]
+  },
+  {
+    "name": "Kecamatan Purwokerto Timur",
+    "children": [
+      {
+        "name": "Kelurahan Arcawinangun",
+        "children": [
+          {
+            "name": "Sekretariat Kelurahan",
+            "children": []
+          },
+          {
+            "name": "Seksi Ketentraman dan Ketertiban Umum",
+            "children": []
+          },
+          {
+            "name": "Seksi Pemberdayaan Masyarakat",
+            "children": []
+          },
+          {
+            "name": "Seksi Pemerintahan dan Pelayanan",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Kelurahan Kranji",
+        "children": [
+          {
+            "name": "Sekretariat Kelurahan",
+            "children": []
+          },
+          {
+            "name": "Seksi Ketentraman dan Ketertiban Umum",
+            "children": []
+          },
+          {
+            "name": "Seksi Pemberdayaan Masyarakat",
+            "children": []
+          },
+          {
+            "name": "Seksi Pemerintahan dan Pelayanan",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Kelurahan Mersi",
+        "children": [
+          {
+            "name": "Sekretariat Kelurahan",
+            "children": []
+          },
+          {
+            "name": "Seksi Ketentraman dan Ketertiban Umum",
+            "children": []
+          },
+          {
+            "name": "Seksi Pemberdayaan Masyarakat",
+            "children": []
+          },
+          {
+            "name": "Seksi Pemerintahan dan Pelayanan",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Kelurahan Purwokerto Lor",
+        "children": [
+          {
+            "name": "Sekretariat Kelurahan",
+            "children": []
+          },
+          {
+            "name": "Seksi Ketentraman dan Ketertiban Umum",
+            "children": []
+          },
+          {
+            "name": "Seksi Pemberdayaan Masyarakat",
+            "children": []
+          },
+          {
+            "name": "Seksi Pemerintahan dan Pelayanan",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Kelurahan Purwokerto Wetan",
+        "children": [
+          {
+            "name": "Sekretariat Kelurahan",
+            "children": []
+          },
+          {
+            "name": "Seksi Ketentraman dan Ketertiban Umum",
+            "children": []
+          },
+          {
+            "name": "Seksi Pemberdayaan Masyarakat",
+            "children": []
+          },
+          {
+            "name": "Seksi Pemerintahan dan Pelayanan",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Kelurahan Sokanegara",
+        "children": [
+          {
+            "name": "Sekretariat Kelurahan",
+            "children": []
+          },
+          {
+            "name": "Seksi Ketentraman dan Ketertiban Umum",
+            "children": []
+          },
+          {
+            "name": "Seksi Pemberdayaan Masyarakat",
+            "children": []
+          },
+          {
+            "name": "Seksi Pemerintahan dan Pelayanan",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Sekretariat Kecamatan",
+        "children": [
+          {
+            "name": "Subbagian Perencanaan dan Keuangan",
+            "children": []
+          },
+          {
+            "name": "Subbagian Umum dan Kepegawaian",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Seksi Ketentraman dan Ketertiban Umum",
+        "children": []
+      },
+      {
+        "name": "Seksi Pelayanan",
+        "children": []
+      },
+      {
+        "name": "Seksi Pemberdayaan Masyarakat",
+        "children": []
+      },
+      {
+        "name": "Seksi Pemerintahan Kelurahan",
+        "children": []
+      }
+    ]
+  },
+  {
+    "name": "Kecamatan Purwokerto Utara",
+    "children": [
+      {
+        "name": "Kelurahan Bancarkembar",
+        "children": [
+          {
+            "name": "Sekretariat Kelurahan",
+            "children": []
+          },
+          {
+            "name": "Seksi Ketentraman dan Ketertiban Umum",
+            "children": []
+          },
+          {
+            "name": "Seksi Pemberdayaan Masyarakat",
+            "children": []
+          },
+          {
+            "name": "Seksi Pemerintahan dan Pelayanan",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Kelurahan Bobosan",
+        "children": [
+          {
+            "name": "Sekretariat Kelurahan",
+            "children": []
+          },
+          {
+            "name": "Seksi Ketentraman dan Ketertiban Umum",
+            "children": []
+          },
+          {
+            "name": "Seksi Pemberdayaan Masyarakat",
+            "children": []
+          },
+          {
+            "name": "Seksi Pemerintahan dan Pelayanan",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Kelurahan Grendeng",
+        "children": [
+          {
+            "name": "Sekretariat Kelurahan",
+            "children": []
+          },
+          {
+            "name": "Seksi Ketentraman dan Ketertiban Umum",
+            "children": []
+          },
+          {
+            "name": "Seksi Pemberdayaan Masyarakat",
+            "children": []
+          },
+          {
+            "name": "Seksi Pemerintahan dan Pelayanan",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Kelurahan Karangwangkal",
+        "children": [
+          {
+            "name": "Sekretariat Kelurahan",
+            "children": []
+          },
+          {
+            "name": "Seksi Ketentraman dan Ketertiban Umum",
+            "children": []
+          },
+          {
+            "name": "Seksi Pemberdayaan Masyarakat",
+            "children": []
+          },
+          {
+            "name": "Seksi Pemerintahan dan Pelayanan",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Kelurahan Pabuwaran",
+        "children": [
+          {
+            "name": "Sekretariat Kelurahan",
+            "children": []
+          },
+          {
+            "name": "Seksi Ketentraman dan Ketertiban Umum",
+            "children": []
+          },
+          {
+            "name": "Seksi Pemberdayaan Masyarakat",
+            "children": []
+          },
+          {
+            "name": "Seksi Pemerintahan dan Pelayanan",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Kelurahan Purwanegara",
+        "children": [
+          {
+            "name": "Sekretariat Kelurahan",
+            "children": []
+          },
+          {
+            "name": "Seksi Ketentraman dan Ketertiban Umum",
+            "children": []
+          },
+          {
+            "name": "Seksi Pemberdayaan Masyarakat",
+            "children": []
+          },
+          {
+            "name": "Seksi Pemerintahan dan Pelayanan",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Kelurahan Sumampir",
+        "children": [
+          {
+            "name": "Sekretariat Kelurahan",
+            "children": []
+          },
+          {
+            "name": "Seksi Ketentraman dan Ketertiban Umum",
+            "children": []
+          },
+          {
+            "name": "Seksi Pemberdayaan Masyarakat",
+            "children": []
+          },
+          {
+            "name": "Seksi Pemerintahan dan Pelayanan",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Sekretariat Kecamatan",
+        "children": [
+          {
+            "name": "Subbagian Perencanaan dan Keuangan",
+            "children": []
+          },
+          {
+            "name": "Subbagian Umum dan Kepegawaian",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Seksi Ketentraman dan Ketertiban Umum",
+        "children": []
+      },
+      {
+        "name": "Seksi Pelayanan",
+        "children": []
+      },
+      {
+        "name": "Seksi Pemberdayaan Masyarakat",
+        "children": []
+      },
+      {
+        "name": "Seksi Pemerintahan Kelurahan",
+        "children": []
+      }
+    ]
+  },
+  {
+    "name": "Kecamatan Rawalo",
+    "children": [
+      {
+        "name": "Sekretariat Kecamatan",
+        "children": [
+          {
+            "name": "Subbagian Perencanaan dan Keuangan",
+            "children": []
+          },
+          {
+            "name": "Subbagian Umum dan Kepegawaian",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Seksi Ekonomi Pembangunan",
+        "children": []
+      },
+      {
+        "name": "Seksi Ketentraman dan Ketertiban Umum",
+        "children": []
+      },
+      {
+        "name": "Seksi Pelayanan",
+        "children": []
+      },
+      {
+        "name": "Seksi Pemberdayaan Masyarakat",
+        "children": []
+      },
+      {
+        "name": "Seksi Pemerintahan Desa",
+        "children": []
+      }
+    ]
+  },
+  {
+    "name": "Kecamatan Sokaraja",
+    "children": [
+      {
+        "name": "Sekretariat Kecamatan",
+        "children": [
+          {
+            "name": "Subbagian Perencanaan dan Keuangan",
+            "children": []
+          },
+          {
+            "name": "Subbagian Umum dan Kepegawaian",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Seksi Ekonomi Pembangunan",
+        "children": []
+      },
+      {
+        "name": "Seksi Ketentraman dan Ketertiban Umum",
+        "children": []
+      },
+      {
+        "name": "Seksi Pelayanan",
+        "children": []
+      },
+      {
+        "name": "Seksi Pemberdayaan Masyarakat",
+        "children": []
+      },
+      {
+        "name": "Seksi Pemerintahan Desa",
+        "children": []
+      }
+    ]
+  },
+  {
+    "name": "Kecamatan Somagede",
+    "children": [
+      {
+        "name": "Sekretariat Kecamatan",
+        "children": [
+          {
+            "name": "Subbagian Perencanaan dan Keuangan",
+            "children": []
+          },
+          {
+            "name": "Subbagian Umum dan Kepegawaian",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Seksi Ekonomi Pembangunan",
+        "children": []
+      },
+      {
+        "name": "Seksi Ketentraman dan Ketertiban Umum",
+        "children": []
+      },
+      {
+        "name": "Seksi Pelayanan",
+        "children": []
+      },
+      {
+        "name": "Seksi Pemberdayaan Masyarakat",
+        "children": []
+      },
+      {
+        "name": "Seksi Pemerintahan Desa",
+        "children": []
+      }
+    ]
+  },
+  {
+    "name": "Kecamatan Sumbang",
+    "children": [
+      {
+        "name": "Sekretariat Kecamatan",
+        "children": [
+          {
+            "name": "Subbagian Perencanaan dan Keuangan",
+            "children": []
+          },
+          {
+            "name": "Subbagian Umum dan Kepegawaian",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Seksi Ekonomi Pembangunan",
+        "children": []
+      },
+      {
+        "name": "Seksi Ketentraman dan Ketertiban Umum",
+        "children": []
+      },
+      {
+        "name": "Seksi Pelayanan",
+        "children": []
+      },
+      {
+        "name": "Seksi Pemberdayaan Masyarakat",
+        "children": []
+      },
+      {
+        "name": "Seksi Pemerintahan Desa",
+        "children": []
+      }
+    ]
+  },
+  {
+    "name": "Kecamatan Sumpiuh",
+    "children": [
+      {
+        "name": "Kelurahan Kebokura",
+        "children": [
+          {
+            "name": "Sekretariat Kelurahan",
+            "children": []
+          },
+          {
+            "name": "Seksi Ketentraman dan Ketertiban Umum",
+            "children": []
+          },
+          {
+            "name": "Seksi Pemberdayaan Masyarakat",
+            "children": []
+          },
+          {
+            "name": "Seksi Pemerintahan dan Pelayanan",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Kelurahan Kradenan",
+        "children": [
+          {
+            "name": "Sekretariat Kelurahan",
+            "children": []
+          },
+          {
+            "name": "Seksi Ketentraman dan Ketertiban Umum",
+            "children": []
+          },
+          {
+            "name": "Seksi Pemberdayaan Masyarakat",
+            "children": []
+          },
+          {
+            "name": "Seksi Pemerintahan dan Pelayanan",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Kelurahan Sumpiuh",
+        "children": [
+          {
+            "name": "Sekretariat Kelurahan",
+            "children": []
+          },
+          {
+            "name": "Seksi Ketentraman dan Ketertiban Umum",
+            "children": []
+          },
+          {
+            "name": "Seksi Pemberdayaan Masyarakat",
+            "children": []
+          },
+          {
+            "name": "Seksi Pemerintahan dan Pelayanan",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Sekretariat Kecamatan",
+        "children": [
+          {
+            "name": "Subbagian Perencanaan dan Keuangan",
+            "children": []
+          },
+          {
+            "name": "Subbagian Umum dan Kepegawaian",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Seksi Ekonomi Pembangunan",
+        "children": []
+      },
+      {
+        "name": "Seksi Ketentraman dan Ketertiban Umum",
+        "children": []
+      },
+      {
+        "name": "Seksi Pelayanan",
+        "children": []
+      },
+      {
+        "name": "Seksi Pemberdayaan Masyarakat",
+        "children": []
+      },
+      {
+        "name": "Seksi Pemerintahan Kelurahan",
+        "children": []
+      }
+    ]
+  },
+  {
+    "name": "Kecamatan Tambak",
+    "children": [
+      {
+        "name": "Sekretariat Kecamatan",
+        "children": [
+          {
+            "name": "Subbagian Perencanaan dan Keuangan",
+            "children": []
+          },
+          {
+            "name": "Subbagian Umum dan Kepegawaian",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Seksi Ekonomi Pembangunan",
+        "children": []
+      },
+      {
+        "name": "Seksi Ketentraman dan Ketertiban Umum",
+        "children": []
+      },
+      {
+        "name": "Seksi Pelayanan",
+        "children": []
+      },
+      {
+        "name": "Seksi Pemberdayaan Masyarakat",
+        "children": []
+      },
+      {
+        "name": "Seksi Pemerintahan Desa",
+        "children": []
+      }
+    ]
+  },
+  {
+    "name": "Kecamatan Wangon",
+    "children": [
+      {
+        "name": "Sekretariat Kecamatan",
+        "children": [
+          {
+            "name": "Subbagian Perencanaan dan Keuangan",
+            "children": []
+          },
+          {
+            "name": "Subbagian Umum dan Kepegawaian",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Seksi Ekonomi Pembangunan",
+        "children": []
+      },
+      {
+        "name": "Seksi Ketentraman dan Ketertiban Umum",
+        "children": []
+      },
+      {
+        "name": "Seksi Pelayanan",
+        "children": []
+      },
+      {
+        "name": "Seksi Pemberdayaan Masyarakat",
+        "children": []
+      },
+      {
+        "name": "Seksi Pemerintahan Desa",
+        "children": []
+      }
+    ]
+  },
+  {
+    "name": "Satpol PP",
+    "children": [
+      {
+        "name": "Bidang Ketentraman Masyarakat dan Ketertiban Umum",
+        "children": [
+          {
+            "name": "Seksi Kerjasama",
+            "children": []
+          },
+          {
+            "name": "Seksi Operasi dan Pengendalian",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Bidang Perlindungan Masyarakat",
+        "children": [
+          {
+            "name": "Seksi Bina Potensi dan Pengawasan Dini Masyarakat",
+            "children": []
+          },
+          {
+            "name": "Seksi Satuan Perlindungan Masyarakat",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Sekretariat Satpol PP",
+        "children": [
+          {
+            "name": "Sub Bagian Keuangan",
+            "children": []
+          },
+          {
+            "name": "Sub Bagian Perencanaan",
+            "children": []
+          },
+          {
+            "name": "Sub Bagian Umum dan Kepegawaian",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "UPTD Unit Pemadam Kebakaran dan Penyelamatan",
+        "children": [
+          {
+            "name": "Sub Bagian Tata Usaha",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Undangan Daerah",
+        "children": [
+          {
+            "name": "Bidang Penegakan Perundang",
+            "children": [
+              {
+                "name": "Seksi Pembinaan, Pengawasan dan Penyuluhan",
+                "children": []
+              },
+              {
+                "name": "Seksi Penyelidikan dan Penyidikan",
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Sekretariat DPRD",
+    "children": [
+      {
+        "name": "Bagian Fasilitasi Penganggaran dan Pengawasan",
+        "children": []
+      },
+      {
+        "name": "Bagian Perencanaan dan Keuangan",
+        "children": [
+          {
+            "name": "Sub Bagian Keuangan",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Bagian Umum",
+        "children": [
+          {
+            "name": "Ahli dan Kepegawaian",
+            "children": [
+              {
+                "name": "Sub Bagian Tata Usaha Pimpinan, Staf",
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "Sub Bagian Keuangan",
+            "children": []
+          },
+          {
+            "name": "Sub Bagian Rumah Tangga dan Perlengkapan",
+            "children": []
+          },
+          {
+            "name": "Sub Bagian Tata Usaha dan Kepegawaian",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Undangan",
+        "children": [
+          {
+            "name": "Bagian Persidangan dan Perundang",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Sekretariat Daerah",
+    "children": [
+      {
+        "name": "Asisten Administrasi Umum",
+        "children": []
+      },
+      {
+        "name": "Asisten Pemerintahan dan Kesejahteraan Rakyat",
+        "children": []
+      },
+      {
+        "name": "Asisten Perekonomi dan Pembangunan",
+        "children": []
+      },
+      {
+        "name": "Bagian Administrasi Pembangunan",
+        "children": []
+      },
+      {
+        "name": "Bagian Hukum",
+        "children": []
+      },
+      {
+        "name": "Bagian Kesejahteraan Rakyat",
+        "children": []
+      },
+      {
+        "name": "Bagian Layananan Pengadaan Barang/Jasa",
+        "children": [
+          {
+            "name": "Sub Bagian Pembinaan dan Advokasi Pengadaan Barang/Jasa",
+            "children": []
+          },
+          {
+            "name": "Sub Bagian Pengelolaan Layanan Pengadaan Secara Elektronik",
+            "children": []
+          },
+          {
+            "name": "Sub Bagian Pengelolaan Pengadaan Barang/Jasa",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Bagian Organisasi",
+        "children": []
+      },
+      {
+        "name": "Bagian Pemerintahan",
+        "children": []
+      },
+      {
+        "name": "Bagian Pengadaan Barang dan Jasa",
+        "children": [
+          {
+            "name": "Subbagian Pembinaan dan Advokasi Pengadaan Barang dan Jasa",
+            "children": []
+          },
+          {
+            "name": "Subbagian Pengelolaan Layanan Pengadaan Secara Elektronik",
+            "children": []
+          },
+          {
+            "name": "Subbagian Pengelolaan Pengadaan Barang dan Jasa",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Bagian Perekonomian dan Sumber Daya Alam",
+        "children": []
+      },
+      {
+        "name": "Bagian Protokol dan Komunikasi Pimpinan",
+        "children": [
+          {
+            "name": "Sub Bagian Protokol",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Bagian Tata Pemerintahan dan Kerja Sama",
+        "children": []
+      },
+      {
+        "name": "Bagian Umum",
+        "children": [
+          {
+            "name": "Ahli dan Kepegawaian",
+            "children": [
+              {
+                "name": "Sub Bagian Tata Usaha Pimpinan, Staf",
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "Sub Bagian Keuangan",
+            "children": []
+          },
+          {
+            "name": "Sub Bagian Rumah Tangga dan Perlengkapan",
+            "children": []
+          },
+          {
+            "name": "Sub Bagian Tata Usaha dan Kepegawaian",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Bagian Umum, Protokol dan Komunikasi Pimpinan",
+        "children": [
+          {
+            "name": "Bagian Perencanaan dan Keuangan",
+            "children": [
+              {
+                "name": "Sub Bagian Keuangan",
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "Sub Bagian Keuangan dan Pelaporan Bagian Perencanaan dan Keuangan",
+            "children": []
+          },
+          {
+            "name": "Subbagian Protokol dan Komunikasi Pimpinan",
+            "children": []
+          },
+          {
+            "name": "Subbagian Rumah Tangga dan Perlengkapan",
+            "children": []
+          },
+          {
+            "name": "Subbagian Tata Usaha Pimpinan, Staf Ahli dan Kepegawaian",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Wakil Direktur Layanan Operasional RSUD Banyumas",
+    "children": []
+  }
+]

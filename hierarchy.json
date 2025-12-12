@@ -1690,6 +1690,2174 @@
             "children": []
           }
         ]
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Ciberung Kecamatan Ajibarang",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Darmakradenan Kecamatan Ajibarang",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Jingkang Kecamatan Ajibarang",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Karangbawang Kecamatan Ajibarang",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Kracak Kecamatan Ajibarang",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Lesmana Kecamatan Ajibarang",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Pancasan Kecamatan Ajibarang",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Pancurendang Kecamatan Ajibarang",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Tiparkidul Kecamatan Ajibarang",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Ciberung Kecamatan Ajibarang",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Darmakradenan Kecamatan Ajibarang",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Jingkang Kecamatan Ajibarang",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Karangbawang Kecamatan Ajibarang",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Kracak Kecamatan Ajibarang",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Lesmana Kecamatan Ajibarang",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Pancasan Kecamatan Ajibarang",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Pancurendang Kecamatan Ajibarang",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Tiparkidul Kecamatan Ajibarang",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 3 Darmakradenan Kecamatan Ajibarang",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 3 Jingkang Kecamatan Ajibarang",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 3 Kracak Kecamatan Ajibarang",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 3 Lesmana Kecamatan Ajibarang",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 3 Pancasan Kecamatan Ajibarang",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 3 Tiparkidul Kecamatan Ajibarang",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 4 Darmakradenan Kecamatan Ajibarang",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 4 Tiparkidul Kecamatan Ajibarang",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Binangun Kecamatan Banyumas",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Karangrau Kecamatan Banyumas",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Kejawar Kecamatan Banyumas",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Papringan Kecamatan Banyumas",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Pasinggangan Kecamatan Banyumas",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Sudagaran Kecamatan Banyumas",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Binangun Kecamatan Banyumas",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Karangrau Kecamatan Banyumas",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Kejawar Kecamatan Banyumas",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Papringan Kecamatan Banyumas",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Pasinggangan Kecamatan Banyumas",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Sudagaran Kecamatan Banyumas",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 3 Binangun Kecamatan Banyumas",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 3 Karangrau Kecamatan Banyumas",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 3 Kejawar Kecamatan Banyumas",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 3 Pasinggangan Kecamatan Banyumas",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 3 Sudagaran Kecamatan Banyumas",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 4 Karangrau Kecamatan Banyumas",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 4 Pasinggangan Kecamatan Banyumas",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 5 Karangrau Kecamatan Banyumas",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 5 Pasinggangan Kecamatan Banyumas",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Kemutug Kidul Kecamatan Baturraden",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Kemutug Lor Kecamatan Baturraden",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Ketenger Kecamatan Baturraden",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Kutasari Kecamatan Baturraden",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Pamijen Kecamatan Baturraden",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Rempoah Kecamatan Baturraden",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Kemutug Kidul Kecamatan Baturraden",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Kemutug Lor Kecamatan Baturraden",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Ketenger Kecamatan Baturraden",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Pamijen Kecamatan Baturraden",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 3 Kutasari Kecamatan Baturraden",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 4 Rempoah Kecamatan Baturraden",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Batuanten Kecamatan Cilongok",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Cikidang Kecamatan Cilongok",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Cilongok Kecamatan Cilongok",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Cipete Kecamatan Cilongok",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Gununglurah Kecamatan Cilongok",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Jatisaba Kecamatan Cilongok",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Kasegeran Kecamatan Cilongok",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Langgongsari Kecamatan Cilongok",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Pageraji Kecamatan Cilongok",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Panusupan Kecamatan Cilongok",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Pejogol Kecamatan Cilongok",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Pernasidi Kecamatan Cilongok",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Rancamaya Kecamatan Cilongok",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Sambirata Kecamatan Cilongok",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Batuanten Kecamatan Cilongok",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Cikidang Kecamatan Cilongok",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Cilongok Kecamatan Cilongok",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Cipete Kecamatan Cilongok",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Gununglurah Kecamatan Cilongok",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Jatisaba Kecamatan Cilongok",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Kasegeran Kecamatan Cilongok",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Langgongsari Kecamatan Cilongok",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Pageraji Kecamatan Cilongok",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Panusupan Kecamatan Cilongok",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Pejogol Kecamatan Cilongok",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Pernasidi Kecamatan Cilongok",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Rancamaya Kecamatan Cilongok",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Sambirata Kecamatan Cilongok",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 3 Cilongok Kecamatan Cilongok",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 3 Pageraji Kecamatan Cilongok",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 3 Panusupan Kecamatan Cilongok",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 3 Pernasidi Kecamatan Cilongok",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 4 Panusupan Kecamatan Cilongok",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Cihonje Kecamatan Gumelar",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Cilangkap Kecamatan Gumelar",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Gancang Kecamatan Gumelar",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Karangkemojing Kecamatan Gumelar",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Kedungurang Kecamatan Gumelar",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Paningkaban Kecamatan Gumelar",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Samudra Kecamatan Gumelar",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Samudra Kulon Kecamatan Gumelar",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Tlaga Kecamatan Gumelar",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Cihonje Kecamatan Gumelar",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Cilangkap Kecamatan Gumelar",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Gancang Kecamatan Gumelar",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Karangkemojing Kecamatan Gumelar",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Kedungurang Kecamatan Gumelar",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Paningkaban Kecamatan Gumelar",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Samudra Kecamatan Gumelar",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Samudra Kulon Kecamatan Gumelar",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Tlaga Kecamatan Gumelar",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 3 Cihonje Kecamatan Gumelar",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 3 Cilangkap Kecamatan Gumelar",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 3 Karangkemojing Kecamatan Gumelar",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 3 Kedungurang Kecamatan Gumelar",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 3 Samudra Kecamatan Gumelar",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 4 Cihonje Kecamatan Gumelar",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 4 Karangkemojing Kecamatan Gumelar",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 4 Samudra Kecamatan Gumelar",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 5 Cihonje Kecamatan Gumelar",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Adisara Kecamatan Jatilawang",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Bantar Kecamatan Jatilawang",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Gunungwetan Kecamatan Jatilawang",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Jatilawang Kecamatan Jatilawang",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Jurangbahas Kecamatan Jatilawang",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Karangduren Kecamatan Jatilawang",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Karangkedawung Kecamatan Jatilawang",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Karanglewas Kecamatan Jatilawang",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Karangnanas Kecamatan Jatilawang",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Tinggarjaya Kecamatan Jatilawang",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Tinggarwangi Kecamatan Jatilawang",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Adisara Kecamatan Jatilawang",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Bantar Kecamatan Jatilawang",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Gunungwetan Kecamatan Jatilawang",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Jatilawang Kecamatan Jatilawang",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Jurangbahas Kecamatan Jatilawang",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Karangduren Kecamatan Jatilawang",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Karangkedawung Kecamatan Jatilawang",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Karanglewas Kecamatan Jatilawang",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Karangnanas Kecamatan Jatilawang",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Tinggarjaya Kecamatan Jatilawang",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Tinggarwangi Kecamatan Jatilawang",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 3 Adisara Kecamatan Jatilawang",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 3 Gunungwetan Kecamatan Jatilawang",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 3 Jatilawang Kecamatan Jatilawang",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 3 Karangnanas Kecamatan Jatilawang",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 3 Tinggarjaya Kecamatan Jatilawang",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 4 Gunungwetan Kecamatan Jatilawang",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 4 Jatilawang Kecamatan Jatilawang",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Kalibagor Kecamatan Kalibagor",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Kaliori Kecamatan Kalibagor",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Pajerukan Kecamatan Kalibagor",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Pekaja Kecamatan Kalibagor",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Petir Kecamatan Kalibagor",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Srowot Kecamatan Kalibagor",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Kalibagor Kecamatan Kalibagor",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Kaliori Kecamatan Kalibagor",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Pajerukan Kecamatan Kalibagor",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Pekaja Kecamatan Kalibagor",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Petir Kecamatan Kalibagor",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Srowot Kecamatan Kalibagor",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 3 Kaliori Kecamatan Kalibagor",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 3 Pekaja Kecamatan Kalibagor",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 4 Kalibagor Kecamatan Kalibagor",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Babakan Kecamatan Karanglewas",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Karanggude Kecamatan Karanglewas",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Kediri Kecamatan Karanglewas",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Pasir Kulon Kecamatan Karanglewas",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Babakan Kecamatan Karanglewas",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Kediri Kecamatan Karanglewas",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Pasir Kulon Kecamatan Karanglewas",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 3 Karanggude Kecamatan Karanglewas",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Adisana Kecamatan Kebasen",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Cindaga Kecamatan Kebasen",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Kebasen Kecamatan Kebasen",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Randegan Kecamatan Kebasen",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Sawangan Kecamatan Kebasen",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Adisana Kecamatan Kebasen",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Bangsa Kecamatan Kebasen",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Cindaga Kecamatan Kebasen",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Kebasen Kecamatan Kebasen",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Randegan Kecamatan Kebasen",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Sawangan Kecamatan Kebasen",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 3 Adisana Kecamatan Kebasen",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 3 Bangsa Kecamatan Kebasen",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 3 Cindaga Kecamatan Kebasen",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 4 Cindaga Kecamatan Kebasen",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Baseh Kecamatan Kedungbanteng",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Beji Kecamatan Kedungbanteng",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Dawuhan Kulon Kecamatan Kedungbanteng",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Kalikesur Kecamatan Kedungbanteng",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Kalisalak Kecamatan Kedungbanteng",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Kebocoran Kecamatan Kedungbanteng",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Kedungbanteng Kecamatan Kedungbanteng",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Keniten Kecamatan Kedungbanteng",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Kutaliman Kecamatan Kedungbanteng",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Windujaya Kecamatan Kedungbanteng",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Baseh Kecamatan Kedungbanteng",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Beji Kecamatan Kedungbanteng",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Dawuhan Kulon Kecamatan Kedungbanteng",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Kalikesur Kecamatan Kedungbanteng",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Kalisalak Kecamatan Kedungbanteng",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Kebocoran Kecamatan Kedungbanteng",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Kutaliman Kecamatan Kedungbanteng",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Windujaya Kecamatan Kedungbanteng",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 keniten Kecamatan Kedungbanteng",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 3 Kalisalak Kecamatan Kedungbanteng",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 3 Kebocoran Kecamatan Kedungbanteng",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 3 Kedungbanteng Kecamatan Kedungbanteng",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 3 Kutaliman Kecamatan Kedungbanteng",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 4 Kalisalak Kecamatan Kedungbanteng",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Bantarwuni Kecamatan Kembaran",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Bojongsari Kecamatan Kembaran",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Dukuhwaluh Kecamatan Kembaran",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Linggasari Kecamatan Kembaran",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Pliken Kecamatan Kembaran",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Purbadana Kecamatan Kembaran",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Sambeng Kulon Kecamatan Kembaran",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Bantarwuni Kecamatan Kembaran",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Bojongsari Kecamatan Kembaran",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Dukuhwaluh Kecamatan Kembaran",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Linggasari Kecamatan Kembaran",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Pliken Kecamatan Kembaran",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Purbadana Kecamatan Kembaran",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Sambeng Kulon Kecamatan Kembaran",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 3 Dukuhwaluh Kecamatan Kembaran",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 3 Linggasari Kecamatan Kembaran",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 3 Pliken Kecamatan Kembaran",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 4 Dukuhwaluh Kecamatan Kembaran",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Alasmalang Kecamatan Kemranjen",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Grujugan Kecamatan Kemranjen",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Karanggintung Kecamatan Kemranjen",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Karanggintung Kemranjen Kecamatan Kemranjen",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Karangsalam Kemranjen Kecamatan Kemranjen",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Pageralang Kecamatan Kemranjen",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Sibalung Kecamatan Kemranjen",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Sibrama Kecamatan Kemranjen",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Alasmalang Kecamatan Kemranjen",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Grujugan Kecamatan Kemranjen",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Karanggintung Kecamatan Kemranjen",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Karanggintung Kemranjen Kecamatan Kemranjen",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Karangsalam Kemranjen Kecamatan Kemranjen",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Pageralang Kecamatan Kemranjen",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Sibalung Kecamatan Kemranjen",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Sibrama Kecamatan Kemranjen",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 3 Karangsalam Kemranjen Kecamatan Kemranjen",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 3 Pageralang Kecamatan Kemranjen",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Besuki Kecamatan Lumbir",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Canduk Kecamatan Lumbir",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Cidora Kecamatan Lumbir",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Cingebul Kecamatan Lumbir",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Cirahab Kecamatan Lumbir",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Dermaji Kecamatan Lumbir",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Karanggayam Kecamatan Lumbir",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Kedunggede Kecamatan Lumbir",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Lumbir Kecamatan Lumbir",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Parungkamal Kecamatan Lumbir",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Besuki Kecamatan Lumbir",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Canduk Kecamatan Lumbir",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Cidora Kecamatan Lumbir",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Cingebul Kecamatan Lumbir",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Cirahab Kecamatan Lumbir",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Dermaji Kecamatan Lumbir",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Karanggayam Kecamatan Lumbir",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Kedunggede Kecamatan Lumbir",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Lumbir Kecamatan Lumbir",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Parungkamal Kecamatan Lumbir",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 3 Canduk Kecamatan Lumbir",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 3 Cingebul Kecamatan Lumbir",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 3 Cirahab Kecamatan Lumbir",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 3 Dermaji Kecamatan Lumbir",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 3 Karanggayam Kecamatan Lumbir",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 3 Kedunggede Kecamatan Lumbir",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 3 Lumbir Kecamatan Lumbir",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 3 Parungkamal Kecamatan Lumbir",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 4 Cingebul Kecamatan Lumbir",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 4 Cirahab Kecamatan Lumbir",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 4 Lumbir Kecamatan Lumbir",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 5 Cingebul Kecamatan Lumbir",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 5 Lumbir Kecamatan Lumbir",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 6 Lumbir Kecamatan Lumbir",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Kedungrandu Kecamatan Patikraja",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Kedungwuluh Kidul Kecamatan Patikraja",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Kedungwuluh Lor Kecamatan Patikraja",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Notog Kecamatan Patikraja",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Patikraja Kecamatan Patikraja",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Sidabowa Kecamatan Patikraja",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Kedungrandu Kecamatan Patikraja",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Kedungwuluh Kidul Kecamatan Patikraja",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Kedungwuluh Lor Kecamatan Patikraja",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Patikraja Kecamatan Patikraja",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Sidabowa Kecamatan Patikraja",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 3 Kedungrandu Kecamatan Patikraja",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 3 Notog Kecamatan Patikraja",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Banjaranyar Kecamatan Pekuncen",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Candinegara Kecamatan Pekuncen",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Cibangkong Kecamatan Pekuncen",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Cikawung Kecamatan Pekuncen",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Cikembulan Kecamatan Pekuncen",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Glempang Kecamatan Pekuncen",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Karangkemiri Kecamatan Pekuncen",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Krajan Kecamatan Pekuncen",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Pekuncen Kecamatan Pekuncen",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Semedo Kecamatan Pekuncen",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Tumiyang Kecamatan Pekuncen",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Banjaranyar Kecamatan Pekuncen",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Cibangkong Kecamatan Pekuncen",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Cikawung Kecamatan Pekuncen",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Cikembulan Kecamatan Pekuncen",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Glempang Kecamatan Pekuncen",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Karangkemiri Kecamatan Pekuncen",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Krajan Kecamatan Pekuncen",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Pekuncen Kecamatan Pekuncen",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Semedo Kecamatan Pekuncen",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Tumiyang Kecamatan Pekuncen",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 3 Candinegara Kecamatan Pekuncen",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 3 Cibangkong Kecamatan Pekuncen",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 3 Cikembulan Kecamatan Pekuncen",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 3 Karangkemiri Kecamatan Pekuncen",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 3 Pekuncen Kecamatan Pekuncen",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 3 Semedo Kecamatan Pekuncen",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 3 Tumiyang Kecamatan Pekuncen",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 4 Cibangkong Kecamatan Pekuncen",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Gerduren Kecamatan Purwojati",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Kalitapen Kecamatan Purwojati",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Kaliwangi Kecamatan Purwojati",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Karangmangu Kecamatan Purwojati",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Karangtalun Kidul Kecamatan Purwojati",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Purwojati Kecamatan Purwojati",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Gerduren Kecamatan Purwojati",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Kalitapen Kecamatan Purwojati",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Kaliwangi Kecamatan Purwojati",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Karangmangu Kecamatan Purwojati",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Karangtalun Kidul Kecamatan Purwojati",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Purwojati Kecamatan Purwojati",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 3 Gerduren Kecamatan Purwojati",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 3 Karangmangu Kecamatan Purwojati",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 3 Karangtalun Kidul Kecamatan Purwojati",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 3 Purwojati Kecamatan Purwojati",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Bantarsoka Kecamatan Purwokerto Barat",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Karanglewas Lor Kecamatan Purwokerto Barat",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Kedungwuluh Kecamatan Purwokerto Barat",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Pasir Kidul Kecamatan Purwokerto Barat",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Pasirmuncang Kecamatan Purwokerto Barat",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Rejasari Kecamatan Purwokerto Barat",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Bantarsoka Kecamatan Purwokerto Barat",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Karanglewas Lor Kecamatan Purwokerto Barat",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Kedungwuluh Kecamatan Purwokerto Barat",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Pasir Kidul Kecamatan Purwokerto Barat",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Pasirmuncang Kecamatan Purwokerto Barat",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Rejasari Kecamatan Purwokerto Barat",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 3 Kedungwuluh Kecamatan Purwokerto Barat",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 3 Pasirmuncang Kecamatan Purwokerto Barat",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 3 Rejasari Kecamatan Purwokerto Barat",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Berkoh Kecamatan Purwokerto Selatan",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Karangklesem Kecamatan Purwokerto Selatan",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Karangpucung Kecamatan Purwokerto Selatan",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Purwokerto Kidul Kecamatan Purwokerto Selatan",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Purwokerto Kulon Kecamatan Purwokerto Selatan",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Tanjung Kecamatan Purwokerto Selatan",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Teluk Kecamatan Purwokerto Selatan",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Berkoh Kecamatan Purwokerto Selatan",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Karangpucung Kecamatan Purwokerto Selatan",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Purwokerto Kulon Kecamatan Purwokerto Selatan",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Tanjung Kecamatan Purwokerto Selatan",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 3 Berkoh Kecamatan Purwokerto Selatan",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 3 Karangklesem Kecamatan Purwokerto Selatan",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 3 Karangpucung Kecamatan Purwokerto Selatan",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 3 Purwokerto Kidul Kecamatan Purwokerto Selatan",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 3 Purwokerto Kulon Kecamatan Purwokerto Selatan",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 3 Tanjung Kecamatan Purwokerto Selatan",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 3 Teluk Kecamatan Purwokerto Selatan",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 4 Karangklesem Kecamatan Purwokerto Selatan",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 4 Karangpucung Kecamatan Purwokerto Selatan",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 4 Teluk Kecamatan Purwokerto Selatan",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 5 Karangpucung Kecamatan Purwokerto Selatan",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 5 Teluk Kecamatan Purwokerto Selatan",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Arcawinangun Kecamatan Purwokerto Timur",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Kranji Kecamatan Purwokerto Timur",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Purwokerto Lor Kecamatan Purwokerto Timur",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Purwokerto Wetan Kecamatan Purwokerto Timur",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Purwokerto Lor Kecamatan Purwokerto Timur",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Purwokerto Wetan Kecamatan Purwokerto Timur",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 3 Arcawinangun Kecamatan Purwokerto Timur",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 4 Arcawinangun Kecamatan Purwokerto Timur",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 4 Kranji Kecamatan Purwokerto Timur",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 5 Arcawinangun Kecamatan Purwokerto Timur",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 8 Kranji Kecamatan Purwokerto Timur",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Bancarkembar Kecamatan Purwokerto Utara",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Bobosan Kecamatan Purwokerto Utara",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Grendeng Kecamatan Purwokerto Utara",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Karangwangkal Kecamatan Purwokerto Utara",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Pabuwaran Kecamatan Purwokerto Utara",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Purwanegara Kecamatan Purwokerto Utara",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Sumampir Kecamatan Purwokerto Utara",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Bobosan Kecamatan Purwokerto Utara",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Pabuwaran Kecamatan Purwokerto Utara",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Sumampir Kecamatan Purwokerto Utara",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 3 Bancarkember Kecamatan Purwokerto Utara",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 3 Grendeng Kecamatan Purwokerto Utara",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 3 Purwanegara Kecamatan Purwokerto Utara",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 4 Bancarkember Kecamatan Purwokerto Utara",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 4 Purwanegara Kecamatan Purwokerto Utara",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Banjarparakan Kecamatan Rawalo",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Losari Kecamatan Rawalo",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Rawalo Kecamatan Rawalo",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Sanggreman Kecamatan Rawalo",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Sidamulih Kecamatan Rawalo",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Tipar Kecamatan Rawalo",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Banjarparakan Kecamatan Rawalo",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Losari Kecamatan Rawalo",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Rawalo Kecamatan Rawalo",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Sanggreman Kecamatan Rawalo",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Sidamulih Kecamatan Rawalo",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Tipar Kecamatan Rawalo",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 3 Rawalo Kecamatan Rawalo",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 3 Sanggreman Kecamatan Rawalo",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 3 Tipar Kecamatan Rawalo",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 4 Rawalo Kecamatan Rawalo",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Gebangsari Kecamatan Sokaraja",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Karanganyar Kecamatan Sokaraja",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Klahang Kecamatan Sokaraja",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Mersi Kecamatan Sokaraja",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Sokanegara Kecamatan Sokaraja",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Sokaraja Kulon Kecamatan Sokaraja",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Sokaraja Tengah Kecamatan Sokaraja",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Sokaraja Wetan Kecamatan Sokaraja",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Sokawera Kecamatan Sokaraja",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Gebangsari Kecamatan Sokaraja",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Karanganyar Kecamatan Sokaraja",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Klahang Kecamatan Sokaraja",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Mersi Kecamatan Sokaraja",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Sokaraja Kulon Kecamatan Sokaraja",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Sokaraja Tengah Kecamatan Sokaraja",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Sokaraja Wetan Kecamatan Sokaraja",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Sokawera Kecamatan Sokaraja",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 3 Mersi Kecamatan Sokaraja",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 3 Sokanegara Kecamatan Sokaraja",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 3 Sokaraja Kulon Kecamatan Sokaraja",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 3 Sokawera Kecamatan Sokaraja",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 4 Mersi Kecamatan Sokaraja",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 4 Sokanegara Kecamatan Sokaraja",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 7 Sokanegara Kecamatan Sokaraja",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Kedungwringin Kecamatan Somagede",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Kemawi Kecamatan Somagede",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Ketanda Kecamatan Somagede",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Klinting Kecamatan Somagede",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Petahunan Kecamatan Somagede",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Purwodadi Kecamatan Somagede",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Somagede Kecamatan Somagede",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Kedungwringin Kecamatan Somagede",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Kemawi Kecamatan Somagede",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Ketanda Kecamatan Somagede",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Klinting Kecamatan Somagede",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Petahunan Kecamatan Somagede",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Purwodadi Kecamatan Somagede",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Somagede Kecamatan Somagede",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 3 Kedungwringin Kecamatan Somagede",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 3 Kemawi Kecamatan Somagede",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 3 Purwodadi Kecamatan Somagede",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 4 Kedungwringin Kecamatan Somagede",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 5 Kedungwringin Kecamatan Somagede",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Banjarpanepen Kecamatan Sumbang",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Banjarsari Kulon Kecamatan Sumbang",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Banjarsari Wetan Kecamatan Sumbang",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Banteran Kecamatan Sumbang",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Gandatapa Kecamatan Sumbang",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Kebanggan Kecamatan Sumbang",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Kober Kecamatan Sumbang",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Limpakuwus Kecamatan Sumbang",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Sumbang Kecamatan Sumbang",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Susukan Kecamatan Sumbang",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Tamansari Kecamatan Sumbang",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Tambaksogra Kecamatan Sumbang",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Banjarpanepen Kecamatan Sumbang",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Banjarsari Kulon Kecamatan Sumbang",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Banjarsari Wetan Kecamatan Sumbang",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Banteran Kecamatan Sumbang",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Gandatapa Kecamatan Sumbang",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Kebanggan Kecamatan Sumbang",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Kober Kecamatan Sumbang",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Limpakuwus Kecamatan Sumbang",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Sumbang Kecamatan Sumbang",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Susukan Kecamatan Sumbang",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Tamansari Kecamatan Sumbang",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Tambaksogra Kecamatan Sumbang",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 3 Banjarpanepen Kecamatan Sumbang",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 3 Banteran Kecamatan Sumbang",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 3 Gandatapa Kecamatan Sumbang",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 3 Kober Kecamatan Sumbang",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 3 Tambaksogra Kecamatan Sumbang",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Bogangin Kecamatan Sumpiuh",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Gambarsari Kecamatan Sumpiuh",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Kebokura Kecamatan Sumpiuh",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Klapagading Kecamatan Sumpiuh",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Kradenan Kecamatan Sumpiuh",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Nusamangir Kecamatan Sumpiuh",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Pengadegan Kecamatan Sumpiuh",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Sumpiuh Kecamatan Sumpiuh",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Tambaknegara Kecamatan Sumpiuh",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Wlahar Kecamatan Sumpiuh",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Gambarsari Kecamatan Sumpiuh",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Kebokura Kecamatan Sumpiuh",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Klapagading Kecamatan Sumpiuh",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Kradenan Kecamatan Sumpiuh",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Nusamangir Kecamatan Sumpiuh",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Pengadegan Kecamatan Sumpiuh",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Sumpiuh Kecamatan Sumpiuh",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Tambaknegara Kecamatan Sumpiuh",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Wlahar Kecamatan Sumpiuh",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 3 Bogangin Kecamatan Sumpiuh",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 3 Klapagading Kecamatan Sumpiuh",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 3 Pengadegan Kecamatan Sumpiuh",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 3 Sumpiuh Kecamatan Sumpiuh",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 3 Tambaknegara Kecamatan Sumpiuh",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 4 Pengadegan Kecamatan Sumpiuh",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 4 Sumpiuh Kecamatan Sumpiuh",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Buniayu Kecamatan Tambak",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Gumelar Kecamatan Tambak",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Karangjati Kecamatan Tambak",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Karangtengah Kecamatan Tambak",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Kecila Kecamatan Tambak",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Piasa Kecamatan Tambak",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Buniayu Kecamatan Tambak",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Gumelar Kecamatan Tambak",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Karangtengah Kecamatan Tambak",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Kecila Kecamatan Tambak",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Piasa Kecamatan Tambak",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 3 Buniayu Kecamatan Tambak",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 3 Gumelar Kecamatan Tambak",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 3 Karangtengah Kecamatan Tambak",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 4 Gumelar Kecamatan Tambak",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 4 Karangtengah Kecamatan Tambak",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 5 Gumelar Kecamatan Tambak",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Cikakak Kecamatan Wangon",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Wangon Kecamatan Wangon",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Cikakak Kecamatan Wangon",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Wangon Kecamatan Wangon",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Wlahar Kulon Kecamatan Wangon",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 3 Cikakak Kecamatan Wangon",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 3 Wangon Kecamatan Wangon",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 4 Wangon Kecamatan Wangon",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 5 Wangon Kecamatan Wangon",
+        "children": []
       }
     ]
   },
@@ -2291,110 +4459,6 @@
       {
         "name": "Seksi Pemerintahan Desa",
         "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 1 Ciberung",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 1 Darmakradenan",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 1 Jingkang",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 1 Karangbawang",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 1 Kracak",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 1 Lesmana",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 1 Pancasan",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 1 Pancurendang",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 1 Tiparkidul",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 2 Ciberung",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 2 Darmakradenan",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 2 Jingkang",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 2 Karangbawang",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 2 Kracak",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 2 Lesmana",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 2 Pancasan",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 2 Pancurendang",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 2 Tiparkidul",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 3 Darmakradenan",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 3 Jingkang",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 3 Kracak",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 3 Lesmana",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 3 Pancasan",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 3 Tiparkidul",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 4 Darmakradenan",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 4 Tiparkidul",
-        "children": []
       }
     ]
   },
@@ -2432,90 +4496,6 @@
       },
       {
         "name": "Seksi Pemerintahan Desa",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 1 Binangun",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 1 Karangrau",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 1 Kejawar",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 1 Papringan",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 1 Pasinggangan",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 1 Sudagaran",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 2 Binangun",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 2 Karangrau",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 2 Kejawar",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 2 Papringan",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 2 Pasinggangan",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 2 Sudagaran",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 3 Binangun",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 3 Karangrau",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 3 Kejawar",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 3 Pasinggangan",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 3 Sudagaran",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 4 Karangrau",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 4 Pasinggangan",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 5 Karangrau",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 5 Pasinggangan",
         "children": []
       }
     ]
@@ -2555,54 +4535,6 @@
       {
         "name": "Seksi Pemerintahan Desa",
         "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 1 Kemutug Kidul",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 1 Kemutug Lor",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 1 Ketenger",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 1 Kutasari",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 1 Pamijen",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 1 Rempoah",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 2 Kemutug Kidul",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 2 Kemutug Lor",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 2 Ketenger",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 2 Pamijen",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 3 Kutasari",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 4 Rempoah",
-        "children": []
       }
     ]
   },
@@ -2640,138 +4572,6 @@
       },
       {
         "name": "Seksi Pemerintahan Desa",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 1 Batuanten",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 1 Cikidang",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 1 Cilongok",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 1 Cipete",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 1 Gununglurah",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 1 Jatisaba",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 1 Kasegeran",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 1 Langgongsari",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 1 Pageraji",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 1 Panusupan",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 1 Pejogol",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 1 Pernasidi",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 1 Rancamaya",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 1 Sambirata",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 2 Batuanten",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 2 Cikidang",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 2 Cilongok",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 2 Cipete",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 2 Gununglurah",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 2 Jatisaba",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 2 Kasegeran",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 2 Langgongsari",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 2 Pageraji",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 2 Panusupan",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 2 Pejogol",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 2 Pernasidi",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 2 Rancamaya",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 2 Sambirata",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 3 Cilongok",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 3 Pageraji",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 3 Panusupan",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 3 Pernasidi",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 4 Panusupan",
         "children": []
       }
     ]
@@ -2811,114 +4611,6 @@
       {
         "name": "Seksi Pemerintahan Desa",
         "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 1 Cihonje",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 1 Cilangkap",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 1 Gancang",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 1 Karangkemojing",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 1 Kedungurang",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 1 Paningkaban",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 1 Samudra",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 1 Samudra Kulon",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 1 Tlaga",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 2 Cihonje",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 2 Cilangkap",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 2 Gancang",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 2 Karangkemojing",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 2 Kedungurang",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 2 Paningkaban",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 2 Samudra",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 2 Samudra Kulon",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 2 Tlaga",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 3 Cihonje",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 3 Cilangkap",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 3 Karangkemojing",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 3 Kedungurang",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 3 Samudra",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 4 Cihonje",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 4 Karangkemojing",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 4 Samudra",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 5 Cihonje",
-        "children": []
       }
     ]
   },
@@ -2957,122 +4649,6 @@
       {
         "name": "Seksi Pemerintahan Desa",
         "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 1 Adisara",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 1 Bantar",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 1 Gunungwetan",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 1 Jatilawang",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 1 Jurangbahas",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 1 Karangduren",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 1 Karangkedawung",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 1 Karanglewas",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 1 Karangnanas",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 1 Tinggarjaya",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 1 Tinggarwangi",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 2 Adisara",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 2 Bantar",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 2 Gunungwetan",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 2 Jatilawang",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 2 Jurangbahas",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 2 Karangduren",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 2 Karangkedawung",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 2 Karanglewas",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 2 Karangnanas",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 2 Tinggarjaya",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 2 Tinggarwangi",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 3 Adisara",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 3 Gunungwetan",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 3 Jatilawang",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 3 Karangnanas",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 3 Tinggarjaya",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 4 Gunungwetan",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 4 Jatilawang",
-        "children": []
       }
     ]
   },
@@ -3106,66 +4682,6 @@
       },
       {
         "name": "Seksi Pemerintahan Desa",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 1 Kalibagor",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 1 Kaliori",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 1 Pajerukan",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 1 Pekaja",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 1 Petir",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 1 Srowot",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 2 Kalibagor",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 2 Kaliori",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 2 Pajerukan",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 2 Pekaja",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 2 Petir",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 2 Srowot",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 3 Kaliori",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 3 Pekaja",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 4 Kalibagor",
         "children": []
       }
     ]
@@ -3205,38 +4721,6 @@
       {
         "name": "Seksi Pemerintahan Desa",
         "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 1 Babakan",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 1 Karanggude",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 1 Kediri",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 1 Pasir Kulon",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 2 Babakan",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 2 Kediri",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 2 Pasir Kulon",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 3 Karanggude",
-        "children": []
       }
     ]
   },
@@ -3274,66 +4758,6 @@
       },
       {
         "name": "Seksi Pemerintahan Desa",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 1 Adisana",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 1 Cindaga",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 1 Kebasen",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 1 Randegan",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 1 Sawangan",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 2 Adisana",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 2 Bangsa",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 2 Cindaga",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 2 Kebasen",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 2 Randegan",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 2 Sawangan",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 3 Adisana",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 3 Bangsa",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 3 Cindaga",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 4 Cindaga",
         "children": []
       }
     ]
@@ -3373,102 +4797,6 @@
       {
         "name": "Seksi Pemerintahan Desa",
         "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 1 Baseh",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 1 Beji",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 1 Dawuhan Kulon",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 1 Kalikesur",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 1 Kalisalak",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 1 Kebocoran",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 1 Kedungbanteng",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 1 Keniten",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 1 Kutaliman",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 1 Windujaya",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 2 Baseh",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 2 Beji",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 2 Dawuhan Kulon",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 2 Kalikesur",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 2 Kalisalak",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 2 Kebocoran",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 2 Kutaliman",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 2 Windujaya",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 2 keniten",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 3 Kalisalak",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 3 Kebocoran",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 3 Kedungbanteng",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 3 Kutaliman",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 4 Kalisalak",
-        "children": []
       }
     ]
   },
@@ -3506,78 +4834,6 @@
       },
       {
         "name": "Seksi Pemerintahan Desa",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 1 Bantarwuni",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 1 Bojongsari",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 1 Dukuhwaluh",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 1 Linggasari",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 1 Pliken",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 1 Purbadana",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 1 Sambeng Kulon",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 2 Bantarwuni",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 2 Bojongsari",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 2 Dukuhwaluh",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 2 Linggasari",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 2 Pliken",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 2 Purbadana",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 2 Sambeng Kulon",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 3 Dukuhwaluh",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 3 Linggasari",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 3 Pliken",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 4 Dukuhwaluh",
         "children": []
       }
     ]
@@ -3617,78 +4873,6 @@
       {
         "name": "Seksi Pemerintahan Desa",
         "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 1 Alasmalang",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 1 Grujugan",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 1 Karanggintung",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 1 Karanggintung Kemranjen",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 1 Karangsalam Kemranjen",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 1 Pageralang",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 1 Sibalung",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 1 Sibrama",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 2 Alasmalang",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 2 Grujugan",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 2 Karanggintung",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 2 Karanggintung Kemranjen",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 2 Karangsalam Kemranjen",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 2 Pageralang",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 2 Sibalung",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 2 Sibrama",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 3 Karangsalam Kemranjen",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 3 Pageralang",
-        "children": []
       }
     ]
   },
@@ -3726,142 +4910,6 @@
       },
       {
         "name": "Seksi Pemerintahan Desa",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 1 Besuki",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 1 Canduk",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 1 Cidora",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 1 Cingebul",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 1 Cirahab",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 1 Dermaji",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 1 Karanggayam",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 1 Kedunggede",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 1 Lumbir",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 1 Parungkamal",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 2 Besuki",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 2 Canduk",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 2 Cidora",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 2 Cingebul",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 2 Cirahab",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 2 Dermaji",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 2 Karanggayam",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 2 Kedunggede",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 2 Lumbir",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 2 Parungkamal",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 3 Canduk",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 3 Cingebul",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 3 Cirahab",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 3 Dermaji",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 3 Karanggayam",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 3 Kedunggede",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 3 Lumbir",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 3 Parungkamal",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 4 Cingebul",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 4 Cirahab",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 4 Lumbir",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 5 Cingebul",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 5 Lumbir",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 6 Lumbir",
         "children": []
       }
     ]
@@ -3901,58 +4949,6 @@
       {
         "name": "Seksi Pemerintahan Desa",
         "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 1 Kedungrandu",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 1 Kedungwuluh Kidul",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 1 Kedungwuluh Lor",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 1 Notog",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 1 Patikraja",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 1 Sidabowa",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 2 Kedungrandu",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 2 Kedungwuluh Kidul",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 2 Kedungwuluh Lor",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 2 Patikraja",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 2 Sidabowa",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 3 Kedungrandu",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 3 Notog",
-        "children": []
       }
     ]
   },
@@ -3991,122 +4987,6 @@
       {
         "name": "Seksi Pemerintahan Desa",
         "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 1 Banjaranyar",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 1 Candinegara",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 1 Cibangkong",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 1 Cikawung",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 1 Cikembulan",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 1 Glempang",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 1 Karangkemiri",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 1 Krajan",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 1 Pekuncen",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 1 Semedo",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 1 Tumiyang",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 2 Banjaranyar",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 2 Cibangkong",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 2 Cikawung",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 2 Cikembulan",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 2 Glempang",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 2 Karangkemiri",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 2 Krajan",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 2 Pekuncen",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 2 Semedo",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 2 Tumiyang",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 3 Candinegara",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 3 Cibangkong",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 3 Cikembulan",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 3 Karangkemiri",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 3 Pekuncen",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 3 Semedo",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 3 Tumiyang",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 4 Cibangkong",
-        "children": []
       }
     ]
   },
@@ -4144,70 +5024,6 @@
       },
       {
         "name": "Seksi Pemerintahan Desa",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 1 Gerduren",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 1 Kalitapen",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 1 Kaliwangi",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 1 Karangmangu",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 1 Karangtalun Kidul",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 1 Purwojati",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 2 Gerduren",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 2 Kalitapen",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 2 Kaliwangi",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 2 Karangmangu",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 2 Karangtalun Kidul",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 2 Purwojati",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 3 Gerduren",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 3 Karangmangu",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 3 Karangtalun Kidul",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 3 Purwojati",
         "children": []
       }
     ]
@@ -4390,66 +5206,6 @@
       {
         "name": "Seksi Pemerintahan Kelurahan",
         "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 1 Bantarsoka",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 1 Karanglewas Lor",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 1 Kedungwuluh",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 1 Pasir Kidul",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 1 Pasirmuncang",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 1 Rejasari",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 2 Bantarsoka",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 2 Karanglewas Lor",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 2 Kedungwuluh",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 2 Pasir Kidul",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 2 Pasirmuncang",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 2 Rejasari",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 3 Kedungwuluh",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 3 Pasirmuncang",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 3 Rejasari",
-        "children": []
       }
     ]
   },
@@ -4631,98 +5387,6 @@
       {
         "name": "Seksi Pemerintahan Kelurahan",
         "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 1 Berkoh",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 1 Karangklesem",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 1 Karangpucung",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 1 Purwokerto Kidul",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 1 Purwokerto Kulon",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 1 Tanjung",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 1 Teluk",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 2 Berkoh",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 2 Karangpucung",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 2 Purwokerto Kulon",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 2 Tanjung",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 3 Berkoh",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 3 Karangklesem",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 3 Karangpucung",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 3 Purwokerto Kidul",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 3 Purwokerto Kulon",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 3 Tanjung",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 3 Teluk",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 4 Karangklesem",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 4 Karangpucung",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 4 Teluk",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 5 Karangpucung",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 5 Teluk",
-        "children": []
       }
     ]
   },
@@ -4882,50 +5546,6 @@
       },
       {
         "name": "Seksi Pemerintahan Kelurahan",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 1 Arcawinangun",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 1 Kranji",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 1 Purwokerto Lor",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 1 Purwokerto Wetan",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 2 Purwokerto Lor",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 2 Purwokerto Wetan",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 3 Arcawinangun",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 4 Arcawinangun",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 4 Kranji",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 5 Arcawinangun",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 8 Kranji",
         "children": []
       }
     ]
@@ -5108,66 +5728,6 @@
       {
         "name": "Seksi Pemerintahan Kelurahan",
         "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 1 Bancarkembar",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 1 Bobosan",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 1 Grendeng",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 1 Karangwangkal",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 1 Pabuwaran",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 1 Purwanegara",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 1 Sumampir",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 2 Bobosan",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 2 Pabuwaran",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 2 Sumampir",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 3 Bancarkember",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 3 Grendeng",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 3 Purwanegara",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 4 Bancarkember",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 4 Purwanegara",
-        "children": []
       }
     ]
   },
@@ -5205,70 +5765,6 @@
       },
       {
         "name": "Seksi Pemerintahan Desa",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 1 Banjarparakan",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 1 Losari",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 1 Rawalo",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 1 Sanggreman",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 1 Sidamulih",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 1 Tipar",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 2 Banjarparakan",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 2 Losari",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 2 Rawalo",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 2 Sanggreman",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 2 Sidamulih",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 2 Tipar",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 3 Rawalo",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 3 Sanggreman",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 3 Tipar",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 4 Rawalo",
         "children": []
       }
     ]
@@ -5308,102 +5804,6 @@
       {
         "name": "Seksi Pemerintahan Desa",
         "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 1 Gebangsari",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 1 Karanganyar",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 1 Klahang",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 1 Mersi",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 1 Sokanegara",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 1 Sokaraja Kulon",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 1 Sokaraja Tengah",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 1 Sokaraja Wetan",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 1 Sokawera",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 2 Gebangsari",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 2 Karanganyar",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 2 Klahang",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 2 Mersi",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 2 Sokaraja Kulon",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 2 Sokaraja Tengah",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 2 Sokaraja Wetan",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 2 Sokawera",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 3 Mersi",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 3 Sokanegara",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 3 Sokaraja Kulon",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 3 Sokawera",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 4 Mersi",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 4 Sokanegara",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 7 Sokanegara",
-        "children": []
       }
     ]
   },
@@ -5442,82 +5842,6 @@
       {
         "name": "Seksi Pemerintahan Desa",
         "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 1 Kedungwringin",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 1 Kemawi",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 1 Ketanda",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 1 Klinting",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 1 Petahunan",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 1 Purwodadi",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 1 Somagede",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 2 Kedungwringin",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 2 Kemawi",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 2 Ketanda",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 2 Klinting",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 2 Petahunan",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 2 Purwodadi",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 2 Somagede",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 3 Kedungwringin",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 3 Kemawi",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 3 Purwodadi",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 4 Kedungwringin",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 5 Kedungwringin",
-        "children": []
       }
     ]
   },
@@ -5555,122 +5879,6 @@
       },
       {
         "name": "Seksi Pemerintahan Desa",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 1 Banjarpanepen",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 1 Banjarsari Kulon",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 1 Banjarsari Wetan",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 1 Banteran",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 1 Gandatapa",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 1 Kebanggan",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 1 Kober",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 1 Limpakuwus",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 1 Sumbang",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 1 Susukan",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 1 Tamansari",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 1 Tambaksogra",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 2 Banjarpanepen",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 2 Banjarsari Kulon",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 2 Banjarsari Wetan",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 2 Banteran",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 2 Gandatapa",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 2 Kebanggan",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 2 Kober",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 2 Limpakuwus",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 2 Sumbang",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 2 Susukan",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 2 Tamansari",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 2 Tambaksogra",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 3 Banjarpanepen",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 3 Banteran",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 3 Gandatapa",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 3 Kober",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 3 Tambaksogra",
         "children": []
       }
     ]
@@ -5773,110 +5981,6 @@
       {
         "name": "Seksi Pemerintahan Kelurahan",
         "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 1 Bogangin",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 1 Gambarsari",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 1 Kebokura",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 1 Klapagading",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 1 Kradenan",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 1 Nusamangir",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 1 Pengadegan",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 1 Sumpiuh",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 1 Tambaknegara",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 1 Wlahar",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 2 Gambarsari",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 2 Kebokura",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 2 Klapagading",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 2 Kradenan",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 2 Nusamangir",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 2 Pengadegan",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 2 Sumpiuh",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 2 Tambaknegara",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 2 Wlahar",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 3 Bogangin",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 3 Klapagading",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 3 Pengadegan",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 3 Sumpiuh",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 3 Tambaknegara",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 4 Pengadegan",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 4 Sumpiuh",
-        "children": []
       }
     ]
   },
@@ -5915,74 +6019,6 @@
       {
         "name": "Seksi Pemerintahan Desa",
         "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 1 Buniayu",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 1 Gumelar",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 1 Karangjati",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 1 Karangtengah",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 1 Kecila",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 1 Piasa",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 2 Buniayu",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 2 Gumelar",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 2 Karangtengah",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 2 Kecila",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 2 Piasa",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 3 Buniayu",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 3 Gumelar",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 3 Karangtengah",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 4 Gumelar",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 4 Karangtengah",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 5 Gumelar",
-        "children": []
       }
     ]
   },
@@ -6020,42 +6056,6 @@
       },
       {
         "name": "Seksi Pemerintahan Desa",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 1 Cikakak",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 1 Wangon",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 2 Cikakak",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 2 Wangon",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 2 Wlahar Kulon",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 3 Cikakak",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 3 Wangon",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 4 Wangon",
-        "children": []
-      },
-      {
-        "name": "Sekolah Dasar Negeri 5 Wangon",
         "children": []
       }
     ]

@@ -68,7 +68,18 @@ def fetch_schools_from_website(kecamatan_name: str) -> List[Dict[str, Any]]:
         List of school dictionaries with keys: No, NPSN, Nama Sekolah, Alamat, Kelurahan, Status
         
     Note:
-        This function requires actual website access. If blocked, use manual mode.
+        ⚠️ INCOMPLETE IMPLEMENTATION ⚠️
+        This function is a TEMPLATE and requires website-specific implementation.
+        
+        The actual website structure needs to be inspected and parsing logic implemented.
+        Until then, this function will return empty list and you should use --manual mode.
+        
+        To complete implementation:
+        1. Access the website and inspect the HTML structure
+        2. Identify the table/element containing school data
+        3. Parse the NPSN, Nama, Alamat, Kelurahan fields
+        4. Filter for SD Negeri in the specific kecamatan
+        5. Format according to required JSON structure
     """
     try:
         import requests
@@ -81,10 +92,12 @@ def fetch_schools_from_website(kecamatan_name: str) -> List[Dict[str, Any]]:
         # Kode wilayah mapping (this needs to be filled with actual codes)
         KODE_WILAYAH = "030211"  # Kabupaten Banyumas, Jawa Tengah
         
-        print(f"Fetching data for {kecamatan_name}...")
+        print(f"⚠️  Attempting to fetch data for {kecamatan_name}...")
+        print(f"⚠️  Note: Automatic fetching not fully implemented.")
+        print(f"⚠️  Recommendation: Use --manual mode with downloaded CSV/Excel")
         
         # This is a template - actual implementation depends on website structure
-        # You may need to:
+        # Steps needed:
         # 1. GET the page with proper headers
         # 2. Parse the HTML table
         # 3. Extract NPSN, Nama Sekolah, Alamat, Kelurahan
@@ -96,16 +109,18 @@ def fetch_schools_from_website(kecamatan_name: str) -> List[Dict[str, Any]]:
             'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36'
         }
         
-        response = requests.get(url, headers=headers, timeout=30)
-        response.raise_for_status()
+        # IMPLEMENTATION NEEDED: Parse website and extract school data
+        # The code below is incomplete and needs actual parsing logic
         
-        soup = BeautifulSoup(response.content, 'html.parser')
+        # response = requests.get(url, headers=headers, timeout=30)
+        # response.raise_for_status()
+        # soup = BeautifulSoup(response.content, 'html.parser')
+        # schools = parse_school_table(soup, kecamatan_name)  # Needs implementation
         
-        # Parse the table (structure depends on actual website)
-        schools = []
-        # TODO: Implement actual parsing based on website structure
+        schools = []  # Empty until implementation is complete
         
-        print(f"  Found {len(schools)} schools")
+        print(f"  ℹ️  Automatic fetching returned {len(schools)} schools")
+        print(f"  ℹ️  Please use --manual mode with downloaded data file")
         return schools
         
     except ImportError:
@@ -114,6 +129,7 @@ def fetch_schools_from_website(kecamatan_name: str) -> List[Dict[str, Any]]:
         return []
     except Exception as e:
         print(f"Error fetching data: {e}")
+        print(f"Recommendation: Use --manual mode instead")
         return []
 
 

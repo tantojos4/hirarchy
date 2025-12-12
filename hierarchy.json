@@ -37,7 +37,7 @@
     "name": "Badan Penanggulangan Bencana Daerah",
     "children": [
       {
-        "name": "Sekretariat Badan",
+        "name": "Sekretariat Badan Penanggulangan Bencana Daerah",
         "children": [
           {
             "name": "Subbagian Keuangan",
@@ -224,7 +224,7 @@
     ]
   },
   {
-    "name": "Bapperida",
+    "name": "Badan Perencanaan Pembangunan, Riset, dan Inovasi Daerah",
     "children": [
       {
         "name": "Bidang Infrastruktur dan Kewilayahan",
@@ -247,7 +247,7 @@
         "children": []
       },
       {
-        "name": "Sekretariat Badan",
+        "name": "Sekretariat Badan Perencanaan Pembangunan, Riset, dan Inovasi Daerah",
         "children": [
           {
             "name": "Sub Bagian Perencanaan dan Keuangan",

@@ -125,11 +125,11 @@
         "name": "Sekretariat Badan Keuangan dan Aset Daerah",
         "children": [
           {
-            "name": "Sub Bagian Perencanaan dan Keuangan",
+            "name": "Subbagian Keuangan",
             "children": []
           },
           {
-            "name": "Sub Bagian Umum dan Kepegawaian",
+            "name": "Subbagian Umum dan Kepegawaian",
             "children": []
           }
         ]
@@ -155,11 +155,11 @@
         "name": "Sekretariat Badan Kesatuan Bangsa dan Politik",
         "children": [
           {
-            "name": "Sub Bagian Perencanaan dan Keuangan",
+            "name": "Subbagian Keuangan",
             "children": []
           },
           {
-            "name": "Sub Bagian Umum dan Kepegawaian",
+            "name": "Subbagian Umum dan Kepegawaian",
             "children": []
           }
         ]
@@ -212,11 +212,11 @@
         "name": "Sekretariat Badan Pendapatan Daerah",
         "children": [
           {
-            "name": "Sub Bagian Perencanaan dan Keuangan",
+            "name": "Subbagian Keuangan",
             "children": []
           },
           {
-            "name": "Sub Bagian Umum dan Kepegawaian",
+            "name": "Subbagian Umum dan Kepegawaian",
             "children": []
           }
         ]
@@ -368,27 +368,11 @@
         "name": "Sekretariat Dinas Penanaman Modal dan Pelayanan Terpadu Satu Pintu",
         "children": [
           {
-            "name": "Sub Bagian Keuangan",
-            "children": []
-          },
-          {
-            "name": "Sub Bagian Perencanaan",
-            "children": []
-          },
-          {
-            "name": "Sub Bagian Umum dan Kepegawaian (Perubahan nomenklatur)",
-            "children": []
-          },
-          {
             "name": "Subbagian Keuangan",
             "children": []
           },
           {
-            "name": "Subbagian Umum (Perubahan nomenklatur)",
-            "children": []
-          },
-          {
-            "name": "Subbagian Umum dan Kepegawaian (Perubahan nomenklatur)",
+            "name": "Subbagian Umum dan Kepegawaian",
             "children": []
           }
         ]
@@ -415,23 +399,7 @@
         "name": "Sekretariat Dinas",
         "children": [
           {
-            "name": "Sub Bagian Keuangan",
-            "children": []
-          },
-          {
-            "name": "Sub Bagian Perencanaan",
-            "children": []
-          },
-          {
-            "name": "Sub Bagian Umum dan Kepegawaian",
-            "children": []
-          },
-          {
             "name": "Subbagian Keuangan",
-            "children": []
-          },
-          {
-            "name": "Subbagian Umum",
             "children": []
           },
           {
@@ -465,23 +433,7 @@
         "name": "Sekretariat Dinas",
         "children": [
           {
-            "name": "Sub Bagian Keuangan",
-            "children": []
-          },
-          {
-            "name": "Sub Bagian Perencanaan",
-            "children": []
-          },
-          {
-            "name": "Sub Bagian Umum dan Kepegawaian",
-            "children": []
-          },
-          {
             "name": "Subbagian Keuangan",
-            "children": []
-          },
-          {
-            "name": "Subbagian Umum",
             "children": []
           },
           {
@@ -1100,23 +1052,7 @@
         "name": "Sekretariat Dinas",
         "children": [
           {
-            "name": "Sub Bagian Keuangan",
-            "children": []
-          },
-          {
-            "name": "Sub Bagian Perencanaan",
-            "children": []
-          },
-          {
-            "name": "Sub Bagian Umum dan Kepegawaian",
-            "children": []
-          },
-          {
             "name": "Subbagian Keuangan",
-            "children": []
-          },
-          {
-            "name": "Subbagian Umum",
             "children": []
           },
           {
@@ -1172,23 +1108,7 @@
         "name": "Sekretariat Dinas",
         "children": [
           {
-            "name": "Sub Bagian Keuangan",
-            "children": []
-          },
-          {
-            "name": "Sub Bagian Perencanaan",
-            "children": []
-          },
-          {
-            "name": "Sub Bagian Umum dan Kepegawaian",
-            "children": []
-          },
-          {
             "name": "Subbagian Keuangan",
-            "children": []
-          },
-          {
-            "name": "Subbagian Umum",
             "children": []
           },
           {
@@ -1290,23 +1210,7 @@
         "name": "Sekretariat Dinas",
         "children": [
           {
-            "name": "Sub Bagian Keuangan",
-            "children": []
-          },
-          {
-            "name": "Sub Bagian Perencanaan",
-            "children": []
-          },
-          {
-            "name": "Sub Bagian Umum dan Kepegawaian",
-            "children": []
-          },
-          {
             "name": "Subbagian Keuangan",
-            "children": []
-          },
-          {
-            "name": "Subbagian Umum",
             "children": []
           },
           {
@@ -4544,23 +4448,7 @@
         "name": "Sekretariat Dinas",
         "children": [
           {
-            "name": "Sub Bagian Keuangan",
-            "children": []
-          },
-          {
-            "name": "Sub Bagian Perencanaan",
-            "children": []
-          },
-          {
-            "name": "Sub Bagian Umum dan Kepegawaian",
-            "children": []
-          },
-          {
             "name": "Subbagian Keuangan",
-            "children": []
-          },
-          {
-            "name": "Subbagian Umum",
             "children": []
           },
           {
@@ -4696,23 +4584,7 @@
         "name": "Sekretariat Dinas",
         "children": [
           {
-            "name": "Sub Bagian Keuangan",
-            "children": []
-          },
-          {
-            "name": "Sub Bagian Perencanaan",
-            "children": []
-          },
-          {
-            "name": "Sub Bagian Umum dan Kepegawaian",
-            "children": []
-          },
-          {
             "name": "Subbagian Keuangan",
-            "children": []
-          },
-          {
-            "name": "Subbagian Umum",
             "children": []
           },
           {
@@ -4747,23 +4619,7 @@
         "name": "Sekretariat Dinas",
         "children": [
           {
-            "name": "Sub Bagian Keuangan",
-            "children": []
-          },
-          {
-            "name": "Sub Bagian Perencanaan",
-            "children": []
-          },
-          {
-            "name": "Sub Bagian Umum dan Kepegawaian",
-            "children": []
-          },
-          {
             "name": "Subbagian Keuangan",
-            "children": []
-          },
-          {
-            "name": "Subbagian Umum",
             "children": []
           },
           {
@@ -4817,23 +4673,7 @@
         "name": "Sekretariat Dinas",
         "children": [
           {
-            "name": "Sub Bagian Keuangan",
-            "children": []
-          },
-          {
-            "name": "Sub Bagian Perencanaan",
-            "children": []
-          },
-          {
-            "name": "Sub Bagian Umum dan Kepegawaian",
-            "children": []
-          },
-          {
             "name": "Subbagian Keuangan",
-            "children": []
-          },
-          {
-            "name": "Subbagian Umum",
             "children": []
           },
           {
@@ -4907,23 +4747,7 @@
         "name": "Sekretariat Dinas",
         "children": [
           {
-            "name": "Sub Bagian Keuangan",
-            "children": []
-          },
-          {
-            "name": "Sub Bagian Perencanaan",
-            "children": []
-          },
-          {
-            "name": "Sub Bagian Umum dan Kepegawaian",
-            "children": []
-          },
-          {
             "name": "Subbagian Keuangan",
-            "children": []
-          },
-          {
-            "name": "Subbagian Umum",
             "children": []
           },
           {
@@ -5366,23 +5190,7 @@
         "name": "Sekretariat Dinas",
         "children": [
           {
-            "name": "Sub Bagian Keuangan",
-            "children": []
-          },
-          {
-            "name": "Sub Bagian Perencanaan",
-            "children": []
-          },
-          {
-            "name": "Sub Bagian Umum dan Kepegawaian",
-            "children": []
-          },
-          {
             "name": "Subbagian Keuangan",
-            "children": []
-          },
-          {
-            "name": "Subbagian Umum",
             "children": []
           },
           {
@@ -5430,23 +5238,7 @@
         "name": "Sekretariat Dinas",
         "children": [
           {
-            "name": "Sub Bagian Keuangan",
-            "children": []
-          },
-          {
-            "name": "Sub Bagian Perencanaan",
-            "children": []
-          },
-          {
-            "name": "Sub Bagian Umum dan Kepegawaian",
-            "children": []
-          },
-          {
             "name": "Subbagian Keuangan",
-            "children": []
-          },
-          {
-            "name": "Subbagian Umum",
             "children": []
           },
           {
@@ -5480,23 +5272,7 @@
         "name": "Sekretariat Dinas",
         "children": [
           {
-            "name": "Sub Bagian Keuangan",
-            "children": []
-          },
-          {
-            "name": "Sub Bagian Perencanaan",
-            "children": []
-          },
-          {
-            "name": "Sub Bagian Umum dan Kepegawaian",
-            "children": []
-          },
-          {
             "name": "Subbagian Keuangan",
-            "children": []
-          },
-          {
-            "name": "Subbagian Umum",
             "children": []
           },
           {
@@ -5546,23 +5322,7 @@
         "name": "Sekretariat Dinas",
         "children": [
           {
-            "name": "Sub Bagian Keuangan",
-            "children": []
-          },
-          {
-            "name": "Sub Bagian Perencanaan",
-            "children": []
-          },
-          {
-            "name": "Sub Bagian Umum dan Kepegawaian",
-            "children": []
-          },
-          {
             "name": "Subbagian Keuangan",
-            "children": []
-          },
-          {
-            "name": "Subbagian Umum",
             "children": []
           },
           {
@@ -5604,23 +5364,7 @@
         "name": "Sekretariat Dinas",
         "children": [
           {
-            "name": "Sub Bagian Keuangan",
-            "children": []
-          },
-          {
-            "name": "Sub Bagian Perencanaan",
-            "children": []
-          },
-          {
-            "name": "Sub Bagian Umum dan Kepegawaian",
-            "children": []
-          },
-          {
             "name": "Subbagian Keuangan",
-            "children": []
-          },
-          {
-            "name": "Subbagian Umum",
             "children": []
           },
           {
@@ -5666,23 +5410,7 @@
         "name": "Sekretariat Dinas",
         "children": [
           {
-            "name": "Sub Bagian Keuangan",
-            "children": []
-          },
-          {
-            "name": "Sub Bagian Perencanaan",
-            "children": []
-          },
-          {
-            "name": "Sub Bagian Umum dan Kepegawaian",
-            "children": []
-          },
-          {
             "name": "Subbagian Keuangan",
-            "children": []
-          },
-          {
-            "name": "Subbagian Umum",
             "children": []
           },
           {
@@ -5729,23 +5457,7 @@
         "name": "Sekretariat Dinas",
         "children": [
           {
-            "name": "Sub Bagian Keuangan",
-            "children": []
-          },
-          {
-            "name": "Sub Bagian Perencanaan",
-            "children": []
-          },
-          {
-            "name": "Sub Bagian Umum dan Kepegawaian",
-            "children": []
-          },
-          {
             "name": "Subbagian Keuangan",
-            "children": []
-          },
-          {
-            "name": "Subbagian Umum",
             "children": []
           },
           {

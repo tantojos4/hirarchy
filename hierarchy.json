@@ -2325,6 +2325,10 @@
         "children": []
       },
       {
+        "name": "Sekolah Dasar Negeri 1 Tiparkidul",
+        "children": []
+      },
+      {
         "name": "Sekolah Dasar Negeri 2 Ciberung",
         "children": []
       },
@@ -2357,6 +2361,10 @@
         "children": []
       },
       {
+        "name": "Sekolah Dasar Negeri 2 Tiparkidul",
+        "children": []
+      },
+      {
         "name": "Sekolah Dasar Negeri 3 Darmakradenan",
         "children": []
       },
@@ -2377,7 +2385,15 @@
         "children": []
       },
       {
+        "name": "Sekolah Dasar Negeri 3 Tiparkidul",
+        "children": []
+      },
+      {
         "name": "Sekolah Dasar Negeri 4 Darmakradenan",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 4 Tiparkidul",
         "children": []
       }
     ]
@@ -2951,11 +2967,39 @@
         "children": []
       },
       {
+        "name": "Sekolah Dasar Negeri 1 Gunungwetan",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Jatilawang",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Jurangbahas",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Karangduren",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Karangkedawung",
+        "children": []
+      },
+      {
         "name": "Sekolah Dasar Negeri 1 Karanglewas",
         "children": []
       },
       {
+        "name": "Sekolah Dasar Negeri 1 Karangnanas",
+        "children": []
+      },
+      {
         "name": "Sekolah Dasar Negeri 1 Tinggarjaya",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Tinggarwangi",
         "children": []
       },
       {
@@ -2967,7 +3011,31 @@
         "children": []
       },
       {
+        "name": "Sekolah Dasar Negeri 2 Gunungwetan",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Jatilawang",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Jurangbahas",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Karangduren",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Karangkedawung",
+        "children": []
+      },
+      {
         "name": "Sekolah Dasar Negeri 2 Karanglewas",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Karangnanas",
         "children": []
       },
       {
@@ -2975,11 +3043,35 @@
         "children": []
       },
       {
+        "name": "Sekolah Dasar Negeri 2 Tinggarwangi",
+        "children": []
+      },
+      {
         "name": "Sekolah Dasar Negeri 3 Adisara",
         "children": []
       },
       {
+        "name": "Sekolah Dasar Negeri 3 Gunungwetan",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 3 Jatilawang",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 3 Karangnanas",
+        "children": []
+      },
+      {
         "name": "Sekolah Dasar Negeri 3 Tinggarjaya",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 4 Gunungwetan",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 4 Jatilawang",
         "children": []
       }
     ]
@@ -3355,6 +3447,10 @@
         "children": []
       },
       {
+        "name": "Sekolah Dasar Negeri 2 keniten",
+        "children": []
+      },
+      {
         "name": "Sekolah Dasar Negeri 3 Kalisalak",
         "children": []
       },
@@ -3535,6 +3631,14 @@
         "children": []
       },
       {
+        "name": "Sekolah Dasar Negeri 1 Karanggintung Kemranjen",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Karangsalam Kemranjen",
+        "children": []
+      },
+      {
         "name": "Sekolah Dasar Negeri 1 Pageralang",
         "children": []
       },
@@ -3559,6 +3663,14 @@
         "children": []
       },
       {
+        "name": "Sekolah Dasar Negeri 2 Karanggintung Kemranjen",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Karangsalam Kemranjen",
+        "children": []
+      },
+      {
         "name": "Sekolah Dasar Negeri 2 Pageralang",
         "children": []
       },
@@ -3568,6 +3680,10 @@
       },
       {
         "name": "Sekolah Dasar Negeri 2 Sibrama",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 3 Karangsalam Kemranjen",
         "children": []
       },
       {
@@ -5034,11 +5150,19 @@
         "children": []
       },
       {
+        "name": "Sekolah Dasar Negeri 3 Bancarkember",
+        "children": []
+      },
+      {
         "name": "Sekolah Dasar Negeri 3 Grendeng",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 3 Purwanegara",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 4 Bancarkember",
         "children": []
       },
       {
@@ -5324,6 +5448,18 @@
         "children": []
       },
       {
+        "name": "Sekolah Dasar Negeri 1 Kemawi",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Ketanda",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Klinting",
+        "children": []
+      },
+      {
         "name": "Sekolah Dasar Negeri 1 Petahunan",
         "children": []
       },
@@ -5340,6 +5476,18 @@
         "children": []
       },
       {
+        "name": "Sekolah Dasar Negeri 2 Kemawi",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Ketanda",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Klinting",
+        "children": []
+      },
+      {
         "name": "Sekolah Dasar Negeri 2 Petahunan",
         "children": []
       },
@@ -5353,6 +5501,10 @@
       },
       {
         "name": "Sekolah Dasar Negeri 3 Kedungwringin",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 3 Kemawi",
         "children": []
       },
       {
@@ -5410,11 +5562,23 @@
         "children": []
       },
       {
+        "name": "Sekolah Dasar Negeri 1 Banjarsari Kulon",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Banjarsari Wetan",
+        "children": []
+      },
+      {
         "name": "Sekolah Dasar Negeri 1 Banteran",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 1 Gandatapa",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 1 Kebanggan",
         "children": []
       },
       {
@@ -5446,11 +5610,23 @@
         "children": []
       },
       {
+        "name": "Sekolah Dasar Negeri 2 Banjarsari Kulon",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Banjarsari Wetan",
+        "children": []
+      },
+      {
         "name": "Sekolah Dasar Negeri 2 Banteran",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 2 Gandatapa",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Kebanggan",
         "children": []
       },
       {
@@ -5741,6 +5917,10 @@
         "children": []
       },
       {
+        "name": "Sekolah Dasar Negeri 1 Buniayu",
+        "children": []
+      },
+      {
         "name": "Sekolah Dasar Negeri 1 Gumelar",
         "children": []
       },
@@ -5757,6 +5937,14 @@
         "children": []
       },
       {
+        "name": "Sekolah Dasar Negeri 1 Piasa",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Buniayu",
+        "children": []
+      },
+      {
         "name": "Sekolah Dasar Negeri 2 Gumelar",
         "children": []
       },
@@ -5766,6 +5954,14 @@
       },
       {
         "name": "Sekolah Dasar Negeri 2 Kecila",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Piasa",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 3 Buniayu",
         "children": []
       },
       {
@@ -5827,7 +6023,15 @@
         "children": []
       },
       {
+        "name": "Sekolah Dasar Negeri 1 Cikakak",
+        "children": []
+      },
+      {
         "name": "Sekolah Dasar Negeri 1 Wangon",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 2 Cikakak",
         "children": []
       },
       {
@@ -5836,6 +6040,10 @@
       },
       {
         "name": "Sekolah Dasar Negeri 2 Wlahar Kulon",
+        "children": []
+      },
+      {
+        "name": "Sekolah Dasar Negeri 3 Cikakak",
         "children": []
       },
       {

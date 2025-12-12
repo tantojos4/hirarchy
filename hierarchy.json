@@ -11,14 +11,6 @@
         "children": []
       },
       {
-        "name": "Bidang Pengembangan Karier dan Mutasi",
-        "children": []
-      },
-      {
-        "name": "Bidang Pengembangan Kompetensi Aparatur",
-        "children": []
-      },
-      {
         "name": "Bidang Pengembangan Kompetensi Aparatur",
         "children": []
       },
@@ -4745,22 +4737,10 @@
     "catatan": "Perubahan nomenklatur dan tusi"
   },
   {
-    "name": "Dinas Sosial PPA",
+    "name": "Dinas Sosial, Pemberdayaan Perempuan dan Perlindungan Anak",
     "children": [
       {
-        "name": "Bidang Pemberdayaan Perempuan",
-        "children": []
-      },
-      {
-        "name": "Bidang Pemberdayaan Sosial",
-        "children": []
-      },
-      {
-        "name": "Bidang Perlindungan dan Jaminan Sosial",
-        "children": []
-      },
-      {
-        "name": "Bidang Rehabilitasi Sosial dan Perlindungan Anak",
+        "name": "Kepala Dinas",
         "children": []
       },
       {
@@ -4794,6 +4774,22 @@
       },
       {
         "name": "UPTD Perlindungan Perempuan dan Anak",
+        "children": []
+      },
+      {
+        "name": "Bidang Pemberdayaan Sosial",
+        "children": []
+      },
+      {
+        "name": "Bidang Perlindungan dan Jaminan Sosial",
+        "children": []
+      },
+      {
+        "name": "Bidang Rehabilitasi Sosial dan Perlindungan Anak",
+        "children": []
+      },
+      {
+        "name": "Bidang Pemberdayaan Perempuan",
         "children": []
       }
     ]
@@ -5800,60 +5796,6 @@
       {
         "name": "UPTD Pengelola Sarana dan Prasarana Olahraga (GOR Satria Purwokerto)",
         "children": []
-      }
-    ]
-  },
-  {
-    "name": "Dinas Sosial, Pemberdayaan Masyarakat dan Desa",
-    "children": [
-      {
-        "name": "Bidang Bina Pemerintahan Desa",
-        "children": []
-      },
-      {
-        "name": "Bidang Pemberdayaan Ekonomi Desa, Sumber Daya Alam dan Teknologi Tepat Guna",
-        "children": []
-      },
-      {
-        "name": "Bidang Pemberdayaan Masyarakat Desa",
-        "children": []
-      },
-      {
-        "name": "Bidang Pemberdayaan Sosial dan Penanganan Fakir Miskin",
-        "children": []
-      },
-      {
-        "name": "Bidang Perlindungan, Jaminan dan Rehabilitasi Sosial",
-        "children": []
-      },
-      {
-        "name": "Sekretariat Dinas",
-        "children": [
-          {
-            "name": "Sub Bagian Keuangan",
-            "children": []
-          },
-          {
-            "name": "Sub Bagian Perencanaan",
-            "children": []
-          },
-          {
-            "name": "Sub Bagian Umum dan Kepegawaian",
-            "children": []
-          },
-          {
-            "name": "Subbagian Keuangan",
-            "children": []
-          },
-          {
-            "name": "Subbagian Umum",
-            "children": []
-          },
-          {
-            "name": "Subbagian Umum dan Kepegawaian",
-            "children": []
-          }
-        ]
       }
     ]
   },

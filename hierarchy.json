@@ -405,7 +405,7 @@
     "catatan": "Penyederhanaan struktur organisais"
   },
   {
-    "name": "Dinarpusda",
+    "name": "Dinas Arsip dan Perpustakaan Daerah",
     "children": [
       {
         "name": "Bidang Pembinaan, Pengembangan dan Pengawasan Kearsipan",
@@ -4799,7 +4799,7 @@
     ]
   },
   {
-    "name": "Dindukcapil",
+    "name": "Dinas Kependudukan dan Pencatatan Sipil",
     "children": [
       {
         "name": "Bidang Pelayanan Pencatatan Sipil",
@@ -4849,7 +4849,7 @@
     ]
   },
   {
-    "name": "Dinhub",
+    "name": "Dinas Perhubungan",
     "children": [
       {
         "name": "Bidang Angkutan dan Keselamatan",
@@ -4957,7 +4957,7 @@
     ]
   },
   {
-    "name": "Dinkes KB",
+    "name": "Dinas Kesehatan dan Keluarga Berencana",
     "children": [
       {
         "name": "Bidang Kesehatan Masyarakat",
@@ -5416,7 +5416,7 @@
     ]
   },
   {
-    "name": "Dinkominfo",
+    "name": "Dinas Komunikasi dan Informatika",
     "children": [
       {
         "name": "Bidang Aplikasi Informatika",
@@ -5462,7 +5462,7 @@
     ]
   },
   {
-    "name": "Dinkopdag",
+    "name": "Dinas Koperasi, Usaha Kecil dan Menengah dan Perdagangan",
     "children": [
       {
         "name": "Bidang Koperasi",
@@ -5528,7 +5528,7 @@
     ]
   },
   {
-    "name": "Dinnakerin",
+    "name": "Dinas Tenaga Kerja dan Perindustrian",
     "children": [
       {
         "name": "Bidang Pelatihan Kerja dan Produktivitas Tenaga Kerja",
@@ -5578,7 +5578,7 @@
     ]
   },
   {
-    "name": "Dinperkim",
+    "name": "Dinas Perumahan dan Kawasan Permukiman",
     "children": [
       {
         "name": "Bidang Kawasan Permukiman",
@@ -5640,7 +5640,7 @@
     ]
   },
   {
-    "name": "Dinpertan KP",
+    "name": "Dinas Pertanian dan Ketahanan Pangan",
     "children": [
       {
         "name": "Balai Benih Pertanian",
@@ -5707,7 +5707,7 @@
     ]
   },
   {
-    "name": "Dinporabudpar",
+    "name": "Dinas Kepemudaan, Olahraga, dan Pariwisata",
     "children": [
       {
         "name": "Bidang Kebudayaan",
@@ -5804,7 +5804,7 @@
     ]
   },
   {
-    "name": "Dinsospermasdes",
+    "name": "Dinas Sosial, Pemberdayaan Masyarakat dan Desa",
     "children": [
       {
         "name": "Bidang Bina Pemerintahan Desa",

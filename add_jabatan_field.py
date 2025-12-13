@@ -32,8 +32,6 @@ def determine_jabatan(name: str, eselon: str, parent_name: str = "") -> str:
     if eselon in ["II.a", "II.b", "I"]:
         # Sekretariat Daerah
         if "sekretariat daerah" in name_lower:
-            if eselon == "II.a" and "sekretaris daerah" in name_lower:
-                return "Sekretaris Daerah"
             return "Sekretaris Daerah"
         
         # Sekretariat DPRD
@@ -79,7 +77,7 @@ def determine_jabatan(name: str, eselon: str, parent_name: str = "") -> str:
             return "Camat"
         
         # Sekretariat
-        if "sekretariat" in name_lower and not "daerah" in name_lower:
+        if "sekretariat" in name_lower and ("daerah" not in name_lower):
             return "Sekretaris"
         
         # Bagian (Section)
@@ -206,12 +204,8 @@ def main():
     
     # Show some examples
     print("\nExamples of added jabatan:")
-    count = 0
     for org in modified_data[:5]:
-        if count >= 5:
-            break
         print(f"  - {org['name']}: {org.get('jabatan', 'N/A')}")
-        count += 1
 
 
 if __name__ == "__main__":

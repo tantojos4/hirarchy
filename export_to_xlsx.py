@@ -18,16 +18,89 @@ except ImportError:
     sys.exit(1)
 
 
+def generate_kode_jabatan(jabatan, unit_name):
+    """
+    Generate a position code (kode_jabatan) based on the position title and unit name.
+    
+    Args:
+        jabatan: Position title
+        unit_name: Unit name
+    
+    Returns:
+        Position code string
+    """
+    jabatan_lower = jabatan.lower()
+    unit_lower = unit_name.lower()
+    
+    # Sekretaris Daerah
+    if "sekretaris daerah" in jabatan_lower:
+        return "SEKDA"
+    
+    # Sekretaris DPRD
+    if "sekretaris dprd" in jabatan_lower:
+        return "SEKDPRD"
+    
+    # Kepala Badan
+    if "kepala badan" in jabatan_lower:
+        # Extract key words from unit name
+        if "kepegawaian" in unit_lower:
+            return "KABKP"
+        elif "keuangan" in unit_lower:
+            return "KABKAD"
+        elif "penanggulangan bencana" in unit_lower or "bpbd" in unit_lower:
+            return "KABPBD"
+        elif "kesatuan bangsa" in unit_lower:
+            return "KABKESBANGPOL"
+        else:
+            return "KABADAN"
+    
+    # Kepala Dinas
+    if "kepala dinas" in jabatan_lower:
+        if "pendidikan" in unit_lower:
+            return "KADIS_DIKDAS"
+        elif "kesehatan" in unit_lower:
+            return "KADIS_KES"
+        elif "pekerjaan umum" in unit_lower or "perumahan" in unit_lower:
+            return "KADIS_PUPR"
+        elif "sosial" in unit_lower:
+            return "KADIS_SOSIAL"
+        else:
+            return "KADIS"
+    
+    # Kepala Bagian
+    if "kepala bagian" in jabatan_lower:
+        if "umum" in unit_lower and "protokol" in unit_lower:
+            return "KB_UMUM_PROT"
+        elif "umum" in unit_lower:
+            return "KB_UMUM"
+        else:
+            return "KABAG"
+    
+    # Kepala Bidang
+    if "kepala bidang" in jabatan_lower:
+        if "pendidikan dasar" in unit_lower:
+            return "KABID_DIKDAS"
+        else:
+            return "KABID"
+    
+    # Sekretaris (for agencies/organizations)
+    if "sekretaris" in jabatan_lower and "sekretaris daerah" not in jabatan_lower:
+        return "SEKRET"
+    
+    # Default
+    return "KODE"
+
+
 def flatten_hierarchy(data, parent_name=""):
     """
-    Flatten hierarchical JSON structure into a list of (unit_name, parent_name, eselon, jabatan) tuples.
+    Flatten hierarchical JSON structure into a list of dictionaries with all required fields.
     
     Args:
         data: List of organizational units with nested children
         parent_name: Name of the parent unit (empty string for top-level)
     
     Returns:
-        List of tuples (unit_name, parent_name, eselon, jabatan)
+        List of dictionaries with keys: nama_unit, nama_parent, eselon, jabatan, jabatan_lengkap, kode_jabatan, catatan
     """
     result = []
     
@@ -37,7 +110,22 @@ def flatten_hierarchy(data, parent_name=""):
                 unit_name = item['name']
                 eselon = item.get('eselon', '')
                 jabatan = item.get('jabatan', '')
-                result.append((unit_name, parent_name, eselon, jabatan))
+                
+                # Generate additional fields
+                jabatan_lengkap = jabatan  # For now, jabatan_lengkap is same as jabatan
+                kode_jabatan = generate_kode_jabatan(jabatan, unit_name)
+                catatan = item.get('catatan', '')  # Get catatan from JSON if exists, otherwise empty
+                
+                record = {
+                    'nama_unit': unit_name,
+                    'nama_parent': parent_name,
+                    'eselon': eselon,
+                    'jabatan': jabatan,
+                    'jabatan_lengkap': jabatan_lengkap,
+                    'kode_jabatan': kode_jabatan,
+                    'catatan': catatan
+                }
+                result.append(record)
                 
                 # Recursively process children
                 if 'children' in item and isinstance(item['children'], list):
@@ -49,10 +137,10 @@ def flatten_hierarchy(data, parent_name=""):
 
 def create_xlsx(data, output_file="hierarchy_export.xlsx"):
     """
-    Create XLSX file with nama_unit, nama_parent, eselon, and jabatan columns.
+    Create XLSX file with all required columns.
     
     Args:
-        data: List of tuples (unit_name, parent_name, eselon, jabatan)
+        data: List of dictionaries with keys: nama_unit, nama_parent, eselon, jabatan, jabatan_lengkap, kode_jabatan, catatan
         output_file: Path to output XLSX file
     """
     wb = Workbook()
@@ -64,29 +152,38 @@ def create_xlsx(data, output_file="hierarchy_export.xlsx"):
     ws['B1'] = "nama_parent"
     ws['C1'] = "eselon"
     ws['D1'] = "jabatan"
+    ws['E1'] = "jabatan_lengkap"
+    ws['F1'] = "kode_jabatan"
+    ws['G1'] = "catatan"
     
     # Style headers
     header_font = Font(bold=True, size=12, color="FFFFFF")
     header_fill = PatternFill(start_color="366092", end_color="366092", fill_type="solid")
     header_alignment = Alignment(horizontal="center", vertical="center")
     
-    for cell in ['A1', 'B1', 'C1', 'D1']:
+    for cell in ['A1', 'B1', 'C1', 'D1', 'E1', 'F1', 'G1']:
         ws[cell].font = header_font
         ws[cell].fill = header_fill
         ws[cell].alignment = header_alignment
     
     # Write data
-    for idx, (unit_name, parent_name, eselon, jabatan) in enumerate(data, start=2):
-        ws[f'A{idx}'] = unit_name
-        ws[f'B{idx}'] = parent_name if parent_name else ""
-        ws[f'C{idx}'] = eselon if eselon else ""
-        ws[f'D{idx}'] = jabatan if jabatan else ""
+    for idx, record in enumerate(data, start=2):
+        ws[f'A{idx}'] = record.get('nama_unit', '')
+        ws[f'B{idx}'] = record.get('nama_parent', '')
+        ws[f'C{idx}'] = record.get('eselon', '')
+        ws[f'D{idx}'] = record.get('jabatan', '')
+        ws[f'E{idx}'] = record.get('jabatan_lengkap', '')
+        ws[f'F{idx}'] = record.get('kode_jabatan', '')
+        ws[f'G{idx}'] = record.get('catatan', '')
     
     # Adjust column widths
-    ws.column_dimensions['A'].width = 80
-    ws.column_dimensions['B'].width = 80
-    ws.column_dimensions['C'].width = 15
-    ws.column_dimensions['D'].width = 30
+    ws.column_dimensions['A'].width = 60
+    ws.column_dimensions['B'].width = 60
+    ws.column_dimensions['C'].width = 10
+    ws.column_dimensions['D'].width = 50
+    ws.column_dimensions['E'].width = 50
+    ws.column_dimensions['F'].width = 20
+    ws.column_dimensions['G'].width = 30
     
     # Save workbook
     wb.save(output_file)
@@ -116,11 +213,15 @@ def main():
     create_xlsx(flattened_data, str(output_file))
     
     print("\nFirst 5 records:")
-    for i, (unit, parent, eselon, jabatan) in enumerate(flattened_data[:5], 1):
-        print(f"{i}. Unit: {unit}")
-        print(f"   Parent: {parent if parent else '(kosong)'}")
-        print(f"   Eselon: {eselon if eselon else '(kosong)'}")
-        print(f"   Jabatan: {jabatan if jabatan else '(kosong)'}")
+    for i, record in enumerate(flattened_data[:5], 1):
+        print(f"{i}. Unit: {record['nama_unit']}")
+        print(f"   Parent: {record['nama_parent'] if record['nama_parent'] else '(kosong)'}")
+        print(f"   Eselon: {record['eselon'] if record['eselon'] else '(kosong)'}")
+        print(f"   Jabatan: {record['jabatan'] if record['jabatan'] else '(kosong)'}")
+        print(f"   Jabatan Lengkap: {record['jabatan_lengkap'] if record['jabatan_lengkap'] else '(kosong)'}")
+        print(f"   Kode Jabatan: {record['kode_jabatan'] if record['kode_jabatan'] else '(kosong)'}")
+        print(f"   Catatan: {record['catatan'] if record['catatan'] else '(kosong)'}")
+        print()
 
 
 if __name__ == "__main__":

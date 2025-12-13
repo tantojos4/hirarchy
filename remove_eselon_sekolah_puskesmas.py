@@ -33,8 +33,16 @@ def remove_eselon_from_schools_and_puskesmas(data):
     return modified_count
 
 def main():
+    import shutil
+    from datetime import datetime
+    
     input_file = 'hierarchy.json'
     output_file = 'hierarchy.json'
+    
+    # Create backup before modifying
+    backup_file = f'hierarchy.json.backup_{datetime.now().strftime("%Y%m%d_%H%M%S")}'
+    print(f"Creating backup: {backup_file}...")
+    shutil.copy2(input_file, backup_file)
     
     print(f"Reading {input_file}...")
     try:

@@ -5,9 +5,10 @@ Tool to export organizational hierarchy from JSON to XLSX format.
 ## Features
 
 - Exports hierarchical structure to flat XLSX format
-- Two columns: `nama_unit` (unit name) and `nama_parent` (parent name)
+- Three columns: `nama_unit` (unit name), `nama_parent` (parent name), and `eselon` (echelon level)
 - Top-level units have empty parent names
 - Preserves complete organizational hierarchy
+- Includes Indonesian government echelon levels for each organizational unit
 
 ## Installation
 
@@ -34,16 +35,17 @@ This will:
 
 The generated XLSX file contains:
 
-| nama_unit | nama_parent |
-|-----------|-------------|
-| Sekretariat Daerah | (empty) |
-| Sekretaris Daerah | Sekretariat Daerah |
-| Asisten Administrasi Umum | Sekretariat Daerah |
-| Bagian Umum, Protokol dan Komunikasi Pimpinan | Asisten Administrasi Umum |
-| ... | ... |
+| nama_unit | nama_parent | eselon |
+|-----------|-------------|--------|
+| Sekretariat Daerah | (empty) | I |
+| Sekretaris Daerah | Sekretariat Daerah | IIIa |
+| Asisten Administrasi Umum | Sekretariat Daerah | II |
+| Bagian Umum, Protokol dan Komunikasi Pimpinan | Asisten Administrasi Umum | IIIb |
+| ... | ... | ... |
 
 - **nama_unit**: The name of the organizational unit
 - **nama_parent**: The name of the parent unit (empty for top-level units)
+- **eselon**: The echelon level (I, II, IIa, IIb, IIIa, IIIb, IV) based on Indonesian government structure
 
 ## Example
 
@@ -65,7 +67,7 @@ Given this hierarchy:
 
 The output will be:
 
-| nama_unit | nama_parent |
-|-----------|-------------|
-| Sekretariat Daerah | |
-| Asisten Administrasi Umum | Sekretariat Daerah |
+| nama_unit | nama_parent | eselon |
+|-----------|-------------|--------|
+| Sekretariat Daerah | | I |
+| Asisten Administrasi Umum | Sekretariat Daerah | II |

@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Script to export hierarchy.json to XLSX format with nama_unit and nama_parent columns.
+Script to export hierarchy.json to XLSX format with nama_unit, nama_parent, and eselon columns.
 
 Usage:
     python export_to_xlsx.py

@@ -6,7 +6,7 @@
     "children": [
       {
         "name": "Sekretariat Badan Kepegawaian dan Pengembangan Sumber Daya Manusia",
-        "jabatan": "Sekretaris Sekretariat Badan Kepegawaian dan Pengembangan Sumber Daya Manusia",
+        "jabatan": "Sekretaris Badan Kepegawaian dan Pengembangan Sumber Daya Manusia",
         "eselon": "III.a",
         "children": [
           {
@@ -56,7 +56,7 @@
     "children": [
       {
         "name": "Sekretariat Badan Penanggulangan Bencana Daerah",
-        "jabatan": "Sekretaris Sekretariat Badan Penanggulangan Bencana Daerah",
+        "jabatan": "Sekretaris Badan Penanggulangan Bencana Daerah",
         "eselon": "III.a",
         "children": [
           {
@@ -100,7 +100,7 @@
     "children": [
       {
         "name": "Sekretariat Badan Keuangan dan Aset Daerah",
-        "jabatan": "Sekretaris Sekretariat Badan Keuangan dan Aset Daerah",
+        "jabatan": "Sekretaris Badan Keuangan dan Aset Daerah",
         "eselon": "III.a",
         "children": [
           {
@@ -207,7 +207,7 @@
     "children": [
       {
         "name": "Sekretariat Badan Kesatuan Bangsa dan Politik",
-        "jabatan": "Sekretaris Sekretariat Badan Kesatuan Bangsa dan Politik",
+        "jabatan": "Sekretaris Badan Kesatuan Bangsa dan Politik",
         "eselon": "III.a",
         "children": [
           {
@@ -251,7 +251,7 @@
     "children": [
       {
         "name": "Sekretariat Badan Pendapatan Daerah",
-        "jabatan": "Sekretaris Sekretariat Badan Pendapatan Daerah",
+        "jabatan": "Sekretaris Badan Pendapatan Daerah",
         "eselon": "III.a",
         "children": [
           {
@@ -364,7 +364,7 @@
       },
       {
         "name": "Sekretariat Badan Perencanaan Pembangunan, Riset, dan Inovasi Daerah",
-        "jabatan": "Sekretaris Sekretariat Badan Perencanaan Pembangunan, Riset, dan Inovasi Daerah",
+        "jabatan": "Sekretaris Badan Perencanaan Pembangunan, Riset, dan Inovasi Daerah",
         "eselon": "III.a",
         "children": [
           {
@@ -390,7 +390,7 @@
     "children": [
       {
         "name": "Sekretariat Dinas Dinas Lingkungan Hidup",
-        "jabatan": "Sekretaris Sekretariat Dinas Dinas Lingkungan Hidup",
+        "jabatan": "Sekretaris Dinas Dinas Lingkungan Hidup",
         "eselon": "III.a",
         "children": [
           {
@@ -512,7 +512,7 @@
     "children": [
       {
         "name": "Sekretariat Dinas Penanaman Modal dan Pelayanan Terpadu Satu Pintu",
-        "jabatan": "Sekretaris Sekretariat Dinas Penanaman Modal dan Pelayanan Terpadu Satu Pintu",
+        "jabatan": "Sekretaris Dinas Penanaman Modal dan Pelayanan Terpadu Satu Pintu",
         "eselon": "III.a",
         "children": [
           {
@@ -562,7 +562,7 @@
     "children": [
       {
         "name": "Sekretariat Dinas Arsip dan Perpustakaan Daerah",
-        "jabatan": "Sekretaris Sekretariat Dinas Arsip dan Perpustakaan Daerah",
+        "jabatan": "Sekretaris Dinas Arsip dan Perpustakaan Daerah",
         "eselon": "III.a",
         "children": [
           {
@@ -606,7 +606,7 @@
     "children": [
       {
         "name": "Sekretariat Dinas KP dan Perikanan",
-        "jabatan": "Sekretaris Sekretariat Dinas KP dan Perikanan",
+        "jabatan": "Sekretaris Dinas KP dan Perikanan",
         "eselon": "III.a",
         "children": [
           {
@@ -662,7 +662,7 @@
     "children": [
       {
         "name": "Sekretariat Dinas Kesehatan dan Keluarga Berencana",
-        "jabatan": "Sekretaris Sekretariat Dinas Kesehatan dan Keluarga Berencana",
+        "jabatan": "Sekretaris Dinas Kesehatan dan Keluarga Berencana",
         "eselon": "III.a",
         "children": [
           {
@@ -1587,7 +1587,7 @@
     "children": [
       {
         "name": "Sekretariat Dinas Pekerjaan Umum",
-        "jabatan": "Sekretaris Sekretariat Dinas Pekerjaan Umum",
+        "jabatan": "Sekretaris Dinas Pekerjaan Umum",
         "eselon": "III.a",
         "children": [
           {
@@ -1740,7 +1740,7 @@
       },
       {
         "name": "Sekretariat Dinas Pemberdayaan Masyarakat dan Desa",
-        "jabatan": "Sekretaris Sekretariat Dinas Pemberdayaan Masyarakat dan Desa",
+        "jabatan": "Sekretaris Dinas Pemberdayaan Masyarakat dan Desa",
         "eselon": "III.a",
         "children": [
           {
@@ -1790,7 +1790,7 @@
     "children": [
       {
         "name": "Sekretariat Dinas Pendidikan",
-        "jabatan": "Sekretaris Sekretariat Dinas Pendidikan",
+        "jabatan": "Sekretaris Dinas Pendidikan",
         "eselon": "III.a",
         "children": [
           {
@@ -6890,7 +6890,7 @@
     "children": [
       {
         "name": "Sekretariat Dinas Pertanian",
-        "jabatan": "Sekretaris Sekretariat Dinas Pertanian",
+        "jabatan": "Sekretaris Dinas Pertanian",
         "eselon": "III.a",
         "children": [
           {
@@ -6976,7 +6976,7 @@
       },
       {
         "name": "Sekretariat Dinas Sosial, Pemberdayaan Perempuan dan Perlindungan Anak",
-        "jabatan": "Sekretaris Sekretariat Dinas Sosial, Pemberdayaan Perempuan dan Perlindungan Anak",
+        "jabatan": "Sekretaris Dinas Sosial, Pemberdayaan Perempuan dan Perlindungan Anak",
         "eselon": "III.a",
         "children": [
           {
@@ -7032,7 +7032,7 @@
     "children": [
       {
         "name": "Sekretariat Dinas Kependudukan dan Pencatatan Sipil",
-        "jabatan": "Sekretaris Sekretariat Dinas Kependudukan dan Pencatatan Sipil",
+        "jabatan": "Sekretaris Dinas Kependudukan dan Pencatatan Sipil",
         "eselon": "III.a",
         "children": [
           {
@@ -7082,7 +7082,7 @@
     "children": [
       {
         "name": "Sekretariat Dinas Perhubungan",
-        "jabatan": "Sekretaris Sekretariat Dinas Perhubungan",
+        "jabatan": "Sekretaris Dinas Perhubungan",
         "eselon": "III.a",
         "children": [
           {
@@ -7216,7 +7216,7 @@
     "children": [
       {
         "name": "Sekretariat Dinas Komunikasi dan Informatika",
-        "jabatan": "Sekretaris Sekretariat Dinas Komunikasi dan Informatika",
+        "jabatan": "Sekretaris Dinas Komunikasi dan Informatika",
         "eselon": "III.a",
         "children": [
           {
@@ -7260,7 +7260,7 @@
     "children": [
       {
         "name": "Sekretariat Dinas Koperasi, Usaha Kecil dan Menengah dan Perdagangan",
-        "jabatan": "Sekretaris Sekretariat Dinas Koperasi, Usaha Kecil dan Menengah dan Perdagangan",
+        "jabatan": "Sekretaris Dinas Koperasi, Usaha Kecil dan Menengah dan Perdagangan",
         "eselon": "III.a",
         "children": [
           {
@@ -7334,7 +7334,7 @@
     "children": [
       {
         "name": "Sekretariat Dinas Tenaga Kerja dan Perindustrian",
-        "jabatan": "Sekretaris Sekretariat Dinas Tenaga Kerja dan Perindustrian",
+        "jabatan": "Sekretaris Dinas Tenaga Kerja dan Perindustrian",
         "eselon": "III.a",
         "children": [
           {
@@ -7384,7 +7384,7 @@
     "children": [
       {
         "name": "Sekretariat Dinas Perumahan dan Kawasan Permukiman",
-        "jabatan": "Sekretaris Sekretariat Dinas Perumahan dan Kawasan Permukiman",
+        "jabatan": "Sekretaris Dinas Perumahan dan Kawasan Permukiman",
         "eselon": "III.a",
         "children": [
           {
@@ -7452,7 +7452,7 @@
     "children": [
       {
         "name": "Sekretariat Dinas Pertanian dan Ketahanan Pangan",
-        "jabatan": "Sekretaris Sekretariat Dinas Pertanian dan Ketahanan Pangan",
+        "jabatan": "Sekretaris Dinas Pertanian dan Ketahanan Pangan",
         "eselon": "III.a",
         "children": [
           {
@@ -7527,7 +7527,7 @@
     "children": [
       {
         "name": "Sekretariat Dinas Kepemudaan, Olahraga, dan Pariwisata",
-        "jabatan": "Sekretaris Sekretariat Dinas Kepemudaan, Olahraga, dan Pariwisata",
+        "jabatan": "Sekretaris Dinas Kepemudaan, Olahraga, dan Pariwisata",
         "eselon": "III.a",
         "children": [
           {
@@ -7715,7 +7715,7 @@
     "children": [
       {
         "name": "Sekretariat Kecamatan",
-        "jabatan": "Sekretaris Sekretariat Kecamatan",
+        "jabatan": "Sekretaris Kecamatan",
         "eselon": "III.b",
         "children": [
           {
@@ -7771,7 +7771,7 @@
     "children": [
       {
         "name": "Sekretariat Kecamatan",
-        "jabatan": "Sekretaris Sekretariat Kecamatan",
+        "jabatan": "Sekretaris Kecamatan",
         "eselon": "III.b",
         "children": [
           {
@@ -7827,7 +7827,7 @@
     "children": [
       {
         "name": "Sekretariat Kecamatan",
-        "jabatan": "Sekretaris Sekretariat Kecamatan",
+        "jabatan": "Sekretaris Kecamatan",
         "eselon": "III.b",
         "children": [
           {
@@ -7883,7 +7883,7 @@
     "children": [
       {
         "name": "Sekretariat Kecamatan",
-        "jabatan": "Sekretaris Sekretariat Kecamatan",
+        "jabatan": "Sekretaris Kecamatan",
         "eselon": "III.b",
         "children": [
           {
@@ -7939,7 +7939,7 @@
     "children": [
       {
         "name": "Sekretariat Kecamatan",
-        "jabatan": "Sekretaris Sekretariat Kecamatan",
+        "jabatan": "Sekretaris Kecamatan",
         "eselon": "III.b",
         "children": [
           {
@@ -7995,7 +7995,7 @@
     "children": [
       {
         "name": "Sekretariat Kecamatan",
-        "jabatan": "Sekretaris Sekretariat Kecamatan",
+        "jabatan": "Sekretaris Kecamatan",
         "eselon": "III.b",
         "children": [
           {
@@ -8051,7 +8051,7 @@
     "children": [
       {
         "name": "Sekretariat Kecamatan",
-        "jabatan": "Sekretaris Sekretariat Kecamatan",
+        "jabatan": "Sekretaris Kecamatan",
         "eselon": "III.b",
         "children": [
           {
@@ -8101,7 +8101,7 @@
     "children": [
       {
         "name": "Sekretariat Kecamatan",
-        "jabatan": "Sekretaris Sekretariat Kecamatan",
+        "jabatan": "Sekretaris Kecamatan",
         "eselon": "III.b",
         "children": [
           {
@@ -8157,7 +8157,7 @@
     "children": [
       {
         "name": "Sekretariat Kecamatan",
-        "jabatan": "Sekretaris Sekretariat Kecamatan",
+        "jabatan": "Sekretaris Kecamatan",
         "eselon": "III.b",
         "children": [
           {
@@ -8213,7 +8213,7 @@
     "children": [
       {
         "name": "Sekretariat Kecamatan",
-        "jabatan": "Sekretaris Sekretariat Kecamatan",
+        "jabatan": "Sekretaris Kecamatan",
         "eselon": "III.b",
         "children": [
           {
@@ -8269,7 +8269,7 @@
     "children": [
       {
         "name": "Sekretariat Kecamatan",
-        "jabatan": "Sekretaris Sekretariat Kecamatan",
+        "jabatan": "Sekretaris Kecamatan",
         "eselon": "III.b",
         "children": [
           {
@@ -8325,7 +8325,7 @@
     "children": [
       {
         "name": "Sekretariat Kecamatan",
-        "jabatan": "Sekretaris Sekretariat Kecamatan",
+        "jabatan": "Sekretaris Kecamatan",
         "eselon": "III.b",
         "children": [
           {
@@ -8381,7 +8381,7 @@
     "children": [
       {
         "name": "Sekretariat Kecamatan",
-        "jabatan": "Sekretaris Sekretariat Kecamatan",
+        "jabatan": "Sekretaris Kecamatan",
         "eselon": "III.b",
         "children": [
           {
@@ -8437,7 +8437,7 @@
     "children": [
       {
         "name": "Sekretariat Kecamatan",
-        "jabatan": "Sekretaris Sekretariat Kecamatan",
+        "jabatan": "Sekretaris Kecamatan",
         "eselon": "III.b",
         "children": [
           {
@@ -8493,7 +8493,7 @@
     "children": [
       {
         "name": "Sekretariat Kecamatan",
-        "jabatan": "Sekretaris Sekretariat Kecamatan",
+        "jabatan": "Sekretaris Kecamatan",
         "eselon": "III.b",
         "children": [
           {
@@ -8549,7 +8549,7 @@
     "children": [
       {
         "name": "Sekretariat Kecamatan",
-        "jabatan": "Sekretaris Sekretariat Kecamatan",
+        "jabatan": "Sekretaris Kecamatan",
         "eselon": "III.b",
         "children": [
           {
@@ -8822,7 +8822,7 @@
       },
       {
         "name": "Sekretariat Kecamatan",
-        "jabatan": "Sekretaris Sekretariat Kecamatan",
+        "jabatan": "Sekretaris Kecamatan",
         "eselon": "III.b",
         "children": [
           {
@@ -9089,7 +9089,7 @@
       },
       {
         "name": "Sekretariat Kecamatan",
-        "jabatan": "Sekretaris Sekretariat Kecamatan",
+        "jabatan": "Sekretaris Kecamatan",
         "eselon": "III.b",
         "children": [
           {
@@ -9325,7 +9325,7 @@
       },
       {
         "name": "Sekretariat Kecamatan",
-        "jabatan": "Sekretaris Sekretariat Kecamatan",
+        "jabatan": "Sekretaris Kecamatan",
         "eselon": "III.b",
         "children": [
           {
@@ -9592,7 +9592,7 @@
       },
       {
         "name": "Sekretariat Kecamatan",
-        "jabatan": "Sekretaris Sekretariat Kecamatan",
+        "jabatan": "Sekretaris Kecamatan",
         "eselon": "III.b",
         "children": [
           {
@@ -9642,7 +9642,7 @@
     "children": [
       {
         "name": "Sekretariat Kecamatan",
-        "jabatan": "Sekretaris Sekretariat Kecamatan",
+        "jabatan": "Sekretaris Kecamatan",
         "eselon": "III.b",
         "children": [
           {
@@ -9698,7 +9698,7 @@
     "children": [
       {
         "name": "Sekretariat Kecamatan",
-        "jabatan": "Sekretaris Sekretariat Kecamatan",
+        "jabatan": "Sekretaris Kecamatan",
         "eselon": "III.b",
         "children": [
           {
@@ -9754,7 +9754,7 @@
     "children": [
       {
         "name": "Sekretariat Kecamatan",
-        "jabatan": "Sekretaris Sekretariat Kecamatan",
+        "jabatan": "Sekretaris Kecamatan",
         "eselon": "III.b",
         "children": [
           {
@@ -9810,7 +9810,7 @@
     "children": [
       {
         "name": "Sekretariat Kecamatan",
-        "jabatan": "Sekretaris Sekretariat Kecamatan",
+        "jabatan": "Sekretaris Kecamatan",
         "eselon": "III.b",
         "children": [
           {
@@ -9959,7 +9959,7 @@
       },
       {
         "name": "Sekretariat Kecamatan",
-        "jabatan": "Sekretaris Sekretariat Kecamatan",
+        "jabatan": "Sekretaris Kecamatan",
         "eselon": "III.b",
         "children": [
           {
@@ -10015,7 +10015,7 @@
     "children": [
       {
         "name": "Sekretariat Kecamatan",
-        "jabatan": "Sekretaris Sekretariat Kecamatan",
+        "jabatan": "Sekretaris Kecamatan",
         "eselon": "III.b",
         "children": [
           {
@@ -10071,7 +10071,7 @@
     "children": [
       {
         "name": "Sekretariat Kecamatan",
-        "jabatan": "Sekretaris Sekretariat Kecamatan",
+        "jabatan": "Sekretaris Kecamatan",
         "eselon": "III.b",
         "children": [
           {
@@ -10165,7 +10165,7 @@
       },
       {
         "name": "Sekretariat Satpol PP",
-        "jabatan": "Sekretaris Sekretariat Satpol PP",
+        "jabatan": "Sekretaris Satpol PP",
         "eselon": "III.a",
         "children": [
           {

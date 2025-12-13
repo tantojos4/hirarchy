@@ -78,7 +78,10 @@ def determine_jabatan(name: str, eselon: str, parent_name: str = "") -> str:
         
         # Sekretariat (within agencies/organizations, not "Sekretariat Daerah")
         if name.startswith("Sekretariat ") and name != "Sekretariat Daerah":
-            return f"Sekretaris {name}"
+            # Remove "Sekretariat " prefix from the unit name to get parent organization name
+            # e.g., "Sekretariat Badan X" -> "Sekretaris Badan X" (not "Sekretaris Sekretariat Badan X")
+            parent_org_name = name.replace("Sekretariat ", "", 1)
+            return f"Sekretaris {parent_org_name}"
         
         # Bagian (Section) - include full name
         if name.startswith("Bagian "):

@@ -24,7 +24,7 @@ def determine_jabatan(name: str, eselon: str, parent_name: str = "") -> str:
         parent_name: Parent organization name (for context)
     
     Returns:
-        Appropriate jabatan title
+        Appropriate jabatan title with full unit name
     """
     name_lower = name.lower()
     
@@ -42,13 +42,13 @@ def determine_jabatan(name: str, eselon: str, parent_name: str = "") -> str:
         if "badan penanggulangan bencana daerah" in name_lower or "bpbd" in name_lower:
             return "Kepala Pelaksana BPBD"
         
-        # Other Badan (agencies)
+        # Other Badan (agencies) - include full name
         if name.startswith("Badan "):
-            return "Kepala Badan"
+            return f"Kepala {name}"
         
-        # Dinas (departments)
+        # Dinas (departments) - include full name
         if name.startswith("Dinas ") or name.startswith("DINAS "):
-            return "Kepala Dinas"
+            return f"Kepala {name}"
         
         # Inspektorat
         if "inspektorat" in name_lower:
@@ -76,59 +76,59 @@ def determine_jabatan(name: str, eselon: str, parent_name: str = "") -> str:
         if name.startswith("Kecamatan "):
             return "Camat"
         
-        # Sekretariat
-        if "sekretariat" in name_lower and ("daerah" not in name_lower):
-            return "Sekretaris"
+        # Sekretariat (within agencies/organizations, not "Sekretariat Daerah")
+        if name.startswith("Sekretariat ") and name != "Sekretariat Daerah":
+            return f"Sekretaris {name}"
         
-        # Bagian (Section)
+        # Bagian (Section) - include full name
         if name.startswith("Bagian "):
-            return "Kepala Bagian"
+            return f"Kepala {name}"
         
-        # Bidang (Division)
+        # Bidang (Division) - include full name
         if name.startswith("Bidang "):
-            return "Kepala Bidang"
+            return f"Kepala {name}"
         
-        # Klinik
+        # Klinik - include full name
         if "klinik" in name_lower:
-            return "Kepala Klinik"
+            return f"Kepala {name}"
         
-        # RSUD at this level
+        # RSUD at this level - include full name
         if "rsud" in name_lower or "rumah sakit" in name_lower:
-            return "Direktur RSUD"
+            return f"Direktur {name}"
         
-        # Puskesmas (Community Health Center)
+        # Puskesmas (Community Health Center) - include full name
         if "puskesmas" in name_lower:
-            return "Kepala Puskesmas"
+            return f"Kepala {name}"
         
-        # Laboratorium
+        # Laboratorium - include full name
         if "laboratorium" in name_lower:
-            return "Kepala Laboratorium"
+            return f"Kepala {name}"
         
-        # Kantor (Office)
+        # Kantor (Office) - include full name
         if "kantor" in name_lower:
-            return "Kepala Kantor"
+            return f"Kepala {name}"
         
-        # Kelurahan (Urban Village)
+        # Kelurahan (Urban Village) - include full name
         if "kelurahan" in name_lower:
-            return "Lurah"
+            return f"Lurah {name}"
     
     # Eselon IV (lower level)
     if eselon in ["IV.a", "IV.b"]:
-        # Subbagian (Sub-section)
+        # Subbagian (Sub-section) - include full name
         if name.startswith("Subbagian ") or name.startswith("Sub Bagian "):
-            return "Kepala Subbagian"
+            return f"Kepala {name}"
         
-        # Subbidang (Sub-division)
+        # Subbidang (Sub-division) - include full name
         if name.startswith("Subbidang ") or name.startswith("Sub Bidang "):
-            return "Kepala Subbidang"
+            return f"Kepala {name}"
         
-        # Seksi (Section)
+        # Seksi (Section) - include full name
         if name.startswith("Seksi "):
-            return "Kepala Seksi"
+            return f"Kepala {name}"
         
-        # Desa (Village)
+        # Desa (Village) - include full name
         if "desa" in name_lower or name.startswith("Desa "):
-            return "Kepala Desa"
+            return f"Kepala {name}"
     
     # Default fallback based on organizational hierarchy
     if eselon == "I":
@@ -147,26 +147,37 @@ def determine_jabatan(name: str, eselon: str, parent_name: str = "") -> str:
 def add_jabatan_recursive(data, parent_name=""):
     """
     Recursively add jabatan field to all nodes in the hierarchy.
+    Also reorders fields so jabatan comes before eselon.
     
     Args:
         data: List of organizational units or single unit
         parent_name: Name of parent organization
     
     Returns:
-        Modified data with jabatan field added
+        Modified data with jabatan field added and fields reordered
     """
     if isinstance(data, list):
         for item in data:
             if isinstance(item, dict) and 'name' in item:
-                # Add or update jabatan field
+                # Calculate jabatan
                 name = item['name']
                 eselon = item.get('eselon', '')
                 jabatan = determine_jabatan(name, eselon, parent_name)
-                item['jabatan'] = jabatan
                 
-                # Recursively process children
+                # Reorder fields: name, jabatan, eselon, children
+                reordered_item = {}
+                reordered_item['name'] = item['name']
+                reordered_item['jabatan'] = jabatan
+                if 'eselon' in item:
+                    reordered_item['eselon'] = item['eselon']
+                
+                # Recursively process children first
                 if 'children' in item and isinstance(item['children'], list):
-                    add_jabatan_recursive(item['children'], item['name'])
+                    reordered_item['children'] = add_jabatan_recursive(item['children'], item['name'])
+                
+                # Update the original item with reordered fields
+                item.clear()
+                item.update(reordered_item)
     
     return data
 

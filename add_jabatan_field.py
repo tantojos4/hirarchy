@@ -164,16 +164,20 @@ def add_jabatan_recursive(data, parent_name=""):
                 eselon = item.get('eselon', '')
                 jabatan = determine_jabatan(name, eselon, parent_name)
                 
+                # Recursively process children first
+                children = item.get('children', [])
+                if isinstance(children, list):
+                    add_jabatan_recursive(children, item['name'])
+                
                 # Reorder fields: name, jabatan, eselon, children
-                reordered_item = {}
-                reordered_item['name'] = item['name']
-                reordered_item['jabatan'] = jabatan
+                reordered_item = {
+                    'name': item['name'],
+                    'jabatan': jabatan
+                }
                 if 'eselon' in item:
                     reordered_item['eselon'] = item['eselon']
-                
-                # Recursively process children first
-                if 'children' in item and isinstance(item['children'], list):
-                    reordered_item['children'] = add_jabatan_recursive(item['children'], item['name'])
+                if 'children' in item:
+                    reordered_item['children'] = item['children']
                 
                 # Update the original item with reordered fields
                 item.clear()

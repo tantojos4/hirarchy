@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Script to export hierarchy.json to XLSX format with nama_unit, nama_parent, and eselon columns.
+Script to export hierarchy.json to XLSX format with nama_unit, nama_parent, eselon, and jabatan columns.
 
 Usage:
     python export_to_xlsx.py
@@ -20,14 +20,14 @@ except ImportError:
 
 def flatten_hierarchy(data, parent_name=""):
     """
-    Flatten hierarchical JSON structure into a list of (unit_name, parent_name, eselon) tuples.
+    Flatten hierarchical JSON structure into a list of (unit_name, parent_name, eselon, jabatan) tuples.
     
     Args:
         data: List of organizational units with nested children
         parent_name: Name of the parent unit (empty string for top-level)
     
     Returns:
-        List of tuples (unit_name, parent_name, eselon)
+        List of tuples (unit_name, parent_name, eselon, jabatan)
     """
     result = []
     
@@ -36,7 +36,8 @@ def flatten_hierarchy(data, parent_name=""):
             if isinstance(item, dict) and 'name' in item:
                 unit_name = item['name']
                 eselon = item.get('eselon', '')
-                result.append((unit_name, parent_name, eselon))
+                jabatan = item.get('jabatan', '')
+                result.append((unit_name, parent_name, eselon, jabatan))
                 
                 # Recursively process children
                 if 'children' in item and isinstance(item['children'], list):
@@ -48,10 +49,10 @@ def flatten_hierarchy(data, parent_name=""):
 
 def create_xlsx(data, output_file="hierarchy_export.xlsx"):
     """
-    Create XLSX file with nama_unit, nama_parent, and eselon columns.
+    Create XLSX file with nama_unit, nama_parent, eselon, and jabatan columns.
     
     Args:
-        data: List of tuples (unit_name, parent_name, eselon)
+        data: List of tuples (unit_name, parent_name, eselon, jabatan)
         output_file: Path to output XLSX file
     """
     wb = Workbook()
@@ -62,27 +63,30 @@ def create_xlsx(data, output_file="hierarchy_export.xlsx"):
     ws['A1'] = "nama_unit"
     ws['B1'] = "nama_parent"
     ws['C1'] = "eselon"
+    ws['D1'] = "jabatan"
     
     # Style headers
     header_font = Font(bold=True, size=12, color="FFFFFF")
     header_fill = PatternFill(start_color="366092", end_color="366092", fill_type="solid")
     header_alignment = Alignment(horizontal="center", vertical="center")
     
-    for cell in ['A1', 'B1', 'C1']:
+    for cell in ['A1', 'B1', 'C1', 'D1']:
         ws[cell].font = header_font
         ws[cell].fill = header_fill
         ws[cell].alignment = header_alignment
     
     # Write data
-    for idx, (unit_name, parent_name, eselon) in enumerate(data, start=2):
+    for idx, (unit_name, parent_name, eselon, jabatan) in enumerate(data, start=2):
         ws[f'A{idx}'] = unit_name
         ws[f'B{idx}'] = parent_name if parent_name else ""
         ws[f'C{idx}'] = eselon if eselon else ""
+        ws[f'D{idx}'] = jabatan if jabatan else ""
     
     # Adjust column widths
     ws.column_dimensions['A'].width = 80
     ws.column_dimensions['B'].width = 80
     ws.column_dimensions['C'].width = 15
+    ws.column_dimensions['D'].width = 30
     
     # Save workbook
     wb.save(output_file)
@@ -112,10 +116,11 @@ def main():
     create_xlsx(flattened_data, str(output_file))
     
     print("\nFirst 5 records:")
-    for i, (unit, parent, eselon) in enumerate(flattened_data[:5], 1):
+    for i, (unit, parent, eselon, jabatan) in enumerate(flattened_data[:5], 1):
         print(f"{i}. Unit: {unit}")
         print(f"   Parent: {parent if parent else '(kosong)'}")
         print(f"   Eselon: {eselon if eselon else '(kosong)'}")
+        print(f"   Jabatan: {jabatan if jabatan else '(kosong)'}")
 
 
 if __name__ == "__main__":

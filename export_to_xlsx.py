@@ -40,6 +40,10 @@ def generate_kode_jabatan(jabatan, unit_name):
     if "sekretaris dprd" in jabatan_lower:
         return "SEKDPRD"
     
+    # Kepala Pelaksana BPBD
+    if "kepala pelaksana bpbd" in jabatan_lower:
+        return "KAPEL_BPBD"
+    
     # Kepala Badan
     if "kepala badan" in jabatan_lower:
         # Extract key words from unit name
@@ -51,6 +55,10 @@ def generate_kode_jabatan(jabatan, unit_name):
             return "KABPBD"
         elif "kesatuan bangsa" in unit_lower:
             return "KABKESBANGPOL"
+        elif "pendapatan" in unit_lower:
+            return "KABAPENDA"
+        elif "perencanaan" in unit_lower:
+            return "KABAPPEDA"
         else:
             return "KABADAN"
     
@@ -64,6 +72,8 @@ def generate_kode_jabatan(jabatan, unit_name):
             return "KADIS_PUPR"
         elif "sosial" in unit_lower:
             return "KADIS_SOSIAL"
+        elif "lingkungan" in unit_lower:
+            return "KADIS_LH"
         else:
             return "KADIS"
     
@@ -73,6 +83,8 @@ def generate_kode_jabatan(jabatan, unit_name):
             return "KB_UMUM_PROT"
         elif "umum" in unit_lower:
             return "KB_UMUM"
+        elif "keuangan" in unit_lower:
+            return "KB_KEUANGAN"
         else:
             return "KABAG"
     
@@ -83,9 +95,26 @@ def generate_kode_jabatan(jabatan, unit_name):
         else:
             return "KABID"
     
+    # Kepala Subbagian
+    if "kepala subbagian" in jabatan_lower or "kepala sub bagian" in jabatan_lower:
+        if "keuangan" in unit_lower:
+            return "KASUBAG_KEU"
+        elif "umum" in unit_lower:
+            return "KASUBAG_UMUM"
+        else:
+            return "KASUBAG"
+    
     # Sekretaris (for agencies/organizations)
     if "sekretaris" in jabatan_lower and "sekretaris daerah" not in jabatan_lower:
         return "SEKRET"
+    
+    # Inspektur
+    if "inspektur" in jabatan_lower:
+        return "INSPEKTUR"
+    
+    # Camat
+    if "camat" in jabatan_lower:
+        return "CAMAT"
     
     # Default
     return "KODE"

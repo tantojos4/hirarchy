@@ -751,7 +751,6 @@
       {
         "name": "Puskesmas Ajibarang I",
         "jabatan": "Kepala Puskesmas Ajibarang I",
-        "eselon": "III.b",
         "children": [
           {
             "name": "Sub Bagian Tata Usaha",
@@ -764,7 +763,6 @@
       {
         "name": "Puskesmas Ajibarang II",
         "jabatan": "Kepala Puskesmas Ajibarang II",
-        "eselon": "III.b",
         "children": [
           {
             "name": "Sub Bagian Tata Usaha",
@@ -777,7 +775,6 @@
       {
         "name": "Puskesmas Banyumas",
         "jabatan": "Kepala Puskesmas Banyumas",
-        "eselon": "III.b",
         "children": [
           {
             "name": "Sub Bagian Tata Usaha",
@@ -790,7 +787,6 @@
       {
         "name": "Puskesmas Baturraden I",
         "jabatan": "Kepala Puskesmas Baturraden I",
-        "eselon": "III.b",
         "children": [
           {
             "name": "Sub Bagian Tata Usaha",
@@ -803,7 +799,6 @@
       {
         "name": "Puskesmas Baturraden II",
         "jabatan": "Kepala Puskesmas Baturraden II",
-        "eselon": "III.b",
         "children": [
           {
             "name": "Sub Bagian Tata Usaha",
@@ -816,7 +811,6 @@
       {
         "name": "Puskesmas Cilongok I",
         "jabatan": "Kepala Puskesmas Cilongok I",
-        "eselon": "III.b",
         "children": [
           {
             "name": "Sub Bagian Tata Usaha",
@@ -829,7 +823,6 @@
       {
         "name": "Puskesmas Cilongok II",
         "jabatan": "Kepala Puskesmas Cilongok II",
-        "eselon": "III.b",
         "children": [
           {
             "name": "Sub Bagian Tata Usaha",
@@ -842,7 +835,6 @@
       {
         "name": "Puskesmas Gumelar",
         "jabatan": "Kepala Puskesmas Gumelar",
-        "eselon": "III.b",
         "children": [
           {
             "name": "Sub Bagian Tata Usaha",
@@ -855,7 +847,6 @@
       {
         "name": "Puskesmas Jatilawang",
         "jabatan": "Kepala Puskesmas Jatilawang",
-        "eselon": "III.b",
         "children": [
           {
             "name": "Sub Bagian Tata Usaha",
@@ -868,7 +859,6 @@
       {
         "name": "Puskesmas Kalibagor",
         "jabatan": "Kepala Puskesmas Kalibagor",
-        "eselon": "III.b",
         "children": [
           {
             "name": "Sub Bagian Tata Usaha",
@@ -881,7 +871,6 @@
       {
         "name": "Puskesmas Karanglewas",
         "jabatan": "Kepala Puskesmas Karanglewas",
-        "eselon": "III.b",
         "children": [
           {
             "name": "Sub Bagian Tata Usaha",
@@ -894,7 +883,6 @@
       {
         "name": "Puskesmas Kebasen",
         "jabatan": "Kepala Puskesmas Kebasen",
-        "eselon": "III.b",
         "children": [
           {
             "name": "Sub Bagian Tata Usaha",
@@ -907,7 +895,6 @@
       {
         "name": "Puskesmas Kedungbanteng",
         "jabatan": "Kepala Puskesmas Kedungbanteng",
-        "eselon": "III.b",
         "children": [
           {
             "name": "Sub Bagian Tata Usaha",
@@ -920,7 +907,6 @@
       {
         "name": "Puskesmas Kembaran I",
         "jabatan": "Kepala Puskesmas Kembaran I",
-        "eselon": "III.b",
         "children": [
           {
             "name": "Sub Bagian Tata Usaha",
@@ -933,7 +919,6 @@
       {
         "name": "Puskesmas Kembaran II",
         "jabatan": "Kepala Puskesmas Kembaran II",
-        "eselon": "III.b",
         "children": [
           {
             "name": "Sub Bagian Tata Usaha",
@@ -946,7 +931,6 @@
       {
         "name": "Puskesmas Kemranjen I",
         "jabatan": "Kepala Puskesmas Kemranjen I",
-        "eselon": "III.b",
         "children": [
           {
             "name": "Sub Bagian Tata Usaha",
@@ -959,7 +943,6 @@
       {
         "name": "Puskesmas Kemranjen II",
         "jabatan": "Kepala Puskesmas Kemranjen II",
-        "eselon": "III.b",
         "children": [
           {
             "name": "Sub Bagian Tata Usaha",
@@ -972,7 +955,6 @@
       {
         "name": "Puskesmas Lumbir",
         "jabatan": "Kepala Puskesmas Lumbir",
-        "eselon": "III.b",
         "children": [
           {
             "name": "Sub Bagian Tata Usaha",
@@ -985,7 +967,6 @@
       {
         "name": "Puskesmas Patikraja",
         "jabatan": "Kepala Puskesmas Patikraja",
-        "eselon": "III.b",
         "children": [
           {
             "name": "Sub Bagian Tata Usaha",
@@ -998,7 +979,6 @@
       {
         "name": "Puskesmas Pekuncen I",
         "jabatan": "Kepala Puskesmas Pekuncen I",
-        "eselon": "III.b",
         "children": [
           {
             "name": "Sub Bagian Tata Usaha",
@@ -1011,7 +991,6 @@
       {
         "name": "Puskesmas Pekuncen II",
         "jabatan": "Kepala Puskesmas Pekuncen II",
-        "eselon": "III.b",
         "children": [
           {
             "name": "Sub Bagian Tata Usaha",
@@ -1024,7 +1003,6 @@
       {
         "name": "Puskesmas Purwojati",
         "jabatan": "Kepala Puskesmas Purwojati",
-        "eselon": "III.b",
         "children": [
           {
             "name": "Sub Bagian Tata Usaha",
@@ -1037,7 +1015,6 @@
       {
         "name": "Puskesmas Purwokerto Barat",
         "jabatan": "Kepala Puskesmas Purwokerto Barat",
-        "eselon": "III.b",
         "children": [
           {
             "name": "Sub Bagian Tata Usaha",
@@ -1050,7 +1027,6 @@
       {
         "name": "Puskesmas Purwokerto Selatan",
         "jabatan": "Kepala Puskesmas Purwokerto Selatan",
-        "eselon": "III.b",
         "children": [
           {
             "name": "Sub Bagian Tata Usaha",
@@ -1063,7 +1039,6 @@
       {
         "name": "Puskesmas Purwokerto Timur I",
         "jabatan": "Kepala Puskesmas Purwokerto Timur I",
-        "eselon": "III.b",
         "children": [
           {
             "name": "Sub Bagian Tata Usaha",
@@ -1076,7 +1051,6 @@
       {
         "name": "Puskesmas Purwokerto Timur II",
         "jabatan": "Kepala Puskesmas Purwokerto Timur II",
-        "eselon": "III.b",
         "children": [
           {
             "name": "Sub Bagian Tata Usaha",
@@ -1089,7 +1063,6 @@
       {
         "name": "Puskesmas Purwokerto Utara I",
         "jabatan": "Kepala Puskesmas Purwokerto Utara I",
-        "eselon": "III.b",
         "children": [
           {
             "name": "Sub Bagian Tata Usaha",
@@ -1102,7 +1075,6 @@
       {
         "name": "Puskesmas Purwokerto Utara II",
         "jabatan": "Kepala Puskesmas Purwokerto Utara II",
-        "eselon": "III.b",
         "children": [
           {
             "name": "Sub Bagian Tata Usaha",
@@ -1115,7 +1087,6 @@
       {
         "name": "Puskesmas Rawalo",
         "jabatan": "Kepala Puskesmas Rawalo",
-        "eselon": "III.b",
         "children": [
           {
             "name": "Sub Bagian Tata Usaha",
@@ -1128,7 +1099,6 @@
       {
         "name": "Puskesmas Sokaraja I",
         "jabatan": "Kepala Puskesmas Sokaraja I",
-        "eselon": "III.b",
         "children": [
           {
             "name": "Sub Bagian Tata Usaha",
@@ -1141,7 +1111,6 @@
       {
         "name": "Puskesmas Sokaraja II",
         "jabatan": "Kepala Puskesmas Sokaraja II",
-        "eselon": "III.b",
         "children": [
           {
             "name": "Sub Bagian Tata Usaha",
@@ -1154,7 +1123,6 @@
       {
         "name": "Puskesmas Somagede",
         "jabatan": "Kepala Puskesmas Somagede",
-        "eselon": "III.b",
         "children": [
           {
             "name": "Sub Bagian Tata Usaha",
@@ -1167,7 +1135,6 @@
       {
         "name": "Puskesmas Sumbang I",
         "jabatan": "Kepala Puskesmas Sumbang I",
-        "eselon": "III.b",
         "children": [
           {
             "name": "Sub Bagian Tata Usaha",
@@ -1180,7 +1147,6 @@
       {
         "name": "Puskesmas Sumbang II",
         "jabatan": "Kepala Puskesmas Sumbang II",
-        "eselon": "III.b",
         "children": [
           {
             "name": "Sub Bagian Tata Usaha",
@@ -1193,7 +1159,6 @@
       {
         "name": "Puskesmas Sumpiuh I",
         "jabatan": "Kepala Puskesmas Sumpiuh I",
-        "eselon": "III.b",
         "children": [
           {
             "name": "Sub Bagian Tata Usaha",
@@ -1206,7 +1171,6 @@
       {
         "name": "Puskesmas Sumpiuh II",
         "jabatan": "Kepala Puskesmas Sumpiuh II",
-        "eselon": "III.b",
         "children": [
           {
             "name": "Sub Bagian Tata Usaha",
@@ -1219,7 +1183,6 @@
       {
         "name": "Puskesmas Tambak I",
         "jabatan": "Kepala Puskesmas Tambak I",
-        "eselon": "III.b",
         "children": [
           {
             "name": "Sub Bagian Tata Usaha",
@@ -1232,7 +1195,6 @@
       {
         "name": "Puskesmas Tambak II",
         "jabatan": "Kepala Puskesmas Tambak II",
-        "eselon": "III.b",
         "children": [
           {
             "name": "Sub Bagian Tata Usaha",
@@ -1245,7 +1207,6 @@
       {
         "name": "Puskesmas Wangon I",
         "jabatan": "Kepala Puskesmas Wangon I",
-        "eselon": "III.b",
         "children": [
           {
             "name": "Sub Bagian Tata Usaha",
@@ -1258,7 +1219,6 @@
       {
         "name": "Puskesmas Wangon II",
         "jabatan": "Kepala Puskesmas Wangon II",
-        "eselon": "III.b",
         "children": [
           {
             "name": "Sub Bagian Tata Usaha",
@@ -1904,439 +1864,366 @@
       {
         "name": "Sekolah Menengah Pertama Negeri 1 Ajibarang",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Menengah Pertama Negeri 1 Banyumas",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Menengah Pertama Negeri 1 Baturraden",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Menengah Pertama Negeri 1 Cilongok",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Menengah Pertama Negeri 1 Gumelar",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Menengah Pertama Negeri 1 Jatilawang",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Menengah Pertama Negeri 1 Kalibagor",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Menengah Pertama Negeri 1 Karanglewas",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Menengah Pertama Negeri 1 Kebasen",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Menengah Pertama Negeri 1 Kedungbanteng",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Menengah Pertama Negeri 1 Kembaran",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Menengah Pertama Negeri 1 Kemranjen",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Menengah Pertama Negeri 1 Lumbir",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Menengah Pertama Negeri 1 Patikraja",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Menengah Pertama Negeri 1 Pekuncen",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Menengah Pertama Negeri 1 Purwojati",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Menengah Pertama Negeri 1 Purwokerto",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Menengah Pertama Negeri 1 Rawalo",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Menengah Pertama Negeri 1 Sokaraja",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Menengah Pertama Negeri 1 Somagede",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Menengah Pertama Negeri 1 Sumbang",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Menengah Pertama Negeri 1 Sumpiuh",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Menengah Pertama Negeri 1 Tambak",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Menengah Pertama Negeri 1 Wangon",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Menengah Pertama Negeri 10 Purwokerto",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Menengah Pertama Negeri 2 Ajibarang",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Menengah Pertama Negeri 2 Banyumas",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Menengah Pertama Negeri 2 Baturraden",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Menengah Pertama Negeri 2 Cilongok",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Menengah Pertama Negeri 2 Gumelar",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Menengah Pertama Negeri 2 Jatilawang",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Menengah Pertama Negeri 2 Kalibagor",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Menengah Pertama Negeri 2 Karanglewas",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Menengah Pertama Negeri 2 Kebasen",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Menengah Pertama Negeri 2 Kedungbanteng",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Menengah Pertama Negeri 2 Kembaran",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Menengah Pertama Negeri 2 Kemranjen",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Menengah Pertama Negeri 2 Lumbir",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Menengah Pertama Negeri 2 Patikraja",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Menengah Pertama Negeri 2 Pekuncen",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Menengah Pertama Negeri 2 Purwojati",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Menengah Pertama Negeri 2 Purwokerto",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Menengah Pertama Negeri 2 Rawalo",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Menengah Pertama Negeri 2 Sokaraja",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Menengah Pertama Negeri 2 Somagede",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Menengah Pertama Negeri 2 Sumbang",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Menengah Pertama Negeri 2 Sumpiuh",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Menengah Pertama Negeri 2 Tambak",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Menengah Pertama Negeri 2 Wangon",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Menengah Pertama Negeri 3 Ajibarang",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Menengah Pertama Negeri 3 Banyumas",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Menengah Pertama Negeri 3 Cilongok",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Menengah Pertama Negeri 3 Gumelar",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Menengah Pertama Negeri 3 Kalibagor",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Menengah Pertama Negeri 3 Karanglewas",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Menengah Pertama Negeri 3 Kebasen",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Menengah Pertama Negeri 3 Kedungbanteng",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Menengah Pertama Negeri 3 Lumbir",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Menengah Pertama Negeri 3 Pekuncen",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Menengah Pertama Negeri 3 Purwokerto",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Menengah Pertama Negeri 3 Sokaraja",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Menengah Pertama Negeri 3 Sumbang",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Menengah Pertama Negeri 3 Wangon",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Menengah Pertama Negeri 4 Banyumas",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Menengah Pertama Negeri 4 Kalibagor",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Menengah Pertama Negeri 4 Kedungbanteng",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Menengah Pertama Negeri 4 Purwokerto",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Menengah Pertama Negeri 4 Sumbang",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Menengah Pertama Negeri 5 Purwokerto",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Menengah Pertama Negeri 6 Purwokerto",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Menengah Pertama Negeri 7 Purwokerto",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Menengah Pertama Negeri 8 Purwokerto",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Menengah Pertama Negeri 9 Purwokerto",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
@@ -2396,4489 +2283,3741 @@
       {
         "name": "Sekolah Dasar Negeri 1 Banjarsari Kecamatan Ajibarang",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 1 Ciberung Kecamatan Ajibarang",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 1 Darmakradenan Kecamatan Ajibarang",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 1 Jingkang Kecamatan Ajibarang",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 1 Karang Bawang Kecamatan Ajibarang",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 1 Kracak Kecamatan Ajibarang",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 1 Lesmana Kecamatan Ajibarang",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 1 Pancasan Kecamatan Ajibarang",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 1 Pancurendang Kecamatan Ajibarang",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 1 Sawangan Kecamatan Ajibarang",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 1 Tipar Kidul Kecamatan Ajibarang",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 2 Ciberung Kecamatan Ajibarang",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 2 Darmakradenan Kecamatan Ajibarang",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 2 Jingkang Kecamatan Ajibarang",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 2 Karang Bawang Kecamatan Ajibarang",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 2 Kracak Kecamatan Ajibarang",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 2 Lesmana Kecamatan Ajibarang",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 2 Pancasan Kecamatan Ajibarang",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 2 Pancurendang Kecamatan Ajibarang",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 2 Sawangan Kecamatan Ajibarang",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 2 Tipar Kidul Kecamatan Ajibarang",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 3 Darmakradenan Kecamatan Ajibarang",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 3 Jingkang Kecamatan Ajibarang",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 3 Kracak Kecamatan Ajibarang",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 3 Lesmana Kecamatan Ajibarang",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 3 Pancasan Kecamatan Ajibarang",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 3 Tipar Kidul Kecamatan Ajibarang",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 4 Darmakradenan Kecamatan Ajibarang",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 4 Tipar Kidul Kecamatan Ajibarang",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri Ajibarang Kulon Kecamatan Ajibarang",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri Ajibarang Wetan Kecamatan Ajibarang",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri Kalibenda Kecamatan Ajibarang",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri Pandansari Kecamatan Ajibarang",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 1 Binangun Kecamatan Banyumas",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 1 Karangrau Kecamatan Banyumas",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 1 Kedunggede Kecamatan Banyumas",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 1 Kejawar Kecamatan Banyumas",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 1 Papringan Kecamatan Banyumas",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 1 Pasinggangan Kecamatan Banyumas",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 1 Sudagaran Kecamatan Banyumas",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 2 Binangun Kecamatan Banyumas",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 2 Karangrau Kecamatan Banyumas",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 2 Kedunggede Kecamatan Banyumas",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 2 Kejawar Kecamatan Banyumas",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 2 Papringan Kecamatan Banyumas",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 2 Pasinggangan Kecamatan Banyumas",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 2 Sudagaran Kecamatan Banyumas",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 3 Binangun Kecamatan Banyumas",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 3 Karangrau Kecamatan Banyumas",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 3 Kejawar Kecamatan Banyumas",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 3 Pasinggangan Kecamatan Banyumas",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 3 Sudagaran Kecamatan Banyumas",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 4 Karangrau Kecamatan Banyumas",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 4 Pasinggangan Kecamatan Banyumas",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 5 Karangrau Kecamatan Banyumas",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 5 Pasinggangan Kecamatan Banyumas",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri Curug Kecamatan Banyumas",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri Danaraja Kecamatan Banyumas",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri Dawuhan Kecamatan Banyumas",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri Kalibatur Kecamatan Banyumas",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri Kalisube Kecamatan Banyumas",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri Kedunguter Kecamatan Banyumas",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri Majingklak Kecamatan Banyumas",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri Pakunden Kecamatan Banyumas",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 1 Karangtengah Kecamatan Baturraden",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 1 Kemutug Kidul Kecamatan Baturraden",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 1 Kemutug Lor Kecamatan Baturraden",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 1 Ketenger Kecamatan Baturraden",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 1 Kutasari Kecamatan Baturraden",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 1 Purwosari Kecamatan Baturraden",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 1 Rempoah Kecamatan Baturraden",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 2 Karangtengah Kecamatan Baturraden",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 2 Kemutug Kidul Kecamatan Baturraden",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 2 Kemutug Lor  Kecamatan Baturraden",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 2 Ketenger Kecamatan Baturraden",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 2 Pamijen Kecamatan Baturraden",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 2 Pandak Kecamatan Baturraden",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 3 Karangtengah Kecamatan Baturraden",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 3 Kutasari Kecamatan Baturraden",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 4 Karangtengah Kecamatan Baturraden",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 4 Rempoah Kecamatan Baturraden",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri Kalipagu Kecamatan Baturraden",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri Karangmangu Kecamatan Baturraden",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri Karangsalam Kecamatan Baturraden",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri Kebumen Kecamatan Baturraden",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri Kecil Munggangsari Kecamatan Baturraden",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 1 Batuanten Kecamatan Cilongok",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 1 Cikidang Kecamatan Cilongok",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 1 Cilongok Kecamatan Cilongok",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 1 Cipete Kecamatan Cilongok",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 1 Gununglurah Kecamatan Cilongok",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 1 Jatisaba Kecamatan Cilongok",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 1 Karangtengah Kecamatan Cilongok",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 1 Kasegeran Kecamatan Cilongok",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 1 Langgongsari Kecamatan Cilongok",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 1 Pageraji Kecamatan Cilongok",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 1 Panambangan Kecamatan Cilongok",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 1 Panusupan Kecamatan Cilongok",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 1 Pejogol Kecamatan Cilongok",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 1 Pernasidi Kecamatan Cilongok",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 1 Rancamaya Kecamatan Cilongok",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 1 Sambirata Kecamatan Cilongok",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 1 Sokawera Kecamatan Cilongok",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 2 Batuanten Kecamatan Cilongok",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 2 Cikidang Kecamatan Cilongok",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 2 Cilongok Kecamatan Cilongok",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 2 Cipete Kecamatan Cilongok",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 2 Gununglurah Kecamatan Cilongok",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 2 Jatisaba Kecamatan Cilongok",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 2 Karangtengah Kecamatan Cilongok",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 2 Kasegeran Kecamatan Cilongok",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 2 Langgongsari Kecamatan Cilongok",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 2 Pageraji Kecamatan Cilongok",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 2 Panusupan Kecamatan Cilongok",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 2 Pejogol Kecamatan Cilongok",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 2 Pernasidi Kecamatan Cilongok",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 2 Rancamaya Kecamatan Cilongok",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 2 Sambirata Kecamatan Cilongok",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 2 Sokawera Kecamatan Cilongok",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 3 Cilongok Kecamatan Cilongok",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 3 Karangtengah Kecamatan Cilongok",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 3 Pageraji Kecamatan Cilongok",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 3 Panusupan Kecamatan Cilongok",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 3 Pernasidi Kecamatan Cilongok",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 4 Karangtengah Kecamatan Cilongok",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 4 Panusupan Kecamatan Cilongok",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri Kalisari Kecamatan Cilongok",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri Karanglo Kecamatan Cilongok",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri Sudimara Kecamatan Cilongok",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 1 Cihonje Kecamatan Gumelar",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 1 Cilangkap Kecamatan Gumelar",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 1 Gancang Kecamatan Gumelar",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 1 Gumelar Kecamatan Gumelar",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 1 Karangkemojing Kecamatan Gumelar",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 1 Kedungurang Kecamatan Gumelar",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 1 Paningkaban Kecamatan Gumelar",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 1 Samudra Kecamatan Gumelar",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 1 Samudra Kulon Kecamatan Gumelar",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 1 Tlaga Kecamatan Gumelar",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 2 Cihonje Kecamatan Gumelar",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 2 Cilangkap Kecamatan Gumelar",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 2 Gancang Kecamatan Gumelar",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 2 Gumelar Kecamatan Gumelar",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 2 Karangkemojing Kecamatan Gumelar",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 2 Kedungurang Kecamatan Gumelar",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 2 Paningkaban Kecamatan Gumelar",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 2 Samudra Kecamatan Gumelar",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 2 Samudra Kulon Kecamatan Gumelar",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 2 Tlaga Kecamatan Gumelar",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 3 Cihonje Kecamatan Gumelar",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 3 Cilangkap Kecamatan Gumelar",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 3 Gumelar Kecamatan Gumelar",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 3 Karangkemojing Kecamatan Gumelar",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 3 Kedungurang Kecamatan Gumelar",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 3 Samudra Kecamatan Gumelar",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 4 Cihonje Kecamatan Gumelar",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 4 Gumelar Kecamatan Gumelar",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 4 Karangkemojing Kecamatan Gumelar",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 4 Samudra Kecamatan Gumelar",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 5 Cihonje Kecamatan Gumelar",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 5 Gumelar Kecamatan Gumelar",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 1 Adisara Kecamatan Jatilawang",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 1 Bantar Kecamatan Jatilawang",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 1 Gunungwetan Kecamatan Jatilawang",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 1 Jatilawang Kecamatan Jatilawang",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 1 Karanganyar Kecamatan Jatilawang",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 1 Karanglewas Kecamatan Jatilawang",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 1 Kedungwringin Kecamatan Jatilawang",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 1 Pagentan Kecamatan Jatilawang",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 1 Pekuncen Kecamatan Jatilawang",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 1 Tinggarjaya Kecamatan Jatilawang",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 1 Tinggarwangi Kecamatan Jatilawang",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 2 Adisara Kecamatan Jatilawang",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 2 Bantar Kecamatan Jatilawang",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 2 Gunungwetan Kecamatan Jatilawang",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 2 Jatilawang Kecamatan Jatilawang",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 2 Karanganyar Kecamatan Jatilawang",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 2 Karanglewas Kecamatan Jatilawang",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 2 Kedungwringin Kecamatan Jatilawang",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 2 Pekuncen Kecamatan Jatilawang",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 2 Tinggarjaya Kecamatan Jatilawang",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 2 Tinggarwangi Kecamatan Jatilawang",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 3 Adisara Kecamatan Jatilawang",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 3 Gunungwetan Kecamatan Jatilawang",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 3 Jatilawang Kecamatan Jatilawang",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 3 Kedungwringin Kecamatan Jatilawang",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 3 Pekuncen Kecamatan Jatilawang",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 3 Tinggarjaya Kecamatan Jatilawang",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 4 Gunungwetan Kecamatan Jatilawang",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 4 Jatilawang Kecamatan Jatilawang",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 4 Kedungwringin Kecamatan Jatilawang",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 5 Kedungwringin Kecamatan Jatilawang",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri Gendurek Kecamatan Jatilawang",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri Karangwangkal Kecamatan Jatilawang",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri Margasana Kecamatan Jatilawang",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri Tunjung Kulon Kecamatan Jatilawang",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri Tunjung Lor Kecamatan Jatilawang",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 1 Kalibagor Kecamatan Kalibagor",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 1 Kaliori Kecamatan Kalibagor",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 1 Pajerukan Kecamatan Kalibagor",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 1 Pekaja Kecamatan Kalibagor",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 1 Petir Kecamatan Kalibagor",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 1 Srowot Kecamatan Kalibagor",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 2 Kalibagor Kecamatan Kalibagor",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 2 Kaliori Kecamatan Kalibagor",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 2 Pajerukan Kecamatan Kalibagor",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 2 Pekaja Kecamatan Kalibagor",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 2 Petir Kecamatan Kalibagor",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 2 Srowot Kecamatan Kalibagor",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 3 Kaliori Kecamatan Kalibagor",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 3 Pekaja Kecamatan Kalibagor",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 4 Kalibagor Kecamatan Kalibagor",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri Kalicupak Kidul Kecamatan Kalibagor",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri Kalicupak Lor Kecamatan Kalibagor",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri Kalisogra Wetan Kecamatan Kalibagor",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri Karangdadap Kecamatan Kalibagor",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri Suro Kecamatan Kalibagor",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri Wlahar Wetan Kecamatan Kalibagor",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 1 Babakan Kecamatan Karanglewas",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 1 Jipang Kecamatan Karanglewas",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 1 Karanggude Kecamatan Karanglewas",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 1 Kediri Kecamatan Karanglewas",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 1 Pasir Kulon Kecamatan Karanglewas",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 1 Tamansari Kecamatan Karanglewas",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 2 Babakan Kecamatan Karanglewas",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 2 Kediri Kecamatan Karanglewas",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 2 Pasir Kulon Kecamatan Karanglewas",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 2 Tamansari Kecamatan Karanglewas",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 3 Karanggude Kecamatan Karanglewas",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri Cibun Kecamatan Karanglewas",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri Danasri Kecamatan Karanglewas",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri Karangkemiri Kecamatan Karanglewas",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri Karanglewas Kidul Kecamatan Karanglewas",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri Pangebatan Kecamatan Karanglewas",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri Pasir Lor Kecamatan Karanglewas",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri Pasir Wetan Kecamatan Karanglewas",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri Semaya Kecamatan Karanglewas",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri Singasari Kecamatan Karanglewas",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri Sunyalangu Kecamatan Karanglewas",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 3 Adisana Kecamatan Kebasen",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 3 Kalisalak Kecamatan Kebasen",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 4 Kalisalak Kecamatan Kebasen",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri Kaliwedi Kecamatan Kebasen",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri Karangsari Kecamatan Kebasen",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri Mandirancan Kecamatan Kebasen",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri Randegan Kecamatan Kebasen",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri Sawangan Kecamatan Kebasen",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri Semingkir Kecamatan Kebasen",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri Tumiyang Kecamatan Kebasen",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 1 Adisana Kecamatan Kebasen",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 1 Cindaga Kecamatan Kebasen",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 1 Gambarsari Kecamatan Kebasen",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 1 Kalisalak Kecamatan Kebasen",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 1 Kebasen Kecamatan Kebasen",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 2 Adisana Kecamatan Kebasen",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 2 Bangsa Kecamatan Kebasen",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 2 Cindaga Kecamatan Kebasen",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 2 Gambarsari Kecamatan Kebasen",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 2 Kalisalak Kecamatan Kebasen",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 2 Kebasen Kecamatan Kebasen",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 3 Bangsa Kecamatan Kebasen",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 3 Cindaga Kecamatan Kebasen",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 4 Cindaga Kecamatan Kebasen",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri Bentul Kecamatan Kebasen",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri Curugbunglon Kecamatan Kebasen",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri Karangbanar Kecamatan Kebasen",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri Legok Kecamatan Kebasen",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 1 Baseh Kecamatan Kedungbanteng",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 1 Beji Kecamatan Kedungbanteng",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 1 Dawuhan Kulon Kecamatan Kedungbanteng",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 1 Kalikesur Kecamatan Kedungbanteng",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 1 Kalisalak Kecamatan Kedungbanteng",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 1 Kebocoran Kecamatan Kedungbanteng",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 1 Kedungbanteng Kecamatan Kedungbanteng",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 1 Keniten Kecamatan Kedungbanteng",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 1 Kutaliman Kecamatan Kedungbanteng",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 1 Windujaya Kecamatan Kedungbanteng",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 2 Baseh Kecamatan Kedungbanteng",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 2 Beji Kecamatan Kedungbanteng",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 2 Dawuhan Kulon Kecamatan Kedungbanteng",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 2 Kalikesur Kecamatan Kedungbanteng",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 2 Kalisalak Kecamatan Kedungbanteng",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 2 Kebocoran  Kecamatan Kedungbanteng",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 2 Keniten Kecamatan Kedungbanteng",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 2 Kutaliman Kecamatan Kedungbanteng",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 2 Windujaya Kecamatan Kedungbanteng",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 3 Kebocoran Kecamatan Kedungbanteng",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 3 Kedungbanteng Kecamatan Kedungbanteng",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 3 Kutaliman Kecamatan Kedungbanteng",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri Dawuhan Wetan Kecamatan Kedungbanteng",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri Karangnangka Kecamatan Kedungbanteng",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri Karangsalam Kecamatan Kedungbanteng",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri Melung Kecamatan Kedungbanteng",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 1 Bantarwuni Kecamatan Kembaran",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 1 Bojongsari Kecamatan Kembaran",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 1 Dukuhwaluh Kecamatan Kembaran",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 1 Linggasari Kecamatan Kembaran",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 1 Pliken Kecamatan Kembaran",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 1 Purbadana Kecamatan Kembaran",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 1 Sambeng Kulon Kecamatan Kembaran",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 2 Bantarwuni Kecamatan Kembaran",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 2 Bojongsari Kecamatan Kembaran",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 2 Dukuhwaluh Kecamatan Kembaran",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 2 Linggasari Kecamatan Kembaran",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 2 Pliken Kecamatan Kembaran",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 2 Purbadana Kecamatan Kembaran",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 2 Sambeng Kulon Kecamatan Kembaran",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 3 Dukuhwaluh Kecamatan Kembaran",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 3 Linggasari Kecamatan Kembaran",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 3 Pliken Kecamatan Kembaran",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 4 Dukuhwaluh Kecamatan Kembaran",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri Karangsari Kecamatan Kembaran",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri Karangsoka Kecamatan Kembaran",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri Karangtengah Kecamatan Kembaran",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri Kembaran Kecamatan Kembaran",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri Kramat Kecamatan Kembaran",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri Larangan Kecamatan Kembaran",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri Ledug Kecamatan Kembaran",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri Purwodadi Kecamatan Kembaran",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri Sambeng Wetan Kecamatan Kembaran",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri Tambaksari Kecamatan Kembaran",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri  Kebarongan Kecamatan Kemranjen",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 1 Alasmalang Kecamatan Kemranjen",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 1 Grujugan Kecamatan Kemranjen",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 1 Karanggintung Kecamatan Kemranjen",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 1 Karangjati Kecamatan Kemranjen",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 1 Karangsalam Kecamatan Kemranjen",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 1 Kecila Kecamatan Kemranjen",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 1 Nusamangir Kecamatan Kemranjen",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 1 Pageralang Kecamatan Kemranjen",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 1 Sibalung Kecamatan Kemranjen",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 1 Sibrama Kecamatan Kemranjen",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 1 Sidamulya Kecamatan Kemranjen",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 2 Alasmalang Kecamatan Kemranjen",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 2 Grujugan Kecamatan Kemranjen",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 2 Karanggintung Kecamatan Kemranjen",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 2 Karangsalam Kecamatan Kemranjen",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 2 Kecila Kecamatan Kemranjen",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 2 Nusamangir Kecamatan Kemranjen",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 2 Pageralang Kecamatan Kemranjen",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 2 Sibalung Kecamatan Kemranjen",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 2 Sibrama Kecamatan Kemranjen",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 3 Karangsalam Kecamatan Kemranjen",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 3 Pageralang Kecamatan Kemranjen",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri Bengkelung Kecamatan Kemranjen",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri Gunungmujil Kecamatan Kemranjen",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri Kalikembang Kecamatan Kemranjen",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri Karanglo Kecamatan Kemranjen",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri Karangsari Kecamatan Kemranjen",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri Kedungpring Kecamatan Kemranjen",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri Manggungan Kecamatan Kemranjen",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri Petarangan Kecamatan Kemranjen",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri Sirau Kecamatan Kemranjen",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 1 Besuki Kecamatan Lumbir",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 1 Canduk Kecamatan Lumbir",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 1 Cidora Kecamatan Lumbir",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 1 Cingebul Kecamatan Lumbir",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 1 Cirahab Kecamatan Lumbir",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 1 Dermaji Kecamatan Lumbir",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 1 Karanggayam Kecamatan Lumbir",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 1 Kedunggede Kecamatan Lumbir",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 1 Lumbir Kecamatan Lumbir",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 1 Parungkamal Kecamatan Lumbir",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 2 Besuki Kecamatan Lumbir",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 2 Canduk Kecamatan Lumbir",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 2 Cidora Kecamatan Lumbir",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 2 Cingebul Kecamatan Lumbir",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 2 Cirahab Kecamatan Lumbir",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 2 Dermaji Kecamatan Lumbir",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 2 Karanggayam Kecamatan Lumbir",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 2 Kedunggede Kecamatan Lumbir",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 2 Lumbir Kecamatan Lumbir",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 2 Parungkamal Kecamatan Lumbir",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 3 Canduk Kecamatan Lumbir",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 3 Cingebul Kecamatan Lumbir",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 3 Cirahab Kecamatan Lumbir",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 3 Dermaji Kecamatan Lumbir",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 3 Karanggayam Kecamatan Lumbir",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 3 Kedunggede Kecamatan Lumbir",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 3 Lumbir Kecamatan Lumbir",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 3 Parungkamal Kecamatan Lumbir",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 4 Cingebul Kecamatan Lumbir",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 4 Cirahab Kecamatan Lumbir",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 4 Lumbir Kecamatan Lumbir",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 5 Cingebul Kecamatan Lumbir",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 5 Lumbir Kecamatan Lumbir",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 6 Lumbir Kecamatan Lumbir",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 1 Karanganyar Kecamatan Patikraja",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 1 Kedungrandu Kecamatan Patikraja",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 1 Kedungwringin Kecamatan Patikraja",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 1 Kedungwuluh Kidul Kecamatan Patikraja",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 1 Kedungwuluh Lor Kecamatan Patikraja",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 1 Notog Kecamatan Patikraja",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 1 Patikraja Kecamatan Patikraja",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 1 Sawangan Kecamatan Patikraja",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 1 Sidabowa Kecamatan Patikraja",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 1 Sokawera Kecamatan Patikraja",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 2 Karanganyar Kecamatan Patikraja",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 2 Kedungrandu Kecamatan Patikraja",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 2 Kedungwringin Kecamatan Patikraja",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 2 Kedungwuluh Kidul Kecamatan Patikraja",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 2 Kedungwuluh Lor Kecamatan Patikraja",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 2 Patikraja Kecamatan Patikraja",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 2 Sawangan Kecamatan Patikraja",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 2 Sidabowa Kecamatan Patikraja",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 2 Sokawera Kecamatan Patikraja",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 2 Wlahar Kulon Kecamatan Patikraja",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 3 Kedungrandu Kecamatan Patikraja",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 3 Notog Kecamatan Patikraja",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri Ciandong Kecamatan Patikraja",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri Cilaku Kecamatan Patikraja",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri Karangendep Kecamatan Patikraja",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri Pegalongan Kecamatan Patikraja",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 01 Pekuncen Kecamatan Pekuncen",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 01 Semedo Kecamatan Pekuncen",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 02 Cikawung Kecamatan Pekuncen",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 02 Pekuncen Kecamatan Pekuncen",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 03 Cikembulan Kecamatan Pekuncen",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 03 Pekuncen Kecamatan Pekuncen",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 1 Candinegara Kecamatan Pekuncen",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 1 Cibangkong Kecamatan Pekuncen",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 1 Cikawung Kecamatan Pekuncen",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 1 Cikembulan Kecamatan Pekuncen",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 1 Glempang Kecamatan Pekuncen",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 1 Karangkemiri Kecamatan Pekuncen",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 1 Krajan Kecamatan Pekuncen",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 1 Petahunan Kecamatan Pekuncen",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 1 Tumiyang Kecamatan Pekuncen",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 2 Cibangkong Kecamatan Pekuncen",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 2 Cikembulan Kecamatan Pekuncen",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 2 Glempang Kecamatan Pekuncen",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 2 Karangkemiri Kecamatan Pekuncen",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 2 Krajan Kecamatan Pekuncen",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 2 Petahunan Kecamatan Pekuncen",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 2 Semedo Kecamatan Pekuncen",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 2 Tumiyang Kecamatan Pekuncen",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 3 Candinegara Kecamatan Pekuncen",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 3 Cibangkong Kecamatan Pekuncen",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 3 Karangkemiri Kecamatan Pekuncen",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 3 Semedo Kecamatan Pekuncen",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 3 Tumiyang Kecamatan Pekuncen",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 4 Cibangkong Kecamatan Pekuncen",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri Banjaranyar Kecamatan Pekuncen",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri Karangklesem Kecamatan Pekuncen",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri Kranggan Kecamatan Pekuncen",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri Pasiraman Kidul Kecamatan Pekuncen",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri Pasiraman Lor Kecamatan Pekuncen",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 1 Gerduren Kecamatan Purwojati",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 1 Kalitapen Kecamatan Purwojati",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 1 Kaliwangi Kecamatan Purwojati",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 1 Karangmangu Kecamatan Purwojati",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 1 Karangtalun Kidul Kecamatan Purwojati",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 1 Purwojati Kecamatan Purwojati",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 2 Gerduren Kecamatan Purwojati",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 2 Kalitapen Kecamatan Purwojati",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 2 Kaliwangi Kecamatan Purwojati",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 2 Karangmangu Kecamatan Purwojati",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 2 Karangtalun Kidul Kecamatan Purwojati",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 2 Purwojati Kecamatan Purwojati",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 3 Gerduren Kecamatan Purwojati",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 3 Karangmangu Kecamatan Purwojati",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 3 Karangtalun Kidul Kecamatan Purwojati",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 3 Purwojati Kecamatan Purwojati",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri Kaliputih Kecamatan Purwojati",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri Kaliurip Kecamatan Purwojati",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri Karangtalun Lor Kecamatan Purwojati",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri Klapasawit Kecamatan Purwojati",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 1 Bantarsoka Kecamatan Purwokerto Barat",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 1 Karanglewas Lor Kecamatan Purwokerto Barat",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 1 Kedungwuluh Kecamatan Purwokerto Barat",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 1 Kober Kecamatan Purwokerto Barat",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 1 Pasir Kidul Kecamatan Purwokerto Barat",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 1 Pasirmuncang Kecamatan Purwokerto Barat",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 1 Rejasari Kecamatan Purwokerto Barat",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 2 Bantarsoka Kecamatan Purwokerto Barat",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 2 Karanglewas Lor Kecamatan Purwokerto Barat",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 2 Kedungwuluh Kecamatan Purwokerto Barat",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 2 Kober Kecamatan Purwokerto Barat",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 2 Pasir Kidul Kecamatan Purwokerto Barat",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 2 Pasirmuncang Kecamatan Purwokerto Barat",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 2 Rejasari Kecamatan Purwokerto Barat",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 3 Kedungwuluh Kecamatan Purwokerto Barat",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 3 Kober Kecamatan Purwokerto Barat",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 3 Pasirmuncang Kecamatan Purwokerto Barat",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 3 Rejasari Kecamatan Purwokerto Barat",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 1 Berkoh Kecamatan Purwokerto Selatan",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 1 Karangklesem Kecamatan Purwokerto Selatan",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 1 Karangpucung Kecamatan Purwokerto Selatan",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 1 Purwokerto Kidul Kecamatan Purwokerto Selatan",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 1 Purwokerto Kulon Kecamatan Purwokerto Selatan",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 1 Tanjung Kecamatan Purwokerto Selatan",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 1 Teluk Kecamatan Purwokerto Selatan",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 2 Berkoh Kecamatan Purwokerto Selatan",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 2 Purwokerto Kulon Kecamatan Purwokerto Selatan",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 2 Tanjung Kecamatan Purwokerto Selatan",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 3 Berkoh Kecamatan Purwokerto Selatan",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 3 Karangklesem Kecamatan Purwokerto Selatan",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 3 Purwokerto Kidul Kecamatan Purwokerto Selatan",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 3 Purwokerto Kulon Kecamatan Purwokerto Selatan",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 3 Tanjung Kecamatan Purwokerto Selatan",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 3 Teluk Kecamatan Purwokerto Selatan",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 4 Karangklesem Kecamatan Purwokerto Selatan",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 4 Karangpucung Kecamatan Purwokerto Selatan",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 4 Teluk Kecamatan Purwokerto Selatan",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 5 Karangpucung Kecamatan Purwokerto Selatan",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 5 Teluk Kecamatan Purwokerto Selatan",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 1 Arcawinangun Kecamatan Purwokerto Timur",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 1 Kranji Kecamatan Purwokerto Timur",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 1 Mersi Kecamatan Purwokerto Timur",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 1 Purwokerto Lor Kecamatan Purwokerto Timur",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 1 Purwokerto Wetan Kecamatan Purwokerto Timur",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 1 Sokanegara Kecamatan Purwokerto Timur",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 2 Mersi Kecamatan Purwokerto Timur",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 2 Purwokerto Lor Kecamatan Purwokerto Timur",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 2 Purwokerto Wetan Kecamatan Purwokerto Timur",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 3 Arcawinangun Kecamatan Purwokerto Timur",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 3 Mersi Kecamatan Purwokerto Timur",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 3 Sokanegara Kecamatan Purwokerto Timur",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 4 Arcawinangun Kecamatan Purwokerto Timur",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 4 Kranji Kecamatan Purwokerto Timur",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 4 Mersi Kecamatan Purwokerto Timur",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 4 Sokanegara Kecamatan Purwokerto Timur",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 5 Arcawinangun Kecamatan Purwokerto Timur",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 7 Sokanegara Kecamatan Purwokerto Timur",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 8 Kranji Kecamatan Purwokerto Timur",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 1 Bancarkembar Kecamatan Purwokerto Utara",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 1 Bobosan Kecamatan Purwokerto Utara",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 1 Grendeng Kecamatan Purwokerto Utara",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 1 Karangwangkal Kecamatan Purwokerto Utara",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 1 Pabuwaran Kecamatan Purwokerto Utara",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 1 Purwanegara Kecamatan Purwokerto Utara",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 1 Sumampir Kecamatan Purwokerto Utara",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 2 Bobosan Kecamatan Purwokerto Utara",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 2 Pabuwaran Kecamatan Purwokerto Utara",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 2 Sumampir Kecamatan Purwokerto Utara",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 3 Bancarkembar Kecamatan Purwokerto Utara",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 3 Grendeng Kecamatan Purwokerto Utara",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 3 Purwanegara Kecamatan Purwokerto Utara",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 4 Bancarkembar Kecamatan Purwokerto Utara",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 4 Purwanegara Kecamatan Purwokerto Utara",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 1 Banjarparakan Kecamatan Rawalo",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 1 Locondong Kecamatan Rawalo",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 1 Losari Kecamatan Rawalo",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 1 Rawalo Kecamatan Rawalo",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 1 Sanggreman Kecamatan Rawalo",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 1 Sidamulih Kecamatan Rawalo",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 1 Tambaknegara Kecamatan Rawalo",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 1 Tipar Kecamatan Rawalo",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 2 Banjarparakan Kecamatan Rawalo",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 2 Losari Kecamatan Rawalo",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 2 Rawalo Kecamatan Rawalo",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 2 Sanggreman Kecamatan Rawalo",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 2 Sidamulih Kecamatan Rawalo",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 2 Tambaknegara Kecamatan Rawalo",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 2 Tipar Kecamatan Rawalo",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 3 Rawalo Kecamatan Rawalo",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 3 Sanggreman Kecamatan Rawalo",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 3 Tambaknegara Kecamatan Rawalo",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 3 Tipar Kecamatan Rawalo",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 4 Rawalo Kecamatan Rawalo",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri Menganti Kecamatan Rawalo",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri Pesawahan Kecamatan Rawalo",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 1 Banjaranyar Kecamatan Sokaraja",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 1 Karangduren Kecamatan Sokaraja",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 1 Karangkedawung Kecamatan Sokaraja",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 1 Karangnanas Kecamatan Sokaraja",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 1 Pamijen Kecamatan Sokaraja",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 1 Sokaraja Kulon Kecamatan Sokaraja",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 1 Sokaraja Tengah Kecamatan Sokaraja",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 1 Sokaraja Wetan Kecamatan Sokaraja",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 2 Banjaranyar Kecamatan Sokaraja",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 2 Karangduren Kecamatan Sokaraja",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 2 Karangkedawung Kecamatan Sokaraja",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 2 Karangnanas Kecamatan Sokaraja",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 2 Klahang Kecamatan Sokaraja",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 2 Pamijen Kecamatan Sokaraja",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 2 Sokaraja Kulon Kecamatan Sokaraja",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 2 Sokaraja Tengah Kecamatan Sokaraja",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 2 Sokaraja Wetan Kecamatan Sokaraja",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 3 Karangnanas Kecamatan Sokaraja",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 3 Sokaraja Kulon Kecamatan Sokaraja",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri Banjarsari Kidul Kecamatan Sokaraja",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri Jompo Kulon Kecamatan Sokaraja",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri Kalikidang Kecamatan Sokaraja",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri Karangrau Kecamatan Sokaraja",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri Kedondong Kecamatan Sokaraja",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri Lemberang Kecamatan Sokaraja",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri Sokaraja Kidul Kecamatan Sokaraja",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri Sokaraja Lor Kecamatan Sokaraja",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri Wiradadi Kecamatan Sokaraja",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 1 Kemawi Kecamatan Somagede",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 1 Klinting Kecamatan Somagede",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 1 Mengangkang Kecamatan Somagede",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 1 Piasa Kecamatan Somagede",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 1 Sokawera Kecamatan Somagede",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 1 Somagede Kecamatan Somagede",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 1 Tanggeran Kecamatan Somagede",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 2 Kemawi Kecamatan Somagede",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 2 Klinting Kecamatan Somagede",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 2 Mengangkang Kecamatan Somagede",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 2 Piasa Kecamatan Somagede",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 2 Sokawera Kecamatan Somagede",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 2 Somagede Kecamatan Somagede",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 2 Tanggeran Kecamatan Somagede",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 3 Kemawi Kecamatan Somagede",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 3 Sokawera Kecamatan Somagede",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 3 Tanggeran Kecamatan Somagede",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri Kanding Kecamatan Somagede",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri Plana Kecamatan Somagede",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 1 Banjarsari Kulon Kecamatan Sumbang",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 1 Banjarsari Wetan Kecamatan Sumbang",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 1 Banteran Kecamatan Sumbang",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 1 Gandatapa Kecamatan Sumbang",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 1 Karanggintung Kecamatan Sumbang",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 1 Kebanggan Kecamatan Sumbang",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 1 Kotayasa Kecamatan Sumbang",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 1 Limpakuwus Kecamatan Sumbang",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 1 Sikapat Kecamatan Sumbang",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 1 Sumbang Kecamatan Sumbang",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 1 Susukan Kecamatan Sumbang",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 1 Tambaksogra Kecamatan Sumbang",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 2 Banjarsari Kulon Kecamatan Sumbang",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 2 Banjarsari Wetan Kecamatan Sumbang",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 2 Banteran Kecamatan Sumbang",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 2 Gandatapa Kecamatan Sumbang",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 2 Karanggintung Kecamatan Sumbang",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 2 Kebanggan Kecamatan Sumbang",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 2 Kotayasa Kecamatan Sumbang",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 2 Limpakuwus Kecamatan Sumbang",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 2 Sikapat Kecamatan Sumbang",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 2 Sumbang Kecamatan Sumbang",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 2 Susukan Kecamatan Sumbang",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 2 Tambaksogra Kecamatan Sumbang",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 3 Banteran Kecamatan Sumbang",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 3 Gandatapa Kecamatan Sumbang",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 3 Kotayasa Kecamatan Sumbang",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 3 Tambaksogra Kecamatan Sumbang",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 4 Kotayasa Kecamatan Sumbang",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri Ciberem Kecamatan Sumbang",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri Datar Kecamatan Sumbang",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri Karangcegak Kecamatan Sumbang",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri Karangturi Kecamatan Sumbang",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri Kawungcarang Kecamatan Sumbang",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri Kedungmalang Kecamatan Sumbang",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri Silado Kecamatan Sumbang",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri Watujaran Kecamatan Sumbang",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 1 Banjarpanepen Kecamatan Sumpiuh",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 1 Bogangin Kecamatan Sumpiuh",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 1 Kebokura Kecamatan Sumpiuh",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 1 Kemiri Kecamatan Sumpiuh",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 1 Ketanda Kecamatan Sumpiuh",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 1 Kradenan Kecamatan Sumpiuh",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 1 Kuntili Kecamatan Sumpiuh",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 1 Selanegara Kecamatan Sumpiuh",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 1 Sumpiuh Kecamatan Sumpiuh",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 2 Banjarpanepen Kecamatan Sumpiuh",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 2 Kebokura Kecamatan Sumpiuh",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 2 Kemiri Kecamatan Sumpiuh",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 2 Ketanda Kecamatan Sumpiuh",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 2 Kradenan Kecamatan Sumpiuh",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 2 Kuntili Kecamatan Sumpiuh",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 2 Selanegara Kecamatan Sumpiuh",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 2 Sumpiuh Kecamatan Sumpiuh",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 3 Banjarpanepen Kecamatan Sumpiuh",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 3 Bogangin Kecamatan Sumpiuh",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 3 Kemiri Kecamatan Sumpiuh",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 3 Selanegara Kecamatan Sumpiuh",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 3 Sumpiuh Kecamatan Sumpiuh",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 4 Sumpiuh Kecamatan Sumpiuh",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri Karangaren Kecamatan Sumpiuh",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri Karanggedang Kecamatan Sumpiuh",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri Lebeng Kecamatan Sumpiuh",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri Nusadadi Kecamatan Sumpiuh",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri Pagedongan Kecamatan Sumpiuh",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri Pandak Kecamatan Sumpiuh",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri Selandaka Kecamatan Sumpiuh",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 1 Plangkapan Kecamatan Tambak",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 2 Gebangsari Kecamatan Tambak",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 2 Karangpucung Kecamatan Tambak",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri Gandeng Kecamatan Tambak",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri Gumelar Lor Kecamatan Tambak",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri Pamriyan Kecamatan Tambak",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri Prembun Kecamatan Tambak",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 1 Buniayu Kecamatan Tambak",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 1 Gebangsari Kecamatan Tambak",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 1 Karangpucung Kecamatan Tambak",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 1 Purwodadi Kecamatan Tambak",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 1 Tlaga Kecamatan Tambak",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 2 Buniayu Kecamatan Tambak",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 2 Plangkapan Kecamatan Tambak",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 2 Purwodadi Kecamatan Tambak",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 2 Tlaga Kecamatan Tambak",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 3 Buniayu Kecamatan Tambak",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 3 Karangpucung Kecamatan Tambak",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 3 Purwodadi Kecamatan Tambak",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri Gedang Kulon Kecamatan Tambak",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri Gumelar Kidul Kecamatan Tambak",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri Kamulyan Kecamatan Tambak",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri Karangpetir Kecamatan Tambak",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri Pesantren Kecamatan Tambak",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri Siwarak Kulon Kecamatan Tambak",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri Siwarak Wetan Kecamatan Tambak",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri Watuagung Kecamatan Tambak",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 1 Banteran Kecamatan Wangon",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 1 Bojong Kecamatan Wangon",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 1 Ciarus Kecamatan Wangon",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 1 Cikakak Kecamatan Wangon",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 1 Jambu Kecamatan Wangon",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 1 Jurangbahas Kecamatan Wangon",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 1 Karangtengah Kecamatan Wangon",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 1 Klapagading Kecamatan Wangon",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 1 Pengadegan Kecamatan Wangon",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 1 Rancabanteng Kecamatan Wangon",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 1 Randegan Kecamatan Wangon",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 1 Rawaheng Kecamatan Wangon",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 1 Wangon Kecamatan Wangon",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 1 Windunegara Kecamatan Wangon",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 1 Wlahar Kecamatan Wangon",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 2 Banteran Kecamatan Wangon",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 2 Bojong Kecamatan Wangon",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 2 Ciarus Kecamatan Wangon",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 2 Cikakak Kecamatan Wangon",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 2 Jambu Kecamatan Wangon",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 2 Jurangbahas Kecamatan Wangon",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 2 Karangtengah Kecamatan Wangon",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 2 Klapagading Kecamatan Wangon",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 2 Pengadegan Kecamatan Wangon",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 2 Rancabanteng Kecamatan Wangon",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 2 Randegan Kecamatan Wangon",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 2 Rawaheng Kecamatan Wangon",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 2 Wangon Kecamatan Wangon",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 2 Windunegara Kecamatan Wangon",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 2 Wlahar Kecamatan Wangon",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 3 Banteran Kecamatan Wangon",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 3 Cikakak Kecamatan Wangon",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 3 Jambu Kecamatan Wangon",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 3 Klapagading Kecamatan Wangon",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 3 Pengadegan Kecamatan Wangon",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 3 Rancabanteng Kecamatan Wangon",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 3 Rawaheng Kecamatan Wangon",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 3 Wangon Kecamatan Wangon",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 4 Pengadegan Kecamatan Wangon",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 4 Wangon Kecamatan Wangon",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri 5 Wangon Kecamatan Wangon",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri Kalipetung Kecamatan Wangon",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri Karangtawang Kecamatan Wangon",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri Pekodokan Kecamatan Wangon",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Sekolah Dasar Negeri Ranjingan Kecamatan Wangon",
         "jabatan": "Kepala",
-        "eselon": "III.b",
         "children": []
       }
     ]

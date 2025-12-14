@@ -231,6 +231,7 @@ def flatten_hierarchy(data, parent_name=""):
                 jabatan_original = item.get('jabatan', '')
                 
                 # Special handling for units where jabatan is "Kepala" but needs more context
+                # Note: Some entries like Inspektur Pembantu still use "Kepala" in hierarchy.json
                 if jabatan_original == 'Kepala':
                     # Inspektur Pembantu I-V should have full title
                     if 'inspektur pembantu' in unit_name.lower():

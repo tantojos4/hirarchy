@@ -9446,17 +9446,6 @@
     ]
   },
   {
-    "name": "Sekretariat Daerah",
-    "jabatan": "Sekretaris Daerah",
-    "eselon": "II.b",
-    "children": [
-      {
-        "name": "Sekretaris Daerah",
-        "jabatan": "Kepala",
-        "eselon": "II.a",
-        "children": []
-      },
-      {
         "name": "Staf Ahli Bupati Bidang Pemerintahan dan Kesejahteraan Rakyat",
         "jabatan": "Staf Ahli Bupati Bidang Pemerintahan dan Kesejahteraan Rakyat",
         "eselon": "II.b",
@@ -9474,6 +9463,11 @@
         "eselon": "II.b",
         "children": []
       },
+  {
+    "name": "Sekretariat Daerah",
+    "jabatan": "Sekretaris Daerah",
+    "eselon": "II.b",
+    "children": [
       {
         "name": "Asisten Pemerintahan dan Kesejahteraan Rakyat",
         "jabatan": "Asisten Pemerintahan dan Kesejahteraan Rakyat",

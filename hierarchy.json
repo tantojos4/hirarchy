@@ -9431,17 +9431,12 @@
         ]
       },
       {
-        "name": "Undangan",
-        "jabatan": "Kepala",
-        "eselon": "III.b",
-        "children": [
-          {
-            "name": "Bagian Persidangan dan Perundang",
+         
+            "name": "Bagian Persidangan dan Perundang-Undangan",
             "jabatan": "Kepala",
             "eselon": "IV.a",
             "children": []
-          }
-        ]
+       
       }
     ]
   },

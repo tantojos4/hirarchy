@@ -70,16 +70,33 @@ def simplify_jabatan(jabatan):
     elif jabatan_lower.startswith('kepala sub bagian '):
         return 'Kepala Sub Bagian'
     
-    # 10. "Kepala Seksi X" -> "Kepala Seksi"
+    # 10. "Kepala Subbidang X" -> "Kepala Subbidang"
+    elif jabatan_lower.startswith('kepala subbidang '):
+        return 'Kepala Subbidang'
+    
+    # 11. "Kepala Sub Bidang X" -> "Kepala Sub Bidang"
+    elif jabatan_lower.startswith('kepala sub bidang '):
+        return 'Kepala Sub Bidang'
+    
+    # 12. "Kepala Seksi X" -> "Kepala Seksi"
     elif jabatan_lower.startswith('kepala seksi '):
         return 'Kepala Seksi'
     
-    # 11. "Wakil Direktur X" -> "Wakil Direktur"
+    # 13. "Wakil Direktur X" -> "Wakil Direktur"
     elif jabatan_lower.startswith('wakil direktur '):
         return 'Wakil Direktur'
     
-    # 12. "Kepala UPKP" (special case, should remain as is)
-    # 13. "Kepala UPTD" (special case, should remain as is)
+    # 14. "Asisten Sekretaris Daerah" -> "Asisten"
+    elif jabatan_lower == 'asisten sekretaris daerah':
+        return 'Asisten'
+    
+    # 15. "Inspektur Pembantu I/II/III/IV/V" -> "Inspektur Pembantu"
+    elif jabatan_lower.startswith('inspektur pembantu '):
+        return 'Inspektur Pembantu'
+    
+    # 16. "Kepala UPKP" (special case, should remain as is)
+    # 17. "Kepala UPTD" (special case, should remain as is)
+    # 18. "Kepala Unit" for UPTD (should remain as is)
     # For other cases, return as is
     return jabatan
 
@@ -206,8 +223,26 @@ def flatten_hierarchy(data, parent_name=""):
                 eselon = item.get('eselon', '')
                 jabatan_original = item.get('jabatan', '')
                 
+                # Special handling for units where jabatan is "Kepala" but needs more context
+                if jabatan_original == 'Kepala':
+                    unit_lower = unit_name.lower()
+                    
+                    # UPTD units should have "Kepala Unit" as jabatan
+                    if unit_name.startswith('UPTD '):
+                        jabatan_lengkap = 'Kepala Unit'
+                        jabatan_original = 'Kepala Unit'
+                    
+                    # Inspektur Pembantu I-V should have full title
+                    elif 'inspektur pembantu' in unit_lower:
+                        jabatan_lengkap = unit_name  # e.g., "Inspektur Pembantu I"
+                        jabatan_original = unit_name
+                    
+                    else:
+                        jabatan_lengkap = jabatan_original
+                else:
+                    jabatan_lengkap = jabatan_original
+                
                 # Generate additional fields
-                jabatan_lengkap = jabatan_original  # Keep the original full jabatan
                 jabatan = simplify_jabatan(jabatan_original)  # Simplify for jabatan column
                 kode_jabatan = generate_kode_jabatan(jabatan_original, unit_name)
                 catatan = item.get('catatan', '')  # Get catatan from JSON if exists, otherwise empty

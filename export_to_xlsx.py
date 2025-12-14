@@ -54,8 +54,32 @@ def simplify_jabatan(jabatan):
     elif jabatan_lower.startswith('direktur '):
         return 'Direktur'
     
-    # 6. "Kepala UPKP" (special case, should remain as is)
-    # 7. "Kepala UPTD" (special case, should remain as is)
+    # 6. "Kepala Bidang X" -> "Kepala Bidang"
+    elif jabatan_lower.startswith('kepala bidang '):
+        return 'Kepala Bidang'
+    
+    # 7. "Kepala Bagian X" -> "Kepala Bagian"
+    elif jabatan_lower.startswith('kepala bagian '):
+        return 'Kepala Bagian'
+    
+    # 8. "Kepala Subbagian X" -> "Kepala Subbagian"
+    elif jabatan_lower.startswith('kepala subbagian '):
+        return 'Kepala Subbagian'
+    
+    # 9. "Kepala Sub Bagian X" -> "Kepala Sub Bagian"
+    elif jabatan_lower.startswith('kepala sub bagian '):
+        return 'Kepala Sub Bagian'
+    
+    # 10. "Kepala Seksi X" -> "Kepala Seksi"
+    elif jabatan_lower.startswith('kepala seksi '):
+        return 'Kepala Seksi'
+    
+    # 11. "Wakil Direktur X" -> "Wakil Direktur"
+    elif jabatan_lower.startswith('wakil direktur '):
+        return 'Wakil Direktur'
+    
+    # 12. "Kepala UPKP" (special case, should remain as is)
+    # 13. "Kepala UPTD" (special case, should remain as is)
     # For other cases, return as is
     return jabatan
 

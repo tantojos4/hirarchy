@@ -225,15 +225,13 @@ def flatten_hierarchy(data, parent_name=""):
                 
                 # Special handling for units where jabatan is "Kepala" but needs more context
                 if jabatan_original == 'Kepala':
-                    unit_lower = unit_name.lower()
-                    
                     # UPTD units should have "Kepala Unit" as jabatan
                     if unit_name.startswith('UPTD '):
                         jabatan_lengkap = 'Kepala Unit'
                         jabatan_original = 'Kepala Unit'
                     
                     # Inspektur Pembantu I-V should have full title
-                    elif 'inspektur pembantu' in unit_lower:
+                    elif 'inspektur pembantu' in unit_name.lower():
                         jabatan_lengkap = unit_name  # e.g., "Inspektur Pembantu I"
                         jabatan_original = unit_name
                     

@@ -18,6 +18,48 @@ except ImportError:
     sys.exit(1)
 
 
+def simplify_jabatan(jabatan):
+    """
+    Simplify jabatan by removing unit-specific names.
+    
+    Args:
+        jabatan: Full position title
+    
+    Returns:
+        Simplified position title
+    """
+    if not jabatan:
+        return jabatan
+    
+    jabatan_lower = jabatan.lower()
+    
+    # Rules for simplification:
+    # 1. "Kepala Badan X" -> "Kepala Badan"
+    if jabatan_lower.startswith('kepala badan '):
+        return 'Kepala Badan'
+    
+    # 2. "Sekretaris Badan X" -> "Sekretaris Badan"
+    elif jabatan_lower.startswith('sekretaris badan '):
+        return 'Sekretaris Badan'
+    
+    # 3. "Kepala Dinas X" -> "Kepala Dinas"
+    elif jabatan_lower.startswith('kepala dinas '):
+        return 'Kepala Dinas'
+    
+    # 4. "Sekretaris Dinas X" -> "Sekretaris Dinas" 
+    elif jabatan_lower.startswith('sekretaris dinas '):
+        return 'Sekretaris Dinas'
+    
+    # 5. "Direktur X" -> "Direktur"
+    elif jabatan_lower.startswith('direktur '):
+        return 'Direktur'
+    
+    # 6. "Kepala UPKP" (special case, should remain as is)
+    # 7. "Kepala UPTD" (special case, should remain as is)
+    # For other cases, return as is
+    return jabatan
+
+
 def generate_kode_jabatan(jabatan, unit_name):
     """
     Generate a position code (kode_jabatan) based on the position title and unit name.
@@ -138,11 +180,12 @@ def flatten_hierarchy(data, parent_name=""):
             if isinstance(item, dict) and 'name' in item:
                 unit_name = item['name']
                 eselon = item.get('eselon', '')
-                jabatan = item.get('jabatan', '')
+                jabatan_original = item.get('jabatan', '')
                 
                 # Generate additional fields
-                jabatan_lengkap = jabatan  # For now, jabatan_lengkap is same as jabatan
-                kode_jabatan = generate_kode_jabatan(jabatan, unit_name)
+                jabatan_lengkap = jabatan_original  # Keep the original full jabatan
+                jabatan = simplify_jabatan(jabatan_original)  # Simplify for jabatan column
+                kode_jabatan = generate_kode_jabatan(jabatan_original, unit_name)
                 catatan = item.get('catatan', '')  # Get catatan from JSON if exists, otherwise empty
                 
                 record = {

@@ -29,6 +29,7 @@ hierarchy_export.xlsx
 *.bak_before_eselon
 *.backup_before_eselon_removal
 *.backup_2*
+hierarchy.json.backup
 
 # IDE
 .vscode/

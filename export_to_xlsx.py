@@ -94,9 +94,16 @@ def simplify_jabatan(jabatan):
     elif jabatan_lower.startswith('inspektur pembantu '):
         return 'Inspektur Pembantu'
     
-    # 16. "Kepala UPKP" (special case, should remain as is)
-    # 17. "Kepala UPTD" (special case, should remain as is)
-    # 18. "Kepala Unit" for UPTD (should remain as is)
+    # 16. "Kepala UPTD X" -> "Kepala Unit"
+    elif jabatan_lower.startswith('kepala uptd '):
+        return 'Kepala Unit'
+    
+    # 17. "Kepala UPT X" -> "Kepala Unit"
+    elif jabatan_lower.startswith('kepala upt '):
+        return 'Kepala Unit'
+    
+    # 18. "Kepala UPKP" (special case, should remain as is)
+    # 19. "Kepala Unit" (should remain as is)
     # For other cases, return as is
     return jabatan
 
@@ -225,16 +232,10 @@ def flatten_hierarchy(data, parent_name=""):
                 
                 # Special handling for units where jabatan is "Kepala" but needs more context
                 if jabatan_original == 'Kepala':
-                    # UPTD units should have "Kepala Unit" as jabatan
-                    if unit_name.startswith('UPTD '):
-                        jabatan_lengkap = 'Kepala Unit'
-                        jabatan_original = 'Kepala Unit'
-                    
                     # Inspektur Pembantu I-V should have full title
-                    elif 'inspektur pembantu' in unit_name.lower():
+                    if 'inspektur pembantu' in unit_name.lower():
                         jabatan_lengkap = unit_name  # e.g., "Inspektur Pembantu I"
                         jabatan_original = unit_name
-                    
                     else:
                         jabatan_lengkap = jabatan_original
                 else:

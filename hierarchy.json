@@ -499,7 +499,7 @@
       },
       {
         "name": "UPT Tempat Pengolahan Sampah Terpadu (TPST) Serayu",
-        "jabatan": "Kepala",
+        "jabatan": "Kepala UPT Tempat Pengolahan Sampah Terpadu (TPST) Serayu",
         "eselon": "III.b",
         "children": []
       }
@@ -649,7 +649,7 @@
       },
       {
         "name": "UPTD Pengembangan Budidaya Air Tawar",
-        "jabatan": "Kepala",
+        "jabatan": "Kepala UPTD Pengembangan Budidaya Air Tawar",
         "eselon": "IV.a",
         "children": []
       }
@@ -1596,7 +1596,7 @@
       },
       {
         "name": "UPTD Pemeliharaan Jalan dan Irigasi Wilayah Ajibarang",
-        "jabatan": "Kepala",
+        "jabatan": "Kepala UPTD Pemeliharaan Jalan dan Irigasi Wilayah Ajibarang",
         "eselon": "IV.a",
         "children": [
           {
@@ -1609,7 +1609,7 @@
       },
       {
         "name": "UPTD Pemeliharaan Jalan dan Irigasi Wilayah Banyumas",
-        "jabatan": "Kepala",
+        "jabatan": "Kepala UPTD Pemeliharaan Jalan dan Irigasi Wilayah Banyumas",
         "eselon": "IV.a",
         "children": [
           {
@@ -1622,7 +1622,7 @@
       },
       {
         "name": "UPTD Pemeliharaan Jalan dan Irigasi Wilayah Cilongok",
-        "jabatan": "Kepala",
+        "jabatan": "Kepala UPTD Pemeliharaan Jalan dan Irigasi Wilayah Cilongok",
         "eselon": "IV.a",
         "children": [
           {
@@ -1635,7 +1635,7 @@
       },
       {
         "name": "UPTD Pemeliharaan Jalan dan Irigasi Wilayah Jatilawang",
-        "jabatan": "Kepala",
+        "jabatan": "Kepala UPTD Pemeliharaan Jalan dan Irigasi Wilayah Jatilawang",
         "eselon": "IV.a",
         "children": [
           {
@@ -1648,7 +1648,7 @@
       },
       {
         "name": "UPTD Pemeliharaan Jalan dan Irigasi Wilayah Purwokerto",
-        "jabatan": "Kepala",
+        "jabatan": "Kepala UPTD Pemeliharaan Jalan dan Irigasi Wilayah Purwokerto",
         "eselon": "IV.a",
         "children": [
           {
@@ -1661,7 +1661,7 @@
       },
       {
         "name": "UPTD Pemeliharaan Jalan dan Irigasi Wilayah Sokaraja",
-        "jabatan": "Kepala",
+        "jabatan": "Kepala UPTD Pemeliharaan Jalan dan Irigasi Wilayah Sokaraja",
         "eselon": "IV.a",
         "children": [
           {
@@ -1674,7 +1674,7 @@
       },
       {
         "name": "UPTD Pemeliharaan Jalan dan Irigasi Wilayah Sumpiuh",
-        "jabatan": "Kepala",
+        "jabatan": "Kepala UPTD Pemeliharaan Jalan dan Irigasi Wilayah Sumpiuh",
         "eselon": "IV.a",
         "children": [
           {
@@ -6090,13 +6090,13 @@
       },
       {
         "name": "UPTD Perbibitan Ternak dan Hijauan Pakan Ternak",
-        "jabatan": "Kepala",
+        "jabatan": "Kepala UPTD Perbibitan Ternak dan Hijauan Pakan Ternak",
         "eselon": "IV.a",
         "children": []
       },
       {
         "name": "UPTD Puskeswan",
-        "jabatan": "Kepala",
+        "jabatan": "Kepala UPTD Puskeswan",
         "eselon": "IV.a",
         "children": []
       }
@@ -6158,7 +6158,7 @@
       },
       {
         "name": "UPTD Perlindungan Perempuan dan Anak",
-        "jabatan": "Kepala",
+        "jabatan": "Kepala UPTD Perlindungan Perempuan dan Anak",
         "eselon": "IV.a",
         "children": []
       }
@@ -6322,7 +6322,7 @@
       },
       {
         "name": "UPTD Pengelola Sarana dan Prasarana Perhubungan",
-        "jabatan": "Kepala",
+        "jabatan": "Kepala UPTD Pengelola Sarana dan Prasarana Perhubungan",
         "eselon": "IV.a",
         "children": [
           {
@@ -6335,7 +6335,7 @@
       },
       {
         "name": "UPTD Pengujian Kendaraan Bermotor",
-        "jabatan": "Kepala",
+        "jabatan": "Kepala UPTD Pengujian Kendaraan Bermotor",
         "eselon": "IV.a",
         "children": [
           {
@@ -6442,25 +6442,25 @@
       },
       {
         "name": "UPTD Pasar Wilayah Banyumas Barat",
-        "jabatan": "Kepala",
+        "jabatan": "Kepala UPTD Pasar Wilayah Banyumas Barat",
         "eselon": "IV.a",
         "children": []
       },
       {
         "name": "UPTD Pasar Wilayah Banyumas Timur",
-        "jabatan": "Kepala",
+        "jabatan": "Kepala UPTD Pasar Wilayah Banyumas Timur",
         "eselon": "IV.a",
         "children": []
       },
       {
         "name": "UPTD Pasar Wilayah Purwokerto I",
-        "jabatan": "Kepala",
+        "jabatan": "Kepala UPTD Pasar Wilayah Purwokerto I",
         "eselon": "IV.a",
         "children": []
       },
       {
         "name": "UPTD Pasar Wilayah Purwokerto II",
-        "jabatan": "Kepala",
+        "jabatan": "Kepala UPTD Pasar Wilayah Purwokerto II",
         "eselon": "IV.a",
         "children": []
       }
@@ -6578,7 +6578,7 @@
       },
       {
         "name": "UPTD Pengelolaan Air Limbah Domestik",
-        "jabatan": "Kepala",
+        "jabatan": "Kepala UPTD Pengelolaan Air Limbah Domestik",
         "eselon": "IV.a",
         "children": []
       }
@@ -6646,7 +6646,7 @@
       },
       {
         "name": "UPT Balai Benih Pertanian",
-        "jabatan": "Kepala",
+        "jabatan": "Kepala UPT Balai Benih Pertanian",
         "eselon": "III.b",
         "children": [
           {
@@ -6715,13 +6715,13 @@
       },
       {
         "name": "UPTD Layanan Pariwisata Teratai Mas",
-        "jabatan": "Kepala",
+        "jabatan": "Kepala UPTD Layanan Pariwisata Teratai Mas",
         "eselon": "IV.a",
         "children": []
       },
       {
         "name": "UPTD Lokawisata Baturraden",
-        "jabatan": "Kepala",
+        "jabatan": "Kepala UPTD Lokawisata Baturraden",
         "eselon": "IV.a",
         "children": [
           {
@@ -6734,13 +6734,13 @@
       },
       {
         "name": "UPTD Lokawisata Purwomas",
-        "jabatan": "Kepala",
+        "jabatan": "Kepala UPTD Lokawisata Purwomas",
         "eselon": "IV.a",
         "children": []
       },
       {
         "name": "UPTD Pelayanan Pariwisata Teratai Mas",
-        "jabatan": "Kepala",
+        "jabatan": "Kepala UPTD Pelayanan Pariwisata Teratai Mas",
         "eselon": "IV.a",
         "children": [
           {
@@ -6753,7 +6753,7 @@
       },
       {
         "name": "UPTD Pelayanan Pariwisata dan Kebudayaan Purwomas",
-        "jabatan": "Kepala",
+        "jabatan": "Kepala UPTD Pelayanan Pariwisata dan Kebudayaan Purwomas",
         "eselon": "IV.a",
         "children": [
           {
@@ -6766,13 +6766,13 @@
       },
       {
         "name": "UPTD Pengelola Sarana dan Prasarana Olahraga",
-        "jabatan": "Kepala",
+        "jabatan": "Kepala UPTD Pengelola Sarana dan Prasarana Olahraga",
         "eselon": "IV.a",
         "children": []
       },
       {
         "name": "UPTD Pengelola Sarana dan Prasarana Olahraga (GOR Satria Purwokerto)",
-        "jabatan": "Kepala",
+        "jabatan": "Kepala UPTD Pengelola Sarana dan Prasarana Olahraga (GOR Satria Purwokerto)",
         "eselon": "IV.a",
         "children": []
       }
@@ -9329,7 +9329,7 @@
       },
       {
         "name": "UPTD Unit Pemadam Kebakaran dan Penyelamatan",
-        "jabatan": "Kepala",
+        "jabatan": "Kepala UPTD Unit Pemadam Kebakaran dan Penyelamatan",
         "eselon": "IV.a",
         "children": [
           {

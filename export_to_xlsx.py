@@ -43,15 +43,15 @@ def simplify_jabatan(jabatan):
         return 'Sekretaris Badan'
     
     # 3. "Kepala Dinas X" -> "Kepala Dinas"
-    elif jabatan_lower.startswith('kepala dinas ') and jabatan_lower != 'kepala dinas':
+    elif jabatan_lower.startswith('kepala dinas '):
         return 'Kepala Dinas'
     
     # 4. "Sekretaris Dinas X" -> "Sekretaris Dinas" 
-    elif jabatan_lower.startswith('sekretaris dinas ') and jabatan_lower != 'sekretaris dinas':
+    elif jabatan_lower.startswith('sekretaris dinas '):
         return 'Sekretaris Dinas'
     
     # 5. "Direktur X" -> "Direktur"
-    elif jabatan_lower.startswith('direktur ') and jabatan_lower != 'direktur':
+    elif jabatan_lower.startswith('direktur '):
         return 'Direktur'
     
     # 6. "Kepala UPKP" (special case, should remain as is)

@@ -457,37 +457,37 @@
       },
       {
         "name": "UPKP Wilayah Ajibarang",
-        "jabatan": "Kepala UPKP",
+        "jabatan": "Kepala",
         "eselon": "III.b",
         "children": []
       },
       {
         "name": "UPKP Wilayah Banyumas",
-        "jabatan": "Kepala UPKP",
+        "jabatan": "Kepala",
         "eselon": "III.b",
         "children": []
       },
       {
         "name": "UPKP Wilayah Kembaran",
-        "jabatan": "Kepala UPKP",
+        "jabatan": "Kepala",
         "eselon": "III.b",
         "children": []
       },
       {
         "name": "UPKP Wilayah Purwokerto",
-        "jabatan": "Kepala UPKP",
+        "jabatan": "Kepala",
         "eselon": "III.b",
         "children": []
       },
       {
         "name": "UPKP Wilayah Sumpiuh",
-        "jabatan": "Kepala UPKP",
+        "jabatan": "Kepala",
         "eselon": "III.b",
         "children": []
       },
       {
         "name": "UPKP Wilayah Wangon",
-        "jabatan": "Kepala UPKP",
+        "jabatan": "Kepala",
         "eselon": "III.b",
         "children": []
       },
@@ -1230,7 +1230,7 @@
       },
       {
         "name": "RSK Mata Purwokerto",
-        "jabatan": "Direktur",
+        "jabatan": "Kepala",
         "eselon": "III.b",
         "children": [
           {
@@ -1596,8 +1596,8 @@
       },
       {
         "name": "UPTD Pemeliharaan Jalan dan Irigasi Wilayah Ajibarang",
-        "jabatan": "Kepala UPTD",
-        "eselon": "III.b",
+        "jabatan": "Kepala",
+        "eselon": "IV.a",
         "children": [
           {
             "name": "Sub Bagian Tata Usaha",
@@ -1609,8 +1609,8 @@
       },
       {
         "name": "UPTD Pemeliharaan Jalan dan Irigasi Wilayah Banyumas",
-        "jabatan": "Kepala UPTD",
-        "eselon": "III.b",
+        "jabatan": "Kepala",
+        "eselon": "IV.a",
         "children": [
           {
             "name": "Sub Bagian Tata Usaha",
@@ -1622,8 +1622,8 @@
       },
       {
         "name": "UPTD Pemeliharaan Jalan dan Irigasi Wilayah Cilongok",
-        "jabatan": "Kepala UPTD",
-        "eselon": "III.b",
+        "jabatan": "Kepala",
+        "eselon": "IV.a",
         "children": [
           {
             "name": "Sub Bagian Tata Usaha",
@@ -1635,8 +1635,8 @@
       },
       {
         "name": "UPTD Pemeliharaan Jalan dan Irigasi Wilayah Jatilawang",
-        "jabatan": "Kepala UPTD",
-        "eselon": "III.b",
+        "jabatan": "Kepala",
+        "eselon": "IV.a",
         "children": [
           {
             "name": "Sub Bagian Tata Usaha",
@@ -1648,8 +1648,8 @@
       },
       {
         "name": "UPTD Pemeliharaan Jalan dan Irigasi Wilayah Purwokerto",
-        "jabatan": "Kepala UPTD",
-        "eselon": "III.b",
+        "jabatan": "Kepala",
+        "eselon": "IV.a",
         "children": [
           {
             "name": "Sub Bagian Tata Usaha",
@@ -1661,8 +1661,8 @@
       },
       {
         "name": "UPTD Pemeliharaan Jalan dan Irigasi Wilayah Sokaraja",
-        "jabatan": "Kepala UPTD",
-        "eselon": "III.b",
+        "jabatan": "Kepala",
+        "eselon": "IV.a",
         "children": [
           {
             "name": "Sub Bagian Tata Usaha",
@@ -1674,8 +1674,8 @@
       },
       {
         "name": "UPTD Pemeliharaan Jalan dan Irigasi Wilayah Sumpiuh",
-        "jabatan": "Kepala UPTD",
-        "eselon": "III.b",
+        "jabatan": "Kepala",
+        "eselon": "IV.a",
         "children": [
           {
             "name": "Sub Bagian Tata Usaha",
@@ -1750,7 +1750,7 @@
     "children": [
       {
         "name": "Sekretariat Dinas Pendidikan",
-        "jabatan": "Sekretaris Dinas",
+        "jabatan": "Sekretaris Dinas Pendidikan",
         "eselon": "III.a",
         "children": [
           {
@@ -2229,55 +2229,55 @@
       {
         "name": "Taman Kanak-Kanak Negeri Purwojati",
         "jabatan": "Kepala",
-        "eselon": "",
+        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Taman Kanak-Kanak Negeri Purwokerto Barat",
         "jabatan": "Kepala",
-        "eselon": "",
+        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Taman Kanak-Kanak Negeri Purwokerto Selatan",
         "jabatan": "Kepala",
-        "eselon": "",
+        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Taman Kanak-Kanak Negeri Purwokerto Timur",
         "jabatan": "Kepala",
-        "eselon": "",
+        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Taman Kanak-Kanak Negeri Purwokerto Utara",
         "jabatan": "Kepala",
-        "eselon": "",
+        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Taman Kanak-Kanak Negeri Rawalo",
         "jabatan": "Kepala",
-        "eselon": "",
+        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Taman Kanak-Kanak Negeri Sumpiuh",
         "jabatan": "Kepala",
-        "eselon": "",
+        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Taman Kanak-Kanak Negeri Tambak",
         "jabatan": "Kepala",
-        "eselon": "",
+        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Taman Kanak-Kanak Negeri Wangon",
         "jabatan": "Kepala",
-        "eselon": "",
+        "eselon": "III.b",
         "children": []
       },
       {

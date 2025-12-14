@@ -86,8 +86,8 @@ def simplify_jabatan(jabatan):
     elif jabatan_lower.startswith('wakil direktur '):
         return 'Wakil Direktur'
     
-    # 14. "Asisten Sekretaris Daerah" -> "Asisten"
-    elif jabatan_lower == 'asisten sekretaris daerah':
+    # 14. "Asisten X" -> "Asisten" (handles "Asisten Sekretaris Daerah" and "Asisten Pemerintahan...")
+    elif jabatan_lower.startswith('asisten '):
         return 'Asisten'
     
     # 15. "Inspektur Pembantu I/II/III/IV/V" -> "Inspektur Pembantu"

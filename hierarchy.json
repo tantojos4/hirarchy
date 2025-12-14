@@ -1,12 +1,12 @@
 [
   {
     "name": "Badan Kepegawaian dan Pengembangan Sumber Daya Manusia",
-    "jabatan": "Kepala Badan",
+    "jabatan": "Kepala Badan Kepegawaian dan Pengembangan Sumber Daya Manusia",
     "eselon": "II.b",
     "children": [
       {
         "name": "Sekretariat Badan Kepegawaian dan Pengembangan Sumber Daya Manusia",
-        "jabatan": "Sekretaris Badan",
+        "jabatan": "Sekretaris Badan Kepegawaian dan Pengembangan Sumber Daya Manusia",
         "eselon": "III.a",
         "children": [
           {
@@ -56,7 +56,7 @@
     "children": [
       {
         "name": "Sekretariat Badan Penanggulangan Bencana Daerah",
-        "jabatan": "Sekretaris Badan",
+        "jabatan": "Sekretaris Badan Penanggulangan Bencana Daerah",
         "eselon": "III.a",
         "children": [
           {
@@ -95,12 +95,12 @@
   },
   {
     "name": "Badan Keuangan dan Aset Daerah",
-    "jabatan": "Kepala Badan",
+    "jabatan": "Kepala Badan Keuangan dan Aset Daerah",
     "eselon": "II.b",
     "children": [
       {
         "name": "Sekretariat Badan Keuangan dan Aset Daerah",
-        "jabatan": "Sekretaris Badan",
+        "jabatan": "Sekretaris Badan Keuangan dan Aset Daerah",
         "eselon": "III.a",
         "children": [
           {
@@ -202,12 +202,12 @@
   },
   {
     "name": "Badan Kesatuan Bangsa dan Politik",
-    "jabatan": "Kepala Badan",
+    "jabatan": "Kepala Badan Kesatuan Bangsa dan Politik",
     "eselon": "II.b",
     "children": [
       {
         "name": "Sekretariat Badan Kesatuan Bangsa dan Politik",
-        "jabatan": "Sekretaris Badan",
+        "jabatan": "Sekretaris Badan Kesatuan Bangsa dan Politik",
         "eselon": "III.a",
         "children": [
           {
@@ -246,12 +246,12 @@
   },
   {
     "name": "Badan Pendapatan Daerah",
-    "jabatan": "Kepala Badan",
+    "jabatan": "Kepala Badan Pendapatan Daerah",
     "eselon": "II.b",
     "children": [
       {
         "name": "Sekretariat Badan Pendapatan Daerah",
-        "jabatan": "Sekretaris Badan",
+        "jabatan": "Sekretaris Badan Pendapatan Daerah",
         "eselon": "III.a",
         "children": [
           {
@@ -329,7 +329,7 @@
   },
   {
     "name": "Badan Perencanaan Pembangunan, Riset, dan Inovasi Daerah",
-    "jabatan": "Kepala Badan",
+    "jabatan": "Kepala Badan Perencanaan Pembangunan, Riset, dan Inovasi Daerah",
     "eselon": "II.b",
     "children": [
       {
@@ -364,7 +364,7 @@
       },
       {
         "name": "Sekretariat Badan Perencanaan Pembangunan, Riset, dan Inovasi Daerah",
-        "jabatan": "Sekretaris Badan",
+        "jabatan": "Sekretaris Badan Perencanaan Pembangunan, Riset, dan Inovasi Daerah",
         "eselon": "III.a",
         "children": [
           {
@@ -385,12 +385,12 @@
   },
   {
     "name": "DINAS LINGKUNGAN HIDUP",
-    "jabatan": "Kepala Dinas",
+    "jabatan": "Kepala DINAS LINGKUNGAN HIDUP",
     "eselon": "II.b",
     "children": [
       {
         "name": "Sekretariat Dinas Dinas Lingkungan Hidup",
-        "jabatan": "Sekretaris Dinas",
+        "jabatan": "Sekretaris Dinas Dinas Lingkungan Hidup",
         "eselon": "III.a",
         "children": [
           {
@@ -457,37 +457,37 @@
       },
       {
         "name": "UPKP Wilayah Ajibarang",
-        "jabatan": "Kepala UPKP",
+        "jabatan": "Kepala",
         "eselon": "III.b",
         "children": []
       },
       {
         "name": "UPKP Wilayah Banyumas",
-        "jabatan": "Kepala UPKP",
+        "jabatan": "Kepala",
         "eselon": "III.b",
         "children": []
       },
       {
         "name": "UPKP Wilayah Kembaran",
-        "jabatan": "Kepala UPKP",
+        "jabatan": "Kepala",
         "eselon": "III.b",
         "children": []
       },
       {
         "name": "UPKP Wilayah Purwokerto",
-        "jabatan": "Kepala UPKP",
+        "jabatan": "Kepala",
         "eselon": "III.b",
         "children": []
       },
       {
         "name": "UPKP Wilayah Sumpiuh",
-        "jabatan": "Kepala UPKP",
+        "jabatan": "Kepala",
         "eselon": "III.b",
         "children": []
       },
       {
         "name": "UPKP Wilayah Wangon",
-        "jabatan": "Kepala UPKP",
+        "jabatan": "Kepala",
         "eselon": "III.b",
         "children": []
       },
@@ -507,12 +507,12 @@
   },
   {
     "name": "Dinas Penanaman Modal dan Pelayanan Terpadu Satu Pintu",
-    "jabatan": "Kepala Dinas",
+    "jabatan": "Kepala Dinas Penanaman Modal dan Pelayanan Terpadu Satu Pintu",
     "eselon": "II.b",
     "children": [
       {
         "name": "Sekretariat Dinas Penanaman Modal dan Pelayanan Terpadu Satu Pintu",
-        "jabatan": "Sekretaris Dinas",
+        "jabatan": "Sekretaris Dinas Penanaman Modal dan Pelayanan Terpadu Satu Pintu",
         "eselon": "III.a",
         "children": [
           {
@@ -557,12 +557,12 @@
   },
   {
     "name": "Dinas Arsip dan Perpustakaan Daerah",
-    "jabatan": "Kepala Dinas",
+    "jabatan": "Kepala Dinas Arsip dan Perpustakaan Daerah",
     "eselon": "II.b",
     "children": [
       {
         "name": "Sekretariat Dinas Arsip dan Perpustakaan Daerah",
-        "jabatan": "Sekretaris Dinas",
+        "jabatan": "Sekretaris Dinas Arsip dan Perpustakaan Daerah",
         "eselon": "III.a",
         "children": [
           {
@@ -601,12 +601,12 @@
   },
   {
     "name": "Dinas KP dan Perikanan",
-    "jabatan": "Kepala Dinas",
+    "jabatan": "Kepala Dinas KP dan Perikanan",
     "eselon": "II.b",
     "children": [
       {
         "name": "Sekretariat Dinas KP dan Perikanan",
-        "jabatan": "Sekretaris Dinas",
+        "jabatan": "Sekretaris Dinas KP dan Perikanan",
         "eselon": "III.a",
         "children": [
           {
@@ -657,12 +657,12 @@
   },
   {
     "name": "Dinas Kesehatan dan Keluarga Berencana",
-    "jabatan": "Kepala Dinas",
+    "jabatan": "Kepala Dinas Kesehatan dan Keluarga Berencana",
     "eselon": "II.b",
     "children": [
       {
         "name": "Sekretariat Dinas Kesehatan dan Keluarga Berencana",
-        "jabatan": "Sekretaris Dinas",
+        "jabatan": "Sekretaris Dinas Kesehatan dan Keluarga Berencana",
         "eselon": "III.a",
         "children": [
           {
@@ -1230,7 +1230,7 @@
       },
       {
         "name": "RSK Mata Purwokerto",
-        "jabatan": "Direktur",
+        "jabatan": "Kepala",
         "eselon": "III.b",
         "children": [
           {
@@ -1255,7 +1255,7 @@
       },
       {
         "name": "RSUD Ajibarang",
-        "jabatan": "Direktur",
+        "jabatan": "Direktur RSUD Ajibarang",
         "eselon": "III.b",
         "children": [
           {
@@ -1418,7 +1418,7 @@
       },
       {
         "name": "RSUD Banyumas",
-        "jabatan": "Direktur",
+        "jabatan": "Direktur RSUD Banyumas",
         "eselon": "III.b",
         "children": [
           {
@@ -1542,12 +1542,12 @@
   },
   {
     "name": "Dinas Pekerjaan Umum",
-    "jabatan": "Kepala Dinas",
+    "jabatan": "Kepala Dinas Pekerjaan Umum",
     "eselon": "II.b",
     "children": [
       {
         "name": "Sekretariat Dinas Pekerjaan Umum",
-        "jabatan": "Sekretaris Dinas",
+        "jabatan": "Sekretaris Dinas Pekerjaan Umum",
         "eselon": "III.a",
         "children": [
           {
@@ -1596,8 +1596,8 @@
       },
       {
         "name": "UPTD Pemeliharaan Jalan dan Irigasi Wilayah Ajibarang",
-        "jabatan": "Kepala UPTD",
-        "eselon": "III.b",
+        "jabatan": "Kepala",
+        "eselon": "IV.a",
         "children": [
           {
             "name": "Sub Bagian Tata Usaha",
@@ -1609,8 +1609,8 @@
       },
       {
         "name": "UPTD Pemeliharaan Jalan dan Irigasi Wilayah Banyumas",
-        "jabatan": "Kepala UPTD",
-        "eselon": "III.b",
+        "jabatan": "Kepala",
+        "eselon": "IV.a",
         "children": [
           {
             "name": "Sub Bagian Tata Usaha",
@@ -1622,8 +1622,8 @@
       },
       {
         "name": "UPTD Pemeliharaan Jalan dan Irigasi Wilayah Cilongok",
-        "jabatan": "Kepala UPTD",
-        "eselon": "III.b",
+        "jabatan": "Kepala",
+        "eselon": "IV.a",
         "children": [
           {
             "name": "Sub Bagian Tata Usaha",
@@ -1635,8 +1635,8 @@
       },
       {
         "name": "UPTD Pemeliharaan Jalan dan Irigasi Wilayah Jatilawang",
-        "jabatan": "Kepala UPTD",
-        "eselon": "III.b",
+        "jabatan": "Kepala",
+        "eselon": "IV.a",
         "children": [
           {
             "name": "Sub Bagian Tata Usaha",
@@ -1648,8 +1648,8 @@
       },
       {
         "name": "UPTD Pemeliharaan Jalan dan Irigasi Wilayah Purwokerto",
-        "jabatan": "Kepala UPTD",
-        "eselon": "III.b",
+        "jabatan": "Kepala",
+        "eselon": "IV.a",
         "children": [
           {
             "name": "Sub Bagian Tata Usaha",
@@ -1661,8 +1661,8 @@
       },
       {
         "name": "UPTD Pemeliharaan Jalan dan Irigasi Wilayah Sokaraja",
-        "jabatan": "Kepala UPTD",
-        "eselon": "III.b",
+        "jabatan": "Kepala",
+        "eselon": "IV.a",
         "children": [
           {
             "name": "Sub Bagian Tata Usaha",
@@ -1674,8 +1674,8 @@
       },
       {
         "name": "UPTD Pemeliharaan Jalan dan Irigasi Wilayah Sumpiuh",
-        "jabatan": "Kepala UPTD",
-        "eselon": "III.b",
+        "jabatan": "Kepala",
+        "eselon": "IV.a",
         "children": [
           {
             "name": "Sub Bagian Tata Usaha",
@@ -1689,7 +1689,7 @@
   },
   {
     "name": "Dinas Pemberdayaan Masyarakat dan Desa",
-    "jabatan": "Kepala Dinas",
+    "jabatan": "Kepala Dinas Pemberdayaan Masyarakat dan Desa",
     "eselon": "II.b",
     "children": [
       {
@@ -1700,7 +1700,7 @@
       },
       {
         "name": "Sekretariat Dinas Pemberdayaan Masyarakat dan Desa",
-        "jabatan": "Sekretaris Dinas",
+        "jabatan": "Sekretaris Dinas Pemberdayaan Masyarakat dan Desa",
         "eselon": "III.a",
         "children": [
           {
@@ -1745,12 +1745,12 @@
   },
   {
     "name": "Dinas Pendidikan",
-    "jabatan": "Kepala Dinas",
+    "jabatan": "Kepala Dinas Pendidikan",
     "eselon": "II.b",
     "children": [
       {
         "name": "Sekretariat Dinas Pendidikan",
-        "jabatan": "Sekretaris Dinas",
+        "jabatan": "Sekretaris Dinas Pendidikan",
         "eselon": "III.a",
         "children": [
           {
@@ -2229,55 +2229,55 @@
       {
         "name": "Taman Kanak-Kanak Negeri Purwojati",
         "jabatan": "Kepala",
-        "eselon": "",
+        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Taman Kanak-Kanak Negeri Purwokerto Barat",
         "jabatan": "Kepala",
-        "eselon": "",
+        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Taman Kanak-Kanak Negeri Purwokerto Selatan",
         "jabatan": "Kepala",
-        "eselon": "",
+        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Taman Kanak-Kanak Negeri Purwokerto Timur",
         "jabatan": "Kepala",
-        "eselon": "",
+        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Taman Kanak-Kanak Negeri Purwokerto Utara",
         "jabatan": "Kepala",
-        "eselon": "",
+        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Taman Kanak-Kanak Negeri Rawalo",
         "jabatan": "Kepala",
-        "eselon": "",
+        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Taman Kanak-Kanak Negeri Sumpiuh",
         "jabatan": "Kepala",
-        "eselon": "",
+        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Taman Kanak-Kanak Negeri Tambak",
         "jabatan": "Kepala",
-        "eselon": "",
+        "eselon": "III.b",
         "children": []
       },
       {
         "name": "Taman Kanak-Kanak Negeri Wangon",
         "jabatan": "Kepala",
-        "eselon": "",
+        "eselon": "III.b",
         "children": []
       },
       {
@@ -6024,12 +6024,12 @@
   },
   {
     "name": "Dinas Pertanian",
-    "jabatan": "Kepala Dinas",
+    "jabatan": "Kepala Dinas Pertanian",
     "eselon": "II.b",
     "children": [
       {
         "name": "Sekretariat Dinas Pertanian",
-        "jabatan": "Sekretaris Dinas",
+        "jabatan": "Sekretaris Dinas Pertanian",
         "eselon": "III.a",
         "children": [
           {
@@ -6104,7 +6104,7 @@
   },
   {
     "name": "Dinas Sosial, Pemberdayaan Perempuan dan Perlindungan Anak",
-    "jabatan": "Kepala Dinas",
+    "jabatan": "Kepala Dinas Sosial, Pemberdayaan Perempuan dan Perlindungan Anak",
     "eselon": "II.b",
     "children": [
       {
@@ -6115,7 +6115,7 @@
       },
       {
         "name": "Sekretariat Dinas Sosial, Pemberdayaan Perempuan dan Perlindungan Anak",
-        "jabatan": "Sekretaris Dinas",
+        "jabatan": "Sekretaris Dinas Sosial, Pemberdayaan Perempuan dan Perlindungan Anak",
         "eselon": "III.a",
         "children": [
           {
@@ -6166,12 +6166,12 @@
   },
   {
     "name": "Dinas Kependudukan dan Pencatatan Sipil",
-    "jabatan": "Kepala Dinas",
+    "jabatan": "Kepala Dinas Kependudukan dan Pencatatan Sipil",
     "eselon": "II.b",
     "children": [
       {
         "name": "Sekretariat Dinas Kependudukan dan Pencatatan Sipil",
-        "jabatan": "Sekretaris Dinas",
+        "jabatan": "Sekretaris Dinas Kependudukan dan Pencatatan Sipil",
         "eselon": "III.a",
         "children": [
           {
@@ -6216,12 +6216,12 @@
   },
   {
     "name": "Dinas Perhubungan",
-    "jabatan": "Kepala Dinas",
+    "jabatan": "Kepala Dinas Perhubungan",
     "eselon": "II.b",
     "children": [
       {
         "name": "Sekretariat Dinas Perhubungan",
-        "jabatan": "Sekretaris Dinas",
+        "jabatan": "Sekretaris Dinas Perhubungan",
         "eselon": "III.a",
         "children": [
           {
@@ -6350,12 +6350,12 @@
   },
   {
     "name": "Dinas Komunikasi dan Informatika",
-    "jabatan": "Kepala Dinas",
+    "jabatan": "Kepala Dinas Komunikasi dan Informatika",
     "eselon": "II.b",
     "children": [
       {
         "name": "Sekretariat Dinas Komunikasi dan Informatika",
-        "jabatan": "Sekretaris Dinas",
+        "jabatan": "Sekretaris Dinas Komunikasi dan Informatika",
         "eselon": "III.a",
         "children": [
           {
@@ -6394,12 +6394,12 @@
   },
   {
     "name": "Dinas Koperasi, Usaha Kecil dan Menengah dan Perdagangan",
-    "jabatan": "Kepala Dinas",
+    "jabatan": "Kepala Dinas Koperasi, Usaha Kecil dan Menengah dan Perdagangan",
     "eselon": "II.b",
     "children": [
       {
         "name": "Sekretariat Dinas Koperasi, Usaha Kecil dan Menengah dan Perdagangan",
-        "jabatan": "Sekretaris Dinas",
+        "jabatan": "Sekretaris Dinas Koperasi, Usaha Kecil dan Menengah dan Perdagangan",
         "eselon": "III.a",
         "children": [
           {
@@ -6468,12 +6468,12 @@
   },
   {
     "name": "Dinas Tenaga Kerja dan Perindustrian",
-    "jabatan": "Kepala Dinas",
+    "jabatan": "Kepala Dinas Tenaga Kerja dan Perindustrian",
     "eselon": "II.b",
     "children": [
       {
         "name": "Sekretariat Dinas Tenaga Kerja dan Perindustrian",
-        "jabatan": "Sekretaris Dinas",
+        "jabatan": "Sekretaris Dinas Tenaga Kerja dan Perindustrian",
         "eselon": "III.a",
         "children": [
           {
@@ -6518,12 +6518,12 @@
   },
   {
     "name": "Dinas Perumahan dan Kawasan Permukiman",
-    "jabatan": "Kepala Dinas",
+    "jabatan": "Kepala Dinas Perumahan dan Kawasan Permukiman",
     "eselon": "II.b",
     "children": [
       {
         "name": "Sekretariat Dinas Perumahan dan Kawasan Permukiman",
-        "jabatan": "Sekretaris Dinas",
+        "jabatan": "Sekretaris Dinas Perumahan dan Kawasan Permukiman",
         "eselon": "III.a",
         "children": [
           {
@@ -6586,12 +6586,12 @@
   },
   {
     "name": "Dinas Pertanian dan Ketahanan Pangan",
-    "jabatan": "Kepala Dinas",
+    "jabatan": "Kepala Dinas Pertanian dan Ketahanan Pangan",
     "eselon": "II.b",
     "children": [
       {
         "name": "Sekretariat Dinas Pertanian dan Ketahanan Pangan",
-        "jabatan": "Sekretaris Dinas",
+        "jabatan": "Sekretaris Dinas Pertanian dan Ketahanan Pangan",
         "eselon": "III.a",
         "children": [
           {
@@ -6661,12 +6661,12 @@
   },
   {
     "name": "Dinas Kepemudaan, Olahraga, dan Pariwisata",
-    "jabatan": "Kepala Dinas",
+    "jabatan": "Kepala Dinas Kepemudaan, Olahraga, dan Pariwisata",
     "eselon": "II.b",
     "children": [
       {
         "name": "Sekretariat Dinas Kepemudaan, Olahraga, dan Pariwisata",
-        "jabatan": "Sekretaris Dinas",
+        "jabatan": "Sekretaris Dinas Kepemudaan, Olahraga, dan Pariwisata",
         "eselon": "III.a",
         "children": [
           {

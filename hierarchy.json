@@ -9149,12 +9149,12 @@
     "children": [
       {
         "name": "Kelurahan Bantarsoka",
-        "jabatan": "Kepala",
+        "jabatan": "Lurah Bantarsoka",
         "eselon": "IV.a",
         "children": [
           {
             "name": "Sekretariat Kelurahan",
-            "jabatan": "Kepala",
+            "jabatan": "Sekretaris Kelurahan Bantarsoka",
             "eselon": "IV.b",
             "children": [],
             "id": 1408
@@ -9185,12 +9185,12 @@
       },
       {
         "name": "Kelurahan Karanglewas Lor",
-        "jabatan": "Kepala",
+        "jabatan": "Lurah Karanglewas Lor",
         "eselon": "IV.a",
         "children": [
           {
             "name": "Sekretariat Kelurahan",
-            "jabatan": "Kepala",
+            "jabatan": "Sekretaris Kelurahan Karanglewas Lor",
             "eselon": "IV.b",
             "children": [],
             "id": 1413
@@ -9221,12 +9221,12 @@
       },
       {
         "name": "Kelurahan Kedungwuluh",
-        "jabatan": "Kepala",
+        "jabatan": "Lurah Kedungwuluh",
         "eselon": "IV.a",
         "children": [
           {
             "name": "Sekretariat Kelurahan",
-            "jabatan": "Kepala",
+            "jabatan": "Sekretaris Kelurahan Kedungwuluh",
             "eselon": "IV.b",
             "children": [],
             "id": 1418
@@ -9257,12 +9257,12 @@
       },
       {
         "name": "Kelurahan Kober",
-        "jabatan": "Kepala",
+        "jabatan": "Lurah Kober",
         "eselon": "IV.a",
         "children": [
           {
             "name": "Sekretariat Kelurahan",
-            "jabatan": "Kepala",
+            "jabatan": "Sekretaris Kelurahan Kober",
             "eselon": "IV.b",
             "children": [],
             "id": 1423
@@ -9293,12 +9293,12 @@
       },
       {
         "name": "Kelurahan Pasir Kidul",
-        "jabatan": "Kepala",
+        "jabatan": "Lurah Pasir Kidul",
         "eselon": "IV.a",
         "children": [
           {
             "name": "Sekretariat Kelurahan",
-            "jabatan": "Kepala",
+            "jabatan": "Sekretaris Kelurahan Pasir Kidul",
             "eselon": "IV.b",
             "children": [],
             "id": 1428
@@ -9329,12 +9329,12 @@
       },
       {
         "name": "Kelurahan Pasirmuncang",
-        "jabatan": "Kepala",
+        "jabatan": "Lurah Pasirmuncang",
         "eselon": "IV.a",
         "children": [
           {
             "name": "Sekretariat Kelurahan",
-            "jabatan": "Kepala",
+            "jabatan": "Sekretaris Kelurahan Pasirmuncang",
             "eselon": "IV.b",
             "children": [],
             "id": 1433
@@ -9365,12 +9365,12 @@
       },
       {
         "name": "Kelurahan Rejasari",
-        "jabatan": "Kepala",
+        "jabatan": "Lurah Rejasari",
         "eselon": "IV.a",
         "children": [
           {
             "name": "Sekretariat Kelurahan",
-            "jabatan": "Kepala",
+            "jabatan": "Sekretaris Kelurahan Rejasari",
             "eselon": "IV.b",
             "children": [],
             "id": 1438
@@ -9459,12 +9459,12 @@
     "children": [
       {
         "name": "Kelurahan Berkoh",
-        "jabatan": "Kepala",
+        "jabatan": "Lurah Berkoh",
         "eselon": "IV.a",
         "children": [
           {
             "name": "Sekretariat Kelurahan",
-            "jabatan": "Kepala",
+            "jabatan": "Sekretaris Kelurahan Berkoh",
             "eselon": "IV.b",
             "children": [],
             "id": 1451
@@ -9495,12 +9495,12 @@
       },
       {
         "name": "Kelurahan Karangklesem",
-        "jabatan": "Kepala",
+        "jabatan": "Lurah Karangklesem",
         "eselon": "IV.a",
         "children": [
           {
             "name": "Sekretariat Kelurahan",
-            "jabatan": "Kepala",
+            "jabatan": "Sekretaris Kelurahan Karangklesem",
             "eselon": "IV.b",
             "children": [],
             "id": 1456
@@ -9531,12 +9531,12 @@
       },
       {
         "name": "Kelurahan Karangpucung",
-        "jabatan": "Kepala",
+        "jabatan": "Lurah Karangpucung",
         "eselon": "IV.a",
         "children": [
           {
             "name": "Sekretariat Kelurahan",
-            "jabatan": "Kepala",
+            "jabatan": "Sekretaris Kelurahan Karangpucung",
             "eselon": "IV.b",
             "children": [],
             "id": 1461
@@ -9567,12 +9567,12 @@
       },
       {
         "name": "Kelurahan Purwokerto Kidul",
-        "jabatan": "Kepala",
+        "jabatan": "Lurah Purwokerto Kidul",
         "eselon": "IV.a",
         "children": [
           {
             "name": "Sekretariat Kelurahan",
-            "jabatan": "Kepala",
+            "jabatan": "Sekretaris Kelurahan Purwokerto Kidul",
             "eselon": "IV.b",
             "children": [],
             "id": 1466
@@ -9603,12 +9603,12 @@
       },
       {
         "name": "Kelurahan Purwokerto Kulon",
-        "jabatan": "Kepala",
+        "jabatan": "Lurah Purwokerto Kulon",
         "eselon": "IV.a",
         "children": [
           {
             "name": "Sekretariat Kelurahan",
-            "jabatan": "Kepala",
+            "jabatan": "Sekretaris Kelurahan Purwokerto Kulon",
             "eselon": "IV.b",
             "children": [],
             "id": 1471
@@ -9639,12 +9639,12 @@
       },
       {
         "name": "Kelurahan Tanjung",
-        "jabatan": "Kepala",
+        "jabatan": "Lurah Tanjung",
         "eselon": "IV.a",
         "children": [
           {
             "name": "Sekretariat Kelurahan",
-            "jabatan": "Kepala",
+            "jabatan": "Sekretaris Kelurahan Tanjung",
             "eselon": "IV.b",
             "children": [],
             "id": 1476
@@ -9675,12 +9675,12 @@
       },
       {
         "name": "Kelurahan Teluk",
-        "jabatan": "Kepala",
+        "jabatan": "Lurah Teluk",
         "eselon": "IV.a",
         "children": [
           {
             "name": "Sekretariat Kelurahan",
-            "jabatan": "Kepala",
+            "jabatan": "Sekretaris Kelurahan Teluk",
             "eselon": "IV.b",
             "children": [],
             "id": 1481
@@ -9769,12 +9769,12 @@
     "children": [
       {
         "name": "Kelurahan Arcawinangun",
-        "jabatan": "Kepala",
+        "jabatan": "Lurah Arcawinangun",
         "eselon": "IV.a",
         "children": [
           {
             "name": "Sekretariat Kelurahan",
-            "jabatan": "Kepala",
+            "jabatan": "Sekretaris Kelurahan Arcawinangun",
             "eselon": "IV.b",
             "children": [],
             "id": 1494
@@ -9805,12 +9805,12 @@
       },
       {
         "name": "Kelurahan Kranji",
-        "jabatan": "Kepala",
+        "jabatan": "Lurah Kranji",
         "eselon": "IV.a",
         "children": [
           {
             "name": "Sekretariat Kelurahan",
-            "jabatan": "Kepala",
+            "jabatan": "Sekretaris Kelurahan Kranji",
             "eselon": "IV.b",
             "children": [],
             "id": 1499
@@ -9841,12 +9841,12 @@
       },
       {
         "name": "Kelurahan Mersi",
-        "jabatan": "Kepala",
+        "jabatan": "Lurah Mersi",
         "eselon": "IV.a",
         "children": [
           {
             "name": "Sekretariat Kelurahan",
-            "jabatan": "Kepala",
+            "jabatan": "Sekretaris Kelurahan Mersi",
             "eselon": "IV.b",
             "children": [],
             "id": 1504
@@ -9877,12 +9877,12 @@
       },
       {
         "name": "Kelurahan Purwokerto Lor",
-        "jabatan": "Kepala",
+        "jabatan": "Lurah Purwokerto Lor",
         "eselon": "IV.a",
         "children": [
           {
             "name": "Sekretariat Kelurahan",
-            "jabatan": "Kepala",
+            "jabatan": "Sekretaris Kelurahan Purwokerto Lor",
             "eselon": "IV.b",
             "children": [],
             "id": 1509
@@ -9913,12 +9913,12 @@
       },
       {
         "name": "Kelurahan Purwokerto Wetan",
-        "jabatan": "Kepala",
+        "jabatan": "Lurah Purwokerto Wetan",
         "eselon": "IV.a",
         "children": [
           {
             "name": "Sekretariat Kelurahan",
-            "jabatan": "Kepala",
+            "jabatan": "Sekretaris Kelurahan Purwokerto Wetan",
             "eselon": "IV.b",
             "children": [],
             "id": 1514
@@ -9949,12 +9949,12 @@
       },
       {
         "name": "Kelurahan Sokanegara",
-        "jabatan": "Kepala",
+        "jabatan": "Lurah Sokanegara",
         "eselon": "IV.a",
         "children": [
           {
             "name": "Sekretariat Kelurahan",
-            "jabatan": "Kepala",
+            "jabatan": "Sekretaris Kelurahan Sokanegara",
             "eselon": "IV.b",
             "children": [],
             "id": 1519
@@ -10043,12 +10043,12 @@
     "children": [
       {
         "name": "Kelurahan Bancarkembar",
-        "jabatan": "Kepala",
+        "jabatan": "Lurah Bancarkembar",
         "eselon": "IV.a",
         "children": [
           {
             "name": "Sekretariat Kelurahan",
-            "jabatan": "Kepala",
+            "jabatan": "Sekretaris Kelurahan Bancarkembar",
             "eselon": "IV.b",
             "children": [],
             "id": 1532
@@ -10079,12 +10079,12 @@
       },
       {
         "name": "Kelurahan Bobosan",
-        "jabatan": "Kepala",
+        "jabatan": "Lurah Bobosan",
         "eselon": "IV.a",
         "children": [
           {
             "name": "Sekretariat Kelurahan",
-            "jabatan": "Kepala",
+            "jabatan": "Sekretaris Kelurahan Bobosan",
             "eselon": "IV.b",
             "children": [],
             "id": 1537
@@ -10115,12 +10115,12 @@
       },
       {
         "name": "Kelurahan Grendeng",
-        "jabatan": "Kepala",
+        "jabatan": "Lurah Grendeng",
         "eselon": "IV.a",
         "children": [
           {
             "name": "Sekretariat Kelurahan",
-            "jabatan": "Kepala",
+            "jabatan": "Sekretaris Kelurahan Grendeng",
             "eselon": "IV.b",
             "children": [],
             "id": 1542
@@ -10151,12 +10151,12 @@
       },
       {
         "name": "Kelurahan Karangwangkal",
-        "jabatan": "Kepala",
+        "jabatan": "Lurah Karangwangkal",
         "eselon": "IV.a",
         "children": [
           {
             "name": "Sekretariat Kelurahan",
-            "jabatan": "Kepala",
+            "jabatan": "Sekretaris Kelurahan Karangwangkal",
             "eselon": "IV.b",
             "children": [],
             "id": 1547
@@ -10187,12 +10187,12 @@
       },
       {
         "name": "Kelurahan Pabuwaran",
-        "jabatan": "Kepala",
+        "jabatan": "Lurah Pabuwaran",
         "eselon": "IV.a",
         "children": [
           {
             "name": "Sekretariat Kelurahan",
-            "jabatan": "Kepala",
+            "jabatan": "Sekretaris Kelurahan Pabuwaran",
             "eselon": "IV.b",
             "children": [],
             "id": 1552
@@ -10223,12 +10223,12 @@
       },
       {
         "name": "Kelurahan Purwanegara",
-        "jabatan": "Kepala",
+        "jabatan": "Lurah Purwanegara",
         "eselon": "IV.a",
         "children": [
           {
             "name": "Sekretariat Kelurahan",
-            "jabatan": "Kepala",
+            "jabatan": "Sekretaris Kelurahan Purwanegara",
             "eselon": "IV.b",
             "children": [],
             "id": 1557
@@ -10259,12 +10259,12 @@
       },
       {
         "name": "Kelurahan Sumampir",
-        "jabatan": "Kepala",
+        "jabatan": "Lurah Sumampir",
         "eselon": "IV.a",
         "children": [
           {
             "name": "Sekretariat Kelurahan",
-            "jabatan": "Kepala",
+            "jabatan": "Sekretaris Kelurahan Sumampir",
             "eselon": "IV.b",
             "children": [],
             "id": 1562
@@ -10613,12 +10613,12 @@
     "children": [
       {
         "name": "Kelurahan Kebokura",
-        "jabatan": "Kepala",
+        "jabatan": "Lurah Kebokura",
         "eselon": "IV.a",
         "children": [
           {
             "name": "Sekretariat Kelurahan",
-            "jabatan": "Kepala",
+            "jabatan": "Sekretaris Kelurahan Kebokura",
             "eselon": "IV.b",
             "children": [],
             "id": 1611
@@ -10649,12 +10649,12 @@
       },
       {
         "name": "Kelurahan Kradenan",
-        "jabatan": "Kepala",
+        "jabatan": "Lurah Kradenan",
         "eselon": "IV.a",
         "children": [
           {
             "name": "Sekretariat Kelurahan",
-            "jabatan": "Kepala",
+            "jabatan": "Sekretaris Kelurahan Kradenan",
             "eselon": "IV.b",
             "children": [],
             "id": 1616
@@ -10685,12 +10685,12 @@
       },
       {
         "name": "Kelurahan Sumpiuh",
-        "jabatan": "Kepala",
+        "jabatan": "Lurah Sumpiuh",
         "eselon": "IV.a",
         "children": [
           {
             "name": "Sekretariat Kelurahan",
-            "jabatan": "Kepala",
+            "jabatan": "Sekretaris Kelurahan Sumpiuh",
             "eselon": "IV.b",
             "children": [],
             "id": 1621

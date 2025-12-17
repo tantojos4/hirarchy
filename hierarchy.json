@@ -8111,12 +8111,12 @@
   },
   {
     "name": "Kecamatan Ajibarang",
-    "jabatan": "Camat",
+    "jabatan": "Camat Ajibarang",
     "eselon": "III.a",
     "children": [
       {
         "name": "Sekretariat Kecamatan",
-        "jabatan": "Sekretaris Kecamatan",
+        "jabatan": "Sekretaris Kecamatan Ajibarang",
         "eselon": "III.b",
         "children": [
           {
@@ -8176,12 +8176,12 @@
   },
   {
     "name": "Kecamatan Banyumas",
-    "jabatan": "Camat",
+    "jabatan": "Camat Banyumas",
     "eselon": "III.a",
     "children": [
       {
         "name": "Sekretariat Kecamatan",
-        "jabatan": "Sekretaris Kecamatan",
+        "jabatan": "Sekretaris Kecamatan Banyumas",
         "eselon": "III.b",
         "children": [
           {
@@ -8241,12 +8241,12 @@
   },
   {
     "name": "Kecamatan Baturraden",
-    "jabatan": "Camat",
+    "jabatan": "Camat Baturraden",
     "eselon": "III.a",
     "children": [
       {
         "name": "Sekretariat Kecamatan",
-        "jabatan": "Sekretaris Kecamatan",
+        "jabatan": "Sekretaris Kecamatan Baturraden",
         "eselon": "III.b",
         "children": [
           {
@@ -8306,12 +8306,12 @@
   },
   {
     "name": "Kecamatan Cilongok",
-    "jabatan": "Camat",
+    "jabatan": "Camat Cilongok",
     "eselon": "III.a",
     "children": [
       {
         "name": "Sekretariat Kecamatan",
-        "jabatan": "Sekretaris Kecamatan",
+        "jabatan": "Sekretaris Kecamatan Cilongok",
         "eselon": "III.b",
         "children": [
           {
@@ -8371,12 +8371,12 @@
   },
   {
     "name": "Kecamatan Gumelar",
-    "jabatan": "Camat",
+    "jabatan": "Camat Gumelar",
     "eselon": "III.a",
     "children": [
       {
         "name": "Sekretariat Kecamatan",
-        "jabatan": "Sekretaris Kecamatan",
+        "jabatan": "Sekretaris Kecamatan Gumelar",
         "eselon": "III.b",
         "children": [
           {
@@ -8436,12 +8436,12 @@
   },
   {
     "name": "Kecamatan Jatilawang",
-    "jabatan": "Camat",
+    "jabatan": "Camat Jatilawang",
     "eselon": "III.a",
     "children": [
       {
         "name": "Sekretariat Kecamatan",
-        "jabatan": "Sekretaris Kecamatan",
+        "jabatan": "Sekretaris Kecamatan Jatilawang",
         "eselon": "III.b",
         "children": [
           {
@@ -8501,12 +8501,12 @@
   },
   {
     "name": "Kecamatan Kalibagor",
-    "jabatan": "Camat",
+    "jabatan": "Camat Kalibagor",
     "eselon": "III.a",
     "children": [
       {
         "name": "Sekretariat Kecamatan",
-        "jabatan": "Sekretaris Kecamatan",
+        "jabatan": "Sekretaris Kecamatan Kalibagor",
         "eselon": "III.b",
         "children": [
           {
@@ -8559,12 +8559,12 @@
   },
   {
     "name": "Kecamatan Karanglewas",
-    "jabatan": "Camat",
+    "jabatan": "Camat Karanglewas",
     "eselon": "III.a",
     "children": [
       {
         "name": "Sekretariat Kecamatan",
-        "jabatan": "Sekretaris Kecamatan",
+        "jabatan": "Sekretaris Kecamatan Karanglewas",
         "eselon": "III.b",
         "children": [
           {
@@ -8624,12 +8624,12 @@
   },
   {
     "name": "Kecamatan Kebasen",
-    "jabatan": "Camat",
+    "jabatan": "Camat Kebasen",
     "eselon": "III.a",
     "children": [
       {
         "name": "Sekretariat Kecamatan",
-        "jabatan": "Sekretaris Kecamatan",
+        "jabatan": "Sekretaris Kecamatan Kebasen",
         "eselon": "III.b",
         "children": [
           {
@@ -8689,12 +8689,12 @@
   },
   {
     "name": "Kecamatan Kedungbanteng",
-    "jabatan": "Camat",
+    "jabatan": "Camat Kedungbanteng",
     "eselon": "III.a",
     "children": [
       {
         "name": "Sekretariat Kecamatan",
-        "jabatan": "Sekretaris Kecamatan",
+        "jabatan": "Sekretaris Kecamatan Kedungbanteng",
         "eselon": "III.b",
         "children": [
           {
@@ -8754,12 +8754,12 @@
   },
   {
     "name": "Kecamatan Kembaran",
-    "jabatan": "Camat",
+    "jabatan": "Camat Kembaran",
     "eselon": "III.a",
     "children": [
       {
         "name": "Sekretariat Kecamatan",
-        "jabatan": "Sekretaris Kecamatan",
+        "jabatan": "Sekretaris Kecamatan Kembaran",
         "eselon": "III.b",
         "children": [
           {
@@ -8819,12 +8819,12 @@
   },
   {
     "name": "Kecamatan Kemranjen",
-    "jabatan": "Camat",
+    "jabatan": "Camat Kemranjen",
     "eselon": "III.a",
     "children": [
       {
         "name": "Sekretariat Kecamatan",
-        "jabatan": "Sekretaris Kecamatan",
+        "jabatan": "Sekretaris Kecamatan Kemranjen",
         "eselon": "III.b",
         "children": [
           {
@@ -8884,12 +8884,12 @@
   },
   {
     "name": "Kecamatan Lumbir",
-    "jabatan": "Camat",
+    "jabatan": "Camat Lumbir",
     "eselon": "III.a",
     "children": [
       {
         "name": "Sekretariat Kecamatan",
-        "jabatan": "Sekretaris Kecamatan",
+        "jabatan": "Sekretaris Kecamatan Lumbir",
         "eselon": "III.b",
         "children": [
           {
@@ -8949,12 +8949,12 @@
   },
   {
     "name": "Kecamatan Patikraja",
-    "jabatan": "Camat",
+    "jabatan": "Camat Patikraja",
     "eselon": "III.a",
     "children": [
       {
         "name": "Sekretariat Kecamatan",
-        "jabatan": "Sekretaris Kecamatan",
+        "jabatan": "Sekretaris Kecamatan Patikraja",
         "eselon": "III.b",
         "children": [
           {
@@ -9014,12 +9014,12 @@
   },
   {
     "name": "Kecamatan Pekuncen",
-    "jabatan": "Camat",
+    "jabatan": "Camat Pekuncen",
     "eselon": "III.a",
     "children": [
       {
         "name": "Sekretariat Kecamatan",
-        "jabatan": "Sekretaris Kecamatan",
+        "jabatan": "Sekretaris Kecamatan Pekuncen",
         "eselon": "III.b",
         "children": [
           {
@@ -9079,12 +9079,12 @@
   },
   {
     "name": "Kecamatan Purwojati",
-    "jabatan": "Camat",
+    "jabatan": "Camat Purwojati",
     "eselon": "III.a",
     "children": [
       {
         "name": "Sekretariat Kecamatan",
-        "jabatan": "Sekretaris Kecamatan",
+        "jabatan": "Sekretaris Kecamatan Purwojati",
         "eselon": "III.b",
         "children": [
           {
@@ -9144,7 +9144,7 @@
   },
   {
     "name": "Kecamatan Purwokerto Barat",
-    "jabatan": "Camat",
+    "jabatan": "Camat Purwokerto Barat",
     "eselon": "III.a",
     "children": [
       {
@@ -9401,7 +9401,7 @@
       },
       {
         "name": "Sekretariat Kecamatan",
-        "jabatan": "Sekretaris Kecamatan",
+        "jabatan": "Sekretaris Kecamatan Purwokerto Barat",
         "eselon": "III.b",
         "children": [
           {
@@ -9454,7 +9454,7 @@
   },
   {
     "name": "Kecamatan Purwokerto Selatan",
-    "jabatan": "Camat",
+    "jabatan": "Camat Purwokerto Selatan",
     "eselon": "III.a",
     "children": [
       {
@@ -9711,7 +9711,7 @@
       },
       {
         "name": "Sekretariat Kecamatan",
-        "jabatan": "Sekretaris Kecamatan",
+        "jabatan": "Sekretaris Kecamatan Purwokerto Selatan",
         "eselon": "III.b",
         "children": [
           {
@@ -9764,7 +9764,7 @@
   },
   {
     "name": "Kecamatan Purwokerto Timur",
-    "jabatan": "Camat",
+    "jabatan": "Camat Purwokerto Timur",
     "eselon": "III.a",
     "children": [
       {
@@ -9985,7 +9985,7 @@
       },
       {
         "name": "Sekretariat Kecamatan",
-        "jabatan": "Sekretaris Kecamatan",
+        "jabatan": "Sekretaris Kecamatan Purwokerto Timur",
         "eselon": "III.b",
         "children": [
           {
@@ -10038,7 +10038,7 @@
   },
   {
     "name": "Kecamatan Purwokerto Utara",
-    "jabatan": "Camat",
+    "jabatan": "Camat Purwokerto Utara",
     "eselon": "III.a",
     "children": [
       {
@@ -10295,7 +10295,7 @@
       },
       {
         "name": "Sekretariat Kecamatan",
-        "jabatan": "Sekretaris Kecamatan",
+        "jabatan": "Sekretaris Kecamatan Purwokerto Utara",
         "eselon": "III.b",
         "children": [
           {
@@ -10348,12 +10348,12 @@
   },
   {
     "name": "Kecamatan Rawalo",
-    "jabatan": "Camat",
+    "jabatan": "Camat Rawalo",
     "eselon": "III.a",
     "children": [
       {
         "name": "Sekretariat Kecamatan",
-        "jabatan": "Sekretaris Kecamatan",
+        "jabatan": "Sekretaris Kecamatan Rawalo",
         "eselon": "III.b",
         "children": [
           {
@@ -10413,12 +10413,12 @@
   },
   {
     "name": "Kecamatan Sokaraja",
-    "jabatan": "Camat",
+    "jabatan": "Camat Sokaraja",
     "eselon": "III.a",
     "children": [
       {
         "name": "Sekretariat Kecamatan",
-        "jabatan": "Sekretaris Kecamatan",
+        "jabatan": "Sekretaris Kecamatan Sokaraja",
         "eselon": "III.b",
         "children": [
           {
@@ -10478,12 +10478,12 @@
   },
   {
     "name": "Kecamatan Somagede",
-    "jabatan": "Camat",
+    "jabatan": "Camat Somagede",
     "eselon": "III.a",
     "children": [
       {
         "name": "Sekretariat Kecamatan",
-        "jabatan": "Sekretaris Kecamatan",
+        "jabatan": "Sekretaris Kecamatan Somagede",
         "eselon": "III.b",
         "children": [
           {
@@ -10543,12 +10543,12 @@
   },
   {
     "name": "Kecamatan Sumbang",
-    "jabatan": "Camat",
+    "jabatan": "Camat Sumbang",
     "eselon": "III.a",
     "children": [
       {
         "name": "Sekretariat Kecamatan",
-        "jabatan": "Sekretaris Kecamatan",
+        "jabatan": "Sekretaris Kecamatan Sumbang",
         "eselon": "III.b",
         "children": [
           {
@@ -10608,7 +10608,7 @@
   },
   {
     "name": "Kecamatan Sumpiuh",
-    "jabatan": "Camat",
+    "jabatan": "Camat Sumpiuh",
     "eselon": "III.a",
     "children": [
       {
@@ -10721,7 +10721,7 @@
       },
       {
         "name": "Sekretariat Kecamatan",
-        "jabatan": "Sekretaris Kecamatan",
+        "jabatan": "Sekretaris Kecamatan Sumpiuh",
         "eselon": "III.b",
         "children": [
           {
@@ -10781,12 +10781,12 @@
   },
   {
     "name": "Kecamatan Tambak",
-    "jabatan": "Camat",
+    "jabatan": "Camat Tambak",
     "eselon": "III.a",
     "children": [
       {
         "name": "Sekretariat Kecamatan",
-        "jabatan": "Sekretaris Kecamatan",
+        "jabatan": "Sekretaris Kecamatan Tambak",
         "eselon": "III.b",
         "children": [
           {
@@ -10846,12 +10846,12 @@
   },
   {
     "name": "Kecamatan Wangon",
-    "jabatan": "Camat",
+    "jabatan": "Camat Wangon",
     "eselon": "III.a",
     "children": [
       {
         "name": "Sekretariat Kecamatan",
-        "jabatan": "Sekretaris Kecamatan",
+        "jabatan": "Sekretaris Kecamatan Wangon",
         "eselon": "III.b",
         "children": [
           {

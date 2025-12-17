@@ -94,20 +94,28 @@ def simplify_jabatan(jabatan):
     elif jabatan_lower.startswith('staf ahli bupati '):
         return 'Staf Ahli Bupati'
     
-    # 16. "Inspektur Pembantu I/II/III/IV/V" -> "Inspektur Pembantu"
+    # 16. "Camat X" -> "Camat"
+    elif jabatan_lower.startswith('camat '):
+        return 'Camat'
+    
+    # 17. "Sekretaris Kecamatan X" -> "Sekretaris Kecamatan"
+    elif jabatan_lower.startswith('sekretaris kecamatan '):
+        return 'Sekretaris Kecamatan'
+    
+    # 18. "Inspektur Pembantu I/II/III/IV/V" -> "Inspektur Pembantu"
     elif jabatan_lower.startswith('inspektur pembantu '):
         return 'Inspektur Pembantu'
     
-    # 17. "Kepala UPTD X" -> "Kepala Unit"
+    # 19. "Kepala UPTD X" -> "Kepala Unit"
     elif jabatan_lower.startswith('kepala uptd '):
         return 'Kepala Unit'
     
-    # 18. "Kepala UPT X" -> "Kepala Unit"
+    # 20. "Kepala UPT X" -> "Kepala Unit"
     elif jabatan_lower.startswith('kepala upt '):
         return 'Kepala Unit'
     
-    # 19. "Kepala UPKP" (special case, should remain as is)
-    # 20. "Kepala Unit" (should remain as is)
+    # 21. "Kepala UPKP" (special case, should remain as is)
+    # 22. "Kepala Unit" (should remain as is)
     # For other cases, return as is
     return jabatan
 
